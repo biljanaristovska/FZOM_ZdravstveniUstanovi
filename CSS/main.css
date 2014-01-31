@@ -1,0 +1,437 @@
+﻿body
+{
+}
+.headerF
+{
+    width: 100%;
+    position: relative;
+    padding-bottom: 10px;
+    left: 0px;
+    top: 0px;
+    background: black;
+}
+
+.headerF .spanLogo
+{
+    position: absolute;
+    padding-top: 10px;
+}
+
+.logo_apteki
+{
+    position: absolute;
+    padding-top: 10px;
+    width: 100%;
+    text-align: center;
+    top: 13%;
+}
+@media screen and (max-width: 480px)
+{
+    .headerF .spanBack
+    {
+        position: absolute;
+        top: 16%;
+    }
+}
+@media screen and (min-width: 480px)
+{
+    .headerF .spanBack
+    {
+        position: absolute;
+        top: 21%;
+    }
+}
+
+@media screen and (max-width: 480px)
+{
+    .headerF .spanHome
+    {
+        position: absolute;
+        top: 30%;
+        right: 10px;
+    }
+}
+@media screen and (min-width: 480px)
+{
+    .headerF .spanHome
+    {
+        position: absolute;
+        top: 21%;
+        right: 0px;
+    }
+}
+
+#divTxtId > input
+{
+    padding-left: 13px;
+    padding-right: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.ui-block-a > #divTxtId
+{
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+
+.imgBack
+{
+    width: 43px;
+    height: 39px;
+}
+
+.backSmall .imgBack
+{
+    padding-left: 5px;
+    padding-top: 24%;
+    height: 26px;
+    width: 26px;
+}
+
+.ui-block-b .winSizeSmallerThen480
+{
+    padding-top: 4px;
+}
+
+.divPrebaruvanjeApteka .divTxtVnesiIme
+{
+    position: relative;
+    left: 4px;
+    top: 15%;
+    padding-right: 15%;
+}
+.divPrebaruvanjeApteka .divListaGradovi
+{
+    position: relative;
+    top: 33%;
+    padding-right: 5%;
+}
+.divPrebaruvanjeApteka .divBtnPotvrdi
+{
+    position: relative;
+    top: 57%;
+    padding-right: 5%;
+}
+
+
+.radiuscss .radiusboth
+{
+    position: relative;
+    left: -12px;
+    top: 15%;
+    
+    width: 103.5%;
+}
+
+.divPrebaruvanjeApteka #h3MapPocetna 
+{
+    position: relative;
+    left: -7.2px;
+}
+
+.divPrebaruvanjeApteka .prebarajAptekiBukva 
+{
+    position: relative;
+    left: 13.2px;
+}
+
+div.divGradovi
+{
+    position: relative; 
+    overflow: auto;
+}
+
+
+div.divDejnosti
+{
+    position: relative; /* Add scroll-bars */
+    overflow: auto;
+}
+
+
+::-webkit-scrollbar
+{
+    width: 12px;
+    height: 12px;
+}
+
+/* Track */
+::-webkit-scrollbar-track
+{
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb
+{
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.5);
+}
+
+.txtVnesiIme
+{
+    color: rgb(128,128,128);
+    word-wrap: break-word;
+}
+#imgBrisi
+{
+    display: none;
+    color: #38468F;
+    position: absolute;
+    float: right;
+    top: 12px;
+    right: 12px;
+}
+
+.footerF
+{
+    left: 0px;
+    bottom: 0px;
+    height: 50px;
+    width: 100%;
+    background: black;
+    padding-top: 13px;
+    padding-left: 5px;
+}
+
+.barajPoBukva {
+    padding-right: 4px;
+    padding-left: 14px;
+}
+.barajPoBukva a span
+{
+    width: 10px;
+}
+.mapa
+{
+    background: black;
+    border-radius: 8px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -khtml-border-radius: 8px;
+}
+
+
+.prebarajAptekiBukva
+{
+    width: 100%;
+}
+#info
+{
+    text-align: left;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    -khtml-border-radius: 25px;
+    background: white;
+    color: black;
+    border: 1.5px solid lightgrey;
+    margin-bottom: 20px;
+}
+
+.aMapaGoogle
+{
+    position: relative;
+    left: 35px;
+    display: block;
+    margin: 5px 5px 5px 5px;
+    font-size: 80%;
+}
+
+.aMapaGoogle:visited {
+    color: red
+}
+#ulInfo {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+#ulInfo li
+{
+    line-height: 170%;
+    font-size: 13px;
+}
+
+#tipNaDogovor
+{
+    font-size: 99%;
+} 
+.ulImeApt li{
+    list-style: none;
+    text-align: center;
+    position: relative;
+    left: -20px;   
+}
+.prikazhiHeaderInfo
+{
+    background: #AD0703;
+    border-radius: 13px;
+    border-bottom-right-radius: 0px;
+    border-bottom-left-radius: 0px;    
+}
+
+.prikazhiContentInfo
+{
+    border-bottom-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+}
+.map
+{
+    width: 100%;
+    height: 200px;
+}
+
+.rounded
+{
+    -moz-border-radius: 20px;
+    -khtml-border-radius: 20px;
+    -webkit-border-radius: 20px;
+}
+
+#mapaApt
+{
+    -moz-border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -khtml-border-radius: 20px;
+    margin: 15px 0px 0px 0px;
+}
+#map_canvas {
+    margin: 0px 0px 0px 0px;
+    height:300px;
+    
+}
+div.divMaps
+{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 0px;
+}
+div.divMaps.rounded div.pocetnaMapaNaslov.ui-collapsible div.ui-collapsible-content {
+    padding-bottom: 0px;
+    padding-left: 5px;
+    padding-right: 4px;
+}
+#mapaPocetna
+{
+    width: 100%;
+    height: 250px;
+}
+#pocetnaMapaNaslov
+{
+    text-align: center;
+    -webkit-border-top-left-radius: 25px;
+    -webkit-border-top-right-radius: 25px;
+    -moz-border-radius-topleft: 25px;
+    -moz-border-radius-topright: 25px;
+    background: white;
+    color: black;
+    border: 1.5px solid lightgrey;
+}
+#pocetnaMapaNaslovDole
+{
+    -webkit-border-bottom-right-radius: 25px;
+    -webkit-border-bottom-left-radius: 25px;
+    -moz-border-radius-bottomright: 25px;
+    -moz-border-radius-bottomleft: 25px;
+    height: 15px;
+    background: white;
+    color: black;
+    border: 1.5px solid lightgrey;
+}
+#naslov
+{
+    font-size: 100%;
+}
+.butt.bClose
+{
+    -webkit-border-radius: 7px 7px 7px 7px;
+    -moz-border-radius: 7px 7px 7px 7px;
+    -khtml-border-radius: 7px 7px 7px 7px;
+    -webkit-box-shadow: none;
+    font: bold 131% sans-serif;
+    padding: 6px 12px;
+    position: absolute;
+    right: -7px;
+    top: -7px;
+}
+
+.butt
+{
+    -webkit-border-radius: 10px 10px 10px 10px;
+    -moz-border-radius: 10px 10px 10px 10px;
+    -khtml-border-radius: 10px 10px 10px 10px;
+    -webkit-box-shadow: 0 2px 3px rgba(0,0,0,0.3);
+    background-color: #DEDBDB;
+    color: black;
+    cursor: pointer;
+    display: inline-block;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.butt:hover
+{
+    background-color: #BA0808;
+    color: white;
+}
+
+#popup, #popupDejnost
+{
+    left: 381.5px;
+    position: absolute;
+    top: 222.5px;
+    z-index: 9999;
+    display: block;
+    -webkit-border-radius: 10px 10px 10px 10px;
+    -moz-border-radius: 10px 10px 10px 10px;
+    -khtml-border-radius: 10px 10px 10px 10px;
+    background-color: black;
+    color: white;
+    display: none;
+    width: 350px;
+}
+
+.rezVkupno {
+   font-size: 70%;
+}
+
+input.ui-input-text, textarea.ui-input-text {
+background-image: none;
+
+line-height: 1.89;
+font-size: 16px;
+display: block;
+width: 97%;
+margin-top:0.19cm;
+outline: 0;
+}
+
+
+
+.btnNajgore 
+{
+size: 100%;    
+}
+
+#map-canvas {
+        height: 600px;
+        width: 950px;
+        margin: 0px;
+        padding: 0px
+      }
+      #panel {
+        position: absolute;
+        top: 5px;
+        left: 50%;
+        margin-left: -180px;
+        z-index: 5;
+        background-color: #fff;
+        padding: 5px;
+        border: 1px solid #999;
+        display:none;
+      }
+      

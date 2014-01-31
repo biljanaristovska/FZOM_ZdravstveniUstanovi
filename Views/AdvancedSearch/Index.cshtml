@@ -1,0 +1,471 @@
+﻿
+<form>
+    
+    
+    <div data-role="content" class="divRezBaraj" style="display: none" data-transition="slide">
+        <ul class="listaRezBaraj" data-role="listview" data-inset="true">
+        </ul>
+    </div>
+
+    
+    
+    <div data-role="content" class="divPrebaruvanjeApteka" data-transition="slide">
+        <div class="divTxtVnesiIme">
+            <input type="text" class="txtVnesiIme" placeholder="Внеси име на аптека.." value="" style="height: 30px"/>
+            <img id="imgBrisi" width="27" title="Избриши" height="27" alt="" src="~/Content/Images/close.png" />
+        </div> 
+
+        <div class="divListaGradovi">
+         
+         
+                     <a href="#" type="button" style="text-align: center" onclick="izberiDejnost()" class="aDejnost">
+                <span class="spanDejnost">Избери дејност</span> </a>
+                <div id="popupDejnost" class="ui-btn-up-a">
+                                
+                <div data-role="header" class="ui-corner-top ui-header ui-bar-a" role="banner">
+                    <a href="#" data-icon="delete" data-iconpos="notext" onclick="zatvoriPopDejnost()" class="ui-btn-right ui-btn ui-shadow ui-btn-corner-all ui-btn-icon-notext ui-btn-up-a"
+                       data-corners="true" data-shadow="true" data-iconshadow="true" data-wrapperels="span" 
+                       data-theme="a" title="Затвори"><span class="ui-btn-inner ui-btn-corner-all">
+                                                          <span class="ui-icon ui-icon-delete ui-icon-shadow"></span>
+                                                      </span></a><div class="ui-title"></div>
+                </div>
+
+
+                <div class="divDejnosti">
+                    <ul class="ulDejnosti ui-mini" style="width: 350px;position: relative;"  data-role="controlgroup" >
+                       
+                        <li><a type="button" href="#" onclick="Dejnost($(this).text())" class="liSiteDejnosti" display="none">Сите Дејности</a> </li>
+                        <li><a type="button" href="#" onclick="Dejnost($(this).text())" class="liOpshta">ПЗЗ - Општа Медицина</a> </li>
+                        <li><a type="button" href="#" onclick="Dejnost($(this).text())">ПЗЗ - Стоматологија</a> </li>
+                        <li><a type="button" href="#" onclick="Dejnost($(this).text())">ПЗЗ -  Гинеколог</a> </li>
+                        <li><a type="button" href="#" onclick="Dejnost($(this).text())">Аптеки</a> </li>
+                        <li><a type="button" href="#" onclick="Dejnost($(this).text())">Специјалистичко - консултативна  заштита</a> </li>
+                        <li><a type="button" href="#" onclick="Dejnost($(this).text())">Специјалистичко - консултативна  заштита <br> Стоматологија </br></a> </li>
+                        <li><a type="button" href="#" onclick="Dejnost($(this).text())">Лабораториски услуги (ЛУ1-1)</a> </li>
+                        <li><a type="button" href="#" onclick="Dejnost($(this).text())">Лабораториски услуги (ЛУ1-2)</a> </li>
+                        <li><a type="button" href="#" onclick="Dejnost($(this).text())">Биомедицинско потпомогнато оплодување (БПО)</a> </li>
+                        <li><a type="button" href="#" onclick="Dejnost($(this).text())">СКЗЗ-Здравствени домови (ЈЗУ)</a> </li>
+                        <li><a type="button" href="#" onclick="Dejnost($(this).text())">СКЗЗ-Центари за јавно здравје (ЈЗУ)</a> </li>
+                        <li><a type="button" href="#" onclick="Dejnost($(this).text())">СКЗЗ-Институти (ЈЗУ)</a> </li>
+                        <li><a type="button" href="#" onclick="Dejnost($(this).text())">СКЗЗ-Заводи (ЈЗУ)</a> </li>
+                        <li><a type="button" href="#" onclick="Dejnost($(this).text())">Општи болници (ЈЗУ)</a> </li>
+                        <li><a type="button" href="#" onclick="Dejnost($(this).text())">Клинички болници (ЈЗУ)</a> </li>
+                        <li><a type="button" href="#" onclick="Dejnost($(this).text())">Специјални болници (ЈЗУ)</a> </li>
+                        <li><a type="button" href="#" onclick="Dejnost($(this).text())">Универзитетски клиники (ЈЗУ)</a> </li>
+                        <li><a type="button" href="#" onclick="Dejnost($(this).text())">БЗЗ-Институти (ЈЗУ)</a> </li>
+                        <li><a type="button" href="#" onclick="Dejnost($(this).text())">БЗЗ-Заводи (ЈЗУ)</a> </li>
+                        <li><a type="button" href="#" onclick="Dejnost($(this).text())">БЗЗ-Кардиоваскуларна хирургија (ПЗУ)</a> </li>
+                        <li><a type="button" href="#" onclick="Dejnost($(this).text())">БЗЗ-Офталмологија (ПЗУ)</a> </li>
+                        <li><a type="button" href="#" onclick="Dejnost($(this).text())">БЗЗ-Природни лекувалишта (ПЗУ)</a> </li>
+                        <li><a type="button" href="#" onclick="Dejnost($(this).text())">Специјалистичко - консултативна  заштита <br> Дијализа </br></a> </li>
+                  
+                    </ul>
+                </div> 
+
+
+
+                </div>
+               
+        
+            <a href="#" type="button" style="text-align: center" onclick="izberiGrad()" class="aGrad">
+                <span class="spanGrad">Избери град</span> </a>
+            <div id="popup" class="ui-btn-up-a">
+                <div data-role="header" class="ui-corner-top ui-header ui-bar-a" role="banner">
+                    <a href="#" data-icon="delete" data-iconpos="notext" onclick="zatvoriPop()" class="ui-btn-right ui-btn ui-shadow ui-btn-corner-all ui-btn-icon-notext ui-btn-up-a"
+                       data-corners="true" data-shadow="true" data-iconshadow="true" data-wrapperels="span" 
+                       data-theme="a" title="Затвори"><span class="ui-btn-inner ui-btn-corner-all">
+                                                          <span class="ui-icon ui-icon-delete ui-icon-shadow"></span>
+                                                      </span></a><div class="ui-title"></div>
+                </div>
+                <div class="divGradovi">
+                    <ul class="ulGradovi ui-mini" style="width: 350px;position: relative;"  data-role="controlgroup" >
+                        <li><a type="button" href="#" onclick="Grad($(this).text())" class="liBerovo">Берово</a></li>
+                        <li><a type="button" href="#" onclick="Grad($(this).text())" class="liSiteGradovi" style="display: none">Сите Градови</a> </li>
+                        <li><a type="button" href="#" onclick="Grad($(this).text())">Битола</a> </li>
+                        <li><a type="button" href="#" onclick="Grad($(this).text())">Валандово</a> </li>
+                        <li><a type="button" href="#" onclick="Grad($(this).text())">Велес</a> </li>
+                        <li><a type="button" href="#" onclick="Grad($(this).text())">Виница</a> </li>
+                        <li><a type="button" href="#" onclick="Grad($(this).text())">Гевгелија</a> </li>
+                        <li><a type="button" href="#" onclick="Grad($(this).text())">Гостивар</a> </li>
+                        <li><a type="button" href="#" onclick="Grad($(this).text())">Дебар</a> </li>
+                        <li><a type="button" href="#" onclick="Grad($(this).text())">Делчево</a> </li>
+                        <li><a type="button" href="#" onclick="Grad($(this).text())">Демир Хисар</a> </li>
+                        <li><a type="button" href="#" onclick="Grad($(this).text())">Кавадарци</a> </li>
+                        <li><a type="button" href="#" onclick="Grad($(this).text())">Кичево</a> </li>
+                        <li><a type="button" href="#" onclick="Grad($(this).text())">Кочани</a> </li>
+                        <li><a type="button" href="#" onclick="Grad($(this).text())">Кратово</a> </li>
+                        <li><a type="button" href="#" onclick="Grad($(this).text())">Крива Паланка</a> </li>
+                        <li><a type="button" href="#" onclick="Grad($(this).text())">Крушево</a> </li>
+                        <li><a type="button" href="#" onclick="Grad($(this).text())">Куманово</a> </li>
+                        <li><a type="button" href="#" onclick="Grad($(this).text())">Македонски Брод</a> </li>
+                        <li><a type="button" href="#" onclick="Grad($(this).text())">Неготино</a> </li>
+                        <li><a type="button" href="#" onclick="Grad($(this).text())">Охрид</a> </li>
+                        <li><a type="button" href="#" onclick="Grad($(this).text())">Прилеп</a> </li>
+                        <li><a type="button" href="#" onclick="Grad($(this).text())">Пробиштип</a> </li>
+                        <li><a type="button" href="#" onclick="Grad($(this).text())">Радовиш</a></li>
+                        <li><a type="button" href="#" onclick="Grad($(this).text())">Ресен</a></li>
+                        <li><a type="button" href="#" onclick="Grad($(this).text())">Скопје</a></li>
+                        <li><a type="button" href="#" onclick="Grad($(this).text())">Струга</a></li>
+                        <li><a type="button" href="#" onclick="Grad($(this).text())">Струмица</a></li>
+                        <li><a type="button" href="#" onclick="Grad($(this).text())">Свети Николе</a></li>
+                        <li><a type="button" href="#" onclick="Grad($(this).text())">Тетово</a></li>
+                        <li><a type="button" href="#" onclick="Grad($(this).text())">Штип</a></li>
+                    </ul>
+                </div> 
+            </div>
+            <div class="divBtnPotvrdi">
+                <a href="#" type="button" style="text-align: center" class="btnBaraj" onclick="barajApteka()">Барај</a>
+            </div>
+        </div>
+    
+        <div class="divMaps rounded" style="display: none">
+
+
+       <div id="radius_kontroli" class="radiuscss" >
+
+                <div id="vrednost_radius" >
+                             Радиус на пребарување (m)
+                </div>
+               <span > </span>    
+               <div class="ui-grid-a">
+                <div class="ui-block-a"><input type="number" id="txtRadius" step="100" min="0" /></div>
+                <div class="ui-block-b"><button type="button" id="btnRadius" onclick="getPharmaciesInRadius();" >Пребарај</button></div>
+               
+                </div>
+        </div>
+
+
+        <div class="pocetnaMapaNaslov" data-role="collapsible" data-collapsed="false" data-theme="f">
+            <h3 id="h3MapPocetna" class="ui-btn ui-shadow ui-corner-all">Установи во ваша близина</h3>
+            <div id="mapaPocetna" class="map rounded"></div>
+        </div>
+    </div>
+    
+    <div data-role="collapsible" data-collapsed="false" class="divBarajPoBukva " data-transition="slide" data-theme="f">
+        <h4 class="prebarajAptekiBukva ui-btn ui-shadow ui-corner-all">Барај по буква</h4>
+        <div class="barajPoBukva" data-theme="c" data-wrappels="span">
+            <a data-role="button" href="#"  data-inline="true" data-wrapperels="span" onclick="barajAptekaPoBukva('А')"><span>А</span></a>
+            <a data-role="button" href="#"  data-inline="true" data-wrapperels="span" onclick="barajAptekaPoBukva('Б')"><span>Б</span></a>
+            <a data-role="button" href="#"  data-inline="true" data-wrapperels="span" onclick="barajAptekaPoBukva('В')"><span>В</span></a>
+            <a data-role="button" href="#"  data-inline="true" data-wrapperels="span" onclick="barajAptekaPoBukva('Г')"><span>Г</span></a>
+            <a data-role="button" href="#"  data-inline="true" data-wrapperels="span" onclick="barajAptekaPoBukva('Д')"><span>Д</span></a>
+            <a data-role="button" href="#"  data-inline="true" data-wrapperels="span" onclick="barajAptekaPoBukva('Ѓ')"><span>Ѓ</span></a>
+            <a data-role="button" href="#"  data-inline="true" data-wrapperels="span" onclick="barajAptekaPoBukva('Е')"><span>Е</span></a>
+            <a data-role="button" href="#"  data-inline="true" data-wrapperels="span" onclick="barajAptekaPoBukva('Ж')"><span>Ж</span></a>
+            <a data-role="button" href="#"  data-inline="true" data-wrapperels="span" onclick="barajAptekaPoBukva('З')"><span>З</span></a>
+            <a data-role="button" href="#"  data-inline="true" data-wrapperels="span" onclick="barajAptekaPoBukva('Ѕ')"><span>Ѕ</span></a>
+            <a data-role="button" href="#"  data-inline="true" data-wrapperels="span" onclick="barajAptekaPoBukva('И')"><span>И</span></a>
+            <a data-role="button" href="#"  data-inline="true" data-wrapperels="span" onclick="barajAptekaPoBukva('Ј')"><span>Ј</span></a>
+            <a data-role="button" href="#"  data-inline="true" data-wrapperels="span" onclick="barajAptekaPoBukva('К')"><span>К</span></a>
+            <a data-role="button" href="#"  data-inline="true" data-wrapperels="span" onclick="barajAptekaPoBukva('Л')"><span>Л</span></a>
+            <a data-role="button" href="#"  data-inline="true" data-wrapperels="span" onclick="barajAptekaPoBukva('Љ')"><span>Љ</span></a>
+            <a data-role="button" href="#"  data-inline="true" data-wrapperels="span" onclick="barajAptekaPoBukva('М')"><span>М</span></a>
+            <a data-role="button" href="#"  data-inline="true" data-wrapperels="span" onclick="barajAptekaPoBukva('Н')"><span>Н</span></a>
+            <a data-role="button" href="#"  data-inline="true" data-wrapperels="span" onclick="barajAptekaPoBukva('Њ')"><span>Њ</span></a>
+            <a data-role="button" href="#"  data-inline="true" data-wrapperels="span" onclick="barajAptekaPoBukva('О')"><span>О</span></a>
+            <a data-role="button" href="#"  data-inline="true" data-wrapperels="span" onclick="barajAptekaPoBukva('П')"><span>П</span></a>
+            <a data-role="button" href="#"  data-inline="true" data-wrapperels="span" onclick="barajAptekaPoBukva('Р')"><span>Р</span></a>
+            <a data-role="button" href="#"  data-inline="true" data-wrapperels="span" onclick="barajAptekaPoBukva('С')"><span>С</span></a>
+            <a data-role="button" href="#"  data-inline="true" data-wrapperels="span" onclick="barajAptekaPoBukva('Т')"><span>Т</span></a>
+            <a data-role="button" href="#"  data-inline="true" data-wrapperels="span" onclick="barajAptekaPoBukva('Ќ')"><span>Ќ</span></a>
+            <a data-role="button" href="#"  data-inline="true" data-wrapperels="span" onclick="barajAptekaPoBukva('У')"><span>У</span></a>
+            <a data-role="button" href="#"  data-inline="true" data-wrapperels="span" onclick="barajAptekaPoBukva('Ф')"><span>Ф</span></a>
+            <a data-role="button" href="#"  data-inline="true" data-wrapperels="span" onclick="barajAptekaPoBukva('Х')"><span>Х</span></a>
+            <a data-role="button" href="#"  data-inline="true" data-wrapperels="span" onclick="barajAptekaPoBukva('Ц')"><span>Ц</span></a>
+            <a data-role="button" href="#"  data-inline="true" data-wrapperels="span" onclick="barajAptekaPoBukva('Ч')"><span>Ч</span></a>
+            <a data-role="button" href="#"  data-inline="true" data-wrapperels="span" onclick="barajAptekaPoBukva('Џ')"><span>Џ</span></a>
+            <a data-role="button" href="#"  data-inline="true" data-wrapperels="span" onclick="barajAptekaPoBukva('Ш')"><span>Ш</span></a>
+        </div>
+        <br/>
+    </div>
+
+    </div>
+
+    
+
+    
+ <input type="hidden" class="btnHidden" value=""/>
+
+    
+    <div data-role="content" class="divInfoZaApteka" style="display: none">
+        
+        <div data-role="header" data-theme="f"  class="prikazhiHeaderInfo" >
+           <ul class="ulImeApt"> <li><h1  role="heading" id="tipNaDogovor"></h1></li></ul>
+        </div>
+        <div data-role="content" data-theme="f"  role="main" id="infoApt" class="prikazhiContentInfo">
+            <ul id="ulInfo">
+                <li id="imeApt"></li>
+                <li id="gradApt"></li>
+                <li id="adresaApt"></li>
+                <li id="brDogApt"></li>
+                <li id="sifraApt"></li>                
+                <li id="danochenBroj"></li>
+                <li id="dejnosti"></li>  
+
+            </ul>
+            
+            <a href="#" class="aMapaGoogle" onclick="otvoriMapa()">Види мапа</a>
+            <div id="mapaApt" style="display: none;">
+                <div id="map_canvas" class="map rounded"></div>
+            </div>
+        </div>
+    </div>
+
+
+    <div data-role="content" class="divPoBukva" style="display: none" data-transition="slide">
+        <h3 data-inline="true" id="h3poBukva" ></h3>
+        <ul class="listaRezPoBukva" data-role="listview" data-inset="true">
+            
+        </ul>
+    </div>
+
+</form>
+@section scripts {
+<script type="text/javascript">
+
+    //Ф-ја која се повикува кога корисникот кликне на Избери град. Му се појавува popup со листа од градови
+    function izberiGrad() {
+        $('#popup').bPopup({
+            fadeSpeed: 'slow',
+            followSpeed: 1500
+            //position: [$(window).width / 2, 100] //x, y
+        });
+    }
+    
+
+    //Ф-ја која се повикува кога корисникот кликне на Избери дејност. Му се појавува popup со листа од дејностите
+    function izberiDejnost() {
+        $('#popupDejnost').bPopup({
+            fadeSpeed: 'slow',
+            followSpeed: 1500
+            //position: [$(window).width / 2, 100] //x, y
+        });
+    }
+
+
+
+    //Ф-ја за затоврање на popup-от
+    function zatvoriPop() {
+        $('#popup').bPopup().close();
+    }
+
+    function zatvoriPopDejnost() {
+        $('#popupDejnost').bPopup().close();
+    }
+
+    
+
+
+    //Ф-ја за пребарување на аптека по град и фраза која е дел од името на аптеката
+    function barajApteka() {
+        var ime, grad, dejnost;
+        if ($('.txtVnesiIme').val() != "") {
+            ime = $('.txtVnesiIme').val();
+        }
+        else ime = "";
+        if ($('.spanGrad').text() != "Избери град") {
+            grad = $('.spanGrad').text();
+        }
+        else grad = "";
+        if ($('.spanDejnost').text() != "Избери дејност") {
+            dejnost = $('.spanDejnost').text();
+        }
+        else dejnost = "";
+        if ((ime != "" && ime.length > 1 && ime != "Внеси име на аптека..") || (grad != "") || (dejnost != "")) {
+            if (ime == "Внеси име на аптека..")
+                ime = "";
+            $(".listaRezBaraj").html("");
+            $('.divPrebaruvanjeApteka').slideUp(700);
+            $('.divMaps').slideUp(850);
+            $('.divBarajPoBukva').slideUp(1000);
+            $(".spanBack").show();
+            $('.spanHome').show();
+            $('.divRezBaraj').fadeIn(1000);
+            //Овоја ајакс метод има повеќе параметри:
+            $.ajax({
+                //url-кој метод на серверска страна ќе го повикаме(во случајот GetUstanovi)
+                url: '@Url.Action("GetUstanovi")', 
+                //Kakoв вид на барање е get или post
+                type: "POST",
+                //Што очекуваме од серврска страна. Каков вид на податок да ни врати
+                contentType: 'application/json; charset=utf-8',
+                async: false,
+                //Податоци кои ги праќаем на сервреска страна
+                data: JSON.stringify({ grad: grad, ime: ime, dejnost: dejnost }),
+                //Ако барањето до сервреска страна било успешно каква акција презамеме со податоците  кои сме ги добиле
+                success: function (data) {
+                    console.log(data);
+                    $(".listaRezBaraj").append("<li data-role=\"list-divider\" role=\"heading\" class=\"ui-li ui-li-divider ui-bar-a ui-corner-top\"> РЕЗУЛТАТИ </li>");
+                    //Бројач за резулатите
+                    var BROJAC = 0;
+                    //Податок по податок земаме она што ни е потребно од податоците кои сме ги добиле и ги претставуваме во листа
+                    $.each(data,
+                    function (index, element) {
+                        console.log(element);
+                        console.log(index);
+                        if (element.ShifraZU != "") {
+                            BROJAC++;
+                            var newItem = "<li  class=\"ui-mini\"><a type=button href=\"#\" onclick=aptekaInfo('" + element.ShifraZU + "',\"baraj\")>" + element.NazivNaUstanova + "</a></li>";
+                            $(".listaRezBaraj").append(newItem);
+                        } else {
+                            var newItem = "<li class=\"ui-mini\" type=none><h2 \" title=\"" + element.NazivNaUstanova + "\">" + element.NazivNaUstanova + "</h2></li>";
+                            $(".listaRezBaraj").append(newItem);
+                        }
+
+                    });
+                    if (BROJAC != 0)
+                        $(".listaRezBaraj").append("<li data-role=\"list-divider\" role=\"footer\" class=\"ui-li ui-li-divider ui-bar-a ui-corner-top rezVkupno\"> ВКУПНО: " + BROJAC + " РЕЗУЛТАТИ </li>");
+                    $(".listaRezBaraj").listview("refresh");
+                }
+            });
+        } else {
+
+        }
+    }
+
+    //Овој метод се повикува кога корисникот ќе кликне на една од буквите со цел да пребарува аптеки кои започнуваат со таа буква
+    function barajAptekaPoBukva(bukva) {
+        $(".divPrebaruvanjeApteka").slideUp(900);
+        $('.divMaps').slideUp(800);
+        $(".divBarajPoBukva").slideUp(700);
+        $('.listaRezPoBukva').html("");
+        $(".spanBack").show();
+        $('.spanHome').show();
+        $('.divPoBukva').fadeIn(1000);
+        //И за овој ајакс метод важи истото објасување како погоре во ф-јата barajApteka()
+        $.ajax({
+            url: '@Url.Action("GetUstanovaPoBukva")',
+            type: "POST",
+            contentType: 'application/json; charset=utf-8',
+            async: false,
+            data: JSON.stringify({ bukva: bukva }),
+            success: function (data) {
+                $("#h3poBukva").text("Пребарување по буква: " + bukva);
+                $(".listaRezPoBukva").append("<li data-role=\"list-divider\" role=\"heading\" class=\"ui-li ui-li-divider ui-bar-a ui-corner-top\"> РЕЗУЛТАТ(И) </li>");
+                var BROJAC = 0;
+                $.each(data,
+                    function (index, element) {
+                        if (element.ShifraZU != "") {
+                            BROJAC++;
+                            var newItem = "<li class=\"ui-mini\"><a type=button href=\"#\" onclick=aptekaInfo('" + element.ShifraZU + "',\"barajPoBukva\")>" + element.NazivNaUstanova + "</a></li>";
+                            $(".listaRezPoBukva").append(newItem);
+                        } else {
+                            var newItem = "<li class=\"ui-mini\"><h2 \" title=\"" + element.NazivNaUstanova + "\">" + element.NazivNaUstanova + "</h2></li>";
+                            $(".listaRezPoBukva").append(newItem);
+                        }
+
+                    });
+                if (BROJAC != 0)
+                    $(".listaRezPoBukva").append("<li data-role=\"list-divider\" role=\"footer\" class=\"ui-li ui-li-divider ui-bar-a ui-corner-top rezVkupno\"> ВКУПНО: " + BROJAC + " РЕЗУЛТАТ(И) </li>");
+                $(".listaRezPoBukva").listview("refresh");
+            }
+        });
+    }
+
+
+    //Метод за добивање на сите информации за дадена аптека
+    function aptekaInfo(brDog, odKade) {
+        $('.btnHidden').val(odKade);
+        $(".spanBack").show();
+        $('.spanHome').show();
+        $(".divPrebaruvanjeApteka").slideUp(1300);
+        $(".divBarajPoBukva").slideUp(1000);
+        $('.divPoBukva').slideUp(700);
+        $('.divRezBaraj').slideUp(300);
+        $('.divInfoZaApteka').show("slow");
+        $.ajax({
+            url: '@Url.Action("GetUstanovaInfo")',
+            type: "POST",
+            contentType: 'application/json; charset=utf-8',
+            async: false,
+            data: JSON.stringify({ ShifraZU: brDog }),
+            success: function (data) {
+                $.each(data, function (index, element) {
+                    $('#imeApt').text("Назив: " + element.NazivNaUstanova);
+                    $('#gradApt').text("Град: " + element.NaselenoMesto);
+                    $('#brDogApt').text("Архивски број: " + element.ArhivskiBroj);
+                    $('#sifraApt').text("Шифра: " + element.ShifraZU);
+                    $('#adresaApt').text("Адреса: " + element.Adresa);
+                    $('#danochenBroj').text("Даночен Број: " + element.DanocenBroj);
+                    $('#tipNaDogovor').text(element.TipNaDogovor);
+                    $('#dejnosti').text("Дејности:" + element.Dejnosti);
+                    //googleMaps(element.Longitude, element.Latitude, element.NazivNaUstanova);
+                    //                if (element.TELEFON.length > 2)
+                    //                    $('#telApt').text("Телефон: " + element.TELEFON);
+                    //                else {
+                    //                    $('#telApt').hide();
+                    //                }
+
+                    //Проверка дали во базата има локација за дадената аптека
+                    if (element.Longitude != null && element.Latitude != null) {
+                        $('.aMapaGoogle').show();
+                        googleMaps(element.Longitude, element.Latitude, element.NazivNaUstanova);
+                    }
+
+                });
+            }
+        });
+        $('.divInfoZaApteka').show("slow");
+    }
+
+    
+    function createMark(m_lat, m_long, name) {
+        //kreiraj tocka
+        blatlng = new google.maps.LatLng(m_lat, m_long);
+        //opcii za markerot
+        var marker = new google.maps.Marker({
+            position: blatlng,
+            title: name,
+            map: map,
+            info: name,
+            icon: 'Content/Images/pharmacy-building.png'
+        });
+
+        //dodadi go markerot vo globalnata niza
+        pharmacies.push(marker);
+    }
+
+
+    function getPharmaciesInRadius() {
+        var txtRadius = document.getElementById("txtRadius").value;
+        var radius = parseFloat(txtRadius);
+
+        for (var i = 0; i < pharmacies.length; i++) {
+            pharmacies[i].setMap(null);
+        }
+
+        pharmacies = null;
+        pharmacies = [];
+        $.ajax({
+            //url-кој метод на серверска страна ќе го повикаме(во случајот GetUstanovi)
+            url: '@Url.Action("GettExistingPharmacyJson")',
+            //Kakoв вид на барање е get или post
+            type: "POST",
+            //Што очекуваме од серврска страна. Каков вид на податок да ни врати
+            contentType: 'application/json; charset=utf-8',
+            async: false,
+            //Податоци кои ги праќаме на сервреска страна
+            data: JSON.stringify({}),
+            //Ако барањето до сервреска страна било успешно каква акција презамеме со податоците  кои сме ги добиле
+            success: function (data) {
+
+                //Бројач за резулатите
+                var BROJAC = 0;
+                //Податок по податок земаме она што ни е потребно од податоците кои сме ги добиле и ги претставуваме во листа
+                $.each(data, function (index, element) {
+                    var lat = element.Latitude;
+                    var lng = element.Longitude;
+                 
+                    if (IsPharmacyInRadius(lat, lng, radius)) {
+
+                        createMark(lat, lng, element.NazivNaUstanova);
+                    }
+                });
+                setRadius();
+            }
+
+        });
+    }
+
+</script>
+}

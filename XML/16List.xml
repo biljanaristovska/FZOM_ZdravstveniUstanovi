@@ -1,0 +1,237 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dogovori>
+  <Dogovor>
+    <ArhivskiBroj>09-812/3</ArhivskiBroj>
+    <TipDogovorID>18</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Специјални болници)</TipNaDogovor>
+    <DanocenBroj>4006005119033</DanocenBroj>
+    <ShifraZU>6001801</ShifraZU>
+    <NazivNaUstanova>ЈЗУ  ПСИХИЈАТРИСКА БОЛНИЦА - НЕГОРЦИ</NazivNaUstanova>
+    <Dejnosti>НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ</Dejnosti>
+    <Adresa>С. НЕГОРЦИ</Adresa>
+    <NaselenoMesto>ГЕВГЕЛИЈА</NaselenoMesto>
+    <Latitude>41.17455349999999</Latitude>
+    <Longitude>22.466100200000028</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-818/8</ArhivskiBroj>
+    <TipDogovorID>18</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Специјални болници)</TipNaDogovor>
+    <DanocenBroj>4030974214505</DanocenBroj>
+    <ShifraZU>25047602</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ПСИХИЈАТРИСКА БОЛНИЦА СКОПЈЕ</NazivNaUstanova>
+    <Dejnosti>ОСТАНАТИ ДЕЈНОСТИ, ПСИХИЈАТРИЈА</Dejnosti>
+    <Adresa>УЛ ПРОЛЕТЕРСКА ББ</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9973462</Latitude>
+    <Longitude>21.42799560000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-818/8</ArhivskiBroj>
+    <TipDogovorID>18</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Специјални болници)</TipNaDogovor>
+    <DanocenBroj>4030974214505</DanocenBroj>
+    <ShifraZU>25047601</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ПСИХИЈАТРИСКА БОЛНИЦА СКОПЈЕ</NazivNaUstanova>
+    <Dejnosti>ОСТАНАТИ ДЕЈНОСТИ, ПСИХИЈАТРИЈА</Dejnosti>
+    <Adresa>УЛ ПРОЛЕТЕРСКА ББ</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9973462</Latitude>
+    <Longitude>21.42799560000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-524/3</ArhivskiBroj>
+    <TipDogovorID>18</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Специјални болници)</TipNaDogovor>
+    <DanocenBroj>4028006149800</DanocenBroj>
+    <ShifraZU>28012101</ShifraZU>
+    <NazivNaUstanova>ЈЗУ СПЕЦИЈАЛНА БОЛНИЦА ЛЕШОК</NazivNaUstanova>
+    <Dejnosti>БЕЛОДРОБНИ ЗАБОЛУВАЊА И ТУБЕРКОЛОЗА, ОСТАНАТИ ДЕЈНОСТИ</Dejnosti>
+    <Adresa>С.ЛЕШОК</Adresa>
+    <NaselenoMesto>ЛЕШОК</NaselenoMesto>
+    <Latitude>42.0669528</Latitude>
+    <Longitude>21.02804119999996</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-524/3</ArhivskiBroj>
+    <TipDogovorID>18</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Специјални болници)</TipNaDogovor>
+    <DanocenBroj>4028006149800</DanocenBroj>
+    <ShifraZU>28012102</ShifraZU>
+    <NazivNaUstanova>ЈЗУ СПЕЦИЈАЛНА БОЛНИЦА ЛЕШОК</NazivNaUstanova>
+    <Dejnosti>БЕЛОДРОБНИ ЗАБОЛУВАЊА И ТУБЕРКОЛОЗА, ОСТАНАТИ ДЕЈНОСТИ</Dejnosti>
+    <Adresa>С.ЛЕШОК</Adresa>
+    <NaselenoMesto>ЛЕШОК</NaselenoMesto>
+    <Latitude>42.0669528</Latitude>
+    <Longitude>21.02804119999996</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-476/3</ArhivskiBroj>
+    <TipDogovorID>18</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Специјални болници)</TipNaDogovor>
+    <DanocenBroj>4030005578958</DanocenBroj>
+    <ShifraZU>25054902</ShifraZU>
+    <NazivNaUstanova>ЈЗУ СПЕЦИ.БОЛ. ПО ГИНЕКОЛОГИЈА И АКУШЕРСТВО МАЈКА ТЕРЕЗА</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ОСТАНАТИ ДЕЈНОСТИ</Dejnosti>
+    <Adresa>КОСТА АБРАШЕВИЌ БР.3,ЧАИР,СКОПЈЕ</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЧАИР</NaselenoMesto>
+    <Latitude>42.0098845</Latitude>
+    <Longitude>21.442071199999987</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-476/3</ArhivskiBroj>
+    <TipDogovorID>18</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Специјални болници)</TipNaDogovor>
+    <DanocenBroj>4030005578958</DanocenBroj>
+    <ShifraZU>25054901</ShifraZU>
+    <NazivNaUstanova>ЈЗУ СПЕЦИ.БОЛ. ПО ГИНЕКОЛОГИЈА И АКУШЕРСТВО МАЈКА ТЕРЕЗА</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ОСТАНАТИ ДЕЈНОСТИ</Dejnosti>
+    <Adresa>КОСТА АБРАШЕВИЌ БР.3,ЧАИР,СКОПЈЕ</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЧАИР</NaselenoMesto>
+    <Latitude>42.0098845</Latitude>
+    <Longitude>21.442071199999987</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-130/3</ArhivskiBroj>
+    <TipDogovorID>18</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Специјални болници)</TipNaDogovor>
+    <DanocenBroj>4004955106415</DanocenBroj>
+    <ShifraZU>29004801</ShifraZU>
+    <NazivNaUstanova>ЈЗУ СПЕЦ. БОЛ. БЕЛОД. ЗАБО. И ТУБЕРКУЛОЗА ЈАСЕНОВО</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА (БЕЛОДРОБНИ ЗАБОЛОУВАЊА И ТБЦ)</Dejnosti>
+    <Adresa>С. ИЗВОР</Adresa>
+    <NaselenoMesto>ВЕЛЕС</NaselenoMesto>
+    <Latitude>42.4349057</Latitude>
+    <Longitude>22.896252799999957</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-167/3</ArhivskiBroj>
+    <TipDogovorID>18</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Специјални болници)</TipNaDogovor>
+    <DanocenBroj>4020995101047</DanocenBroj>
+    <ShifraZU>19005406</ShifraZU>
+    <NazivNaUstanova>ЈЗУ СПЕЦ.БОЛ.ОРТОПЕДИЈА И ТРАУМА. СВ. ЕРАЗМО ОХ.</NazivNaUstanova>
+    <Dejnosti>БИОХЕМИСКА ЛАБОРАТОРИЈА, НЕВРОЛОГИЈА, НЕУРОХИРУРШКИ БОЛЕСТИ, ОПШТА ХИРУРГИЈА, ОРТОПЕДИЈА И ТРАУМАТОЛОГИЈА, ОСТАНАТИ ДЕЈНОСТИ, РЕНТГЕН ДИЈАГНОСТИКА </Dejnosti>
+    <Adresa>УЛ ГОЦЕ ДЕЛЧЕВ ББ</Adresa>
+    <NaselenoMesto>ОХРИД</NaselenoMesto>
+    <Latitude>41.12162</Latitude>
+    <Longitude>20.819440999999983</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-167/3</ArhivskiBroj>
+    <TipDogovorID>18</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Специјални болници)</TipNaDogovor>
+    <DanocenBroj>4020995101047</DanocenBroj>
+    <ShifraZU>19005408</ShifraZU>
+    <NazivNaUstanova>ЈЗУ СПЕЦ.БОЛ.ОРТОПЕДИЈА И ТРАУМА. СВ. ЕРАЗМО ОХ.</NazivNaUstanova>
+    <Dejnosti>БИОХЕМИСКА ЛАБОРАТОРИЈА, НЕВРОЛОГИЈА, НЕУРОХИРУРШКИ БОЛЕСТИ, ОПШТА ХИРУРГИЈА, ОРТОПЕДИЈА И ТРАУМАТОЛОГИЈА, ОСТАНАТИ ДЕЈНОСТИ, РЕНТГЕН ДИЈАГНОСТИКА </Dejnosti>
+    <Adresa>УЛ ГОЦЕ ДЕЛЧЕВ ББ</Adresa>
+    <NaselenoMesto>ОХРИД</NaselenoMesto>
+    <Latitude>41.12162</Latitude>
+    <Longitude>20.819440999999983</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-167/3</ArhivskiBroj>
+    <TipDogovorID>18</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Специјални болници)</TipNaDogovor>
+    <DanocenBroj>4020995101047</DanocenBroj>
+    <ShifraZU>19005404</ShifraZU>
+    <NazivNaUstanova>ЈЗУ СПЕЦ.БОЛ.ОРТОПЕДИЈА И ТРАУМА. СВ. ЕРАЗМО ОХ.</NazivNaUstanova>
+    <Dejnosti>БИОХЕМИСКА ЛАБОРАТОРИЈА, НЕВРОЛОГИЈА, НЕУРОХИРУРШКИ БОЛЕСТИ, ОПШТА ХИРУРГИЈА, ОРТОПЕДИЈА И ТРАУМАТОЛОГИЈА, ОСТАНАТИ ДЕЈНОСТИ, РЕНТГЕН ДИЈАГНОСТИКА </Dejnosti>
+    <Adresa>УЛ ГОЦЕ ДЕЛЧЕВ ББ</Adresa>
+    <NaselenoMesto>ОХРИД</NaselenoMesto>
+    <Latitude>41.12162</Latitude>
+    <Longitude>20.819440999999983</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-167/3</ArhivskiBroj>
+    <TipDogovorID>18</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Специјални болници)</TipNaDogovor>
+    <DanocenBroj>4020995101047</DanocenBroj>
+    <ShifraZU>19005407</ShifraZU>
+    <NazivNaUstanova>ЈЗУ СПЕЦ.БОЛ.ОРТОПЕДИЈА И ТРАУМА. СВ. ЕРАЗМО ОХ.</NazivNaUstanova>
+    <Dejnosti>БИОХЕМИСКА ЛАБОРАТОРИЈА, НЕВРОЛОГИЈА, НЕУРОХИРУРШКИ БОЛЕСТИ, ОПШТА ХИРУРГИЈА, ОРТОПЕДИЈА И ТРАУМАТОЛОГИЈА, ОСТАНАТИ ДЕЈНОСТИ, РЕНТГЕН ДИЈАГНОСТИКА </Dejnosti>
+    <Adresa>УЛ ГОЦЕ ДЕЛЧЕВ ББ</Adresa>
+    <NaselenoMesto>ОХРИД</NaselenoMesto>
+    <Latitude>41.12162</Latitude>
+    <Longitude>20.819440999999983</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-167/3</ArhivskiBroj>
+    <TipDogovorID>18</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Специјални болници)</TipNaDogovor>
+    <DanocenBroj>4020995101047</DanocenBroj>
+    <ShifraZU>19005403</ShifraZU>
+    <NazivNaUstanova>ЈЗУ СПЕЦ.БОЛ.ОРТОПЕДИЈА И ТРАУМА. СВ. ЕРАЗМО ОХ.</NazivNaUstanova>
+    <Dejnosti>БИОХЕМИСКА ЛАБОРАТОРИЈА, НЕВРОЛОГИЈА, НЕУРОХИРУРШКИ БОЛЕСТИ, ОПШТА ХИРУРГИЈА, ОРТОПЕДИЈА И ТРАУМАТОЛОГИЈА, ОСТАНАТИ ДЕЈНОСТИ, РЕНТГЕН ДИЈАГНОСТИКА </Dejnosti>
+    <Adresa>УЛ ГОЦЕ ДЕЛЧЕВ ББ</Adresa>
+    <NaselenoMesto>ОХРИД</NaselenoMesto>
+    <Latitude>41.12162</Latitude>
+    <Longitude>20.819440999999983</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-167/3</ArhivskiBroj>
+    <TipDogovorID>18</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Специјални болници)</TipNaDogovor>
+    <DanocenBroj>4020995101047</DanocenBroj>
+    <ShifraZU>19005401</ShifraZU>
+    <NazivNaUstanova>ЈЗУ СПЕЦ.БОЛ.ОРТОПЕДИЈА И ТРАУМА. СВ. ЕРАЗМО ОХ.</NazivNaUstanova>
+    <Dejnosti>БИОХЕМИСКА ЛАБОРАТОРИЈА, НЕВРОЛОГИЈА, НЕУРОХИРУРШКИ БОЛЕСТИ, ОПШТА ХИРУРГИЈА, ОРТОПЕДИЈА И ТРАУМАТОЛОГИЈА, ОСТАНАТИ ДЕЈНОСТИ, РЕНТГЕН ДИЈАГНОСТИКА </Dejnosti>
+    <Adresa>УЛ ГОЦЕ ДЕЛЧЕВ ББ</Adresa>
+    <NaselenoMesto>ОХРИД</NaselenoMesto>
+    <Latitude>41.12162</Latitude>
+    <Longitude>20.819440999999983</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-167/3</ArhivskiBroj>
+    <TipDogovorID>18</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Специјални болници)</TipNaDogovor>
+    <DanocenBroj>4020995101047</DanocenBroj>
+    <ShifraZU>19005402</ShifraZU>
+    <NazivNaUstanova>ЈЗУ СПЕЦ.БОЛ.ОРТОПЕДИЈА И ТРАУМА. СВ. ЕРАЗМО ОХ.</NazivNaUstanova>
+    <Dejnosti>БИОХЕМИСКА ЛАБОРАТОРИЈА, НЕВРОЛОГИЈА, НЕУРОХИРУРШКИ БОЛЕСТИ, ОПШТА ХИРУРГИЈА, ОРТОПЕДИЈА И ТРАУМАТОЛОГИЈА, ОСТАНАТИ ДЕЈНОСТИ, РЕНТГЕН ДИЈАГНОСТИКА </Dejnosti>
+    <Adresa>УЛ ГОЦЕ ДЕЛЧЕВ ББ</Adresa>
+    <NaselenoMesto>ОХРИД</NaselenoMesto>
+    <Latitude>41.12162</Latitude>
+    <Longitude>20.819440999999983</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-254/3</ArhivskiBroj>
+    <TipDogovorID>18</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Специјални болници)</TipNaDogovor>
+    <DanocenBroj>4010995100207</DanocenBroj>
+    <ShifraZU>10073902</ShifraZU>
+    <NazivNaUstanova>ПСИХИЈАТРИСКА БОЛНИЦА ДЕМИР ХИСАР</NazivNaUstanova>
+    <Dejnosti>НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОСТАНАТИ ДЕЈНОСТИ</Dejnosti>
+    <Adresa>ул. БИТОЛСКА ББ</Adresa>
+    <NaselenoMesto>ДЕМИР ХИСАР</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-254/3</ArhivskiBroj>
+    <TipDogovorID>18</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Специјални болници)</TipNaDogovor>
+    <DanocenBroj>4010995100207</DanocenBroj>
+    <ShifraZU>10073901</ShifraZU>
+    <NazivNaUstanova>ПСИХИЈАТРИСКА БОЛНИЦА ДЕМИР ХИСАР</NazivNaUstanova>
+    <Dejnosti>НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОСТАНАТИ ДЕЈНОСТИ</Dejnosti>
+    <Adresa>ул. БИТОЛСКА ББ</Adresa>
+    <NaselenoMesto>ДЕМИР ХИСАР</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+</Dogovori>

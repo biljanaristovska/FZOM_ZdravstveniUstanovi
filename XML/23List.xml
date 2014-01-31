@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dogovori>
+  <Dogovor>
+    <ArhivskiBroj>09-1135/2</ArhivskiBroj>
+    <TipDogovorID>26</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Дијализа</TipNaDogovor>
+    <DanocenBroj>4044010502359</DanocenBroj>
+    <ShifraZU>25119901</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДИАМЕД</NazivNaUstanova>
+    <Dejnosti>ДИЈАЛИЗА</Dejnosti>
+    <Adresa>УЛ.ЃОРЧЕ ПЕТРОВ  БР.23</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЃОРЧЕ ПЕТРОВ</NaselenoMesto>
+    <Latitude>41.9973462</Latitude>
+    <Longitude>21.42799560000003</Longitude>
+    <Status>2</Status>
+  </Dogovor>
+</Dogovori>

@@ -1,0 +1,2463 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dogovori>
+  <Dogovor>
+    <ArhivskiBroj>09-488/3</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4028008504373</DanocenBroj>
+    <ShifraZU>28021501</ShifraZU>
+    <NazivNaUstanova>ПЗУ СПЕЦ.ПО ОРТОД,АЉБАОРТОДЕНТ</NazivNaUstanova>
+    <Dejnosti>ОРТОДОНЦИЈА</Dejnosti>
+    <Adresa>ШТИПСКА 61</Adresa>
+    <NaselenoMesto>ТЕТОВО</NaselenoMesto>
+    <Latitude>42.0060613</Latitude>
+    <Longitude>20.961123799999996</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-488/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4028008504373</DanocenBroj>
+    <ShifraZU>28021502</ShifraZU>
+    <NazivNaUstanova>ПЗУ СПЕЦ.ПО ОРТОД,АЉБАОРТОДЕНТ</NazivNaUstanova>
+    <Dejnosti>ОРАЛНА ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ.ШТИПСКА БР.61</Adresa>
+    <NaselenoMesto>ТЕТОВО</NaselenoMesto>
+    <Latitude>42.0060613</Latitude>
+    <Longitude>20.961123799999996</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-342/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4013006124274</DanocenBroj>
+    <ShifraZU>13077601</ShifraZU>
+    <NazivNaUstanova>ПЗУ НИГОНА </NazivNaUstanova>
+    <Dejnosti>ОРТОДОНЦИЈА</Dejnosti>
+    <Adresa>МИЛАН ЗЕЧАР 21</Adresa>
+    <NaselenoMesto>КОЧАНИ</NaselenoMesto>
+    <Latitude>45.4654542</Latitude>
+    <Longitude>9.186515999999983</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-650/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4007007500512</DanocenBroj>
+    <ShifraZU>7014202</ShifraZU>
+    <NazivNaUstanova>ПЗУ  ДР МИРЛИНД СЕЛИМИ</NazivNaUstanova>
+    <Dejnosti>МАКСИЛОФАЦИЈАЛНА ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ.СЕДЕК КОСТОСКИ. БР.41</Adresa>
+    <NaselenoMesto>ГОСТИВАР</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-32/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4002008505087</DanocenBroj>
+    <ShifraZU>2061801</ShifraZU>
+    <NazivNaUstanova>ПЗУ СПЕЦ.ОРД. ПО ОРАЛНА ХИРУРГИЈА</NazivNaUstanova>
+    <Dejnosti>ОРАЛНА ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ. ПАНДЕ НИКОЛОВ  ББ</Adresa>
+    <NaselenoMesto>БИТОЛА</NaselenoMesto>
+    <Latitude>41.0319444</Latitude>
+    <Longitude>21.334722199999987</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-120/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4021007155419</DanocenBroj>
+    <ShifraZU>20056501</ShifraZU>
+    <NazivNaUstanova>ПЗУ ОРТО-ДЕНТИКА ДР МАРИЈА</NazivNaUstanova>
+    <Dejnosti>ОРТОДОНЦИЈА</Dejnosti>
+    <Adresa>УЛ. МАРКСОВА ББ</Adresa>
+    <NaselenoMesto>ПРИЛЕП</NaselenoMesto>
+    <Latitude>41.35173</Latitude>
+    <Longitude>21.56214</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-63/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4017006158930</DanocenBroj>
+    <ShifraZU>17029301</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДР Ф.СИМОНОВСКА И ДР К.МЛАДЕНОВСКА</NazivNaUstanova>
+    <Dejnosti>ОРТОДОНЦИЈА</Dejnosti>
+    <Adresa>УЛ. ПЕРО ЧИЧО БР. 7</Adresa>
+    <NaselenoMesto>КУМАНОВО</NaselenoMesto>
+    <Latitude>42.1375917</Latitude>
+    <Longitude>21.73463670000001</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-290/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4011006126657</DanocenBroj>
+    <ShifraZU>11007701</ShifraZU>
+    <NazivNaUstanova>ПЗУ ПОЛИКЛИНИКА ОРТО 2 Г</NazivNaUstanova>
+    <Dejnosti>ОРТОДОНЦИЈА</Dejnosti>
+    <Adresa>7 МИ СЕПТЕМВРИ  72/А</Adresa>
+    <NaselenoMesto>КАВАДАРЦИ</NaselenoMesto>
+    <Latitude>41.4343395</Latitude>
+    <Longitude>22.015397300000018</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-690/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4012006121520</DanocenBroj>
+    <ShifraZU>12005601</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДР МЕНА ПЕЈОСКА </NazivNaUstanova>
+    <Dejnosti>ПРОТЕТИКА</Dejnosti>
+    <Adresa>УЛ. МАРШАЛ ТИТО ББ</Adresa>
+    <NaselenoMesto>КИЧЕВО</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-986/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4030005548480</DanocenBroj>
+    <ShifraZU>25034501</ShifraZU>
+    <NazivNaUstanova>ПЗУ МАРКОСКИ</NazivNaUstanova>
+    <Dejnosti>ПРОТЕТИКА</Dejnosti>
+    <Adresa>БУЛ. КУЗМАН Ј. ПИТУ 28/3-2</Adresa>
+    <NaselenoMesto>СКОПЈЕ - КИСЕЛА ВОДА</NaselenoMesto>
+    <Latitude>41.9973462</Latitude>
+    <Longitude>21.42799560000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1030/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4030007635800</DanocenBroj>
+    <ShifraZU>25097114</ShifraZU>
+    <NazivNaUstanova>ПЗУ ПОЛИКЛИНИКА НЕУРОМЕДИКА</NazivNaUstanova>
+    <Dejnosti>ОРАЛНА ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ.ВЛАЕ БР.87</Adresa>
+    <NaselenoMesto>СКОПЈЕ - КАРПОШ</NaselenoMesto>
+    <Latitude>42.0064924</Latitude>
+    <Longitude>21.377846099999942</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-417/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4027006149936</DanocenBroj>
+    <ShifraZU>27013701</ShifraZU>
+    <NazivNaUstanova>ПЗУ ОРАЛ-ДЕНТ</NazivNaUstanova>
+    <Dejnosti>ОРАЛНА ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ. ДИМИТАР ВЛАХОВ ББ</Adresa>
+    <NaselenoMesto>СТРУМИЦА</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1102/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4030006612491</DanocenBroj>
+    <ShifraZU>25059801</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДР СЕКОВСКА  ДР ДАШТЕВСКА</NazivNaUstanova>
+    <Dejnosti>ОРТОДОНЦИЈА</Dejnosti>
+    <Adresa>УЛ. АНГЕЛ ДИМОВСКИ БР. 1</Adresa>
+    <NaselenoMesto>СКОПЈЕ - АЕРОДРОМ</NaselenoMesto>
+    <Latitude>41.9855341</Latitude>
+    <Longitude>21.458376600000065</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-290/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4011006126657</DanocenBroj>
+    <ShifraZU>11007702</ShifraZU>
+    <NazivNaUstanova>ПЗУ ПОЛИКЛИНИКА ОРТО 2 Г</NazivNaUstanova>
+    <Dejnosti>ОРТОДОНЦИЈА</Dejnosti>
+    <Adresa>4-ТИ ЈУЛИ ББ  </Adresa>
+    <NaselenoMesto>КАВАДАРЦИ</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1024/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4030008023477</DanocenBroj>
+    <ShifraZU>25104701</ShifraZU>
+    <NazivNaUstanova>ПЗУ ВИАДЕНТ</NazivNaUstanova>
+    <Dejnosti>ОРАЛНА ХИРУРГИЈА, ОРТОДОНЦИЈА</Dejnosti>
+    <Adresa>БУЛЕВАР 3-ТА МАКЕДОНСКА БРИГАДА 31Б -1</Adresa>
+    <NaselenoMesto>СКОПЈЕ - АЕРОДРОМ</NaselenoMesto>
+    <Latitude>41.9832799</Latitude>
+    <Longitude>21.45174589999999</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1003/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4030007632755</DanocenBroj>
+    <ShifraZU>25090901</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДР АНТОВСКА</NazivNaUstanova>
+    <Dejnosti>ОРТОДОНЦИЈА</Dejnosti>
+    <Adresa>УЛ.ЛЕНИНГРАДСКА БР.77</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9899735</Latitude>
+    <Longitude>21.43683920000001</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-692/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4012006121775</DanocenBroj>
+    <ShifraZU>12005402</ShifraZU>
+    <NazivNaUstanova>ПЗУ Д-Р ЦАНЕДЕНТ</NazivNaUstanova>
+    <Dejnosti>ОРАЛНА ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ.МАРШАЛ ТИТО ББ</Adresa>
+    <NaselenoMesto>КИЧЕВО</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-65/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4017007161845</DanocenBroj>
+    <ShifraZU>17028002</ShifraZU>
+    <NazivNaUstanova>ПЗУ ЗАФЕР М 2</NazivNaUstanova>
+    <Dejnosti>ОРАЛНА ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ.3-ТА МАКЕДОНСКА УДАРНА БРИГАДА БР.3-4</Adresa>
+    <NaselenoMesto>КУМАНОВО</NaselenoMesto>
+    <Latitude>42.1358333</Latitude>
+    <Longitude>21.71805560000007</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-240/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4029006134362</DanocenBroj>
+    <ShifraZU>30008902</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДР ЛУПЧО МАРОЛОВ</NazivNaUstanova>
+    <Dejnosti>ОРАЛНА ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ. 4-ТИ ЈУЛИ БР. 35</Adresa>
+    <NaselenoMesto>ШТИП</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1189/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4007004128981</DanocenBroj>
+    <ShifraZU>7004802</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДЕА ДЕНТ</NazivNaUstanova>
+    <Dejnosti>ОРТОДОНЦИЈА</Dejnosti>
+    <Adresa>УЛ. КОЧО ЗОЗИ БР. 41</Adresa>
+    <NaselenoMesto>ГОСТИВАР</NaselenoMesto>
+    <Latitude>41.7941228</Latitude>
+    <Longitude>20.908855399999993</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1015/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4032010504639</DanocenBroj>
+    <ShifraZU>25120001</ShifraZU>
+    <NazivNaUstanova>ПЗУ ПОЛИКЛИНИКА ДР РАДОВАН ЃОРГИОСКИ- 2</NazivNaUstanova>
+    <Dejnosti>ОРТОДОНЦИЈА И ПРОТЕТИКА, СПЕЦИЈАЛИСТИЧКА СТОМАТОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ. БУЛ. 3та МАК. БРИГАДА БР.31/1-2</Adresa>
+    <NaselenoMesto>СКОПЈЕ - АЕРОДРОМ</NaselenoMesto>
+    <Latitude>41.9973462</Latitude>
+    <Longitude>21.42799560000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1031/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4030007630612</DanocenBroj>
+    <ShifraZU>25089701</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДР ДЕЈАН АТАНАСОВ</NazivNaUstanova>
+    <Dejnosti>ОРТОДОНЦИЈА</Dejnosti>
+    <Adresa>УЛ. КОСТА НОВАКОВИЌ ББ</Adresa>
+    <NaselenoMesto>СКОПЈЕ - АЕРОДРОМ</NaselenoMesto>
+    <Latitude>41.9973462</Latitude>
+    <Longitude>21.42799560000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-66/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4017006159162</DanocenBroj>
+    <ShifraZU>17029101</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДР КРИСТИНА Ј.ТАСЕВСКА</NazivNaUstanova>
+    <Dejnosti>ОРАЛНА ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ. ПЕРО ЧИЧО БР.7</Adresa>
+    <NaselenoMesto>КУМАНОВО</NaselenoMesto>
+    <Latitude>42.1375917</Latitude>
+    <Longitude>21.73463670000001</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-62/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4017006158948</DanocenBroj>
+    <ShifraZU>17029401</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДР Т.МАНОВА И ДР Т.ЌОСЕВА</NazivNaUstanova>
+    <Dejnosti>ОРТОДОНЦИЈА</Dejnosti>
+    <Adresa>УЛ. ПЕРО ЧИЧО БР.7</Adresa>
+    <NaselenoMesto>КУМАНОВО</NaselenoMesto>
+    <Latitude>42.1375917</Latitude>
+    <Longitude>21.73463670000001</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1105/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4030999374710</DanocenBroj>
+    <ShifraZU>25029502</ShifraZU>
+    <NazivNaUstanova>ПЗУ ПОЛИКЛИНИКА ДР ТОШКО МИШЕВСКИ</NazivNaUstanova>
+    <Dejnosti>ПРОТЕТИКА</Dejnosti>
+    <Adresa>УЛ. МОСКОВСКА БР 5 А</Adresa>
+    <NaselenoMesto>СКОПЈЕ - КАРПОШ</NaselenoMesto>
+    <Latitude>42.0007318</Latitude>
+    <Longitude>21.389522599999964</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-626/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4009998103667</DanocenBroj>
+    <ShifraZU>9003601</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДР ЦВЕТА</NazivNaUstanova>
+    <Dejnosti>ОРТОДОНЦИЈА</Dejnosti>
+    <Adresa>УЛ.КЛИМЕНТ ОХРИДСКИ БР.8</Adresa>
+    <NaselenoMesto>ДЕЛЧЕВО</NaselenoMesto>
+    <Latitude>41.97279839999999</Latitude>
+    <Longitude>22.77469569999994</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1083/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4030003475914</DanocenBroj>
+    <ShifraZU>25102001</ShifraZU>
+    <NazivNaUstanova>ПЗУ ОРТОДОНЦИЈА</NazivNaUstanova>
+    <Dejnosti>ОРТОДОНЦИЈА</Dejnosti>
+    <Adresa>УЛ.ОГРАЖДЕН БР.2/1-12</Adresa>
+    <NaselenoMesto>СКОПЈЕ - КАРПОШ</NaselenoMesto>
+    <Latitude>42.0064701</Latitude>
+    <Longitude>21.39654459999997</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1014/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4030007001372</DanocenBroj>
+    <ShifraZU>25101801</ShifraZU>
+    <NazivNaUstanova>ПЗУ ТРИЕСЕТ И ДВА-ПРОТЕТИКА</NazivNaUstanova>
+    <Dejnosti>ПРОТЕТИКА</Dejnosti>
+    <Adresa>ЛОНДОНСКА БР.19</Adresa>
+    <NaselenoMesto>СКОПЈЕ - КАРПОШ</NaselenoMesto>
+    <Latitude>42.0005765</Latitude>
+    <Longitude>21.391892999999982</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1020/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4030006617132</DanocenBroj>
+    <ShifraZU>25089401</ShifraZU>
+    <NazivNaUstanova>ПЗУ  КОЗЛЕ</NazivNaUstanova>
+    <Dejnosti>ОРАЛНА ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ. КОЗЛЕ ББ</Adresa>
+    <NaselenoMesto>СКОПЈЕ - КАРПОШ</NaselenoMesto>
+    <Latitude>41.9973462</Latitude>
+    <Longitude>21.42799560000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1099/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4030007618132</DanocenBroj>
+    <ShifraZU>25082102</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДР ТОНИ ЕВРОСИМОВСКИ</NazivNaUstanova>
+    <Dejnosti>ОРАЛНА ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ. КОЗЛЕ ББ</Adresa>
+    <NaselenoMesto>СКОПЈЕ - КАРПОШ</NaselenoMesto>
+    <Latitude>41.9973462</Latitude>
+    <Longitude>21.42799560000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-999/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4057010505948</DanocenBroj>
+    <ShifraZU>25121001</ShifraZU>
+    <NazivNaUstanova>ПЗУ Д-Р АЈДИНСКА</NazivNaUstanova>
+    <Dejnosti>ОРАЛНА ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ.ПАРИСКА ББ</Adresa>
+    <NaselenoMesto>СКОПЈЕ - КАРПОШ</NaselenoMesto>
+    <Latitude>41.9973462</Latitude>
+    <Longitude>21.42799560000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-800/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4006006121406</DanocenBroj>
+    <ShifraZU>6005101</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДР СТЕВО ПОП-РИСТОВ</NazivNaUstanova>
+    <Dejnosti>ОРАЛНА ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ.СЛОБОДАН МИТРОВ-ДАНКО БР.38</Adresa>
+    <NaselenoMesto>ГЕВГЕЛИЈА</NaselenoMesto>
+    <Latitude>41.1430411</Latitude>
+    <Longitude>22.501601800000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-330/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4005008500793</DanocenBroj>
+    <ShifraZU>5004001</ShifraZU>
+    <NazivNaUstanova>ПЗУ Д-Р ФИЛИПОВСКИ</NazivNaUstanova>
+    <Dejnosti>ОРАЛНА ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ.КЕЈ 30-ТИ АВГУСТ БР.19</Adresa>
+    <NaselenoMesto>ВИНИЦА</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-238/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4029006134370</DanocenBroj>
+    <ShifraZU>30008801</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДР НИКОЛА ЏИДРОВ</NazivNaUstanova>
+    <Dejnosti>ОРАЛНА ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ.ХРИСТИЈАН КАРПОШ ББ</Adresa>
+    <NaselenoMesto>ШТИП</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-33/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4002008502738</DanocenBroj>
+    <ShifraZU>2061901</ShifraZU>
+    <NazivNaUstanova>ПЗУ ЈОВЕ -ДЕНТ</NazivNaUstanova>
+    <Dejnosti>ОРАЛНА ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ.ВАСКО  КАРАНЃЕЛЕСКИ БР.4/43</Adresa>
+    <NaselenoMesto>БИТОЛА</NaselenoMesto>
+    <Latitude>41.0319444</Latitude>
+    <Longitude>21.334722199999987</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1156/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4030006611517</DanocenBroj>
+    <ShifraZU>25123301</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДР А. ПЕРКОВА</NazivNaUstanova>
+    <Dejnosti>ОРАЛНА ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ.ЖЕЛЕЗНИЧКА БР.36-1/2</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9397659</Latitude>
+    <Longitude>21.53495250000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-491/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4028009509484</DanocenBroj>
+    <ShifraZU>28025301</ShifraZU>
+    <NazivNaUstanova>ПЗУ Д-Р РАСКО</NazivNaUstanova>
+    <Dejnosti>ОРАЛНА ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ.120 БР.2-1</Adresa>
+    <NaselenoMesto>ТЕТОВО</NaselenoMesto>
+    <Latitude>42.0288112</Latitude>
+    <Longitude>20.99695440000005</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-144/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4004006119972</DanocenBroj>
+    <ShifraZU>29008501</ShifraZU>
+    <NazivNaUstanova>ПЗУ  ДР МИЛАН СТАНОЈКОВСКИ И ДР ТОДОР БРЗАКОВ</NazivNaUstanova>
+    <Dejnosti>ОРАЛНА ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ.ШЕФКИ САЛИ БР.5</Adresa>
+    <NaselenoMesto>ВЕЛЕС</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-500/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4028011514576</DanocenBroj>
+    <ShifraZU>28027701</ShifraZU>
+    <NazivNaUstanova>ПЗУ Д-Р ВАНЧО</NazivNaUstanova>
+    <Dejnosti>ОРАЛНА ХИРУРГИЈА</Dejnosti>
+    <Adresa>МАРШАЛ ТИТО БР.52/1-3</Adresa>
+    <NaselenoMesto>ТЕТОВО</NaselenoMesto>
+    <Latitude>42.0077994</Latitude>
+    <Longitude>20.975585300000034</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-661/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4007009506682</DanocenBroj>
+    <ShifraZU>7016201</ShifraZU>
+    <NazivNaUstanova>ПЗУ САНОДЕНТ</NazivNaUstanova>
+    <Dejnosti>ОРАЛНА ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ.ГОЦЕ ДЕЛЧЕВ  БР.35/4</Adresa>
+    <NaselenoMesto>ГОСТИВАР</NaselenoMesto>
+    <Latitude>41.79630239999999</Latitude>
+    <Longitude>20.910791300000028</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-660/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4007010508281</DanocenBroj>
+    <ShifraZU>7017401</ShifraZU>
+    <NazivNaUstanova>ПЗУ ТУША</NazivNaUstanova>
+    <Dejnosti>ОРАЛНА ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ.БЕЛИЧИЦА БР.4</Adresa>
+    <NaselenoMesto>ГОСТИВАР</NaselenoMesto>
+    <Latitude>41.7931129</Latitude>
+    <Longitude>20.91447560000006</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-666/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4007007137132</DanocenBroj>
+    <ShifraZU>7012301</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДЕВА-ДЕНТ</NazivNaUstanova>
+    <Dejnosti>ОРАЛНА ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ.МАЈОР ЧЕДЕ  ФИЛИПОВСКИ БР.29</Adresa>
+    <NaselenoMesto>ГОСТИВАР</NaselenoMesto>
+    <Latitude>41.79285360000001</Latitude>
+    <Longitude>20.90485609999996</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-662/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4007008503035</DanocenBroj>
+    <ShifraZU>7015001</ShifraZU>
+    <NazivNaUstanova>ПЗУ Д-Р ХАСИМ</NazivNaUstanova>
+    <Dejnosti>ОРАЛНА ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ.БРАЌА ЃИНОСКИ. ББ</Adresa>
+    <NaselenoMesto>ГОСТИВАР</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-688/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4012993100806</DanocenBroj>
+    <ShifraZU>12000902</ShifraZU>
+    <NazivNaUstanova>ПЗУ КРАЈКОДЕНТ</NazivNaUstanova>
+    <Dejnosti>ОРАЛНА ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ. ГОЦЕ ДЕЛЧЕВ БР 8</Adresa>
+    <NaselenoMesto>КИЧЕВО</NaselenoMesto>
+    <Latitude>41.5160237</Latitude>
+    <Longitude>20.960214899999983</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-420/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4027006151736</DanocenBroj>
+    <ShifraZU>27013201</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДР ЧАВКОВ-ДР БАЈРАКТАРОВ</NazivNaUstanova>
+    <Dejnosti>ОРАЛНА ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ.ДИМИТАР ВЛАХОВ БР.ББ</Adresa>
+    <NaselenoMesto>СТРУМИЦА</NaselenoMesto>
+    <Latitude>41.4337764</Latitude>
+    <Longitude>22.640327800000023</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-416/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4027008503451</DanocenBroj>
+    <ShifraZU>27015401</ShifraZU>
+    <NazivNaUstanova>ПЗУ ОРАЛ - А&amp;М</NazivNaUstanova>
+    <Dejnosti>ОРАЛНА ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ.ДИМИТАР ВЛАХОВ ББ</Adresa>
+    <NaselenoMesto>СТРУМИЦА</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1098/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4030007637242</DanocenBroj>
+    <ShifraZU>25093501</ShifraZU>
+    <NazivNaUstanova>ПЗУ  АРТ ДЕНТИН ФК</NazivNaUstanova>
+    <Dejnosti>ОРАЛНА ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ.ЦВЕТАН ДИМОВ БР.4/1-1</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЧАИР</NaselenoMesto>
+    <Latitude>42.0097337</Latitude>
+    <Longitude>21.443995200000018</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-591/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4026006133707</DanocenBroj>
+    <ShifraZU>26006901</ShifraZU>
+    <NazivNaUstanova>ПЗУ ОРТО-ГАН</NazivNaUstanova>
+    <Dejnosti>ОРТОДОНЦИЈА</Dejnosti>
+    <Adresa>КЕЈ 8-МИ НОЕМВРИ ББ</Adresa>
+    <NaselenoMesto>СТРУГА</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-422/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4027008503150</DanocenBroj>
+    <ShifraZU>27015001</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДР ЛИДИЈА ПЕТРОВА</NazivNaUstanova>
+    <Dejnosti>ОРТОДОНЦИЈА</Dejnosti>
+    <Adresa>УЛ.ДИМИТАР ВЛАХОВ ББ/1-3</Adresa>
+    <NaselenoMesto>СТРУМИЦА</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-421/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4027006151809</DanocenBroj>
+    <ShifraZU>27013101</ShifraZU>
+    <NazivNaUstanova>ПЗУ  ОРТОДОНЦИЈА-ПЛУС</NazivNaUstanova>
+    <Dejnosti>ОРТОДОНЦИЈА</Dejnosti>
+    <Adresa>УЛ.ДИМИТАР  ВЛАХОВ БР.ББ</Adresa>
+    <NaselenoMesto>СТРУМИЦА</NaselenoMesto>
+    <Latitude>41.4337764</Latitude>
+    <Longitude>22.640327800000023</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-490/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4028008504470</DanocenBroj>
+    <ShifraZU>28021701</ShifraZU>
+    <NazivNaUstanova>ПЗУ ОРТО БЛУ ДЕНТ Д-Р АГИМ</NazivNaUstanova>
+    <Dejnosti>ОРТОДОНЦИЈА</Dejnosti>
+    <Adresa>ИЛИНДЕНСКА БР.230,ЛОКАЛ 4А</Adresa>
+    <NaselenoMesto>БОГОВИЊЕ</NaselenoMesto>
+    <Latitude>41.9846702</Latitude>
+    <Longitude>20.95853139999997</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-418/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4027008504806</DanocenBroj>
+    <ShifraZU>27015501</ShifraZU>
+    <NazivNaUstanova>ПЗУ Д-Р МАРИНА АБРАШЕВА - ОРТОДЕНТ</NazivNaUstanova>
+    <Dejnosti>ОРТОДОНЦИЈА</Dejnosti>
+    <Adresa>УЛ.ЃОРЃИ ТРАЈКОВ БР.7</Adresa>
+    <NaselenoMesto>СТРУМИЦА</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-664/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4007007137280</DanocenBroj>
+    <ShifraZU>7011601</ShifraZU>
+    <NazivNaUstanova>ПЗУ ЕУРО-ОРТОДОНЦИ</NazivNaUstanova>
+    <Dejnosti>ОРТОДОНЦИЈА</Dejnosti>
+    <Adresa>УЛ.МАЈОР ЧЕДЕ ФИЛИПОВСКИ БР.29</Adresa>
+    <NaselenoMesto>ГОСТИВАР</NaselenoMesto>
+    <Latitude>41.79285360000001</Latitude>
+    <Longitude>20.90485609999996</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-694/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4012010506118</DanocenBroj>
+    <ShifraZU>12007901</ShifraZU>
+    <NazivNaUstanova>ПЗУ ПРИМАДЕНТ-М</NazivNaUstanova>
+    <Dejnosti>ОРТОДОНЦИЈА</Dejnosti>
+    <Adresa>ПИРИНСКА ББ</Adresa>
+    <NaselenoMesto>КИЧЕВО</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-658/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4007010509776</DanocenBroj>
+    <ShifraZU>7018201</ShifraZU>
+    <NazivNaUstanova>ПЗУ ВИТА ДЕНТАЛ 2</NazivNaUstanova>
+    <Dejnosti>ОРТОДОНЦИЈА</Dejnosti>
+    <Adresa>УЛ. ГОЦЕ ДЕЛЧЕВ БР.46/А</Adresa>
+    <NaselenoMesto>ГОСТИВАР</NaselenoMesto>
+    <Latitude>41.79630239999999</Latitude>
+    <Longitude>20.910791300000028</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-495/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4028009510300</DanocenBroj>
+    <ShifraZU>28023901</ShifraZU>
+    <NazivNaUstanova>ПЗУ АЉБИ ОРТОДЕНТ</NazivNaUstanova>
+    <Dejnosti>ОРТОДОНЦИЈА</Dejnosti>
+    <Adresa>УЛ.БРАЌА МИЛАДИНОВИ БР.97</Adresa>
+    <NaselenoMesto>ТЕТОВО</NaselenoMesto>
+    <Latitude>42.0017922</Latitude>
+    <Longitude>20.969947300000058</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-499/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4028007500781</DanocenBroj>
+    <ShifraZU>28021001</ShifraZU>
+    <NazivNaUstanova>ПЗУ ОРТОДОНЦИЈА ДР ЕЛЕЗОВИЌ И ДР ЃОРЃЕВСКИ</NazivNaUstanova>
+    <Dejnosti>ОРТОДОНЦИЈА</Dejnosti>
+    <Adresa>УЛ.МАРШАЛ ТИТО“ББ/МОНОПОЛ/ БР 1 </Adresa>
+    <NaselenoMesto>ТЕТОВО</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-141/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4004006119980</DanocenBroj>
+    <ShifraZU>29008301</ShifraZU>
+    <NazivNaUstanova>ПЗУ НОВА НАСЕЛБА</NazivNaUstanova>
+    <Dejnosti>ОРТОДОНЦИЈА</Dejnosti>
+    <Adresa>УЛ.ЛАЗО ОСМАКОВ ББ</Adresa>
+    <NaselenoMesto>ВЕЛЕС</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-140/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4004006120075</DanocenBroj>
+    <ShifraZU>29008401</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДР.ЖАНЕТА САРАГИНОВА И ДР АНИТА ПЕРКОВА</NazivNaUstanova>
+    <Dejnosti>ОРТОДОНЦИЈА</Dejnosti>
+    <Adresa>УЛ.ВЛАДИМИР НАЗОР ББ</Adresa>
+    <NaselenoMesto>ВЕЛЕС</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1101/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4057009503729</DanocenBroj>
+    <ShifraZU>25119002</ShifraZU>
+    <NazivNaUstanova>ПЗУ АРСОДЕНТ</NazivNaUstanova>
+    <Dejnosti>ОРТОДОНЦИЈА</Dejnosti>
+    <Adresa>УЛ.ГЕОРГИ ПОПХРИСТОВ БР.4</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЧАИР</NaselenoMesto>
+    <Latitude>42.0155176</Latitude>
+    <Longitude>21.43301980000001</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1082/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4030007637153</DanocenBroj>
+    <ShifraZU>25091101</ShifraZU>
+    <NazivNaUstanova>ПЗУ ОРТО-ДЕНТАЛ М </NazivNaUstanova>
+    <Dejnosti>ОРТОДОНЦИЈА</Dejnosti>
+    <Adresa>УЛ.ЦВЕТАН ДИМОВ БР153</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЧАИР</NaselenoMesto>
+    <Latitude>41.9973462</Latitude>
+    <Longitude>21.42799560000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1001/4</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4030006615180</DanocenBroj>
+    <ShifraZU>25059101</ShifraZU>
+    <NazivNaUstanova>ПЗУ ОРТО-ПРО ФИДЕЛИС</NazivNaUstanova>
+    <Dejnosti>ОРТОДОНЦИЈА</Dejnosti>
+    <Adresa>УЛ.ФЕРИД БАЈРАМ ББ</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЧАИР</NaselenoMesto>
+    <Latitude>41.9973462</Latitude>
+    <Longitude>21.42799560000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-492/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4028010512820</DanocenBroj>
+    <ShifraZU>28026401</ShifraZU>
+    <NazivNaUstanova>ПЗУ ОРТО-ФИКСНА</NazivNaUstanova>
+    <Dejnosti>ОРТОДОНЦИЈА</Dejnosti>
+    <Adresa>29 НОЕМВРИ ББ</Adresa>
+    <NaselenoMesto>ТЕТОВО</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1006/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4004996104621</DanocenBroj>
+    <ShifraZU>29003202</ShifraZU>
+    <NazivNaUstanova>ПЗУ  МЕШКОВИ</NazivNaUstanova>
+    <Dejnosti>ОРТОДОНЦИЈА</Dejnosti>
+    <Adresa>БУЛ.СВ.КЛИМЕНТ ОХРИДСКИ БР.15</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9972574</Latitude>
+    <Longitude>21.442756400000007</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1008/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4030006615709</DanocenBroj>
+    <ShifraZU>25060501</ShifraZU>
+    <NazivNaUstanova>ПЗУ ОРТОДОНТ ДР ЈАСМИНА</NazivNaUstanova>
+    <Dejnosti>ОРТОДОНЦИЈА</Dejnosti>
+    <Adresa>УЛ.ИВО ЛОЛА РИБАР ББ</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9973462</Latitude>
+    <Longitude>21.42799560000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1033/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4030006613781</DanocenBroj>
+    <ShifraZU>25059401</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДР БРАНКО БОШКОВСКИ</NazivNaUstanova>
+    <Dejnosti>ОРТОДОНЦИЈА</Dejnosti>
+    <Adresa>УЛ.ЛЕНИНГРАДСКА ББ</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9973462</Latitude>
+    <Longitude>21.42799560000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-282/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4024006108807</DanocenBroj>
+    <ShifraZU>23003801</ShifraZU>
+    <NazivNaUstanova>ПЗУ  ДР  ДАЧКА </NazivNaUstanova>
+    <Dejnosti>ОРТОДОНЦИЈА</Dejnosti>
+    <Adresa>УЛ.КОЧО РАЦИН ББ</Adresa>
+    <NaselenoMesto>РЕСЕН</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-400/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4019006111707</DanocenBroj>
+    <ShifraZU>18003101</ShifraZU>
+    <NazivNaUstanova>ПЗУ ОРТО-ГЕМ</NazivNaUstanova>
+    <Dejnosti>ОРТОДОНЦИЈА</Dejnosti>
+    <Adresa>УЛ.ВЕЉКО ВЛАХОВИЌ БР.9</Adresa>
+    <NaselenoMesto>НЕГОТИНО</NaselenoMesto>
+    <Latitude>41.480668</Latitude>
+    <Longitude>22.081830200000013</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-399/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4019006111847</DanocenBroj>
+    <ShifraZU>18003001</ShifraZU>
+    <NazivNaUstanova>ПЗУ АЛЕКСОВСКИ</NazivNaUstanova>
+    <Dejnosti>ОРТОДОНЦИЈА</Dejnosti>
+    <Adresa>УЛ.ВЕЉКО ВЛАХОВИЌ БР.9</Adresa>
+    <NaselenoMesto>НЕГОТИНО</NaselenoMesto>
+    <Latitude>41.480668</Latitude>
+    <Longitude>22.081830200000013</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1081/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4030007618744</DanocenBroj>
+    <ShifraZU>25059201</ShifraZU>
+    <NazivNaUstanova>ПЗУ БИТ ПАЗАР</NazivNaUstanova>
+    <Dejnosti>ОРТОДОНЦИЈА</Dejnosti>
+    <Adresa>БУЛ.КРСТЕ МИСИРКОВ ББ</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9973462</Latitude>
+    <Longitude>21.42799560000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-341/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4013005120089</DanocenBroj>
+    <ShifraZU>13071902</ShifraZU>
+    <NazivNaUstanova>ПЗУ СВЕТА ПЕТКА</NazivNaUstanova>
+    <Dejnosti>ОРТОДОНЦИЈА</Dejnosti>
+    <Adresa>УЛ. СКОПСКА БР 74</Adresa>
+    <NaselenoMesto>КОЧАНИ</NaselenoMesto>
+    <Latitude>41.9089626</Latitude>
+    <Longitude>22.40310610000006</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-693/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4012006121490</DanocenBroj>
+    <ShifraZU>12005901</ShifraZU>
+    <NazivNaUstanova>ПЗУ ОРТО-БЕГО</NazivNaUstanova>
+    <Dejnosti>ОРТОДОНЦИЈА</Dejnosti>
+    <Adresa>УЛ.МАРШАЛ ТИТО ББ</Adresa>
+    <NaselenoMesto>КИЧЕВО</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-798/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4006006120698</DanocenBroj>
+    <ShifraZU>6004602</ShifraZU>
+    <NazivNaUstanova>ПЗУ ПОЛИДЕНТ</NazivNaUstanova>
+    <Dejnosti>ОРТОДОНЦИЈА</Dejnosti>
+    <Adresa>УЛ. МАРШАЛ ТИТО ББ</Adresa>
+    <NaselenoMesto>НОВ ДОЈРАН</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-72/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4002007177493</DanocenBroj>
+    <ShifraZU>2057401</ShifraZU>
+    <NazivNaUstanova>ПЗУ ОРТОДОНЦИЈА 1</NazivNaUstanova>
+    <Dejnosti>ОРТОДОНЦИЈА</Dejnosti>
+    <Adresa>УЛ.ПАНДЕ НИКОЛОВ ББ</Adresa>
+    <NaselenoMesto>БИТОЛА</NaselenoMesto>
+    <Latitude>41.0319444</Latitude>
+    <Longitude>21.334722199999987</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-71/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4002007178902</DanocenBroj>
+    <ShifraZU>2058801</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДР ЛИДИЈА СТЕФАНОВСКА</NazivNaUstanova>
+    <Dejnosti>ОРТОДОНЦИЈА</Dejnosti>
+    <Adresa>УЛ.ПАНДЕ НИКОЛОВ ББ</Adresa>
+    <NaselenoMesto>БИТОЛА</NaselenoMesto>
+    <Latitude>41.0319444</Latitude>
+    <Longitude>21.334722199999987</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-74/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4002007177507</DanocenBroj>
+    <ShifraZU>2059102</ShifraZU>
+    <NazivNaUstanova>ПЗУ Д- Р ПОПОВСКА</NazivNaUstanova>
+    <Dejnosti>ОРТОДОНЦИЈА</Dejnosti>
+    <Adresa>УЛ ПАНДЕ НИКОЛОВ ББ</Adresa>
+    <NaselenoMesto>БИТОЛА</NaselenoMesto>
+    <Latitude>41.0319444</Latitude>
+    <Longitude>21.334722199999987</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-627/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4009006109600</DanocenBroj>
+    <ShifraZU>9003701</ShifraZU>
+    <NazivNaUstanova>ПЗУ  ДЕНТО-БРЕКЕТ ДР ЈАДРАНКА</NazivNaUstanova>
+    <Dejnosti>ОРТОДОНЦИЈА</Dejnosti>
+    <Adresa>УЛ.МЕТОДИ МИТЕВСКИ-БРИЦО БР.44</Adresa>
+    <NaselenoMesto>ДЕЛЧЕВО</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-9/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4010006104177</DanocenBroj>
+    <ShifraZU>10074601</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДР.ЈОСИФ РАДЕВСКИ</NazivNaUstanova>
+    <Dejnosti>ОРТОДОНЦИЈА</Dejnosti>
+    <Adresa>УЛ.БИТОЛСКА ББ</Adresa>
+    <NaselenoMesto>ДЕМИР ХИСАР</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-4/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4010006104029</DanocenBroj>
+    <ShifraZU>10074701</ShifraZU>
+    <NazivNaUstanova>ПЗУДР.СТЕФЧЕ ВЕЛЈАНОВ</NazivNaUstanova>
+    <Dejnosti>ОРТОДОНЦИЈА</Dejnosti>
+    <Adresa>УЛ.БИТОЛСКА ББ</Adresa>
+    <NaselenoMesto>ДЕМИР ХИСАР</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-797/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4006007121892</DanocenBroj>
+    <ShifraZU>6005001</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДР СУНЧИЦА ТАШЕВА-ПЕТКОВСКА</NazivNaUstanova>
+    <Dejnosti>ОРТОДОНЦИЈА</Dejnosti>
+    <Adresa>УЛ.СЛОБОДАН МИТРОВ-ДАНКО БР.38</Adresa>
+    <NaselenoMesto>ГЕВГЕЛИЈА</NaselenoMesto>
+    <Latitude>41.1430411</Latitude>
+    <Longitude>22.501601800000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-241/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4029006134559</DanocenBroj>
+    <ShifraZU>30008601</ShifraZU>
+    <NazivNaUstanova>ПЗУ ОРТОМЕДИКА ДР СЕНЕВ</NazivNaUstanova>
+    <Dejnosti>ОРТОДОНЦИЈА</Dejnosti>
+    <Adresa>УЛ ХРИСТИЈАН КАРПОШ ББ</Adresa>
+    <NaselenoMesto>ШТИП</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-235/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4029006134486</DanocenBroj>
+    <ShifraZU>30008501</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДР ТАЊА НИКОЛОВА </NazivNaUstanova>
+    <Dejnosti>ОРТОДОНЦИЈА</Dejnosti>
+    <Adresa>УЛ ХРИСТИЈАН КАРПОШ ББ</Adresa>
+    <NaselenoMesto>ШТИП</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-237/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4029006134451</DanocenBroj>
+    <ShifraZU>30008401</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДР МАРИЈОНКА ИВАНОВСКА</NazivNaUstanova>
+    <Dejnosti>ОРТОДОНЦИЈА</Dejnosti>
+    <Adresa>УЛ.БОРИС КРАЈГЕР БР.6</Adresa>
+    <NaselenoMesto>ШТИП</NaselenoMesto>
+    <Latitude>41.7504789</Latitude>
+    <Longitude>22.199402899999995</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-234/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4029006134508</DanocenBroj>
+    <ShifraZU>30008301</ShifraZU>
+    <NazivNaUstanova>ПЗУ ОРТОДЕНТ ЕСТЕТИК</NazivNaUstanova>
+    <Dejnosti>ОРТОДОНЦИЈА</Dejnosti>
+    <Adresa>УЛ.ВАНЧО ПРЌЕ БР.16</Adresa>
+    <NaselenoMesto>ШТИП</NaselenoMesto>
+    <Latitude>41.7380348</Latitude>
+    <Longitude>22.193617099999983</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1032/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4030006613560</DanocenBroj>
+    <ShifraZU>25060301</ShifraZU>
+    <NazivNaUstanova>ПЗУ ОРТОДЕНТ -ДР МИМИ</NazivNaUstanova>
+    <Dejnosti>ОРТОДОНЦИЈА</Dejnosti>
+    <Adresa>УЛ.КОЗЛЕ ББ</Adresa>
+    <NaselenoMesto>СКОПЈЕ - КАРПОШ</NaselenoMesto>
+    <Latitude>41.9973462</Latitude>
+    <Longitude>21.42799560000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-173/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4020007148777</DanocenBroj>
+    <ShifraZU>19011801</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДР ЛИДИЈА ТИЛЕВСКА </NazivNaUstanova>
+    <Dejnosti>ОРТОДОНЦИЈА</Dejnosti>
+    <Adresa>УЛ.ЦАР САМОИЛ БР.8</Adresa>
+    <NaselenoMesto>ОХРИД</NaselenoMesto>
+    <Latitude>41.1122931</Latitude>
+    <Longitude>20.796119900000008</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-176/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4020006146410</DanocenBroj>
+    <ShifraZU>19011401</ShifraZU>
+    <NazivNaUstanova>ПЗУ ОРТО-ЛИК</NazivNaUstanova>
+    <Dejnosti>ОРТОДОНЦИЈА</Dejnosti>
+    <Adresa>УЛ.ДИМИТАР ВЛАХОВ БР.69/МАЛАРИЧНА ОРДИНАЦИЈА БР. 26</Adresa>
+    <NaselenoMesto>ОХРИД</NaselenoMesto>
+    <Latitude>41.1133488</Latitude>
+    <Longitude>20.804129699999976</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-419/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4027000128163</DanocenBroj>
+    <ShifraZU>27013001</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДУОДЕНТ</NazivNaUstanova>
+    <Dejnosti>ОРТОДОНЦИЈА И ПРОТЕТИКА</Dejnosti>
+    <Adresa>Ул.Коста Бозов бр.32</Adresa>
+    <NaselenoMesto>СТРУМИЦА</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-424/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4027008504709</DanocenBroj>
+    <ShifraZU>27015301</ShifraZU>
+    <NazivNaUstanova>ПЗУ Д-Р ЃОТЕВ ЃОРЃИ</NazivNaUstanova>
+    <Dejnosti>ПРОТЕТИКА</Dejnosti>
+    <Adresa>УЛ.ПАНЧЕ ПЕШЕВ БР.52</Adresa>
+    <NaselenoMesto>СТРУМИЦА</NaselenoMesto>
+    <Latitude>41.439555</Latitude>
+    <Longitude>22.642728199999965</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-239/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4029006134621</DanocenBroj>
+    <ShifraZU>30009802</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДР АНТОНИО ПАНОВ</NazivNaUstanova>
+    <Dejnosti>ПРОТЕТИКА</Dejnosti>
+    <Adresa>УЛ. ХРИСТИЈАН Т. КАРПОШ ББ</Adresa>
+    <NaselenoMesto>ШТИП</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1050/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4044009501500</DanocenBroj>
+    <ShifraZU>25119401</ShifraZU>
+    <NazivNaUstanova>ПЗУ ПРОТЕКТ ДЕНТ - ПРОТЕТИКА</NazivNaUstanova>
+    <Dejnosti>ПРОТЕТИКА</Dejnosti>
+    <Adresa>УЛ.ИСАИЈА МАЖОВСКИ БР.51</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЃОРЧЕ ПЕТРОВ</NaselenoMesto>
+    <Latitude>42.0049881</Latitude>
+    <Longitude>21.370400099999983</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1023/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4030007620560</DanocenBroj>
+    <ShifraZU>25089601</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДР БОРИСЛАВ ПОПОВ</NazivNaUstanova>
+    <Dejnosti>ПРОТЕТИКА</Dejnosti>
+    <Adresa>УЛ. 16ТА МАКЕД.БРИГАДА БР.18</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ГАЗИ БАБА</NaselenoMesto>
+    <Latitude>41.9973462</Latitude>
+    <Longitude>21.42799560000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1048/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4030998345023</DanocenBroj>
+    <ShifraZU>25096701</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДР НАТЕ</NazivNaUstanova>
+    <Dejnosti>ПРОТЕТИКА</Dejnosti>
+    <Adresa>УЛ. ПРАШКА БР.64/Б</Adresa>
+    <NaselenoMesto>СКОПЈЕ - КАРПОШ</NaselenoMesto>
+    <Latitude>41.99827570000001</Latitude>
+    <Longitude>21.40034049999997</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1025/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4057009502587</DanocenBroj>
+    <ShifraZU>25118903</ShifraZU>
+    <NazivNaUstanova>ПЗУ ИНТЕРПЛУС</NazivNaUstanova>
+    <Dejnosti>ПРОТЕТИКА</Dejnosti>
+    <Adresa>УЛ. АНКАРСКА БР.21</Adresa>
+    <NaselenoMesto>СКОПЈЕ - КАРПОШ</NaselenoMesto>
+    <Latitude>41.9976817</Latitude>
+    <Longitude>21.408343999999943</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1017/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4057010505743</DanocenBroj>
+    <ShifraZU>25121201</ShifraZU>
+    <NazivNaUstanova>ПЗУ Д-Р ЗЛАТКО  ВЛАШКИ</NazivNaUstanova>
+    <Dejnosti>ПРОТЕТИКА</Dejnosti>
+    <Adresa>УЛ.ПАРИСКА ББ</Adresa>
+    <NaselenoMesto>СКОПЈЕ - КАРПОШ</NaselenoMesto>
+    <Latitude>41.9973462</Latitude>
+    <Longitude>21.42799560000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-5/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4010010501237</DanocenBroj>
+    <ShifraZU>10075201</ShifraZU>
+    <NazivNaUstanova>ПЗУ Д-Р ЛЕТКА МИТРЕВСКА</NazivNaUstanova>
+    <Dejnosti>ПРОТЕТИКА</Dejnosti>
+    <Adresa>УЛ.ВЕЉКО ВЛАХОВИЌ БР.3</Adresa>
+    <NaselenoMesto>ДЕМИР ХИСАР</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1027/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4030006593608</DanocenBroj>
+    <ShifraZU>25119501</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДЕНТУРА</NazivNaUstanova>
+    <Dejnosti>ПРОТЕТИКА</Dejnosti>
+    <Adresa>УЛ.НИКОЛА РУСИНСКИ БР.3-1/2</Adresa>
+    <NaselenoMesto>СКОПЈЕ - КАРПОШ</NaselenoMesto>
+    <Latitude>42.0044428</Latitude>
+    <Longitude>21.396472000000017</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-257/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4003006105525</DanocenBroj>
+    <ShifraZU>4001302</ShifraZU>
+    <NazivNaUstanova>ПЗУ КОНСТАНТИН ГЕТОВ</NazivNaUstanova>
+    <Dejnosti>ПРОТЕТИКА</Dejnosti>
+    <Adresa>УЛ.ВАСИЛ ГЛАВИНОВ БР.17</Adresa>
+    <NaselenoMesto>ВАЛАНДОВО</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1168/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4030006617280</DanocenBroj>
+    <ShifraZU>25059901</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДР ЕМИЛИЈА ПАВЛОВА</NazivNaUstanova>
+    <Dejnosti>ПРОТЕТИКА</Dejnosti>
+    <Adresa>УЛ.ИВАН АГОВСКИ ББ </Adresa>
+    <NaselenoMesto>СКОПЈЕ - КАРПОШ</NaselenoMesto>
+    <Latitude>41.9973462</Latitude>
+    <Longitude>21.42799560000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1077/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4030007621613</DanocenBroj>
+    <ShifraZU>25060001</ShifraZU>
+    <NazivNaUstanova>ПЗУ СПЕЦ.ДР.БЕГОВИЌ</NazivNaUstanova>
+    <Dejnosti>ПРОТЕТИКА</Dejnosti>
+    <Adresa>БУЛ.КРСТЕ МИСИРКОВ ББ</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9973462</Latitude>
+    <Longitude>21.42799560000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1107/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4030007618191</DanocenBroj>
+    <ShifraZU>25058801</ShifraZU>
+    <NazivNaUstanova>ПЗУ ИДАДИЈА ПРОТЕТИКА</NazivNaUstanova>
+    <Dejnosti>ПРОТЕТИКА</Dejnosti>
+    <Adresa>УЛ.ИВО ЛОЛА РИБАР ББ</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9973462</Latitude>
+    <Longitude>21.42799560000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-344/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4013007125495</DanocenBroj>
+    <ShifraZU>13078201</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДР ВАЛЕНТИНА АКСИ-ДЕНТ</NazivNaUstanova>
+    <Dejnosti>ПРОТЕТИКА</Dejnosti>
+    <Adresa>УЛ.ЉУПЧО САНТОВ БР.6</Adresa>
+    <NaselenoMesto>КОЧАНИ</NaselenoMesto>
+    <Latitude>41.9197832</Latitude>
+    <Longitude>22.413464100000056</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1080/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4030006613684</DanocenBroj>
+    <ShifraZU>25059501</ShifraZU>
+    <NazivNaUstanova>ПЗУ ПРОДЕНТ ИДАДИЈА</NazivNaUstanova>
+    <Dejnosti>ПРОТЕТИКА</Dejnosti>
+    <Adresa>УЛ.ИВО ЛОЛА РИБАР ББ</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9973462</Latitude>
+    <Longitude>21.42799560000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1016/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4030006613714</DanocenBroj>
+    <ShifraZU>25059001</ShifraZU>
+    <NazivNaUstanova>ПЗУ К и Д ЅУНИЦА</NazivNaUstanova>
+    <Dejnosti>ПРОТЕТИКА</Dejnosti>
+    <Adresa>УЛ.ЛЕНИНГРАДСКА ББ</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9973462</Latitude>
+    <Longitude>21.42799560000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-789/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4015006105779</DanocenBroj>
+    <ShifraZU>15002901</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДР ГЕОРГИ МАЗАКОВСКИ</NazivNaUstanova>
+    <Dejnosti>ПРОТЕТИКА</Dejnosti>
+    <Adresa>УЛ.МАРШАЛ ТИТО ББ</Adresa>
+    <NaselenoMesto>КРИВА ПАЛАНКА</NaselenoMesto>
+    <Latitude>42.2058454</Latitude>
+    <Longitude>22.33079650000002</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-983/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4030001408527</DanocenBroj>
+    <ShifraZU>25026501</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДР ТРАЈАНКА ТРАЈКОСКА</NazivNaUstanova>
+    <Dejnosti>ПРОТЕТИКА</Dejnosti>
+    <Adresa>УЛ.БИХАЌКА БР.3/3 ЛОК.5</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9873562</Latitude>
+    <Longitude>21.431381200000033</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-792/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4029011509099</DanocenBroj>
+    <ShifraZU>30011901</ShifraZU>
+    <NazivNaUstanova>ПЗУ СУПЕР ДЕНТ-ПРОТЕТИКА</NazivNaUstanova>
+    <Dejnosti>ПРОТЕТИКА</Dejnosti>
+    <Adresa>СУТЈЕСКА БР.48/2/8</Adresa>
+    <NaselenoMesto>ШТИП</NaselenoMesto>
+    <Latitude>41.74425309999999</Latitude>
+    <Longitude>22.19725779999999</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-57/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4002007177477</DanocenBroj>
+    <ShifraZU>2057301</ShifraZU>
+    <NazivNaUstanova>ПЗУ ПРОТЕТИКА 2 ДР СОТИР И ДР ВЕРА</NazivNaUstanova>
+    <Dejnosti>ПРОТЕТИКА</Dejnosti>
+    <Adresa>УЛ.ПАНДЕ НИКОЛОВ ББ</Adresa>
+    <NaselenoMesto>БИТОЛА</NaselenoMesto>
+    <Latitude>41.0319444</Latitude>
+    <Longitude>21.334722199999987</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-59/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4002007177370</DanocenBroj>
+    <ShifraZU>2057101</ShifraZU>
+    <NazivNaUstanova>ПЗУ ТОМИ-БЕБО ДЕНТ</NazivNaUstanova>
+    <Dejnosti>ПРОТЕТИКА</Dejnosti>
+    <Adresa>УЛ.ПАНДЕ НИКОЛОВ ББ</Adresa>
+    <NaselenoMesto>БИТОЛА</NaselenoMesto>
+    <Latitude>41.0319444</Latitude>
+    <Longitude>21.334722199999987</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-267/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4002007177469</DanocenBroj>
+    <ShifraZU>2057001</ShifraZU>
+    <NazivNaUstanova>ПЗУ ПРОТЕТИКА 3 ДС</NazivNaUstanova>
+    <Dejnosti>ПРОТЕТИКА</Dejnosti>
+    <Adresa>УЛ.ПАНДЕ НИКОЛОВ ББ</Adresa>
+    <NaselenoMesto>БИТОЛА</NaselenoMesto>
+    <Latitude>41.0319444</Latitude>
+    <Longitude>21.334722199999987</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-268/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4002010521740</DanocenBroj>
+    <ShifraZU>2064001</ShifraZU>
+    <NazivNaUstanova>ПЗУ Д-Р ЦИВКАРОСКИ</NazivNaUstanova>
+    <Dejnosti>ПРОТЕТИКА</Dejnosti>
+    <Adresa>ВАСКО КАРАНГЕЛЕВСКИ ББ ЛАМЕЛА 2</Adresa>
+    <NaselenoMesto>БИТОЛА</NaselenoMesto>
+    <Latitude>41.0319444</Latitude>
+    <Longitude>21.334722199999987</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-799/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4006006121538</DanocenBroj>
+    <ShifraZU>6005201</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДР КОСТАДИН ТАНЕВ</NazivNaUstanova>
+    <Dejnosti>ПРОТЕТИКА</Dejnosti>
+    <Adresa>УЛ.СЛОБОДАН МИТРОВ-ДАНКО БР.38</Adresa>
+    <NaselenoMesto>ГЕВГЕЛИЈА</NaselenoMesto>
+    <Latitude>41.1430411</Latitude>
+    <Longitude>22.501601800000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1004/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4030006613978</DanocenBroj>
+    <ShifraZU>25060101</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДР.БРАНКО ЈОВАНОВСКИ</NazivNaUstanova>
+    <Dejnosti>ПРОТЕТИКА</Dejnosti>
+    <Adresa>УЛ.КОСТА НОВАКОВИЌ ББ</Adresa>
+    <NaselenoMesto>СКОПЈЕ - АЕРОДРОМ</NaselenoMesto>
+    <Latitude>41.9973462</Latitude>
+    <Longitude>21.42799560000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-982/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4030006615270</DanocenBroj>
+    <ShifraZU>25059701</ShifraZU>
+    <NazivNaUstanova>ПЗУ СЕНТ НИКОЛАС ДР М.МАНЕВА</NazivNaUstanova>
+    <Dejnosti>ПРОТЕТИКА</Dejnosti>
+    <Adresa>УЛ.КОСТА НОВАКОВИЌ ББ</Adresa>
+    <NaselenoMesto>СКОПЈЕ - АЕРОДРОМ</NaselenoMesto>
+    <Latitude>41.9973462</Latitude>
+    <Longitude>21.42799560000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-593/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4026006133871</DanocenBroj>
+    <ShifraZU>26006701</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДР ЉУПЧО ГРЧЕСКИ</NazivNaUstanova>
+    <Dejnosti>ПРОТЕТИКА</Dejnosti>
+    <Adresa>КЕЈ 8-МИ НОЕМВРИ ББ</Adresa>
+    <NaselenoMesto>СТРУГА</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-415/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4027007500289</DanocenBroj>
+    <ShifraZU>27014601</ShifraZU>
+    <NazivNaUstanova>ПЗУ ПРОТЕТИКА АРТ</NazivNaUstanova>
+    <Dejnosti>ПРОТЕТИКА</Dejnosti>
+    <Adresa>УЛ.НЕВЕНА СТОЈКОВА БР.17-2/1</Adresa>
+    <NaselenoMesto>СТРУМИЦА</NaselenoMesto>
+    <Latitude>41.4384034</Latitude>
+    <Longitude>22.63638500000002</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-594/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4026006134193</DanocenBroj>
+    <ShifraZU>26006601</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДР КАЛАЈЏИЕСКИ</NazivNaUstanova>
+    <Dejnosti>ПРОТЕТИКА</Dejnosti>
+    <Adresa>с.ВЕВЧАНИ</Adresa>
+    <NaselenoMesto>ВЕВЧАНИ</NaselenoMesto>
+    <Latitude>41.2403</Latitude>
+    <Longitude>20.59310000000005</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-665/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4007007137639</DanocenBroj>
+    <ShifraZU>7011501</ShifraZU>
+    <NazivNaUstanova>ПЗУ ПРОТЕТИКА-ПРО</NazivNaUstanova>
+    <Dejnosti>ПРОТЕТИКА</Dejnosti>
+    <Adresa>УЛ.МАЈОР ЧЕДЕ ФИЛИПОВСКИБР.29</Adresa>
+    <NaselenoMesto>ГОСТИВАР</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-691/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4012007121515</DanocenBroj>
+    <ShifraZU>12005801</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДР ЛИДИЈА СИЛЈАНОСКА</NazivNaUstanova>
+    <Dejnosti>ПРОТЕТИКА</Dejnosti>
+    <Adresa>УЛ.МАРШАЛ ТИТО ББ</Adresa>
+    <NaselenoMesto>КИЧЕВО</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-289/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4011006126665</DanocenBroj>
+    <ShifraZU>11007601</ShifraZU>
+    <NazivNaUstanova>ПЗУ ФИЛИП 2 ДЕНТ</NazivNaUstanova>
+    <Dejnosti>ПРОТЕТИКА</Dejnosti>
+    <Adresa>УЛ.7-МИ СЕПТЕМВРИ БР.72-А</Adresa>
+    <NaselenoMesto>КАВАДАРЦИ</NaselenoMesto>
+    <Latitude>41.4343395</Latitude>
+    <Longitude>22.015397300000018</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-292/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4011007128190</DanocenBroj>
+    <ShifraZU>11008501</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДР ДАНИЦА</NazivNaUstanova>
+    <Dejnosti>ПРОТЕТИКА</Dejnosti>
+    <Adresa>УЛ.ПАНО МУДАРОВ ББ</Adresa>
+    <NaselenoMesto>КАВАДАРЦИ</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1029/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4030006616667</DanocenBroj>
+    <ShifraZU>25060401</ShifraZU>
+    <NazivNaUstanova>ПЗУ СТОМАТОЛОШКА СПЕЦ.ОРД.ПО ПРОТЕТИКА</NazivNaUstanova>
+    <Dejnosti>ПРОТЕТИКА</Dejnosti>
+    <Adresa>УЛ.ФЕРИД БАЈРАМ ББ</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЧАИР</NaselenoMesto>
+    <Latitude>41.9973462</Latitude>
+    <Longitude>21.42799560000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-142/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4004006120300</DanocenBroj>
+    <ShifraZU>29008601</ShifraZU>
+    <NazivNaUstanova>ПЗУ СПЕЦ.ОРД.ПО СТО.ПРОТ.ДР.ЗАФИРОВ И ДР.ВАСИЛЕВА</NazivNaUstanova>
+    <Dejnosti>ПРОТЕТИКА</Dejnosti>
+    <Adresa>УЛ.ШЕФКИ САЛИ БР.5</Adresa>
+    <NaselenoMesto>ВЕЛЕС</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-142/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4004006120300</DanocenBroj>
+    <ShifraZU>29008602</ShifraZU>
+    <NazivNaUstanova>ПЗУ СПЕЦ.ОРД.ПО СТО.ПРОТ.ДР.ЗАФИРОВ И ДР.ВАСИЛЕВА</NazivNaUstanova>
+    <Dejnosti>ПРОТЕТИКА</Dejnosti>
+    <Adresa>УЛ.МАРШАЛ ТИТО БР.34 </Adresa>
+    <NaselenoMesto>ВЕЛЕС</NaselenoMesto>
+    <Latitude>41.7155426</Latitude>
+    <Longitude>21.783322999999996</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-143/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4004006120326</DanocenBroj>
+    <ShifraZU>29008701</ShifraZU>
+    <NazivNaUstanova>ПЗУ ПРОТЕТИКА ДВА</NazivNaUstanova>
+    <Dejnosti>ПРОТЕТИКА</Dejnosti>
+    <Adresa>УЛ.ШЕФКИ САЛИ БР.5</Adresa>
+    <NaselenoMesto>ВЕЛЕС</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-583/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4022006105490</DanocenBroj>
+    <ShifraZU>21001901</ShifraZU>
+    <NazivNaUstanova>ПЗУ СОЛИН-ДЕНТ</NazivNaUstanova>
+    <Dejnosti>ПРОТЕТИКА</Dejnosti>
+    <Adresa>УЛ.ЈАКИМ СТОЈКОВСКИ ББ</Adresa>
+    <NaselenoMesto>ПРОБИШТИП</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1007/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4030007620536</DanocenBroj>
+    <ShifraZU>25058601</ShifraZU>
+    <NazivNaUstanova>ПЗУ  ДР ВЛАДИМИР СИМЕОНОВСКИ</NazivNaUstanova>
+    <Dejnosti>ПРОТЕТИКА</Dejnosti>
+    <Adresa>УЛ.16-ТА МАЕКД.БРИГАДА БР.18</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ГАЗИ БАБА</NaselenoMesto>
+    <Latitude>41.9973462</Latitude>
+    <Longitude>21.42799560000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-985/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4030005545596</DanocenBroj>
+    <ShifraZU>25103301</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДЕНТИЗАР</NazivNaUstanova>
+    <Dejnosti>ПРОТЕТИКА</Dejnosti>
+    <Adresa>УЛ.НАУМ ОХРИДСКИ БР.57</Adresa>
+    <NaselenoMesto>СКОПЈЕ - КИСЕЛА ВОДА</NaselenoMesto>
+    <Latitude>41.9823714</Latitude>
+    <Longitude>21.432856300000026</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-667/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4007008503167</DanocenBroj>
+    <ShifraZU>7014901</ShifraZU>
+    <NazivNaUstanova>ПЗУ СУ - ДЕНТ</NazivNaUstanova>
+    <Dejnosti>ПРОТЕТИКА</Dejnosti>
+    <Adresa>УЛ.МАЈОР ЧЕДЕ ФИЛИПОСКИ БР.29</Adresa>
+    <NaselenoMesto>ГОСТИВАР</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1079/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4080009500993</DanocenBroj>
+    <ShifraZU>25113201</ShifraZU>
+    <NazivNaUstanova>ПЗУ БИОДЕНТАЛ</NazivNaUstanova>
+    <Dejnosti>ПРОТЕТИКА</Dejnosti>
+    <Adresa>УЛ.ДАМЕ ГРУЕВ ГРАД. ЅИД ББ БЛОК 4 ЗГР. 1</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9973462</Latitude>
+    <Longitude>21.42799560000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-485/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4028010512758</DanocenBroj>
+    <ShifraZU>28026601</ShifraZU>
+    <NazivNaUstanova>ПЗУ ЕСТЕТСКА ОРАЛНА ХИРУРГИЈА</NazivNaUstanova>
+    <Dejnosti>ОРАЛНА ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ.29 НОЕМВРИ ББ</Adresa>
+    <NaselenoMesto>ТЕТОВО</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-592/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4026007135738</DanocenBroj>
+    <ShifraZU>26010101</ShifraZU>
+    <NazivNaUstanova>ПЗУ МИО-ДЕНТАЛ</NazivNaUstanova>
+    <Dejnosti>ОРАЛНА ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ.КЕЈ 8-МИ НОЕМВРИ ББ</Adresa>
+    <NaselenoMesto>СТРУГА</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-695/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4012009503954</DanocenBroj>
+    <ShifraZU>12007401</ShifraZU>
+    <NazivNaUstanova>ПЗУ Д-Р ШАБАН</NazivNaUstanova>
+    <Dejnosti>ОРАЛНА ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ.МАРШАЛ ТИТО БР.202</Adresa>
+    <NaselenoMesto>КИЧЕВО</NaselenoMesto>
+    <Latitude>41.5202351</Latitude>
+    <Longitude>20.96291050000002</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1009/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4032009504021</DanocenBroj>
+    <ShifraZU>25118501</ShifraZU>
+    <NazivNaUstanova>ПЗУ Д-Р БИЛЈАНА РАЛИС</NazivNaUstanova>
+    <Dejnosti>ОРАЛНА ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ.ЈАНЕ САНДАНСКИ БР.36/4</Adresa>
+    <NaselenoMesto>СКОПЈЕ - АЕРОДРОМ</NaselenoMesto>
+    <Latitude>41.9877106</Latitude>
+    <Longitude>21.462014599999975</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-984/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4030007010924</DanocenBroj>
+    <ShifraZU>25119301</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДЕНТАЛ АРТ</NazivNaUstanova>
+    <Dejnosti>ОРТОДОНЦИЈА</Dejnosti>
+    <Adresa>УЛ.13 ЈУЛИ БР.20/2 А</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>42.0087927</Latitude>
+    <Longitude>21.35026400000004</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1157/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4021000127657</DanocenBroj>
+    <ShifraZU>20028502</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДР СЕКУЛОСКИ ТОШКО</NazivNaUstanova>
+    <Dejnosti>ОРТОДОНЦИЈА</Dejnosti>
+    <Adresa>УЛ.50 -ТА ДИВИЗИЈА БР.26-3/7</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9904279</Latitude>
+    <Longitude>21.425463900000068</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-663/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4007005133067</DanocenBroj>
+    <ShifraZU>7005802</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДЕНДИА ЕСТЕТИКА-32</NazivNaUstanova>
+    <Dejnosti>ОРТОДОНЦИЈА</Dejnosti>
+    <Adresa>С.НЕГОТИНО</Adresa>
+    <NaselenoMesto>ВРАПЧИШТЕ</NaselenoMesto>
+    <Latitude>41.8769985</Latitude>
+    <Longitude>20.886585100000048</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-291/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4011996106272</DanocenBroj>
+    <ShifraZU>11001902</ShifraZU>
+    <NazivNaUstanova>ПЗУ АНГЕЛА-ДЕНТ</NazivNaUstanova>
+    <Dejnosti>ПРОТЕТИКА</Dejnosti>
+    <Adresa>УЛ БЛАЖО АЛЕКСОВ ББ</Adresa>
+    <NaselenoMesto>КАВАДАРЦИ</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1078/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4030006608273</DanocenBroj>
+    <ShifraZU>25118701</ShifraZU>
+    <NazivNaUstanova>ПЗУ ОМНИДЕНТ</NazivNaUstanova>
+    <Dejnosti>ПРОТЕТИКА</Dejnosti>
+    <Adresa>УЛ.ЧЕДОМИР МИНДЕРОВИЌ БР.30</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>42.0002172</Latitude>
+    <Longitude>21.424252300000035</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-486/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4028006150337</DanocenBroj>
+    <ShifraZU>28026501</ShifraZU>
+    <NazivNaUstanova>ПЗУ ПРОТЕТИКА АГ</NazivNaUstanova>
+    <Dejnosti>ПРОТЕТИКА</Dejnosti>
+    <Adresa>УЛ.29 НОЕМВРИ ББ</Adresa>
+    <NaselenoMesto>ТЕТОВО</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1126/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4030008053341</DanocenBroj>
+    <ShifraZU>25111401</ShifraZU>
+    <NazivNaUstanova>ПЗУ ПРОТЕТИКА ПЕТКОВИ</NazivNaUstanova>
+    <Dejnosti>ПРОТЕТИКА</Dejnosti>
+    <Adresa>УЛ.ЕМИЛ ЗОЛА БР.6</Adresa>
+    <NaselenoMesto>СКОПЈЕ - КИСЕЛА ВОДА</NaselenoMesto>
+    <Latitude>41.9853054</Latitude>
+    <Longitude>21.43655990000002</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1106/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4057010506065</DanocenBroj>
+    <ShifraZU>25121301</ShifraZU>
+    <NazivNaUstanova>ПЗУ Д-Р ВАЛЕНТИНА ДОМАЗЕТОСКА</NazivNaUstanova>
+    <Dejnosti>ПРОТЕТИКА</Dejnosti>
+    <Adresa>УЛ.ПАРИСКА ББ</Adresa>
+    <NaselenoMesto>СКОПЈЕ - КАРПОШ</NaselenoMesto>
+    <Latitude>41.9973462</Latitude>
+    <Longitude>21.42799560000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>0-497/3</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4028010512766</DanocenBroj>
+    <ShifraZU>28026301</ShifraZU>
+    <NazivNaUstanova>ПЗУ БРАЦКЕТ</NazivNaUstanova>
+    <Dejnosti>ОРТОДОНЦИЈА</Dejnosti>
+    <Adresa>УЛ.29 НОЕМВРИ ББ</Adresa>
+    <NaselenoMesto>ТЕТОВО</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-689/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4012005118690</DanocenBroj>
+    <ShifraZU>12007301</ShifraZU>
+    <NazivNaUstanova>ПЗУ Д-Р ПЕРО</NazivNaUstanova>
+    <Dejnosti>ПРОТЕТИКА</Dejnosti>
+    <Adresa>УЛ.БРАЌА МИЛАДИНОВЦИ БР.14</Adresa>
+    <NaselenoMesto>КИЧЕВО</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-498/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4028007156100</DanocenBroj>
+    <ShifraZU>28019601</ShifraZU>
+    <NazivNaUstanova>ПЗУ Д-Р СЕДАТ</NazivNaUstanova>
+    <Dejnosti>ОРАЛНА ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ.БЛАГОЈА  ТОСКА ББ</Adresa>
+    <NaselenoMesto>ТЕТОВО</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-64/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4017006159138</DanocenBroj>
+    <ShifraZU>17029201</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДР ВЕСНА АНГЕЛОВСКА</NazivNaUstanova>
+    <Dejnosti>ОРАЛНА ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ. ПЕРО ЧИЧО БР.7</Adresa>
+    <NaselenoMesto>КУМАНОВО</NaselenoMesto>
+    <Latitude>42.1375917</Latitude>
+    <Longitude>21.73463670000001</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1022/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4030008048666</DanocenBroj>
+    <ShifraZU>25110001</ShifraZU>
+    <NazivNaUstanova>ПЗУ ИМПАКТА ДЕНТАЛ</NazivNaUstanova>
+    <Dejnosti>ОРАЛНА ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ.ВОДЊАНСКА БР.2/2</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9921921</Latitude>
+    <Longitude>21.423597299999983</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-996/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4080009500853</DanocenBroj>
+    <ShifraZU>25113001</ShifraZU>
+    <NazivNaUstanova>ПЗУ Д-Р СЛОБОДАН СТЕФАНОВСКИ</NazivNaUstanova>
+    <Dejnosti>ОРАЛНА ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ.ДАМЕ ГРУЕВ ББ ГРАД/ЅИД БЛ.4 ЗГР.1</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9973462</Latitude>
+    <Longitude>21.42799560000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1024/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4030008023477</DanocenBroj>
+    <ShifraZU>25104702</ShifraZU>
+    <NazivNaUstanova>ПЗУ ВИАДЕНТ</NazivNaUstanova>
+    <Dejnosti>ОРАЛНА ХИРУРГИЈА, ОРТОДОНЦИЈА</Dejnosti>
+    <Adresa>УЛ.3-ТА МАКЕДОНСКА БРИГАДА БР.31-Б/1</Adresa>
+    <NaselenoMesto>СКОПЈЕ - АЕРОДРОМ</NaselenoMesto>
+    <Latitude>41.9800518</Latitude>
+    <Longitude>21.45606870000006</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-997/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4030006613323</DanocenBroj>
+    <ShifraZU>25096801</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДР КАРАЏИНСКИ</NazivNaUstanova>
+    <Dejnosti>ОРАЛНА ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ. КОСТА НОВАКОВИЌ ББ</Adresa>
+    <NaselenoMesto>СКОПЈЕ - АЕРОДРОМ</NaselenoMesto>
+    <Latitude>41.9973462</Latitude>
+    <Longitude>21.42799560000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-73/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4002002182022</DanocenBroj>
+    <ShifraZU>2063601</ShifraZU>
+    <NazivNaUstanova>ПЗУ СМАЈЛИ</NazivNaUstanova>
+    <Dejnosti>ОРТОДОНЦИЈА</Dejnosti>
+    <Adresa>УЛ.ДАМЕ ГРУЕВ БР.141</Adresa>
+    <NaselenoMesto>БИТОЛА</NaselenoMesto>
+    <Latitude>41.0308179</Latitude>
+    <Longitude>21.34922240000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-659/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4007009506267</DanocenBroj>
+    <ShifraZU>7016301</ShifraZU>
+    <NazivNaUstanova>ПЗУ ЕСТЕТИКА НАТУРАЛЕ ОРТ</NazivNaUstanova>
+    <Dejnosti>ОРТОДОНЦИЈА</Dejnosti>
+    <Adresa>С.ЧЕГРАНЕ </Adresa>
+    <NaselenoMesto>ЧЕГРАНЕ</NaselenoMesto>
+    <Latitude>41.830081</Latitude>
+    <Longitude>20.98012790000007</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-494/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4028010512790</DanocenBroj>
+    <ShifraZU>28026701</ShifraZU>
+    <NazivNaUstanova>ПЗУ Г.С. ОРТОДОНЦИЈА</NazivNaUstanova>
+    <Dejnosti>ОРТОДОНЦИЈА</Dejnosti>
+    <Adresa>УЛ.29-ТИ НОЕМВРИ ББ</Adresa>
+    <NaselenoMesto>ТЕТОВО</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-423/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4027007152809</DanocenBroj>
+    <ShifraZU>27014801</ShifraZU>
+    <NazivNaUstanova>ПЗУ  ДЕНТАЛНА  НАСМЕВКА</NazivNaUstanova>
+    <Dejnosti>ОРТОДОНЦИЈА</Dejnosti>
+    <Adresa>УЛ.ДИМИТАР ВЛАХОВ  ББ,КАТ 2-СОБА 6А</Adresa>
+    <NaselenoMesto>СТРУМИЦА</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-998/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4057009500177</DanocenBroj>
+    <ShifraZU>25113901</ShifraZU>
+    <NazivNaUstanova>ПЗУ Д-Р ЛЕОПОЛДИНА</NazivNaUstanova>
+    <Dejnosti>ОРТОДОНЦИЈА</Dejnosti>
+    <Adresa>УЛ.ПАРТИЗАНСКИ ОДРЕДИ БР.82/2-3</Adresa>
+    <NaselenoMesto>СКОПЈЕ - КАРПОШ</NaselenoMesto>
+    <Latitude>42.002753</Latitude>
+    <Longitude>21.398465299999998</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-122/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4021008501981</DanocenBroj>
+    <ShifraZU>20058301</ShifraZU>
+    <NazivNaUstanova>ПЗУ  Д- Р ВАЛЕНТИНА</NazivNaUstanova>
+    <Dejnosti>ОРТОДОНЦИЈА</Dejnosti>
+    <Adresa>УЛ.МАРКСОВА ББ</Adresa>
+    <NaselenoMesto>ПРИЛЕП</NaselenoMesto>
+    <Latitude>41.35173</Latitude>
+    <Longitude>21.56214</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-119/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4021008501744</DanocenBroj>
+    <ShifraZU>20058401</ShifraZU>
+    <NazivNaUstanova>ПЗУ ПРВА ПРОТЕТИКА ЗА ПРОТЕЗИ, МОСТОВИ И КОРОНКИ</NazivNaUstanova>
+    <Dejnosti>ПРОТЕТИКА</Dejnosti>
+    <Adresa>УЛ.МАРКСОВА ББ</Adresa>
+    <NaselenoMesto>ПРИЛЕП</NaselenoMesto>
+    <Latitude>41.35173</Latitude>
+    <Longitude>21.56214</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1005/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4030008046027</DanocenBroj>
+    <ShifraZU>25109901</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДЕНТОМЕДИКА СРБИНОВСКИ</NazivNaUstanova>
+    <Dejnosti>ПРОТЕТИКА</Dejnosti>
+    <Adresa>УЛ.ПАРТИЗАНСКИ ОДРЕДИ БР.97/2</Adresa>
+    <NaselenoMesto>СКОПЈЕ - КАРПОШ</NaselenoMesto>
+    <Latitude>42.002753</Latitude>
+    <Longitude>21.398465299999998</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-175/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4020006146630</DanocenBroj>
+    <ShifraZU>19013501</ShifraZU>
+    <NazivNaUstanova>ПЗУ М2 ДЕНТАЛ</NazivNaUstanova>
+    <Dejnosti>ПРОТЕТИКА</Dejnosti>
+    <Adresa>УЛ.ДИМИТАР ВЛАХОВ БР.69</Adresa>
+    <NaselenoMesto>ОХРИД</NaselenoMesto>
+    <Latitude>41.1133488</Latitude>
+    <Longitude>20.804129699999976</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1018/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4030008052213</DanocenBroj>
+    <ShifraZU>25113801</ShifraZU>
+    <NazivNaUstanova>ПЗУ Д-Р НАТАЛИЈА М.ЏУНДЕВА</NazivNaUstanova>
+    <Dejnosti>ПРОТЕТИКА</Dejnosti>
+    <Adresa>УЛ.ИВАН АГОВСКИ ББ</Adresa>
+    <NaselenoMesto>СКОПЈЕ - КАРПОШ</NaselenoMesto>
+    <Latitude>41.9973462</Latitude>
+    <Longitude>21.42799560000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1000/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4057010505689</DanocenBroj>
+    <ShifraZU>25121101</ShifraZU>
+    <NazivNaUstanova>ПЗУ Д-Р ИРЕНА КОЛЕВСКА</NazivNaUstanova>
+    <Dejnosti>ПРОТЕТИКА</Dejnosti>
+    <Adresa>УЛ.ПАРИСКА ББ</Adresa>
+    <NaselenoMesto>СКОПЈЕ - КАРПОШ</NaselenoMesto>
+    <Latitude>41.9973462</Latitude>
+    <Longitude>21.42799560000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-493/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4028009508542</DanocenBroj>
+    <ShifraZU>28023401</ShifraZU>
+    <NazivNaUstanova>ПЗУ КОСТОВСКИ</NazivNaUstanova>
+    <Dejnosti>ПРОТЕТИКА</Dejnosti>
+    <Adresa>УЛ.ПЛОШТАД МАРШАЛ ТИТО БР.6/1</Adresa>
+    <NaselenoMesto>ТЕТОВО</NaselenoMesto>
+    <Latitude>42.0077994</Latitude>
+    <Longitude>20.975585300000034</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-496/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4028005142683</DanocenBroj>
+    <ShifraZU>28022501</ShifraZU>
+    <NazivNaUstanova>ПЗУ ТРИПУНОСКИ</NazivNaUstanova>
+    <Dejnosti>ПРОТЕТИКА</Dejnosti>
+    <Adresa>УЛ.ЈНА БР.2/2</Adresa>
+    <NaselenoMesto>ТЕТОВО</NaselenoMesto>
+    <Latitude>42.0054895</Latitude>
+    <Longitude>20.977309900000023</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1047/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>5030991100568</DanocenBroj>
+    <ShifraZU>25055702</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДР БЛАГОРОДНА ИНДОВСКА</NazivNaUstanova>
+    <Dejnosti>ПРОТЕТИКА</Dejnosti>
+    <Adresa>УЛ. МИТО Х.В. ЈАСМИН БР.12/2</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9932646</Latitude>
+    <Longitude>21.42418470000007</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1103/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4030008044377</DanocenBroj>
+    <ShifraZU>25109801</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДР НЕДЕВИ</NazivNaUstanova>
+    <Dejnosti>ПРОТЕТИКА</Dejnosti>
+    <Adresa>УЛ.ЛЕНИНГРАДСКА БР.102Б</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9899735</Latitude>
+    <Longitude>21.43683920000001</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1104/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4030004524960</DanocenBroj>
+    <ShifraZU>25096901</ShifraZU>
+    <NazivNaUstanova>ПЗУ КАЛЕ</NazivNaUstanova>
+    <Dejnosti>ПРОТЕТИКА</Dejnosti>
+    <Adresa>УЛ. ЉУБОТЕНСКА БР.5</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>42.05115929999999</Latitude>
+    <Longitude>21.455989499999987</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1013/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4030005552452</DanocenBroj>
+    <ShifraZU>25043602</ShifraZU>
+    <NazivNaUstanova>ПЗУ С - С ДЕНТ</NazivNaUstanova>
+    <Dejnosti>ПРОТЕТИКА</Dejnosti>
+    <Adresa>УЛ. 4 ЈУЛИ БР.129</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЃОРЧЕ ПЕТРОВ</NaselenoMesto>
+    <Latitude>42.0085595</Latitude>
+    <Longitude>21.346195699999953</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-343/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4013004119770</DanocenBroj>
+    <ShifraZU>13072302</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДР ПАШОСКИ</NazivNaUstanova>
+    <Dejnosti>ПРОТЕТИКА</Dejnosti>
+    <Adresa>УЛ. МИЛАН ЗЕЧЕВИЌ БР 21</Adresa>
+    <NaselenoMesto>КОЧАНИ</NaselenoMesto>
+    <Latitude>45.4654542</Latitude>
+    <Longitude>9.186515999999983</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-625/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4009005108219</DanocenBroj>
+    <ShifraZU>9000702</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДР СВЕТЛАНА</NazivNaUstanova>
+    <Dejnosti>ПРОТЕТИКА</Dejnosti>
+    <Adresa>УЛ. МЕТОДИ МИТЕВСКИ БРИЦО БР 44</Adresa>
+    <NaselenoMesto>ДЕЛЧЕВО</NaselenoMesto>
+    <Latitude>41.9661994</Latitude>
+    <Longitude>22.779947499999935</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1021/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4030005540950</DanocenBroj>
+    <ShifraZU>25053302</ShifraZU>
+    <NazivNaUstanova>ПЗУ Д-Р СТОЈНЕ КАРАГОНОВА</NazivNaUstanova>
+    <Dejnosti>ПРОТЕТИКА</Dejnosti>
+    <Adresa>УЛ. ДАМЕ ГРУЕВ БР. 1</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>42.021316</Latitude>
+    <Longitude>21.3612617</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-236/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4029006134478</DanocenBroj>
+    <ShifraZU>30008701</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДР САШО МИЛЕВ</NazivNaUstanova>
+    <Dejnosti>ОРТОДОНЦИЈА</Dejnosti>
+    <Adresa>УЛ.ХРИСТИЈАН КАРПОШ БР.2/3</Adresa>
+    <NaselenoMesto>ШТИП</NaselenoMesto>
+    <Latitude>41.7384521</Latitude>
+    <Longitude>22.200042199999984</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-331/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4005006108047</DanocenBroj>
+    <ShifraZU>5002802</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДР ТОДОРОВА И ДР ПАВЛОВ</NazivNaUstanova>
+    <Dejnosti>ОРТОДОНЦИЈА</Dejnosti>
+    <Adresa>УЛ. ЈАКИМОВСКИ ПАТ ББ</Adresa>
+    <NaselenoMesto>ВИНИЦА</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1002/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4030008030929</DanocenBroj>
+    <ShifraZU>25109701</ShifraZU>
+    <NazivNaUstanova>ПЗУ ОРТО ВИЗИЈА-М</NazivNaUstanova>
+    <Dejnosti>ОРТОДОНЦИЈА</Dejnosti>
+    <Adresa>УЛ.БУЛ.ВИДОЕ СМИЛЕВСКИ БАТО БР.75/3-3</Adresa>
+    <NaselenoMesto>СКОПЈЕ - АЕРОДРОМ</NaselenoMesto>
+    <Latitude>41.9836673</Latitude>
+    <Longitude>21.480277800000067</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-398/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4019007112855</DanocenBroj>
+    <ShifraZU>18003602</ShifraZU>
+    <NazivNaUstanova>ПЗУ АЛЕКСОВСКИ ДВА</NazivNaUstanova>
+    <Dejnosti>ПРОТЕТИКА</Dejnosti>
+    <Adresa>УЛ.ВЕЉКО ВЛАХОВИЌ БР.9</Adresa>
+    <NaselenoMesto>НЕГОТИНО</NaselenoMesto>
+    <Latitude>41.480668</Latitude>
+    <Longitude>22.081830200000013</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1049/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4080009501000</DanocenBroj>
+    <ShifraZU>25113101</ShifraZU>
+    <NazivNaUstanova>ПЗУ ПРОТЕТИКА С И С</NazivNaUstanova>
+    <Dejnosti>ПРОТЕТИКА</Dejnosti>
+    <Adresa>УЛ.ДАМЕ ГРУЕВ  ГРАД/ЅИД ББ БЛОК 4-3 ЗГР.1</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9973462</Latitude>
+    <Longitude>21.42799560000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-332/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4005006108039</DanocenBroj>
+    <ShifraZU>5003102</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДР ВЕРКА ЛАЗАРОВА</NazivNaUstanova>
+    <Dejnosti>ПРОТЕТИКА</Dejnosti>
+    <Adresa>УЛ. ЈАКИМОВСКИ ПАТ ББ</Adresa>
+    <NaselenoMesto>ВИНИЦА</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1100/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4030006617191</DanocenBroj>
+    <ShifraZU>25058901</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДР ЧИЧАКОВСКА </NazivNaUstanova>
+    <Dejnosti>ОРТОДОНЦИЈА</Dejnosti>
+    <Adresa>УЛ.КОСТА НОВАКОВИЌ ББ</Adresa>
+    <NaselenoMesto>СКОПЈЕ - АЕРОДРОМ</NaselenoMesto>
+    <Latitude>41.9973462</Latitude>
+    <Longitude>21.42799560000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-174/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4020006146649</DanocenBroj>
+    <ShifraZU>19011302</ShifraZU>
+    <NazivNaUstanova>ПЗУ СТУДИО ДЕНТАЛ</NazivNaUstanova>
+    <Dejnosti>ОРАЛНА ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ. ДИМИТАР ВЛАХОВ БР.69</Adresa>
+    <NaselenoMesto>ОХРИД</NaselenoMesto>
+    <Latitude>41.1133488</Latitude>
+    <Longitude>20.804129699999976</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1206/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4057010505867</DanocenBroj>
+    <ShifraZU>25124802</ShifraZU>
+    <NazivNaUstanova>ПЗУ Д-Р САШКА_АЛЕКСДЕНТАЛ</NazivNaUstanova>
+    <Dejnosti>ОРАЛНА ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ.ПАРИСКА ББ</Adresa>
+    <NaselenoMesto>СКОПЈЕ - КАРПОШ</NaselenoMesto>
+    <Latitude>41.9973462</Latitude>
+    <Longitude>21.42799560000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1205/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4007011510603</DanocenBroj>
+    <ShifraZU>7018501</ShifraZU>
+    <NazivNaUstanova>ПЗУ ВИВА ДЕНТ - АДЕА</NazivNaUstanova>
+    <Dejnosti>ОРАЛНА ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ.БОРИС КИДРИЧ БР.113/2-2</Adresa>
+    <NaselenoMesto>ГОСТИВАР</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-70/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4002004163599</DanocenBroj>
+    <ShifraZU>2034102</ShifraZU>
+    <NazivNaUstanova>ПЗУ ОРТОДЕНТ - М</NazivNaUstanova>
+    <Dejnosti>ОРТОДОНЦИЈА</Dejnosti>
+    <Adresa>УЛ. 1 МАЈ 84 - Б</Adresa>
+    <NaselenoMesto>БИТОЛА</NaselenoMesto>
+    <Latitude>41.0321442</Latitude>
+    <Longitude>21.332064299999956</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1208/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4057010505972</DanocenBroj>
+    <ShifraZU>25124701</ShifraZU>
+    <NazivNaUstanova>ПЗУ Д-Р ИГОР КИРОВСКИ</NazivNaUstanova>
+    <Dejnosti>ОРТОДОНЦИЈА</Dejnosti>
+    <Adresa>УЛ.ПАРИСКА  ББ</Adresa>
+    <NaselenoMesto>СКОПЈЕ - КАРПОШ</NaselenoMesto>
+    <Latitude>41.9973462</Latitude>
+    <Longitude>21.42799560000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-121/2</ArhivskiBroj>
+    <TipDogovorID>6</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита - Стоматологија</TipNaDogovor>
+    <DanocenBroj>4021008501736</DanocenBroj>
+    <ShifraZU>20058201</ShifraZU>
+    <NazivNaUstanova>ПЗУ АФРОДИТА ПРО ДЕНТАЛ</NazivNaUstanova>
+    <Dejnosti>ПРОТЕТИКА</Dejnosti>
+    <Adresa>УЛ.МАРКСОВА ББ</Adresa>
+    <NaselenoMesto>ПРИЛЕП</NaselenoMesto>
+    <Latitude>41.35173</Latitude>
+    <Longitude>21.56214</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+</Dogovori>

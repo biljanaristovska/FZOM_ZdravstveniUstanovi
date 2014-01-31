@@ -1,0 +1,2863 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dogovori>
+  <Dogovor>
+    <ArhivskiBroj>09-306/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4011005123514</DanocenBroj>
+    <ShifraZU>11004601</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ЗДРАВСТВЕН ДОМ КАВАДАРЦИ</NazivNaUstanova>
+    <Dejnosti>БИОХЕМИСКА ЛАБОРАТОРИЈА, ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ОСТАНАТИ ДЕЈНОСТИ, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, СПОРТСКА МЕДИЦИНА</Dejnosti>
+    <Adresa>УЛ. БРАЌА МИЛАДИНОВИ БР 11</Adresa>
+    <NaselenoMesto>КАВАДАРЦИ</NaselenoMesto>
+    <Latitude>41.4324754</Latitude>
+    <Longitude>22.018227000000024</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-12/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4015996100962</DanocenBroj>
+    <ShifraZU>15000103</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ КРИВА ПАЛАНКА</NazivNaUstanova>
+    <Dejnosti>БИОХЕМИСКА ЛАБОРАТОРИЈА, ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ОСТАНАТИ ДЕЈНОСТИ, ОФТАЛМОЛОГИЈА, ПНЕУМОФИЗИОЛОГИЈА, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, РЕНТГЕН ДИЈАГНОСТИКА СО УЛТРАЗВУЧНА ДИЈАГНОСТИКА, ФИЗИКАЛНА МЕДИЦИНА, ХИРУРШКИ БОЛЕСТИ</Dejnosti>
+    <Adresa>УЛ.ЈОАКИМ ОСОГОВСКИ БР.ББ КРИВА ПАЛАНКА</Adresa>
+    <NaselenoMesto>КРИВА ПАЛАНКА</NaselenoMesto>
+    <Latitude>42.19789</Latitude>
+    <Longitude>22.323941200000036</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-3/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4010995101335</DanocenBroj>
+    <ShifraZU>10070201</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ ДЕМИР ХИСАР</NazivNaUstanova>
+    <Dejnosti>БИОХЕМИСКА ЛАБОРАТОРИЈА, ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, РАДИО ДИЈАГНОСТИКА</Dejnosti>
+    <Adresa>УЛ.БИТОЛСКА ББ</Adresa>
+    <NaselenoMesto>ДЕМИР ХИСАР</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-374/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4003975100263</DanocenBroj>
+    <ShifraZU>4000102</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ ВАЛАНДОВО</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА, ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ОПШТА МЕДИЦИНА, РЕНТГЕН ДИЈАГНОСТИКА , ФИЗИКАЛНА МЕДИЦИНА И РЕХАБИЛИТАЦИЈА</Dejnosti>
+    <Adresa>УЛ.ЛАЗАР КОЛИШЕВСКИ ББ</Adresa>
+    <NaselenoMesto>ВАЛАНДОВО</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-80/3_problem</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4021005146498</DanocenBroj>
+    <ShifraZU>20047502</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ ПРИЛЕП</NazivNaUstanova>
+    <Dejnosti>БИОХЕМИСКА ЛАБОРАТОРИЈА, ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ОСТАНАТИ ДЕЈНОСТИ, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, СПОРТСКА МЕДИЦИНА</Dejnosti>
+    <Adresa>УЛ. МАРКСОВА ББ</Adresa>
+    <NaselenoMesto>ПРИЛЕП</NaselenoMesto>
+    <Latitude>41.35173</Latitude>
+    <Longitude>21.56214</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>25-09-1259/9</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4030990271748</DanocenBroj>
+    <ShifraZU>25044937</ShifraZU>
+    <NazivNaUstanova>МИНИСТЕРСТВО ЗА ОДБРАНА НА Р.МАКЕДОНИЈА СКОПЈЕ</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА, ЛАБОРАТОРИЈА СО МИКРОБИОЛОГИЈА, НЕВРОЛОГИЈА, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОРТОДОНЦИЈА, ОФТАЛМОЛОГИЈА, ПРОТЕТИКА, ПСИХИЈАТРИЈА, РАДИО ДИЈАГНОСТИКА</Dejnosti>
+    <Adresa>ОРЦЕ НИКОЛОВ ББ</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>42.0061593</Latitude>
+    <Longitude>21.412497400000007</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-12/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4015996100962</DanocenBroj>
+    <ShifraZU>15000105</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ КРИВА ПАЛАНКА</NazivNaUstanova>
+    <Dejnosti>БИОХЕМИСКА ЛАБОРАТОРИЈА, ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ОСТАНАТИ ДЕЈНОСТИ, ОФТАЛМОЛОГИЈА, ПНЕУМОФИЗИОЛОГИЈА, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, РЕНТГЕН ДИЈАГНОСТИКА СО УЛТРАЗВУЧНА ДИЈАГНОСТИКА, ФИЗИКАЛНА МЕДИЦИНА, ХИРУРШКИ БОЛЕСТИ</Dejnosti>
+    <Adresa>УЛ.ЈОАКИМ ОСОГОВСКИ БР.ББ КРИВА ПАЛАНКА</Adresa>
+    <NaselenoMesto>КРИВА ПАЛАНКА</NaselenoMesto>
+    <Latitude>42.19789</Latitude>
+    <Longitude>22.323941200000036</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-274/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4024992100924</DanocenBroj>
+    <ShifraZU>23000102</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ РЕСЕН</NazivNaUstanova>
+    <Dejnosti>ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ЛАБОРАТОРИЈА, ОРТОПЕДИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, РЕНТГЕН ДИЈАГНОСТИКА , ФИЗИКАЛНА ТЕРАПИЈА </Dejnosti>
+    <Adresa>УЛ.КОЧО РАЦИН ББ</Adresa>
+    <NaselenoMesto>РЕСЕН</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-3/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4010995101335</DanocenBroj>
+    <ShifraZU>10070203</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ ДЕМИР ХИСАР</NazivNaUstanova>
+    <Dejnosti>БИОХЕМИСКА ЛАБОРАТОРИЈА, ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, РАДИО ДИЈАГНОСТИКА</Dejnosti>
+    <Adresa>УЛ.БИТОЛСКА ББ</Adresa>
+    <NaselenoMesto>ДЕМИР ХИСАР</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-401/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4019996100968</DanocenBroj>
+    <ShifraZU>18000105</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ НЕГОТИНО </NazivNaUstanova>
+    <Dejnosti>ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ЛАБОРАТОРИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПСИХИЈАТРИЈА, ФИЗИЈАТРИЈА</Dejnosti>
+    <Adresa>УЛ. ВЕЉКО ВЛАХОВИЌ БР. 9</Adresa>
+    <NaselenoMesto>НЕГОТИНО</NaselenoMesto>
+    <Latitude>41.480668</Latitude>
+    <Longitude>22.081830200000013</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1034/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4001989102703</DanocenBroj>
+    <ShifraZU>1070308</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ ПЕХЧЕВО </NazivNaUstanova>
+    <Dejnosti>ДЕТСКА И ПРЕВЕНТИВНА СТОМАТОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, МИКРОБИОЛОГИЈА, ОПШТА МЕДИЦИНА, ОФТАЛМОЛОГИЈА, ПЕДИЈАТРИЈА, РАДИО ДИЈАГНОСТИКА</Dejnosti>
+    <Adresa>УЛ. ИНДУСТРИСКА БР. 5 ПЕХЧЕВО</Adresa>
+    <NaselenoMesto>ПЕХЧЕВО</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-374/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4003975100263</DanocenBroj>
+    <ShifraZU>4000101</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ ВАЛАНДОВО</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА, ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ОПШТА МЕДИЦИНА, РЕНТГЕН ДИЈАГНОСТИКА , ФИЗИКАЛНА МЕДИЦИНА И РЕХАБИЛИТАЦИЈА</Dejnosti>
+    <Adresa>УЛ. Л. КОЛИШЕВСКИ ББ</Adresa>
+    <NaselenoMesto>ВАЛАНДОВО</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-795/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4029005130460</DanocenBroj>
+    <ShifraZU>30004202</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ ШТИП</NazivNaUstanova>
+    <Dejnosti>ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ОСТАНАТИ ДЕЈНОСТИ, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА</Dejnosti>
+    <Adresa>УЛ. ХРИСТИЈАН КАРПОШ ББ</Adresa>
+    <NaselenoMesto>ШТИП</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-795/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4029005130460</DanocenBroj>
+    <ShifraZU>30004203</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ ШТИП</NazivNaUstanova>
+    <Dejnosti>ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ОСТАНАТИ ДЕЈНОСТИ, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА</Dejnosti>
+    <Adresa>УЛ. ХРИСТИЈАН КАРПОШ ББ</Adresa>
+    <NaselenoMesto>ШТИП</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-795/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4029005130460</DanocenBroj>
+    <ShifraZU>30004204</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ ШТИП</NazivNaUstanova>
+    <Dejnosti>ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ОСТАНАТИ ДЕЈНОСТИ, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА</Dejnosti>
+    <Adresa>УЛ. ХРИСТИЈАН КАРПОШ ББ</Adresa>
+    <NaselenoMesto>ШТИП</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-580/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4022995100426</DanocenBroj>
+    <ShifraZU>21000102</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ ПРОБИШТИП</NazivNaUstanova>
+    <Dejnosti>ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ЛАБОРАТОРИЈА, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, ПСИХИЈАТРИЈА, РЕНТГЕН ДИЈАГНОСТИКА </Dejnosti>
+    <Adresa>ЈАКИМ СПИРОВ ББ</Adresa>
+    <NaselenoMesto>ПРОБИШТИП</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-972/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4030995113423</DanocenBroj>
+    <ShifraZU>25010114</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ СКОПЈЕ</NazivNaUstanova>
+    <Dejnosti>АЛЕРГОЛОГИЈА, БИОХЕМИСКА ЛАБОРАТОРИЈА, ДЕРМАТОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, НЕВРОЛОГИЈА, ОРТОПЕДИЈА И ТРАУМАТОЛОГИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, ПСИХИЈАТРИЈА, РАДИО ДИЈАГНОСТИКА, ФИЗИКАЛНА МЕДИЦИНА</Dejnosti>
+    <Adresa>УЛ. КРСТЕ МИСИРКОВ ББ</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9973462</Latitude>
+    <Longitude>21.42799560000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-972/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4030995113423</DanocenBroj>
+    <ShifraZU>25010108</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ СКОПЈЕ</NazivNaUstanova>
+    <Dejnosti>АЛЕРГОЛОГИЈА, БИОХЕМИСКА ЛАБОРАТОРИЈА, ДЕРМАТОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, НЕВРОЛОГИЈА, ОРТОПЕДИЈА И ТРАУМАТОЛОГИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, ПСИХИЈАТРИЈА, РАДИО ДИЈАГНОСТИКА, ФИЗИКАЛНА МЕДИЦИНА</Dejnosti>
+    <Adresa>УЛ. КРСТЕ МИСИРКОВ ББ</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9973462</Latitude>
+    <Longitude>21.42799560000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-972/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4030995113423</DanocenBroj>
+    <ShifraZU>25010111</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ СКОПЈЕ</NazivNaUstanova>
+    <Dejnosti>АЛЕРГОЛОГИЈА, БИОХЕМИСКА ЛАБОРАТОРИЈА, ДЕРМАТОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, НЕВРОЛОГИЈА, ОРТОПЕДИЈА И ТРАУМАТОЛОГИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, ПСИХИЈАТРИЈА, РАДИО ДИЈАГНОСТИКА, ФИЗИКАЛНА МЕДИЦИНА</Dejnosti>
+    <Adresa>УЛ. КРСТЕ МИСИРКОВ ББ</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9973462</Latitude>
+    <Longitude>21.42799560000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-972/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4030995113423</DanocenBroj>
+    <ShifraZU>25010105</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ СКОПЈЕ</NazivNaUstanova>
+    <Dejnosti>АЛЕРГОЛОГИЈА, БИОХЕМИСКА ЛАБОРАТОРИЈА, ДЕРМАТОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, НЕВРОЛОГИЈА, ОРТОПЕДИЈА И ТРАУМАТОЛОГИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, ПСИХИЈАТРИЈА, РАДИО ДИЈАГНОСТИКА, ФИЗИКАЛНА МЕДИЦИНА</Dejnosti>
+    <Adresa>УЛ. КРСТЕ МИСИРКОВ ББ</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9973462</Latitude>
+    <Longitude>21.42799560000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-972/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4030995113423</DanocenBroj>
+    <ShifraZU>25010107</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ СКОПЈЕ</NazivNaUstanova>
+    <Dejnosti>АЛЕРГОЛОГИЈА, БИОХЕМИСКА ЛАБОРАТОРИЈА, ДЕРМАТОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, НЕВРОЛОГИЈА, ОРТОПЕДИЈА И ТРАУМАТОЛОГИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, ПСИХИЈАТРИЈА, РАДИО ДИЈАГНОСТИКА, ФИЗИКАЛНА МЕДИЦИНА</Dejnosti>
+    <Adresa>УЛ. КРСТЕ МИСИРКОВ ББ</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9973462</Latitude>
+    <Longitude>21.42799560000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-972/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4030995113423</DanocenBroj>
+    <ShifraZU>25010112</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ СКОПЈЕ</NazivNaUstanova>
+    <Dejnosti>АЛЕРГОЛОГИЈА, БИОХЕМИСКА ЛАБОРАТОРИЈА, ДЕРМАТОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, НЕВРОЛОГИЈА, ОРТОПЕДИЈА И ТРАУМАТОЛОГИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, ПСИХИЈАТРИЈА, РАДИО ДИЈАГНОСТИКА, ФИЗИКАЛНА МЕДИЦИНА</Dejnosti>
+    <Adresa>УЛ. КРСТЕ МИСИРКОВ ББ</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9973462</Latitude>
+    <Longitude>21.42799560000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-972/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4030995113423</DanocenBroj>
+    <ShifraZU>25010103</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ СКОПЈЕ</NazivNaUstanova>
+    <Dejnosti>АЛЕРГОЛОГИЈА, БИОХЕМИСКА ЛАБОРАТОРИЈА, ДЕРМАТОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, НЕВРОЛОГИЈА, ОРТОПЕДИЈА И ТРАУМАТОЛОГИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, ПСИХИЈАТРИЈА, РАДИО ДИЈАГНОСТИКА, ФИЗИКАЛНА МЕДИЦИНА</Dejnosti>
+    <Adresa>УЛ. КРСТЕ МИСИРКОВ ББ</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9973462</Latitude>
+    <Longitude>21.42799560000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-972/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4030995113423</DanocenBroj>
+    <ShifraZU>25010109</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ СКОПЈЕ</NazivNaUstanova>
+    <Dejnosti>АЛЕРГОЛОГИЈА, БИОХЕМИСКА ЛАБОРАТОРИЈА, ДЕРМАТОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, НЕВРОЛОГИЈА, ОРТОПЕДИЈА И ТРАУМАТОЛОГИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, ПСИХИЈАТРИЈА, РАДИО ДИЈАГНОСТИКА, ФИЗИКАЛНА МЕДИЦИНА</Dejnosti>
+    <Adresa>УЛ. КРСТЕ МИСИРКОВ ББ</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9973462</Latitude>
+    <Longitude>21.42799560000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-972/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4030995113423</DanocenBroj>
+    <ShifraZU>25010110</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ СКОПЈЕ</NazivNaUstanova>
+    <Dejnosti>АЛЕРГОЛОГИЈА, БИОХЕМИСКА ЛАБОРАТОРИЈА, ДЕРМАТОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, НЕВРОЛОГИЈА, ОРТОПЕДИЈА И ТРАУМАТОЛОГИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, ПСИХИЈАТРИЈА, РАДИО ДИЈАГНОСТИКА, ФИЗИКАЛНА МЕДИЦИНА</Dejnosti>
+    <Adresa>УЛ. КРСТЕ МИСИРКОВ ББ</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9973462</Latitude>
+    <Longitude>21.42799560000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-972/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4030995113423</DanocenBroj>
+    <ShifraZU>25010113</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ СКОПЈЕ</NazivNaUstanova>
+    <Dejnosti>АЛЕРГОЛОГИЈА, БИОХЕМИСКА ЛАБОРАТОРИЈА, ДЕРМАТОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, НЕВРОЛОГИЈА, ОРТОПЕДИЈА И ТРАУМАТОЛОГИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, ПСИХИЈАТРИЈА, РАДИО ДИЈАГНОСТИКА, ФИЗИКАЛНА МЕДИЦИНА</Dejnosti>
+    <Adresa>УЛ. КРСТЕ МИСИРКОВ ББ</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9973462</Latitude>
+    <Longitude>21.42799560000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-972/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4030995113423</DanocenBroj>
+    <ShifraZU>25010106</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ СКОПЈЕ</NazivNaUstanova>
+    <Dejnosti>АЛЕРГОЛОГИЈА, БИОХЕМИСКА ЛАБОРАТОРИЈА, ДЕРМАТОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, НЕВРОЛОГИЈА, ОРТОПЕДИЈА И ТРАУМАТОЛОГИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, ПСИХИЈАТРИЈА, РАДИО ДИЈАГНОСТИКА, ФИЗИКАЛНА МЕДИЦИНА</Dejnosti>
+    <Adresa>УЛ. КРСТЕ МИСИРКОВ ББ</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9973462</Latitude>
+    <Longitude>21.42799560000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-972/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4030995113423</DanocenBroj>
+    <ShifraZU>25010101</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ СКОПЈЕ</NazivNaUstanova>
+    <Dejnosti>АЛЕРГОЛОГИЈА, БИОХЕМИСКА ЛАБОРАТОРИЈА, ДЕРМАТОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, НЕВРОЛОГИЈА, ОРТОПЕДИЈА И ТРАУМАТОЛОГИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, ПСИХИЈАТРИЈА, РАДИО ДИЈАГНОСТИКА, ФИЗИКАЛНА МЕДИЦИНА</Dejnosti>
+    <Adresa>УЛ. КРСТЕ МИСИРКОВ ББ</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9973462</Latitude>
+    <Longitude>21.42799560000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-951/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4001978100075</DanocenBroj>
+    <ShifraZU>1070101</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ БЕРОВО</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА, ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ЛАБОРАТОРИЈА, ОФТАЛМОЛОГИЈА, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, РЕНТГЕН ДИЈАГНОСТИКА </Dejnosti>
+    <Adresa>УЛ. ЗАДАРСКА БР. 38</Adresa>
+    <NaselenoMesto>БЕРОВО</NaselenoMesto>
+    <Latitude>41.708782</Latitude>
+    <Longitude>22.850893199999973</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-951/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4001978100075</DanocenBroj>
+    <ShifraZU>1070102</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ БЕРОВО</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА, ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ЛАБОРАТОРИЈА, ОФТАЛМОЛОГИЈА, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, РЕНТГЕН ДИЈАГНОСТИКА </Dejnosti>
+    <Adresa>УЛ. ЗАДАРСКА БР. 38</Adresa>
+    <NaselenoMesto>БЕРОВО</NaselenoMesto>
+    <Latitude>41.708782</Latitude>
+    <Longitude>22.850893199999973</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-951/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4001978100075</DanocenBroj>
+    <ShifraZU>1070103</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ БЕРОВО</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА, ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ЛАБОРАТОРИЈА, ОФТАЛМОЛОГИЈА, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, РЕНТГЕН ДИЈАГНОСТИКА </Dejnosti>
+    <Adresa>УЛ. ЗАДАРСКА БР. 38</Adresa>
+    <NaselenoMesto>БЕРОВО</NaselenoMesto>
+    <Latitude>41.708782</Latitude>
+    <Longitude>22.850893199999973</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-951/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4001978100075</DanocenBroj>
+    <ShifraZU>1070104</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ БЕРОВО</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА, ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ЛАБОРАТОРИЈА, ОФТАЛМОЛОГИЈА, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, РЕНТГЕН ДИЈАГНОСТИКА </Dejnosti>
+    <Adresa>УЛ. ЗАДАРСКА БР. 38</Adresa>
+    <NaselenoMesto>БЕРОВО</NaselenoMesto>
+    <Latitude>41.708782</Latitude>
+    <Longitude>22.850893199999973</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-951/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4001978100075</DanocenBroj>
+    <ShifraZU>1070106</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ БЕРОВО</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА, ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ЛАБОРАТОРИЈА, ОФТАЛМОЛОГИЈА, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, РЕНТГЕН ДИЈАГНОСТИКА </Dejnosti>
+    <Adresa>УЛ. ЗАДАРСКА БР. 38</Adresa>
+    <NaselenoMesto>БЕРОВО</NaselenoMesto>
+    <Latitude>41.708782</Latitude>
+    <Longitude>22.850893199999973</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-951/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4001978100075</DanocenBroj>
+    <ShifraZU>1070107</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ БЕРОВО</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА, ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ЛАБОРАТОРИЈА, ОФТАЛМОЛОГИЈА, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, РЕНТГЕН ДИЈАГНОСТИКА </Dejnosti>
+    <Adresa>УЛ. ЗАДАРСКА БР. 38</Adresa>
+    <NaselenoMesto>БЕРОВО</NaselenoMesto>
+    <Latitude>41.708782</Latitude>
+    <Longitude>22.850893199999973</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-374/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4003975100263</DanocenBroj>
+    <ShifraZU>4000107</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ ВАЛАНДОВО</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА, ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ОПШТА МЕДИЦИНА, РЕНТГЕН ДИЈАГНОСТИКА , ФИЗИКАЛНА МЕДИЦИНА И РЕХАБИЛИТАЦИЈА</Dejnosti>
+    <Adresa>ЛАЗАР КОЛИШЕВСКИ ББ</Adresa>
+    <NaselenoMesto>ВАЛАНДОВО</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-162/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4026992103020</DanocenBroj>
+    <ShifraZU>26000206</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ ВЕВЧАНИ</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА, ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ЛАБОРАТОРИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, РЕНТГЕН ДИЈАГНОСТИКА </Dejnosti>
+    <Adresa>С. ВЕВЧАНИ</Adresa>
+    <NaselenoMesto>ВЕВЧАНИ</NaselenoMesto>
+    <Latitude>41.2403</Latitude>
+    <Longitude>20.59310000000005</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-3/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4010995101335</DanocenBroj>
+    <ShifraZU>10070204</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ ДЕМИР ХИСАР</NazivNaUstanova>
+    <Dejnosti>БИОХЕМИСКА ЛАБОРАТОРИЈА, ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, РАДИО ДИЈАГНОСТИКА</Dejnosti>
+    <Adresa>УЛ.БИТОЛСКА ББ</Adresa>
+    <NaselenoMesto>ДЕМИР ХИСАР</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-819/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4030992141078</DanocenBroj>
+    <ShifraZU>25010303</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ ЖЕЛЕЗНИЧАР</NazivNaUstanova>
+    <Dejnosti>ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, ПСИХИЈАТРИЈА, ФИЗИКАЛНА ТЕРАПИЈА </Dejnosti>
+    <Adresa>ГРАДСКИ ЗИД ББ БЛОК 4 ЗГР. 1</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9973462</Latitude>
+    <Longitude>21.42799560000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-819/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4030992141078</DanocenBroj>
+    <ShifraZU>25010304</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ ЖЕЛЕЗНИЧАР</NazivNaUstanova>
+    <Dejnosti>ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, ПСИХИЈАТРИЈА, ФИЗИКАЛНА ТЕРАПИЈА </Dejnosti>
+    <Adresa>ГРАДСКИ ЗИД ББ БЛОК 4 ЗГР. 1</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9973462</Latitude>
+    <Longitude>21.42799560000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-819/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4030992141078</DanocenBroj>
+    <ShifraZU>25010306</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ ЖЕЛЕЗНИЧАР</NazivNaUstanova>
+    <Dejnosti>ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, ПСИХИЈАТРИЈА, ФИЗИКАЛНА ТЕРАПИЈА </Dejnosti>
+    <Adresa>ГРАДСКИ ЗИД ББ БЛОК 4 ЗГР. 1</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9973462</Latitude>
+    <Longitude>21.42799560000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-819/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4030992141078</DanocenBroj>
+    <ShifraZU>25010307</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ ЖЕЛЕЗНИЧАР</NazivNaUstanova>
+    <Dejnosti>ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, ПСИХИЈАТРИЈА, ФИЗИКАЛНА ТЕРАПИЈА </Dejnosti>
+    <Adresa>ГРАДСКИ ЗИД ББ БЛОК 4 ЗГР. 1</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9973462</Latitude>
+    <Longitude>21.42799560000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-819/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4030992141078</DanocenBroj>
+    <ShifraZU>25010308</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ ЖЕЛЕЗНИЧАР</NazivNaUstanova>
+    <Dejnosti>ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, ПСИХИЈАТРИЈА, ФИЗИКАЛНА ТЕРАПИЈА </Dejnosti>
+    <Adresa>ГРАДСКИ ЗИД ББ БЛОК 4 ЗГР. 1</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9973462</Latitude>
+    <Longitude>21.42799560000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-819/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4030992141078</DanocenBroj>
+    <ShifraZU>25010311</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ ЖЕЛЕЗНИЧАР</NazivNaUstanova>
+    <Dejnosti>ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, ПСИХИЈАТРИЈА, ФИЗИКАЛНА ТЕРАПИЈА </Dejnosti>
+    <Adresa>ГРАДСКИ ЗИД ББ БЛОК 4 ЗГР. 1</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9973462</Latitude>
+    <Longitude>21.42799560000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-819/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4030992141078</DanocenBroj>
+    <ShifraZU>25010305</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ ЖЕЛЕЗНИЧАР</NazivNaUstanova>
+    <Dejnosti>ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, ПСИХИЈАТРИЈА, ФИЗИКАЛНА ТЕРАПИЈА </Dejnosti>
+    <Adresa>ГРАДСКИ ЗИД ББ БЛОК 4 ЗГР. 1</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9973462</Latitude>
+    <Longitude>21.42799560000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-819/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4030992141078</DanocenBroj>
+    <ShifraZU>25010312</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ ЖЕЛЕЗНИЧАР</NazivNaUstanova>
+    <Dejnosti>ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, ПСИХИЈАТРИЈА, ФИЗИКАЛНА ТЕРАПИЈА </Dejnosti>
+    <Adresa>ГРАДСКИ ЗИД ББ БЛОК 4 ЗГР. 1</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9973462</Latitude>
+    <Longitude>21.42799560000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-819/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4030992141078</DanocenBroj>
+    <ShifraZU>25010301</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ ЖЕЛЕЗНИЧАР</NazivNaUstanova>
+    <Dejnosti>ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, ПСИХИЈАТРИЈА, ФИЗИКАЛНА ТЕРАПИЈА </Dejnosti>
+    <Adresa>ГРАДСКИ ЗИД ББ БЛОК 4 ЗГР. 1</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9973462</Latitude>
+    <Longitude>21.42799560000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-580/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4022995100426</DanocenBroj>
+    <ShifraZU>21000103</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ ПРОБИШТИП</NazivNaUstanova>
+    <Dejnosti>ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ЛАБОРАТОРИЈА, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, ПСИХИЈАТРИЈА, РЕНТГЕН ДИЈАГНОСТИКА </Dejnosti>
+    <Adresa>ЈАКИМ СПИРОВ ББ</Adresa>
+    <NaselenoMesto>ПРОБИШТИП</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-580/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4022995100426</DanocenBroj>
+    <ShifraZU>21000104</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ ПРОБИШТИП</NazivNaUstanova>
+    <Dejnosti>ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ЛАБОРАТОРИЈА, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, ПСИХИЈАТРИЈА, РЕНТГЕН ДИЈАГНОСТИКА </Dejnosti>
+    <Adresa>ЈАКИМ СПИРОВ ББ</Adresa>
+    <NaselenoMesto>ПРОБИШТИП</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-580/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4022995100426</DanocenBroj>
+    <ShifraZU>21000105</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ ПРОБИШТИП</NazivNaUstanova>
+    <Dejnosti>ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ЛАБОРАТОРИЈА, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, ПСИХИЈАТРИЈА, РЕНТГЕН ДИЈАГНОСТИКА </Dejnosti>
+    <Adresa>ЈАКИМ СПИРОВ ББ</Adresa>
+    <NaselenoMesto>ПРОБИШТИП</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-580/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4022995100426</DanocenBroj>
+    <ShifraZU>21000106</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ ПРОБИШТИП</NazivNaUstanova>
+    <Dejnosti>ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ЛАБОРАТОРИЈА, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, ПСИХИЈАТРИЈА, РЕНТГЕН ДИЈАГНОСТИКА </Dejnosti>
+    <Adresa>ЈАКИМ СПИРОВ ББ</Adresa>
+    <NaselenoMesto>ПРОБИШТИП</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-580/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4022995100426</DanocenBroj>
+    <ShifraZU>21000107</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ ПРОБИШТИП</NazivNaUstanova>
+    <Dejnosti>ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ЛАБОРАТОРИЈА, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, ПСИХИЈАТРИЈА, РЕНТГЕН ДИЈАГНОСТИКА </Dejnosti>
+    <Adresa>ЈАКИМ СПИРОВ ББ</Adresa>
+    <NaselenoMesto>ПРОБИШТИП</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-580/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4022995100426</DanocenBroj>
+    <ShifraZU>21000108</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ ПРОБИШТИП</NazivNaUstanova>
+    <Dejnosti>ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ЛАБОРАТОРИЈА, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, ПСИХИЈАТРИЈА, РЕНТГЕН ДИЈАГНОСТИКА </Dejnosti>
+    <Adresa>ЈАКИМ СПИРОВ ББ</Adresa>
+    <NaselenoMesto>ПРОБИШТИП</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-580/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4022995100426</DanocenBroj>
+    <ShifraZU>21000110</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ ПРОБИШТИП</NazivNaUstanova>
+    <Dejnosti>ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ЛАБОРАТОРИЈА, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, ПСИХИЈАТРИЈА, РЕНТГЕН ДИЈАГНОСТИКА </Dejnosti>
+    <Adresa>ЈАКИМ СПИРОВ ББ</Adresa>
+    <NaselenoMesto>ПРОБИШТИП</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-285/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4025956103832</DanocenBroj>
+    <ShifraZU>24000102</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ СВЕТИ НИКОЛЕ</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, РЕНТГЕН ДИЈАГНОСТИКА </Dejnosti>
+    <Adresa>УЛ. СЕПТЕМВРИСКА БР. 39</Adresa>
+    <NaselenoMesto>СВЕТИ НИКОЛЕ</NaselenoMesto>
+    <Latitude>41.8596828</Latitude>
+    <Longitude>21.93441000000007</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-972/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4030995113423</DanocenBroj>
+    <ShifraZU>25010104</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ СКОПЈЕ</NazivNaUstanova>
+    <Dejnosti>АЛЕРГОЛОГИЈА, БИОХЕМИСКА ЛАБОРАТОРИЈА, ДЕРМАТОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, НЕВРОЛОГИЈА, ОРТОПЕДИЈА И ТРАУМАТОЛОГИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, ПСИХИЈАТРИЈА, РАДИО ДИЈАГНОСТИКА, ФИЗИКАЛНА МЕДИЦИНА</Dejnosti>
+    <Adresa>УЛ. КРСТЕ МИСИРКОВ ББ</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9973462</Latitude>
+    <Longitude>21.42799560000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-822/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4030993245799</DanocenBroj>
+    <ShifraZU>25010405</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕНА СТАНИЦА ЖЕЛЕЗАРА</NazivNaUstanova>
+    <Dejnosti>БИОХЕМИСКА ЛАБОРАТОРИЈА, ИНТЕРНА МЕДИЦИНА, ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПСИХИЈАТРИЈА, РЕНТГЕН ДИЈАГНОСТИКА </Dejnosti>
+    <Adresa>УЛ.16-ТА МАКЕДОНСКА БРИГАДА БР.18</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ГАЗИ БАБА</NaselenoMesto>
+    <Latitude>42.0048776</Latitude>
+    <Longitude>21.460692300000005</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-822/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4030993245799</DanocenBroj>
+    <ShifraZU>25010406</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕНА СТАНИЦА ЖЕЛЕЗАРА</NazivNaUstanova>
+    <Dejnosti>БИОХЕМИСКА ЛАБОРАТОРИЈА, ИНТЕРНА МЕДИЦИНА, ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПСИХИЈАТРИЈА, РЕНТГЕН ДИЈАГНОСТИКА </Dejnosti>
+    <Adresa>УЛ.16-ТА МАКЕДОНСКА БРИГАДА БР.18</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ГАЗИ БАБА</NaselenoMesto>
+    <Latitude>42.0048776</Latitude>
+    <Longitude>21.460692300000005</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-822/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4030993245799</DanocenBroj>
+    <ShifraZU>25010408</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕНА СТАНИЦА ЖЕЛЕЗАРА</NazivNaUstanova>
+    <Dejnosti>БИОХЕМИСКА ЛАБОРАТОРИЈА, ИНТЕРНА МЕДИЦИНА, ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПСИХИЈАТРИЈА, РЕНТГЕН ДИЈАГНОСТИКА </Dejnosti>
+    <Adresa>УЛ.16-ТА МАКЕДОНСКА БРИГАДА БР.18</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ГАЗИ БАБА</NaselenoMesto>
+    <Latitude>42.0048776</Latitude>
+    <Longitude>21.460692300000005</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-822/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4030993245799</DanocenBroj>
+    <ShifraZU>25010402</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕНА СТАНИЦА ЖЕЛЕЗАРА</NazivNaUstanova>
+    <Dejnosti>БИОХЕМИСКА ЛАБОРАТОРИЈА, ИНТЕРНА МЕДИЦИНА, ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПСИХИЈАТРИЈА, РЕНТГЕН ДИЈАГНОСТИКА </Dejnosti>
+    <Adresa>УЛ.16-ТА МАКЕДОНСКА БРИГАДА БР.18</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ГАЗИ БАБА</NaselenoMesto>
+    <Latitude>42.0048776</Latitude>
+    <Longitude>21.460692300000005</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-822/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4030993245799</DanocenBroj>
+    <ShifraZU>25010410</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕНА СТАНИЦА ЖЕЛЕЗАРА</NazivNaUstanova>
+    <Dejnosti>БИОХЕМИСКА ЛАБОРАТОРИЈА, ИНТЕРНА МЕДИЦИНА, ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПСИХИЈАТРИЈА, РЕНТГЕН ДИЈАГНОСТИКА </Dejnosti>
+    <Adresa>УЛ.16-ТА МАКЕДОНСКА БРИГАДА БР.18</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ГАЗИ БАБА</NaselenoMesto>
+    <Latitude>42.0048776</Latitude>
+    <Longitude>21.460692300000005</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-822/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4030993245799</DanocenBroj>
+    <ShifraZU>25010404</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕНА СТАНИЦА ЖЕЛЕЗАРА</NazivNaUstanova>
+    <Dejnosti>БИОХЕМИСКА ЛАБОРАТОРИЈА, ИНТЕРНА МЕДИЦИНА, ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПСИХИЈАТРИЈА, РЕНТГЕН ДИЈАГНОСТИКА </Dejnosti>
+    <Adresa>УЛ.16-ТА МАКЕДОНСКА БРИГАДА БР.18</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ГАЗИ БАБА</NaselenoMesto>
+    <Latitude>42.0048776</Latitude>
+    <Longitude>21.460692300000005</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-822/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4030993245799</DanocenBroj>
+    <ShifraZU>25010401</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕНА СТАНИЦА ЖЕЛЕЗАРА</NazivNaUstanova>
+    <Dejnosti>БИОХЕМИСКА ЛАБОРАТОРИЈА, ИНТЕРНА МЕДИЦИНА, ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПСИХИЈАТРИЈА, РЕНТГЕН ДИЈАГНОСТИКА </Dejnosti>
+    <Adresa>УЛ.16-ТА МАКЕДОНСКА БРИГАДА БР.18</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ГАЗИ БАБА</NaselenoMesto>
+    <Latitude>42.0048776</Latitude>
+    <Longitude>21.460692300000005</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1902/4</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4061010500587</DanocenBroj>
+    <ShifraZU>17035401</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕНА СТАНИЦА С.ЛИПКОВО</NazivNaUstanova>
+    <Dejnosti>ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ</Dejnosti>
+    <Adresa>С. ЛИПКОВО</Adresa>
+    <NaselenoMesto>ЛИПКОВО</NaselenoMesto>
+    <Latitude>42.1561352</Latitude>
+    <Longitude>21.587074400000006</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-251/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4016994100376</DanocenBroj>
+    <ShifraZU>16000104</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ КРУШЕВО</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА, ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ОСТАНАТИ ДЕЈНОСТИ, РЕНТГЕН ДИЈАГНОСТИКА </Dejnosti>
+    <Adresa>УЛ. ИЛИНДЕНСКА БР. 13 А</Adresa>
+    <NaselenoMesto>КРУШЕВО</NaselenoMesto>
+    <Latitude>41.3676301</Latitude>
+    <Longitude>21.249806300000046</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-251/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4016994100376</DanocenBroj>
+    <ShifraZU>16000102</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ КРУШЕВО</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА, ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ОСТАНАТИ ДЕЈНОСТИ, РЕНТГЕН ДИЈАГНОСТИКА </Dejnosti>
+    <Adresa>УЛ. ИЛИНДЕНСКА БР. 13 А</Adresa>
+    <NaselenoMesto>КРУШЕВО</NaselenoMesto>
+    <Latitude>41.3676301</Latitude>
+    <Longitude>21.249806300000046</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-329/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4005995101480</DanocenBroj>
+    <ShifraZU>5000102</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ ВИНИЦА</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА, ЛАБОРАТОРИЈА, НЕВРОЛОГИЈА, ОПШТА МЕДИЦИНА, РЕНТГЕН ДИЈАГНОСТИКА </Dejnosti>
+    <Adresa>УЛ. ЈАКИМОВСКИ ПАТ ББ</Adresa>
+    <NaselenoMesto>ВИНИЦА</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-3/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4010995101335</DanocenBroj>
+    <ShifraZU>10070205</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ ДЕМИР ХИСАР</NazivNaUstanova>
+    <Dejnosti>БИОХЕМИСКА ЛАБОРАТОРИЈА, ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, РАДИО ДИЈАГНОСТИКА</Dejnosti>
+    <Adresa>УЛ.БИТОЛСКА ББ</Adresa>
+    <NaselenoMesto>ДЕМИР ХИСАР</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-628/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4009995100144</DanocenBroj>
+    <ShifraZU>9000105</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ ГОЦЕ ДЕЛЧЕВ </NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА, ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, НЕВРОЛОГИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОФТАЛМОЛОГИЈА, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, РЕНТГЕН ДИЈАГНОСТИКА </Dejnosti>
+    <Adresa>УЛ. М.М. БРИЦО БР 44</Adresa>
+    <NaselenoMesto>ДЕЛЧЕВО</NaselenoMesto>
+    <Latitude>42.0209779</Latitude>
+    <Longitude>22.5878692</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-392/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4023973107180</DanocenBroj>
+    <ShifraZU>22000101</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ РАДОВИШ</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА, ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ЛАБОРАТОРИЈА, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, РЕНТГЕН ДИЈАГНОСТИКА </Dejnosti>
+    <Adresa>УЛ.БЛАЖЕ КОНЕСКИ БР.1</Adresa>
+    <NaselenoMesto>РАДОВИШ</NaselenoMesto>
+    <Latitude>41.6358186</Latitude>
+    <Longitude>22.46622590000004</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-162/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4026992103020</DanocenBroj>
+    <ShifraZU>26000201</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ ВЕВЧАНИ</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА, ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ЛАБОРАТОРИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, РЕНТГЕН ДИЈАГНОСТИКА </Dejnosti>
+    <Adresa>С. ВЕВЧАНИ</Adresa>
+    <NaselenoMesto>ВЕВЧАНИ</NaselenoMesto>
+    <Latitude>41.2403</Latitude>
+    <Longitude>20.59310000000005</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1034/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4001989102703</DanocenBroj>
+    <ShifraZU>1070302</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ ПЕХЧЕВО </NazivNaUstanova>
+    <Dejnosti>ДЕТСКА И ПРЕВЕНТИВНА СТОМАТОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, МИКРОБИОЛОГИЈА, ОПШТА МЕДИЦИНА, ОФТАЛМОЛОГИЈА, ПЕДИЈАТРИЈА, РАДИО ДИЈАГНОСТИКА</Dejnosti>
+    <Adresa>УЛ. ИНДУСТРИСКА БР. 5 ПЕХЧЕВО</Adresa>
+    <NaselenoMesto>ПЕХЧЕВО</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-214/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4014979100219</DanocenBroj>
+    <ShifraZU>14000101</ShifraZU>
+    <NazivNaUstanova>ЗДРАСТВЕН ДОМ П.О. Ј.З.У. КРАТОВО</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА, ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ОФТАЛМОЛОГИЈА, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, РЕНТГЕН ДИЈАГНОСТИКА , ФИЗИКАЛНА ТЕРАПИЈА И РЕХАБИЛИТАЦИЈА</Dejnosti>
+    <Adresa>НИКОЛА ТЕСЛА 4</Adresa>
+    <NaselenoMesto>КРАТОВО</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>25-09-1259/9</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4030990271748</DanocenBroj>
+    <ShifraZU>25044929</ShifraZU>
+    <NazivNaUstanova>МИНИСТЕРСТВО ЗА ОДБРАНА НА Р.МАКЕДОНИЈА СКОПЈЕ</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА, ЛАБОРАТОРИЈА СО МИКРОБИОЛОГИЈА, НЕВРОЛОГИЈА, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОРТОДОНЦИЈА, ОФТАЛМОЛОГИЈА, ПРОТЕТИКА, ПСИХИЈАТРИЈА, РАДИО ДИЈАГНОСТИКА</Dejnosti>
+    <Adresa>ОРЦЕ НИКОЛОВ ББ СКОПЈЕ - ЦЕНТАР</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9698934</Latitude>
+    <Longitude>21.421626699999933</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-12/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4015996100962</DanocenBroj>
+    <ShifraZU>15000112</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ КРИВА ПАЛАНКА</NazivNaUstanova>
+    <Dejnosti>БИОХЕМИСКА ЛАБОРАТОРИЈА, ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ОСТАНАТИ ДЕЈНОСТИ, ОФТАЛМОЛОГИЈА, ПНЕУМОФИЗИОЛОГИЈА, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, РЕНТГЕН ДИЈАГНОСТИКА СО УЛТРАЗВУЧНА ДИЈАГНОСТИКА, ФИЗИКАЛНА МЕДИЦИНА, ХИРУРШКИ БОЛЕСТИ</Dejnosti>
+    <Adresa>УЛ.ЈОАКИМ ОСОГОВСКИ БР.ББ КРИВА ПАЛАНКА</Adresa>
+    <NaselenoMesto>КРИВА ПАЛАНКА</NaselenoMesto>
+    <Latitude>42.19789</Latitude>
+    <Longitude>22.323941200000036</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-274/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4024992100924</DanocenBroj>
+    <ShifraZU>23000103</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ РЕСЕН</NazivNaUstanova>
+    <Dejnosti>ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ЛАБОРАТОРИЈА, ОРТОПЕДИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, РЕНТГЕН ДИЈАГНОСТИКА , ФИЗИКАЛНА ТЕРАПИЈА </Dejnosti>
+    <Adresa>УЛ.КОЧО РАЦИН ББ</Adresa>
+    <NaselenoMesto>РЕСЕН</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-285/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4025956103832</DanocenBroj>
+    <ShifraZU>24000103</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ СВЕТИ НИКОЛЕ</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, РЕНТГЕН ДИЈАГНОСТИКА </Dejnosti>
+    <Adresa>УЛ. СЕПТЕМВРИСКА БР. 39</Adresa>
+    <NaselenoMesto>СВЕТИ НИКОЛЕ</NaselenoMesto>
+    <Latitude>41.8596828</Latitude>
+    <Longitude>21.93441000000007</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-374/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4003975100263</DanocenBroj>
+    <ShifraZU>4000103</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ ВАЛАНДОВО</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА, ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ОПШТА МЕДИЦИНА, РЕНТГЕН ДИЈАГНОСТИКА , ФИЗИКАЛНА МЕДИЦИНА И РЕХАБИЛИТАЦИЈА</Dejnosti>
+    <Adresa>УЛ.ЛАЗАР КОЛИШЕВСКИ ББ</Adresa>
+    <NaselenoMesto>ВАЛАНДОВО</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-374/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4003975100263</DanocenBroj>
+    <ShifraZU>4000106</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ ВАЛАНДОВО</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА, ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ОПШТА МЕДИЦИНА, РЕНТГЕН ДИЈАГНОСТИКА , ФИЗИКАЛНА МЕДИЦИНА И РЕХАБИЛИТАЦИЈА</Dejnosti>
+    <Adresa>УЛ.ЛАЗАР КОЛИШЕВСКИ ББ</Adresa>
+    <NaselenoMesto>ВАЛАНДОВО</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-329/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4005995101480</DanocenBroj>
+    <ShifraZU>5000106</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ ВИНИЦА</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА, ЛАБОРАТОРИЈА, НЕВРОЛОГИЈА, ОПШТА МЕДИЦИНА, РЕНТГЕН ДИЈАГНОСТИКА </Dejnosti>
+    <Adresa>ЈАКИМОВСКИ ПАТ ББ ВИНИЦА</Adresa>
+    <NaselenoMesto>ВИНИЦА</NaselenoMesto>
+    <Latitude>41.88648999999999</Latitude>
+    <Longitude>22.507820000000038</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-214/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4014979100219</DanocenBroj>
+    <ShifraZU>14000106</ShifraZU>
+    <NazivNaUstanova>ЗДРАСТВЕН ДОМ П.О. Ј.З.У. КРАТОВО</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА, ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ОФТАЛМОЛОГИЈА, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, РЕНТГЕН ДИЈАГНОСТИКА , ФИЗИКАЛНА ТЕРАПИЈА И РЕХАБИЛИТАЦИЈА</Dejnosti>
+    <Adresa>УЛ. НИКОЛА ТЕСЛА БР. 4</Adresa>
+    <NaselenoMesto>КРАТОВО</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-484/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4008005103733</DanocenBroj>
+    <ShifraZU>8000103</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ ДЕБАР</NazivNaUstanova>
+    <Dejnosti>ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА</Dejnosti>
+    <Adresa>АМДИ ЛЕШИ 51</Adresa>
+    <NaselenoMesto>ДЕБАР</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-612/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4017005154434</DanocenBroj>
+    <ShifraZU>17020704</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ЗДРАВСТВЕН ДОМ КУМАНОВО</NazivNaUstanova>
+    <Dejnosti>ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ЛАБОРАТОРИЈА, МЕДИЦИНА НА ТРУДОТ, ОПШТА СТОМАТОЛОГИЈА, ОСТАНАТИ ДЕЈНОСТИ, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА</Dejnosti>
+    <Adresa>УЛ:БОРИС КИДРИЧ  БР.11</Adresa>
+    <NaselenoMesto>КУМАНОВО</NaselenoMesto>
+    <Latitude>42.1358333</Latitude>
+    <Longitude>21.71805560000007</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-306/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4011005123514</DanocenBroj>
+    <ShifraZU>11004603</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ЗДРАВСТВЕН ДОМ КАВАДАРЦИ</NazivNaUstanova>
+    <Dejnosti>БИОХЕМИСКА ЛАБОРАТОРИЈА, ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ОСТАНАТИ ДЕЈНОСТИ, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, СПОРТСКА МЕДИЦИНА</Dejnosti>
+    <Adresa>УЛ. БРАЌА МИЛАДИНОВИ БР 11</Adresa>
+    <NaselenoMesto>КАВАДАРЦИ</NaselenoMesto>
+    <Latitude>41.4324754</Latitude>
+    <Longitude>22.018227000000024</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-392/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4023973107180</DanocenBroj>
+    <ShifraZU>22000106</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ РАДОВИШ</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА, ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ЛАБОРАТОРИЈА, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, РЕНТГЕН ДИЈАГНОСТИКА </Dejnosti>
+    <Adresa>УЛ.БЛАЖЕ КОНЕСКИ БР.1</Adresa>
+    <NaselenoMesto>РАДОВИШ</NaselenoMesto>
+    <Latitude>41.6358186</Latitude>
+    <Longitude>22.46622590000004</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-162/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4026992103020</DanocenBroj>
+    <ShifraZU>26000205</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ ВЕВЧАНИ</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА, ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ЛАБОРАТОРИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, РЕНТГЕН ДИЈАГНОСТИКА </Dejnosti>
+    <Adresa>С. ВЕВЧАНИ</Adresa>
+    <NaselenoMesto>ВЕВЧАНИ</NaselenoMesto>
+    <Latitude>41.2403</Latitude>
+    <Longitude>20.59310000000005</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-164/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4026005130046</DanocenBroj>
+    <ShifraZU>26003602</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ СТРУГА</NazivNaUstanova>
+    <Dejnosti>ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ОСТАНАТИ ДЕЈНОСТИ, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, СПОРТСКА МЕДИЦИНА</Dejnosti>
+    <Adresa>УЛ. КЕЈ 8 МИ НОЕМВРИ ББ</Adresa>
+    <NaselenoMesto>СТРУГА</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-683/2</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4012005118886</DanocenBroj>
+    <ShifraZU>12002402</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ КИЧЕВО</NazivNaUstanova>
+    <Dejnosti>ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ОСТАНАТИ ДЕЈНОСТИ, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА</Dejnosti>
+    <Adresa>УЛ. МАРШАЛ ТИТО БР. 42</Adresa>
+    <NaselenoMesto>КИЧЕВО</NaselenoMesto>
+    <Latitude>41.5202351</Latitude>
+    <Longitude>20.96291050000002</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-12/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4015996100962</DanocenBroj>
+    <ShifraZU>15000101</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ КРИВА ПАЛАНКА</NazivNaUstanova>
+    <Dejnosti>БИОХЕМИСКА ЛАБОРАТОРИЈА, ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ОСТАНАТИ ДЕЈНОСТИ, ОФТАЛМОЛОГИЈА, ПНЕУМОФИЗИОЛОГИЈА, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, РЕНТГЕН ДИЈАГНОСТИКА СО УЛТРАЗВУЧНА ДИЈАГНОСТИКА, ФИЗИКАЛНА МЕДИЦИНА, ХИРУРШКИ БОЛЕСТИ</Dejnosti>
+    <Adresa>УЛ.ЈОАКИМ ОСОГОВСКИ БР.ББ </Adresa>
+    <NaselenoMesto>КРИВА ПАЛАНКА</NaselenoMesto>
+    <Latitude>42.19789</Latitude>
+    <Longitude>22.323941200000036</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-401/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4019996100968</DanocenBroj>
+    <ShifraZU>18000112</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ НЕГОТИНО </NazivNaUstanova>
+    <Dejnosti>ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ЛАБОРАТОРИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПСИХИЈАТРИЈА, ФИЗИЈАТРИЈА</Dejnosti>
+    <Adresa>УЛ. ВЕЉКО ВЛАХОВИЌ БР. 9</Adresa>
+    <NaselenoMesto>НЕГОТИНО</NaselenoMesto>
+    <Latitude>41.480668</Latitude>
+    <Longitude>22.081830200000013</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-274/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4024992100924</DanocenBroj>
+    <ShifraZU>23000112</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ РЕСЕН</NazivNaUstanova>
+    <Dejnosti>ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ЛАБОРАТОРИЈА, ОРТОПЕДИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, РЕНТГЕН ДИЈАГНОСТИКА , ФИЗИКАЛНА ТЕРАПИЈА </Dejnosti>
+    <Adresa>УЛ.КОЧО РАЦИН ББ</Adresa>
+    <NaselenoMesto>РЕСЕН</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-628/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4009995100144</DanocenBroj>
+    <ShifraZU>9000106</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ ГОЦЕ ДЕЛЧЕВ </NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА, ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, НЕВРОЛОГИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОФТАЛМОЛОГИЈА, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, РЕНТГЕН ДИЈАГНОСТИКА </Dejnosti>
+    <Adresa>УЛ. М.М. БРИЦО БР 44</Adresa>
+    <NaselenoMesto>ДЕЛЧЕВО</NaselenoMesto>
+    <Latitude>42.0209779</Latitude>
+    <Longitude>22.5878692</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-251/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4016994100376</DanocenBroj>
+    <ShifraZU>16000103</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ КРУШЕВО</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА, ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ОСТАНАТИ ДЕЈНОСТИ, РЕНТГЕН ДИЈАГНОСТИКА </Dejnosti>
+    <Adresa>УЛ. ИЛИНДЕНСКА БР. 13 А</Adresa>
+    <NaselenoMesto>КРУШЕВО</NaselenoMesto>
+    <Latitude>41.3676301</Latitude>
+    <Longitude>21.249806300000046</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-80/3_problem</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4021005146498</DanocenBroj>
+    <ShifraZU>20047503</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ ПРИЛЕП</NazivNaUstanova>
+    <Dejnosti>БИОХЕМИСКА ЛАБОРАТОРИЈА, ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ОСТАНАТИ ДЕЈНОСТИ, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, СПОРТСКА МЕДИЦИНА</Dejnosti>
+    <Adresa>УЛ. МАРКСОВА ББ</Adresa>
+    <NaselenoMesto>ПРИЛЕП</NaselenoMesto>
+    <Latitude>41.35173</Latitude>
+    <Longitude>21.56214</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-169/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4020005141767</DanocenBroj>
+    <ShifraZU>19005001</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ЗДРАВСТВЕН ДОМ ОХРИД </NazivNaUstanova>
+    <Dejnosti>ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ОСТАНАТИ ДЕЈНОСТИ, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА</Dejnosti>
+    <Adresa>УЛ: ДИМИТАР  ВЛАХОВ БР.69</Adresa>
+    <NaselenoMesto>ОХРИД</NaselenoMesto>
+    <Latitude>41.1133488</Latitude>
+    <Longitude>20.804129699999976</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-680/4</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4018997100418</DanocenBroj>
+    <ShifraZU>3003803</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ МАКЕДОНСКИ БРОД</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА, ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ОФТАЛМОЛОГИЈА, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, РЕНТГЕН ДИЈАГНОСТИКА , РЕНТГЕНОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.ВУК КАРАЏИЧ ББ</Adresa>
+    <NaselenoMesto>МАКЕДОНСКИ БРОД</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-680/4</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4018997100418</DanocenBroj>
+    <ShifraZU>3003805</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ МАКЕДОНСКИ БРОД</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА, ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ОФТАЛМОЛОГИЈА, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, РЕНТГЕН ДИЈАГНОСТИКА , РЕНТГЕНОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.ВУК КАРАЏИЧ ББ</Adresa>
+    <NaselenoMesto>МАКЕДОНСКИ БРОД</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-680/4</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4018997100418</DanocenBroj>
+    <ShifraZU>3003804</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ МАКЕДОНСКИ БРОД</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА, ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ОФТАЛМОЛОГИЈА, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, РЕНТГЕН ДИЈАГНОСТИКА , РЕНТГЕНОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.ВУК КАРАЏИЧ ББ</Adresa>
+    <NaselenoMesto>МАКЕДОНСКИ БРОД</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-680/4</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4018997100418</DanocenBroj>
+    <ShifraZU>3003806</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ МАКЕДОНСКИ БРОД</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА, ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ОФТАЛМОЛОГИЈА, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, РЕНТГЕН ДИЈАГНОСТИКА , РЕНТГЕНОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.ВУК КАРАЏИЧ ББ</Adresa>
+    <NaselenoMesto>МАКЕДОНСКИ БРОД</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-680/4</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4018997100418</DanocenBroj>
+    <ShifraZU>3003802</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ МАКЕДОНСКИ БРОД</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА, ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ОФТАЛМОЛОГИЈА, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, РЕНТГЕН ДИЈАГНОСТИКА , РЕНТГЕНОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.ВУК КАРАЏИЧ ББ</Adresa>
+    <NaselenoMesto>МАКЕДОНСКИ БРОД</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-811/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4006005119017</DanocenBroj>
+    <ShifraZU>6001604</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ЗДРАВСТВЕН ДОМ  ГЕВГЕЛИЈА </NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА, ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА</Dejnosti>
+    <Adresa>УЛ: СЛОБОДАН МИТРО ДЕНКО БР.38</Adresa>
+    <NaselenoMesto>ГЕВГЕЛИЈА</NaselenoMesto>
+    <Latitude>41.15</Latitude>
+    <Longitude>22.50999999999999</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-811/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4006005119017</DanocenBroj>
+    <ShifraZU>6001602</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ЗДРАВСТВЕН ДОМ  ГЕВГЕЛИЈА </NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА, ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА</Dejnosti>
+    <Adresa>УЛ: СЛОБОДАН МИТРО ДЕНКО БР.38</Adresa>
+    <NaselenoMesto>ГЕВГЕЛИЈА</NaselenoMesto>
+    <Latitude>41.15</Latitude>
+    <Longitude>22.50999999999999</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-811/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4006005119017</DanocenBroj>
+    <ShifraZU>6001601</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ЗДРАВСТВЕН ДОМ  ГЕВГЕЛИЈА </NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА, ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА</Dejnosti>
+    <Adresa>УЛ: СЛОБОДАН МИТРО ДЕНКО БР.38</Adresa>
+    <NaselenoMesto>ГЕВГЕЛИЈА</NaselenoMesto>
+    <Latitude>41.15</Latitude>
+    <Longitude>22.50999999999999</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1084/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4007955110284</DanocenBroj>
+    <ShifraZU>7000204</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ЗДРАВСТВЕН ДОМ ДР РУСЕ БОШКОВСКИ </NazivNaUstanova>
+    <Dejnosti>ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ОСТАНАТИ ДЕЈНОСТИ, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА</Dejnosti>
+    <Adresa>С.РОСТУШЕ</Adresa>
+    <NaselenoMesto>РОСТУША</NaselenoMesto>
+    <Latitude>41.6243153</Latitude>
+    <Longitude>20.664568299999928</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1084/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4007955110284</DanocenBroj>
+    <ShifraZU>7000205</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ЗДРАВСТВЕН ДОМ ДР РУСЕ БОШКОВСКИ </NazivNaUstanova>
+    <Dejnosti>ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ОСТАНАТИ ДЕЈНОСТИ, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА</Dejnosti>
+    <Adresa>С.РОСТУШЕ</Adresa>
+    <NaselenoMesto>РОСТУША</NaselenoMesto>
+    <Latitude>41.6243153</Latitude>
+    <Longitude>20.664568299999928</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1084/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4007955110284</DanocenBroj>
+    <ShifraZU>7000206</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ЗДРАВСТВЕН ДОМ ДР РУСЕ БОШКОВСКИ </NazivNaUstanova>
+    <Dejnosti>ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ОСТАНАТИ ДЕЈНОСТИ, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА</Dejnosti>
+    <Adresa>С.РОСТУШЕ</Adresa>
+    <NaselenoMesto>РОСТУША</NaselenoMesto>
+    <Latitude>41.6243153</Latitude>
+    <Longitude>20.664568299999928</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-262/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4002005167717</DanocenBroj>
+    <ShifraZU>2055903</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ЗДРАВСТВЕН ДОМ БИТОЛА</NazivNaUstanova>
+    <Dejnosti>ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ЛАБОРАТОРИЈА, МЕДИЦИНА НА ТРУДОТ, ОПШТА СТОМАТОЛОГИЈА, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, СПОРТСКА МЕДИЦИНА, УЧИЛИШНА МЕДИЦИНА</Dejnosti>
+    <Adresa>УЛ. ИВАН МИЛУТИНОВИЌ ББ</Adresa>
+    <NaselenoMesto>БИТОЛА</NaselenoMesto>
+    <Latitude>41.0319444</Latitude>
+    <Longitude>21.334722199999987</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-262/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4002005167717</DanocenBroj>
+    <ShifraZU>2055906</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ЗДРАВСТВЕН ДОМ БИТОЛА</NazivNaUstanova>
+    <Dejnosti>ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ЛАБОРАТОРИЈА, МЕДИЦИНА НА ТРУДОТ, ОПШТА СТОМАТОЛОГИЈА, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, СПОРТСКА МЕДИЦИНА, УЧИЛИШНА МЕДИЦИНА</Dejnosti>
+    <Adresa>УЛ. ИВАН МИЛУТИНОВИЌ ББ</Adresa>
+    <NaselenoMesto>БИТОЛА</NaselenoMesto>
+    <Latitude>41.0319444</Latitude>
+    <Longitude>21.334722199999987</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-262/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4002005167717</DanocenBroj>
+    <ShifraZU>2055904</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ЗДРАВСТВЕН ДОМ БИТОЛА</NazivNaUstanova>
+    <Dejnosti>ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ЛАБОРАТОРИЈА, МЕДИЦИНА НА ТРУДОТ, ОПШТА СТОМАТОЛОГИЈА, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, СПОРТСКА МЕДИЦИНА, УЧИЛИШНА МЕДИЦИНА</Dejnosti>
+    <Adresa>УЛ.ИВАН МИЛУТИНОВИЌ ББ</Adresa>
+    <NaselenoMesto>БИТОЛА</NaselenoMesto>
+    <Latitude>41.0319444</Latitude>
+    <Longitude>21.334722199999987</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-262/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4002005167717</DanocenBroj>
+    <ShifraZU>2055905</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ЗДРАВСТВЕН ДОМ БИТОЛА</NazivNaUstanova>
+    <Dejnosti>ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ЛАБОРАТОРИЈА, МЕДИЦИНА НА ТРУДОТ, ОПШТА СТОМАТОЛОГИЈА, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, СПОРТСКА МЕДИЦИНА, УЧИЛИШНА МЕДИЦИНА</Dejnosti>
+    <Adresa>УЛ.ИВАН МИЛУТИНОВИЌ ББ</Adresa>
+    <NaselenoMesto>БИТОЛА</NaselenoMesto>
+    <Latitude>41.0319444</Latitude>
+    <Longitude>21.334722199999987</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-262/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4002005167717</DanocenBroj>
+    <ShifraZU>2055907</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ЗДРАВСТВЕН ДОМ БИТОЛА</NazivNaUstanova>
+    <Dejnosti>ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ЛАБОРАТОРИЈА, МЕДИЦИНА НА ТРУДОТ, ОПШТА СТОМАТОЛОГИЈА, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, СПОРТСКА МЕДИЦИНА, УЧИЛИШНА МЕДИЦИНА</Dejnosti>
+    <Adresa>УЛ. ИВАН МИЛУТИНОВИЌ ББ</Adresa>
+    <NaselenoMesto>БИТОЛА</NaselenoMesto>
+    <Latitude>41.0319444</Latitude>
+    <Longitude>21.334722199999987</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-262/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4002005167717</DanocenBroj>
+    <ShifraZU>2055908</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ЗДРАВСТВЕН ДОМ БИТОЛА</NazivNaUstanova>
+    <Dejnosti>ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ЛАБОРАТОРИЈА, МЕДИЦИНА НА ТРУДОТ, ОПШТА СТОМАТОЛОГИЈА, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, СПОРТСКА МЕДИЦИНА, УЧИЛИШНА МЕДИЦИНА</Dejnosti>
+    <Adresa>УЛ. ИВАН МИЛУТИНОВИЌ ББ</Adresa>
+    <NaselenoMesto>БИТОЛА</NaselenoMesto>
+    <Latitude>41.0319444</Latitude>
+    <Longitude>21.334722199999987</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-262/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4002005167717</DanocenBroj>
+    <ShifraZU>2055902</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ЗДРАВСТВЕН ДОМ БИТОЛА</NazivNaUstanova>
+    <Dejnosti>ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ЛАБОРАТОРИЈА, МЕДИЦИНА НА ТРУДОТ, ОПШТА СТОМАТОЛОГИЈА, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, СПОРТСКА МЕДИЦИНА, УЧИЛИШНА МЕДИЦИНА</Dejnosti>
+    <Adresa>УЛ. ИВАН МИЛУТИНОВИЌ ББ</Adresa>
+    <NaselenoMesto>БИТОЛА</NaselenoMesto>
+    <Latitude>41.0319444</Latitude>
+    <Longitude>21.334722199999987</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-127/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4004005117399</DanocenBroj>
+    <ShifraZU>29006503</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ЗДРАВСТВЕН ДОМ ВЕЛЕС</NazivNaUstanova>
+    <Dejnosti>ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ЛАБОРАТОРИЈА, ОСТАНАТИ ДЕЈНОСТИ, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА</Dejnosti>
+    <Adresa>УЛ. ШЕФКИ САЛИ БР. 5</Adresa>
+    <NaselenoMesto>ВЕЛЕС</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-127/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4004005117399</DanocenBroj>
+    <ShifraZU>29006504</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ЗДРАВСТВЕН ДОМ ВЕЛЕС</NazivNaUstanova>
+    <Dejnosti>ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ЛАБОРАТОРИЈА, ОСТАНАТИ ДЕЈНОСТИ, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА</Dejnosti>
+    <Adresa>УЛ. ШЕФКИ САЛИ БР. 5</Adresa>
+    <NaselenoMesto>ВЕЛЕС</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-127/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4004005117399</DanocenBroj>
+    <ShifraZU>29006505</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ЗДРАВСТВЕН ДОМ ВЕЛЕС</NazivNaUstanova>
+    <Dejnosti>ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ЛАБОРАТОРИЈА, ОСТАНАТИ ДЕЈНОСТИ, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА</Dejnosti>
+    <Adresa>УЛ. ШЕФКИ САЛИ БР. 5</Adresa>
+    <NaselenoMesto>ВЕЛЕС</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-127/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4004005117399</DanocenBroj>
+    <ShifraZU>29006501</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ЗДРАВСТВЕН ДОМ ВЕЛЕС</NazivNaUstanova>
+    <Dejnosti>ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ЛАБОРАТОРИЈА, ОСТАНАТИ ДЕЈНОСТИ, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА</Dejnosti>
+    <Adresa>УЛ. ШЕФКИ САЛИ БР. 5</Adresa>
+    <NaselenoMesto>ВЕЛЕС</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-657/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4007005132966</DanocenBroj>
+    <ShifraZU>7006001</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ЗДРАВСТВЕН ДОМ ГОСТИВАР</NazivNaUstanova>
+    <Dejnosti>ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ЛАБОРАТОРИЈА, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, СПОРТСКА МЕДИЦИНА</Dejnosti>
+    <Adresa>УЛ. МАЈОР ЧЕДЕ ФИЛИПОВСКИ БР.29</Adresa>
+    <NaselenoMesto>ГОСТИВАР</NaselenoMesto>
+    <Latitude>41.79285360000001</Latitude>
+    <Longitude>20.90485609999996</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-657/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4007005132966</DanocenBroj>
+    <ShifraZU>7006002</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ЗДРАВСТВЕН ДОМ ГОСТИВАР</NazivNaUstanova>
+    <Dejnosti>ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ЛАБОРАТОРИЈА, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, СПОРТСКА МЕДИЦИНА</Dejnosti>
+    <Adresa>УЛ. МАЈОР ЧЕДЕ ФИЛИПОВСКИ БР.29</Adresa>
+    <NaselenoMesto>ГОСТИВАР</NaselenoMesto>
+    <Latitude>41.79285360000001</Latitude>
+    <Longitude>20.90485609999996</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-657/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4007005132966</DanocenBroj>
+    <ShifraZU>7006003</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ЗДРАВСТВЕН ДОМ ГОСТИВАР</NazivNaUstanova>
+    <Dejnosti>ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ЛАБОРАТОРИЈА, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, СПОРТСКА МЕДИЦИНА</Dejnosti>
+    <Adresa>УЛ. МАЈОР ЧЕДЕ ФИЛИПОВСКИ БР.29</Adresa>
+    <NaselenoMesto>ГОСТИВАР</NaselenoMesto>
+    <Latitude>41.79285360000001</Latitude>
+    <Longitude>20.90485609999996</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-657/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4007005132966</DanocenBroj>
+    <ShifraZU>7006004</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ЗДРАВСТВЕН ДОМ ГОСТИВАР</NazivNaUstanova>
+    <Dejnosti>ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ЛАБОРАТОРИЈА, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, СПОРТСКА МЕДИЦИНА</Dejnosti>
+    <Adresa>УЛ. МАЈОР ЧЕДЕ ФИЛИПОВСКИ БР.29</Adresa>
+    <NaselenoMesto>ГОСТИВАР</NaselenoMesto>
+    <Latitude>41.79285360000001</Latitude>
+    <Longitude>20.90485609999996</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-339/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4013005120879</DanocenBroj>
+    <ShifraZU>13073901</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ЗДРАВСТВЕН ДОМ КОЧАНИ </NazivNaUstanova>
+    <Dejnosti>ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА</Dejnosti>
+    <Adresa>УЛ: МИЛАН ЗАЕЧАР БР.21 </Adresa>
+    <NaselenoMesto>КОЧАНИ</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-339/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4013005120879</DanocenBroj>
+    <ShifraZU>13073902</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ЗДРАВСТВЕН ДОМ КОЧАНИ </NazivNaUstanova>
+    <Dejnosti>ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА</Dejnosti>
+    <Adresa>УЛ: МИЛАН ЗАЕЧАР БР.21 </Adresa>
+    <NaselenoMesto>КОЧАНИ</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-434/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4027005145090</DanocenBroj>
+    <ShifraZU>27006202</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ЗДРАВСТВЕН ДОМ СТРУМИЦА</NazivNaUstanova>
+    <Dejnosti>ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ЛАБОРАТОРИЈА, ЛОГОПЕДИЈА, МЕНТАЛНО ЗДРАВЈЕ НА ДЕЦА И МЛАДИНЦИ, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, СПОРТСКА МЕДИЦИНА</Dejnosti>
+    <Adresa>УЛ  МЛАДИНСКА БР. 2</Adresa>
+    <NaselenoMesto>СТРУМИЦА</NaselenoMesto>
+    <Latitude>41.43081430000001</Latitude>
+    <Longitude>22.64802039999995</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-434/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4027005145090</DanocenBroj>
+    <ShifraZU>27006203</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ЗДРАВСТВЕН ДОМ СТРУМИЦА</NazivNaUstanova>
+    <Dejnosti>ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ЛАБОРАТОРИЈА, ЛОГОПЕДИЈА, МЕНТАЛНО ЗДРАВЈЕ НА ДЕЦА И МЛАДИНЦИ, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, СПОРТСКА МЕДИЦИНА</Dejnosti>
+    <Adresa>УЛ  МЛАДИНСКА БР. 2</Adresa>
+    <NaselenoMesto>СТРУМИЦА</NaselenoMesto>
+    <Latitude>41.43081430000001</Latitude>
+    <Longitude>22.64802039999995</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-434/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4027005145090</DanocenBroj>
+    <ShifraZU>27006204</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ЗДРАВСТВЕН ДОМ СТРУМИЦА</NazivNaUstanova>
+    <Dejnosti>ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ЛАБОРАТОРИЈА, ЛОГОПЕДИЈА, МЕНТАЛНО ЗДРАВЈЕ НА ДЕЦА И МЛАДИНЦИ, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, СПОРТСКА МЕДИЦИНА</Dejnosti>
+    <Adresa>УЛ  МЛАДИНСКА БР. 2</Adresa>
+    <NaselenoMesto>СТРУМИЦА</NaselenoMesto>
+    <Latitude>41.43081430000001</Latitude>
+    <Longitude>22.64802039999995</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-434/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4027005145090</DanocenBroj>
+    <ShifraZU>27006205</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ЗДРАВСТВЕН ДОМ СТРУМИЦА</NazivNaUstanova>
+    <Dejnosti>ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ЛАБОРАТОРИЈА, ЛОГОПЕДИЈА, МЕНТАЛНО ЗДРАВЈЕ НА ДЕЦА И МЛАДИНЦИ, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, СПОРТСКА МЕДИЦИНА</Dejnosti>
+    <Adresa>УЛ  МЛАДИНСКА БР. 2</Adresa>
+    <NaselenoMesto>СТРУМИЦА</NaselenoMesto>
+    <Latitude>41.43081430000001</Latitude>
+    <Longitude>22.64802039999995</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-434/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4027005145090</DanocenBroj>
+    <ShifraZU>27006206</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ЗДРАВСТВЕН ДОМ СТРУМИЦА</NazivNaUstanova>
+    <Dejnosti>ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ЛАБОРАТОРИЈА, ЛОГОПЕДИЈА, МЕНТАЛНО ЗДРАВЈЕ НА ДЕЦА И МЛАДИНЦИ, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, СПОРТСКА МЕДИЦИНА</Dejnosti>
+    <Adresa>УЛ  МЛАДИНСКА БР. 2</Adresa>
+    <NaselenoMesto>СТРУМИЦА</NaselenoMesto>
+    <Latitude>41.43081430000001</Latitude>
+    <Longitude>22.64802039999995</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-434/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4027005145090</DanocenBroj>
+    <ShifraZU>27006201</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ЗДРАВСТВЕН ДОМ СТРУМИЦА</NazivNaUstanova>
+    <Dejnosti>ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ЛАБОРАТОРИЈА, ЛОГОПЕДИЈА, МЕНТАЛНО ЗДРАВЈЕ НА ДЕЦА И МЛАДИНЦИ, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, СПОРТСКА МЕДИЦИНА</Dejnosti>
+    <Adresa>УЛ  МЛАДИНСКА БР. 2</Adresa>
+    <NaselenoMesto>СТРУМИЦА</NaselenoMesto>
+    <Latitude>41.43081430000001</Latitude>
+    <Longitude>22.64802039999995</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-521/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4028006145716</DanocenBroj>
+    <ShifraZU>28008804</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ЗДРАВСТВЕН ДОМ ТЕТОВО</NazivNaUstanova>
+    <Dejnosti>ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ОСТАНАТИ ДЕЈНОСТИ, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА</Dejnosti>
+    <Adresa>УЛ: МЕХМЕТ ПАШ ДЕРАЛА</Adresa>
+    <NaselenoMesto>ТЕТОВО</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-521/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4028006145716</DanocenBroj>
+    <ShifraZU>28008805</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ЗДРАВСТВЕН ДОМ ТЕТОВО</NazivNaUstanova>
+    <Dejnosti>ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ОСТАНАТИ ДЕЈНОСТИ, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА</Dejnosti>
+    <Adresa>УЛ: МЕХМЕТ ПАШ ДЕРАЛА</Adresa>
+    <NaselenoMesto>ТЕТОВО</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-521/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4028006145716</DanocenBroj>
+    <ShifraZU>28008806</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ЗДРАВСТВЕН ДОМ ТЕТОВО</NazivNaUstanova>
+    <Dejnosti>ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ОСТАНАТИ ДЕЈНОСТИ, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА</Dejnosti>
+    <Adresa>УЛ: МЕХМЕТ ПАШ ДЕРАЛА</Adresa>
+    <NaselenoMesto>ТЕТОВО</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-162/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4026992103020</DanocenBroj>
+    <ShifraZU>26000204</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ ВЕВЧАНИ</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА, ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ЛАБОРАТОРИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, РЕНТГЕН ДИЈАГНОСТИКА </Dejnosti>
+    <Adresa>С. ВЕВЧАНИ</Adresa>
+    <NaselenoMesto>ВЕВЧАНИ</NaselenoMesto>
+    <Latitude>41.2403</Latitude>
+    <Longitude>20.59310000000005</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-392/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4023973107180</DanocenBroj>
+    <ShifraZU>22000102</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ РАДОВИШ</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА, ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ЛАБОРАТОРИЈА, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, РЕНТГЕН ДИЈАГНОСТИКА </Dejnosti>
+    <Adresa>УЛ. БЛАЖЕ КОНЕСКИ БР. 1</Adresa>
+    <NaselenoMesto>РАДОВИШ</NaselenoMesto>
+    <Latitude>41.6358186</Latitude>
+    <Longitude>22.46622590000004</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-612/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4017005154434</DanocenBroj>
+    <ShifraZU>17020701</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ЗДРАВСТВЕН ДОМ КУМАНОВО</NazivNaUstanova>
+    <Dejnosti>ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ЛАБОРАТОРИЈА, МЕДИЦИНА НА ТРУДОТ, ОПШТА СТОМАТОЛОГИЈА, ОСТАНАТИ ДЕЈНОСТИ, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА</Dejnosti>
+    <Adresa>УЛ:БОРИС КИДРИЧ  БР.11</Adresa>
+    <NaselenoMesto>КУМАНОВО</NaselenoMesto>
+    <Latitude>42.1358333</Latitude>
+    <Longitude>21.71805560000007</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-274/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4024992100924</DanocenBroj>
+    <ShifraZU>23000107</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ РЕСЕН</NazivNaUstanova>
+    <Dejnosti>ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ЛАБОРАТОРИЈА, ОРТОПЕДИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, РЕНТГЕН ДИЈАГНОСТИКА , ФИЗИКАЛНА ТЕРАПИЈА </Dejnosti>
+    <Adresa>УЛ.КОЧО РАЦИН ББ</Adresa>
+    <NaselenoMesto>РЕСЕН</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-329/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4005995101480</DanocenBroj>
+    <ShifraZU>5000103</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ ВИНИЦА</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА, ЛАБОРАТОРИЈА, НЕВРОЛОГИЈА, ОПШТА МЕДИЦИНА, РЕНТГЕН ДИЈАГНОСТИКА </Dejnosti>
+    <Adresa>ЈАКИМОВСКИ ПАТ ББ</Adresa>
+    <NaselenoMesto>ВИНИЦА</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-401/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4019996100968</DanocenBroj>
+    <ShifraZU>18000104</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ НЕГОТИНО </NazivNaUstanova>
+    <Dejnosti>ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ЛАБОРАТОРИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПСИХИЈАТРИЈА, ФИЗИЈАТРИЈА</Dejnosti>
+    <Adresa>УЛ. ВЕЉКО ВЛАХОВИЌ БР. 9</Adresa>
+    <NaselenoMesto>НЕГОТИНО</NaselenoMesto>
+    <Latitude>41.480668</Latitude>
+    <Longitude>22.081830200000013</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>25-09-1259/9</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4030990271748</DanocenBroj>
+    <ShifraZU>25044936</ShifraZU>
+    <NazivNaUstanova>МИНИСТЕРСТВО ЗА ОДБРАНА НА Р.МАКЕДОНИЈА СКОПЈЕ</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА, ЛАБОРАТОРИЈА СО МИКРОБИОЛОГИЈА, НЕВРОЛОГИЈА, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОРТОДОНЦИЈА, ОФТАЛМОЛОГИЈА, ПРОТЕТИКА, ПСИХИЈАТРИЈА, РАДИО ДИЈАГНОСТИКА</Dejnosti>
+    <Adresa>ОРЦЕ НИКОЛОВ ББ</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>42.0061593</Latitude>
+    <Longitude>21.412497400000007</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1034/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4001989102703</DanocenBroj>
+    <ShifraZU>1070307</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ ПЕХЧЕВО </NazivNaUstanova>
+    <Dejnosti>ДЕТСКА И ПРЕВЕНТИВНА СТОМАТОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, МИКРОБИОЛОГИЈА, ОПШТА МЕДИЦИНА, ОФТАЛМОЛОГИЈА, ПЕДИЈАТРИЈА, РАДИО ДИЈАГНОСТИКА</Dejnosti>
+    <Adresa>УЛ. ИНДУСТРИСКА БР. 5 ПЕХЧЕВО</Adresa>
+    <NaselenoMesto>ПЕХЧЕВО</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>25-09-1259/9</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4030990271748</DanocenBroj>
+    <ShifraZU>25044901</ShifraZU>
+    <NazivNaUstanova>МИНИСТЕРСТВО ЗА ОДБРАНА НА Р.МАКЕДОНИЈА СКОПЈЕ</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА, ЛАБОРАТОРИЈА СО МИКРОБИОЛОГИЈА, НЕВРОЛОГИЈА, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОРТОДОНЦИЈА, ОФТАЛМОЛОГИЈА, ПРОТЕТИКА, ПСИХИЈАТРИЈА, РАДИО ДИЈАГНОСТИКА</Dejnosti>
+    <Adresa>ОРЦЕ НИКОЛОВ ББ</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>42.0061593</Latitude>
+    <Longitude>21.412497400000007</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-628/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4009995100144</DanocenBroj>
+    <ShifraZU>9000102</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ ГОЦЕ ДЕЛЧЕВ </NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА, ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, НЕВРОЛОГИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОФТАЛМОЛОГИЈА, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, РЕНТГЕН ДИЈАГНОСТИКА </Dejnosti>
+    <Adresa>УЛ. М.М. БРИЦО БР 44</Adresa>
+    <NaselenoMesto>ДЕЛЧЕВО</NaselenoMesto>
+    <Latitude>42.0209779</Latitude>
+    <Longitude>22.5878692</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>25-09-1259/9</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4030990271748</DanocenBroj>
+    <ShifraZU>25044930</ShifraZU>
+    <NazivNaUstanova>МИНИСТЕРСТВО ЗА ОДБРАНА НА Р.МАКЕДОНИЈА СКОПЈЕ</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА, ЛАБОРАТОРИЈА СО МИКРОБИОЛОГИЈА, НЕВРОЛОГИЈА, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОРТОДОНЦИЈА, ОФТАЛМОЛОГИЈА, ПРОТЕТИКА, ПСИХИЈАТРИЈА, РАДИО ДИЈАГНОСТИКА</Dejnosti>
+    <Adresa>ОРЦЕ НИКОЛОВ ББ СКОПЈЕ - ЦЕНТАР</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9698934</Latitude>
+    <Longitude>21.421626699999933</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-285/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4025956103832</DanocenBroj>
+    <ShifraZU>24000104</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ СВЕТИ НИКОЛЕ</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, РЕНТГЕН ДИЈАГНОСТИКА </Dejnosti>
+    <Adresa>УЛ. СЕПТЕМВРИСКА БР. 39</Adresa>
+    <NaselenoMesto>СВЕТИ НИКОЛЕ</NaselenoMesto>
+    <Latitude>41.8596828</Latitude>
+    <Longitude>21.93441000000007</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1034/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4001989102703</DanocenBroj>
+    <ShifraZU>1070303</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ ПЕХЧЕВО </NazivNaUstanova>
+    <Dejnosti>ДЕТСКА И ПРЕВЕНТИВНА СТОМАТОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, МИКРОБИОЛОГИЈА, ОПШТА МЕДИЦИНА, ОФТАЛМОЛОГИЈА, ПЕДИЈАТРИЈА, РАДИО ДИЈАГНОСТИКА</Dejnosti>
+    <Adresa>УЛ. ИНДУСТРИСКА БР. 5 ПЕХЧЕВО</Adresa>
+    <NaselenoMesto>ПЕХЧЕВО</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-612/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4017005154434</DanocenBroj>
+    <ShifraZU>17020702</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ЗДРАВСТВЕН ДОМ КУМАНОВО</NazivNaUstanova>
+    <Dejnosti>ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ЛАБОРАТОРИЈА, МЕДИЦИНА НА ТРУДОТ, ОПШТА СТОМАТОЛОГИЈА, ОСТАНАТИ ДЕЈНОСТИ, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА</Dejnosti>
+    <Adresa>УЛ:БОРИС КИДРИЧ  БР.11</Adresa>
+    <NaselenoMesto>КУМАНОВО</NaselenoMesto>
+    <Latitude>42.1358333</Latitude>
+    <Longitude>21.71805560000007</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>25-09-1259/9</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4030990271748</DanocenBroj>
+    <ShifraZU>25044934</ShifraZU>
+    <NazivNaUstanova>МИНИСТЕРСТВО ЗА ОДБРАНА НА Р.МАКЕДОНИЈА СКОПЈЕ</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА, ЛАБОРАТОРИЈА СО МИКРОБИОЛОГИЈА, НЕВРОЛОГИЈА, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОРТОДОНЦИЈА, ОФТАЛМОЛОГИЈА, ПРОТЕТИКА, ПСИХИЈАТРИЈА, РАДИО ДИЈАГНОСТИКА</Dejnosti>
+    <Adresa>ОРЦЕ НИКОЛОВ ББ СКОПЈЕ - ЦЕНТАР</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9698934</Latitude>
+    <Longitude>21.421626699999933</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-274/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4024992100924</DanocenBroj>
+    <ShifraZU>23000105</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ РЕСЕН</NazivNaUstanova>
+    <Dejnosti>ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ЛАБОРАТОРИЈА, ОРТОПЕДИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, РЕНТГЕН ДИЈАГНОСТИКА , ФИЗИКАЛНА ТЕРАПИЈА </Dejnosti>
+    <Adresa>УЛ.КОЧО РАЦИН ББ</Adresa>
+    <NaselenoMesto>РЕСЕН</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-274/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4024992100924</DanocenBroj>
+    <ShifraZU>23000114</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ РЕСЕН</NazivNaUstanova>
+    <Dejnosti>ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ЛАБОРАТОРИЈА, ОРТОПЕДИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, РЕНТГЕН ДИЈАГНОСТИКА , ФИЗИКАЛНА ТЕРАПИЈА </Dejnosti>
+    <Adresa>УЛ.КОЧО РАЦИН ББ</Adresa>
+    <NaselenoMesto>РЕСЕН</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-251/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4016994100376</DanocenBroj>
+    <ShifraZU>16000105</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ КРУШЕВО</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА, ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ОСТАНАТИ ДЕЈНОСТИ, РЕНТГЕН ДИЈАГНОСТИКА </Dejnosti>
+    <Adresa>УЛ. ИЛИНДЕНСКА БР. 13 А</Adresa>
+    <NaselenoMesto>КРУШЕВО</NaselenoMesto>
+    <Latitude>41.3676301</Latitude>
+    <Longitude>21.249806300000046</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-285/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4025956103832</DanocenBroj>
+    <ShifraZU>24000110</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ СВЕТИ НИКОЛЕ</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, РЕНТГЕН ДИЈАГНОСТИКА </Dejnosti>
+    <Adresa>УЛ. СЕПТЕМВРИСКА БР. 39</Adresa>
+    <NaselenoMesto>СВЕТИ НИКОЛЕ</NaselenoMesto>
+    <Latitude>41.8596828</Latitude>
+    <Longitude>21.93441000000007</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-169/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4020005141767</DanocenBroj>
+    <ShifraZU>19005004</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ЗДРАВСТВЕН ДОМ ОХРИД </NazivNaUstanova>
+    <Dejnosti>ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ОСТАНАТИ ДЕЈНОСТИ, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА</Dejnosti>
+    <Adresa>УЛ: ДИМИТАР  ВЛАХОВ БР.69</Adresa>
+    <NaselenoMesto>ОХРИД</NaselenoMesto>
+    <Latitude>41.1133488</Latitude>
+    <Longitude>20.804129699999976</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-80/3_problem</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4021005146498</DanocenBroj>
+    <ShifraZU>20047505</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ ПРИЛЕП</NazivNaUstanova>
+    <Dejnosti>БИОХЕМИСКА ЛАБОРАТОРИЈА, ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ОСТАНАТИ ДЕЈНОСТИ, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, СПОРТСКА МЕДИЦИНА</Dejnosti>
+    <Adresa>УЛ. МАРКСОВА ББ</Adresa>
+    <NaselenoMesto>ПРИЛЕП</NaselenoMesto>
+    <Latitude>41.35173</Latitude>
+    <Longitude>21.56214</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-401/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4019996100968</DanocenBroj>
+    <ShifraZU>18000114</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ НЕГОТИНО </NazivNaUstanova>
+    <Dejnosti>ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ЛАБОРАТОРИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПСИХИЈАТРИЈА, ФИЗИЈАТРИЈА</Dejnosti>
+    <Adresa>УЛ. ВЕЉКО ВЛАХОВИЌ БР. 9</Adresa>
+    <NaselenoMesto>НЕГОТИНО</NaselenoMesto>
+    <Latitude>41.480668</Latitude>
+    <Longitude>22.081830200000013</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-628/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4009995100144</DanocenBroj>
+    <ShifraZU>9000108</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ ГОЦЕ ДЕЛЧЕВ </NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА, ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, НЕВРОЛОГИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОФТАЛМОЛОГИЈА, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, РЕНТГЕН ДИЈАГНОСТИКА </Dejnosti>
+    <Adresa>УЛ. МЕТОДИ МИТЕВСКИ БРИЦО БР. 44</Adresa>
+    <NaselenoMesto>ДЕЛЧЕВО</NaselenoMesto>
+    <Latitude>41.9661994</Latitude>
+    <Longitude>22.779947499999935</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-12/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4015996100962</DanocenBroj>
+    <ShifraZU>15000113</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ КРИВА ПАЛАНКА</NazivNaUstanova>
+    <Dejnosti>БИОХЕМИСКА ЛАБОРАТОРИЈА, ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ОСТАНАТИ ДЕЈНОСТИ, ОФТАЛМОЛОГИЈА, ПНЕУМОФИЗИОЛОГИЈА, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, РЕНТГЕН ДИЈАГНОСТИКА СО УЛТРАЗВУЧНА ДИЈАГНОСТИКА, ФИЗИКАЛНА МЕДИЦИНА, ХИРУРШКИ БОЛЕСТИ</Dejnosti>
+    <Adresa>УЛ.ЈОАКИМ ОСОГОВСКИ БР.ББ КРИВА ПАЛАНКА</Adresa>
+    <NaselenoMesto>КРИВА ПАЛАНКА</NaselenoMesto>
+    <Latitude>42.19789</Latitude>
+    <Longitude>22.323941200000036</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-612/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4017005154434</DanocenBroj>
+    <ShifraZU>17020706</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ЗДРАВСТВЕН ДОМ КУМАНОВО</NazivNaUstanova>
+    <Dejnosti>ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ЛАБОРАТОРИЈА, МЕДИЦИНА НА ТРУДОТ, ОПШТА СТОМАТОЛОГИЈА, ОСТАНАТИ ДЕЈНОСТИ, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА</Dejnosti>
+    <Adresa>УЛ:БОРИС КИДРИЧ  БР.11</Adresa>
+    <NaselenoMesto>КУМАНОВО</NaselenoMesto>
+    <Latitude>42.1358333</Latitude>
+    <Longitude>21.71805560000007</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-306/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4011005123514</DanocenBroj>
+    <ShifraZU>11004605</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ЗДРАВСТВЕН ДОМ КАВАДАРЦИ</NazivNaUstanova>
+    <Dejnosti>БИОХЕМИСКА ЛАБОРАТОРИЈА, ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ОСТАНАТИ ДЕЈНОСТИ, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, СПОРТСКА МЕДИЦИНА</Dejnosti>
+    <Adresa>УЛ. БРАЌА МИЛАДИНОВИ БР 11</Adresa>
+    <NaselenoMesto>КАВАДАРЦИ</NaselenoMesto>
+    <Latitude>41.4324754</Latitude>
+    <Longitude>22.018227000000024</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-164/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4026005130046</DanocenBroj>
+    <ShifraZU>26003604</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ СТРУГА</NazivNaUstanova>
+    <Dejnosti>ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ОСТАНАТИ ДЕЈНОСТИ, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, СПОРТСКА МЕДИЦИНА</Dejnosti>
+    <Adresa>УЛ. КЕЈ 8 МИ НОЕМВРИ ББ</Adresa>
+    <NaselenoMesto>СТРУГА</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-162/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4026992103020</DanocenBroj>
+    <ShifraZU>26000207</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ ВЕВЧАНИ</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА, ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ЛАБОРАТОРИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, РЕНТГЕН ДИЈАГНОСТИКА </Dejnosti>
+    <Adresa>С. ВЕВЧАНИ</Adresa>
+    <NaselenoMesto>ВЕВЧАНИ</NaselenoMesto>
+    <Latitude>41.2403</Latitude>
+    <Longitude>20.59310000000005</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-683/2</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4012005118886</DanocenBroj>
+    <ShifraZU>12002404</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ КИЧЕВО</NazivNaUstanova>
+    <Dejnosti>ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ОСТАНАТИ ДЕЈНОСТИ, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА</Dejnosti>
+    <Adresa>УЛ. МАРШАЛ ТИТО БР. 42</Adresa>
+    <NaselenoMesto>КИЧЕВО</NaselenoMesto>
+    <Latitude>41.5202351</Latitude>
+    <Longitude>20.96291050000002</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-401/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4019996100968</DanocenBroj>
+    <ShifraZU>18000108</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ НЕГОТИНО </NazivNaUstanova>
+    <Dejnosti>ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ЛАБОРАТОРИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПСИХИЈАТРИЈА, ФИЗИЈАТРИЈА</Dejnosti>
+    <Adresa>УЛ. ВЕЉКО ВЛАХОВИЌ БР. 9</Adresa>
+    <NaselenoMesto>НЕГОТИНО</NaselenoMesto>
+    <Latitude>41.480668</Latitude>
+    <Longitude>22.081830200000013</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-274/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4024992100924</DanocenBroj>
+    <ShifraZU>23000106</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ РЕСЕН</NazivNaUstanova>
+    <Dejnosti>ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ЛАБОРАТОРИЈА, ОРТОПЕДИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, РЕНТГЕН ДИЈАГНОСТИКА , ФИЗИКАЛНА ТЕРАПИЈА </Dejnosti>
+    <Adresa>УЛ.КОЧО РАЦИН ББ</Adresa>
+    <NaselenoMesto>РЕСЕН</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-162/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4026992103020</DanocenBroj>
+    <ShifraZU>26000202</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ ВЕВЧАНИ</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА, ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ЛАБОРАТОРИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, РЕНТГЕН ДИЈАГНОСТИКА </Dejnosti>
+    <Adresa>С. ВЕВЧАНИ</Adresa>
+    <NaselenoMesto>ВЕВЧАНИ</NaselenoMesto>
+    <Latitude>41.2403</Latitude>
+    <Longitude>20.59310000000005</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-392/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4023973107180</DanocenBroj>
+    <ShifraZU>22000105</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ РАДОВИШ</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА, ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ЛАБОРАТОРИЈА, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, РЕНТГЕН ДИЈАГНОСТИКА </Dejnosti>
+    <Adresa>УЛ.БЛАЖЕ КОНЕСКИ БР.1</Adresa>
+    <NaselenoMesto>РАДОВИШ</NaselenoMesto>
+    <Latitude>41.6358186</Latitude>
+    <Longitude>22.46622590000004</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-285/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4025956103832</DanocenBroj>
+    <ShifraZU>24000105</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ СВЕТИ НИКОЛЕ</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, РЕНТГЕН ДИЈАГНОСТИКА </Dejnosti>
+    <Adresa>УЛ. СЕПТЕМВРИСКА БР. 39</Adresa>
+    <NaselenoMesto>СВЕТИ НИКОЛЕ</NaselenoMesto>
+    <Latitude>41.8596828</Latitude>
+    <Longitude>21.93441000000007</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-285/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4025956103832</DanocenBroj>
+    <ShifraZU>24000106</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ СВЕТИ НИКОЛЕ</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, РЕНТГЕН ДИЈАГНОСТИКА </Dejnosti>
+    <Adresa>УЛ. СЕПТЕМВРИСКА БР. 39</Adresa>
+    <NaselenoMesto>СВЕТИ НИКОЛЕ</NaselenoMesto>
+    <Latitude>41.8596828</Latitude>
+    <Longitude>21.93441000000007</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-628/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4009995100144</DanocenBroj>
+    <ShifraZU>9000103</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ ГОЦЕ ДЕЛЧЕВ </NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА, ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, НЕВРОЛОГИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОФТАЛМОЛОГИЈА, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, РЕНТГЕН ДИЈАГНОСТИКА </Dejnosti>
+    <Adresa>УЛ. М.М. БРИЦО БР 44</Adresa>
+    <NaselenoMesto>ДЕЛЧЕВО</NaselenoMesto>
+    <Latitude>42.0209779</Latitude>
+    <Longitude>22.5878692</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-392/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4023973107180</DanocenBroj>
+    <ShifraZU>22000103</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ РАДОВИШ</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА, ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ЛАБОРАТОРИЈА, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, РЕНТГЕН ДИЈАГНОСТИКА </Dejnosti>
+    <Adresa>УЛ.БЛАЖЕ КОНЕСКИ БР.1</Adresa>
+    <NaselenoMesto>РАДОВИШ</NaselenoMesto>
+    <Latitude>41.6358186</Latitude>
+    <Longitude>22.46622590000004</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-214/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4014979100219</DanocenBroj>
+    <ShifraZU>14000103</ShifraZU>
+    <NazivNaUstanova>ЗДРАСТВЕН ДОМ П.О. Ј.З.У. КРАТОВО</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА, ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ОФТАЛМОЛОГИЈА, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, РЕНТГЕН ДИЈАГНОСТИКА , ФИЗИКАЛНА ТЕРАПИЈА И РЕХАБИЛИТАЦИЈА</Dejnosti>
+    <Adresa>УЛ. НИКОЛА ТЕСЛА БР. 4</Adresa>
+    <NaselenoMesto>КРАТОВО</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1034/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4001989102703</DanocenBroj>
+    <ShifraZU>1070304</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ ПЕХЧЕВО </NazivNaUstanova>
+    <Dejnosti>ДЕТСКА И ПРЕВЕНТИВНА СТОМАТОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, МИКРОБИОЛОГИЈА, ОПШТА МЕДИЦИНА, ОФТАЛМОЛОГИЈА, ПЕДИЈАТРИЈА, РАДИО ДИЈАГНОСТИКА</Dejnosti>
+    <Adresa>УЛ. ИНДУСТРИСКА БР. 5 ПЕХЧЕВО</Adresa>
+    <NaselenoMesto>ПЕХЧЕВО</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-274/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4024992100924</DanocenBroj>
+    <ShifraZU>23000104</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ РЕСЕН</NazivNaUstanova>
+    <Dejnosti>ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ЛАБОРАТОРИЈА, ОРТОПЕДИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, РЕНТГЕН ДИЈАГНОСТИКА , ФИЗИКАЛНА ТЕРАПИЈА </Dejnosti>
+    <Adresa>УЛ.КОЧО РАЦИН ББ</Adresa>
+    <NaselenoMesto>РЕСЕН</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-401/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4019996100968</DanocenBroj>
+    <ShifraZU>18000109</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ НЕГОТИНО </NazivNaUstanova>
+    <Dejnosti>ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ЛАБОРАТОРИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПСИХИЈАТРИЈА, ФИЗИЈАТРИЈА</Dejnosti>
+    <Adresa>УЛ. ВЕЉКО ВЛАХОВИЌ БР. 9</Adresa>
+    <NaselenoMesto>НЕГОТИНО</NaselenoMesto>
+    <Latitude>41.480668</Latitude>
+    <Longitude>22.081830200000013</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>25-09-1259/9</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4030990271748</DanocenBroj>
+    <ShifraZU>25044931</ShifraZU>
+    <NazivNaUstanova>МИНИСТЕРСТВО ЗА ОДБРАНА НА Р.МАКЕДОНИЈА СКОПЈЕ</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА, ЛАБОРАТОРИЈА СО МИКРОБИОЛОГИЈА, НЕВРОЛОГИЈА, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОРТОДОНЦИЈА, ОФТАЛМОЛОГИЈА, ПРОТЕТИКА, ПСИХИЈАТРИЈА, РАДИО ДИЈАГНОСТИКА</Dejnosti>
+    <Adresa>ОРЦЕ НИКОЛОВ ББ СКОПЈЕ - ЦЕНТАР</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9698934</Latitude>
+    <Longitude>21.421626699999933</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-12/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4015996100962</DanocenBroj>
+    <ShifraZU>15000107</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ КРИВА ПАЛАНКА</NazivNaUstanova>
+    <Dejnosti>БИОХЕМИСКА ЛАБОРАТОРИЈА, ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ОСТАНАТИ ДЕЈНОСТИ, ОФТАЛМОЛОГИЈА, ПНЕУМОФИЗИОЛОГИЈА, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, РЕНТГЕН ДИЈАГНОСТИКА СО УЛТРАЗВУЧНА ДИЈАГНОСТИКА, ФИЗИКАЛНА МЕДИЦИНА, ХИРУРШКИ БОЛЕСТИ</Dejnosti>
+    <Adresa>УЛ.ЈОАКИМ ОСОГОВСКИ БР.ББ КРИВА ПАЛАНКА</Adresa>
+    <NaselenoMesto>КРИВА ПАЛАНКА</NaselenoMesto>
+    <Latitude>42.19789</Latitude>
+    <Longitude>22.323941200000036</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1034/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4001989102703</DanocenBroj>
+    <ShifraZU>1070305</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ ПЕХЧЕВО </NazivNaUstanova>
+    <Dejnosti>ДЕТСКА И ПРЕВЕНТИВНА СТОМАТОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, МИКРОБИОЛОГИЈА, ОПШТА МЕДИЦИНА, ОФТАЛМОЛОГИЈА, ПЕДИЈАТРИЈА, РАДИО ДИЈАГНОСТИКА</Dejnosti>
+    <Adresa>УЛ. ИНДУСТРИСКА БР. 5 ПЕХЧЕВО</Adresa>
+    <NaselenoMesto>ПЕХЧЕВО</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-12/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4015996100962</DanocenBroj>
+    <ShifraZU>15000108</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ КРИВА ПАЛАНКА</NazivNaUstanova>
+    <Dejnosti>БИОХЕМИСКА ЛАБОРАТОРИЈА, ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ОСТАНАТИ ДЕЈНОСТИ, ОФТАЛМОЛОГИЈА, ПНЕУМОФИЗИОЛОГИЈА, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, РЕНТГЕН ДИЈАГНОСТИКА СО УЛТРАЗВУЧНА ДИЈАГНОСТИКА, ФИЗИКАЛНА МЕДИЦИНА, ХИРУРШКИ БОЛЕСТИ</Dejnosti>
+    <Adresa>УЛ.ЈОАКИМ ОСОГОВСКИ БР.ББ КРИВА ПАЛАНКА</Adresa>
+    <NaselenoMesto>КРИВА ПАЛАНКА</NaselenoMesto>
+    <Latitude>42.19789</Latitude>
+    <Longitude>22.323941200000036</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-12/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4015996100962</DanocenBroj>
+    <ShifraZU>15000102</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ КРИВА ПАЛАНКА</NazivNaUstanova>
+    <Dejnosti>БИОХЕМИСКА ЛАБОРАТОРИЈА, ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ОСТАНАТИ ДЕЈНОСТИ, ОФТАЛМОЛОГИЈА, ПНЕУМОФИЗИОЛОГИЈА, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, РЕНТГЕН ДИЈАГНОСТИКА СО УЛТРАЗВУЧНА ДИЈАГНОСТИКА, ФИЗИКАЛНА МЕДИЦИНА, ХИРУРШКИ БОЛЕСТИ</Dejnosti>
+    <Adresa>УЛ.ЈОАКИМ ОСОГОВСКИ БР.ББ КРИВА ПАЛАНКА</Adresa>
+    <NaselenoMesto>КРИВА ПАЛАНКА</NaselenoMesto>
+    <Latitude>42.19789</Latitude>
+    <Longitude>22.323941200000036</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-274/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4024992100924</DanocenBroj>
+    <ShifraZU>23000113</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ РЕСЕН</NazivNaUstanova>
+    <Dejnosti>ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ЛАБОРАТОРИЈА, ОРТОПЕДИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, РЕНТГЕН ДИЈАГНОСТИКА , ФИЗИКАЛНА ТЕРАПИЈА </Dejnosti>
+    <Adresa>УЛ.КОЧО РАЦИН ББ</Adresa>
+    <NaselenoMesto>РЕСЕН</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-683/2</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4012005118886</DanocenBroj>
+    <ShifraZU>12002403</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ КИЧЕВО</NazivNaUstanova>
+    <Dejnosti>ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ОСТАНАТИ ДЕЈНОСТИ, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА</Dejnosti>
+    <Adresa>УЛ. МАРШАЛ ТИТО БР. 42</Adresa>
+    <NaselenoMesto>КИЧЕВО</NaselenoMesto>
+    <Latitude>41.5202351</Latitude>
+    <Longitude>20.96291050000002</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-392/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4023973107180</DanocenBroj>
+    <ShifraZU>22000107</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ РАДОВИШ</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА, ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ЛАБОРАТОРИЈА, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, РЕНТГЕН ДИЈАГНОСТИКА </Dejnosti>
+    <Adresa>УЛ.БЛАЖЕ КОНЕСКИ БР.1</Adresa>
+    <NaselenoMesto>РАДОВИШ</NaselenoMesto>
+    <Latitude>41.6358186</Latitude>
+    <Longitude>22.46622590000004</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-306/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4011005123514</DanocenBroj>
+    <ShifraZU>11004604</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ЗДРАВСТВЕН ДОМ КАВАДАРЦИ</NazivNaUstanova>
+    <Dejnosti>БИОХЕМИСКА ЛАБОРАТОРИЈА, ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ОСТАНАТИ ДЕЈНОСТИ, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, СПОРТСКА МЕДИЦИНА</Dejnosti>
+    <Adresa>УЛ. БРАЌА МИЛАДИНОВИ БР 11</Adresa>
+    <NaselenoMesto>КАВАДАРЦИ</NaselenoMesto>
+    <Latitude>41.4324754</Latitude>
+    <Longitude>22.018227000000024</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-164/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4026005130046</DanocenBroj>
+    <ShifraZU>26003603</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ СТРУГА</NazivNaUstanova>
+    <Dejnosti>ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ОСТАНАТИ ДЕЈНОСТИ, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, СПОРТСКА МЕДИЦИНА</Dejnosti>
+    <Adresa>УЛ. КЕЈ 8 МИ НОЕМВРИ ББ</Adresa>
+    <NaselenoMesto>СТРУГА</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-628/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4009995100144</DanocenBroj>
+    <ShifraZU>9000107</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ ГОЦЕ ДЕЛЧЕВ </NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА, ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, НЕВРОЛОГИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОФТАЛМОЛОГИЈА, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, РЕНТГЕН ДИЈАГНОСТИКА </Dejnosti>
+    <Adresa>УЛ. М.М. БРИЦО БР 44</Adresa>
+    <NaselenoMesto>ДЕЛЧЕВО</NaselenoMesto>
+    <Latitude>42.0209779</Latitude>
+    <Longitude>22.5878692</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-3/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4010995101335</DanocenBroj>
+    <ShifraZU>10070207</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ ДЕМИР ХИСАР</NazivNaUstanova>
+    <Dejnosti>БИОХЕМИСКА ЛАБОРАТОРИЈА, ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, РАДИО ДИЈАГНОСТИКА</Dejnosti>
+    <Adresa>УЛ.БИТОЛСКА ББ</Adresa>
+    <NaselenoMesto>ДЕМИР ХИСАР</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-169/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4020005141767</DanocenBroj>
+    <ShifraZU>19005003</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ЗДРАВСТВЕН ДОМ ОХРИД </NazivNaUstanova>
+    <Dejnosti>ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ОСТАНАТИ ДЕЈНОСТИ, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА</Dejnosti>
+    <Adresa>УЛ: ДИМИТАР  ВЛАХОВ БР.69</Adresa>
+    <NaselenoMesto>ОХРИД</NaselenoMesto>
+    <Latitude>41.1133488</Latitude>
+    <Longitude>20.804129699999976</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-80/3_problem</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4021005146498</DanocenBroj>
+    <ShifraZU>20047504</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ ПРИЛЕП</NazivNaUstanova>
+    <Dejnosti>БИОХЕМИСКА ЛАБОРАТОРИЈА, ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ОСТАНАТИ ДЕЈНОСТИ, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, СПОРТСКА МЕДИЦИНА</Dejnosti>
+    <Adresa>УЛ. МАРКСОВА ББ</Adresa>
+    <NaselenoMesto>ПРИЛЕП</NaselenoMesto>
+    <Latitude>41.35173</Latitude>
+    <Longitude>21.56214</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-329/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4005995101480</DanocenBroj>
+    <ShifraZU>5000107</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ ВИНИЦА</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА, ЛАБОРАТОРИЈА, НЕВРОЛОГИЈА, ОПШТА МЕДИЦИНА, РЕНТГЕН ДИЈАГНОСТИКА </Dejnosti>
+    <Adresa>ЈАКИМОВСКИ ПАТ ББ ВИНИЦА</Adresa>
+    <NaselenoMesto>ВИНИЦА</NaselenoMesto>
+    <Latitude>41.88648999999999</Latitude>
+    <Longitude>22.507820000000038</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-612/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4017005154434</DanocenBroj>
+    <ShifraZU>17020705</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ЗДРАВСТВЕН ДОМ КУМАНОВО</NazivNaUstanova>
+    <Dejnosti>ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ЛАБОРАТОРИЈА, МЕДИЦИНА НА ТРУДОТ, ОПШТА СТОМАТОЛОГИЈА, ОСТАНАТИ ДЕЈНОСТИ, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА</Dejnosti>
+    <Adresa>УЛ:БОРИС КИДРИЧ  БР.11</Adresa>
+    <NaselenoMesto>КУМАНОВО</NaselenoMesto>
+    <Latitude>42.1358333</Latitude>
+    <Longitude>21.71805560000007</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-484/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4008005103733</DanocenBroj>
+    <ShifraZU>8000102</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ ДЕБАР</NazivNaUstanova>
+    <Dejnosti>ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА</Dejnosti>
+    <Adresa>АМДИ ЛЕШИ 51</Adresa>
+    <NaselenoMesto>ДЕБАР</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-401/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4019996100968</DanocenBroj>
+    <ShifraZU>18000113</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ НЕГОТИНО </NazivNaUstanova>
+    <Dejnosti>ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ЛАБОРАТОРИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПСИХИЈАТРИЈА, ФИЗИЈАТРИЈА</Dejnosti>
+    <Adresa>УЛ. ВЕЉКО ВЛАХОВИЌ БР. 9</Adresa>
+    <NaselenoMesto>НЕГОТИНО</NaselenoMesto>
+    <Latitude>41.480668</Latitude>
+    <Longitude>22.081830200000013</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-214/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4014979100219</DanocenBroj>
+    <ShifraZU>14000107</ShifraZU>
+    <NazivNaUstanova>ЗДРАСТВЕН ДОМ П.О. Ј.З.У. КРАТОВО</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА, ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ОФТАЛМОЛОГИЈА, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, РЕНТГЕН ДИЈАГНОСТИКА , ФИЗИКАЛНА ТЕРАПИЈА И РЕХАБИЛИТАЦИЈА</Dejnosti>
+    <Adresa>УЛ. НИКОЛА ТЕСЛА БР. 4</Adresa>
+    <NaselenoMesto>КРАТОВО</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-285/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4025956103832</DanocenBroj>
+    <ShifraZU>24000109</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ СВЕТИ НИКОЛЕ</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, РЕНТГЕН ДИЈАГНОСТИКА </Dejnosti>
+    <Adresa>УЛ. СЕПТЕМВРИСКА БР. 39</Adresa>
+    <NaselenoMesto>СВЕТИ НИКОЛЕ</NaselenoMesto>
+    <Latitude>41.8596828</Latitude>
+    <Longitude>21.93441000000007</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>25-09-1259/9</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4030990271748</DanocenBroj>
+    <ShifraZU>25044935</ShifraZU>
+    <NazivNaUstanova>МИНИСТЕРСТВО ЗА ОДБРАНА НА Р.МАКЕДОНИЈА СКОПЈЕ</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА, ЛАБОРАТОРИЈА СО МИКРОБИОЛОГИЈА, НЕВРОЛОГИЈА, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОРТОДОНЦИЈА, ОФТАЛМОЛОГИЈА, ПРОТЕТИКА, ПСИХИЈАТРИЈА, РАДИО ДИЈАГНОСТИКА</Dejnosti>
+    <Adresa>ОРЦЕ НИКОЛОВ ББ СКОПЈЕ - ЦЕНТАР</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9698934</Latitude>
+    <Longitude>21.421626699999933</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>25-09-1259/9</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4030990271748</DanocenBroj>
+    <ShifraZU>25044932</ShifraZU>
+    <NazivNaUstanova>МИНИСТЕРСТВО ЗА ОДБРАНА НА Р.МАКЕДОНИЈА СКОПЈЕ</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА, ЛАБОРАТОРИЈА СО МИКРОБИОЛОГИЈА, НЕВРОЛОГИЈА, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОРТОДОНЦИЈА, ОФТАЛМОЛОГИЈА, ПРОТЕТИКА, ПСИХИЈАТРИЈА, РАДИО ДИЈАГНОСТИКА</Dejnosti>
+    <Adresa>ОРЦЕ НИКОЛОВ ББ СКОПЈЕ - ЦЕНТАР</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9698934</Latitude>
+    <Longitude>21.421626699999933</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-401/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4019996100968</DanocenBroj>
+    <ShifraZU>18000110</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ НЕГОТИНО </NazivNaUstanova>
+    <Dejnosti>ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ЛАБОРАТОРИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПСИХИЈАТРИЈА, ФИЗИЈАТРИЈА</Dejnosti>
+    <Adresa>УЛ. ВЕЉКО ВЛАХОВИЌ БР. 9</Adresa>
+    <NaselenoMesto>НЕГОТИНО</NaselenoMesto>
+    <Latitude>41.480668</Latitude>
+    <Longitude>22.081830200000013</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>25-09-1259/9</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4030990271748</DanocenBroj>
+    <ShifraZU>25044933</ShifraZU>
+    <NazivNaUstanova>МИНИСТЕРСТВО ЗА ОДБРАНА НА Р.МАКЕДОНИЈА СКОПЈЕ</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА, ЛАБОРАТОРИЈА СО МИКРОБИОЛОГИЈА, НЕВРОЛОГИЈА, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОРТОДОНЦИЈА, ОФТАЛМОЛОГИЈА, ПРОТЕТИКА, ПСИХИЈАТРИЈА, РАДИО ДИЈАГНОСТИКА</Dejnosti>
+    <Adresa>ОРЦЕ НИКОЛОВ ББ СКОПЈЕ - ЦЕНТАР</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9698934</Latitude>
+    <Longitude>21.421626699999933</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1034/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4001989102703</DanocenBroj>
+    <ShifraZU>1070306</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ ПЕХЧЕВО </NazivNaUstanova>
+    <Dejnosti>ДЕТСКА И ПРЕВЕНТИВНА СТОМАТОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, МИКРОБИОЛОГИЈА, ОПШТА МЕДИЦИНА, ОФТАЛМОЛОГИЈА, ПЕДИЈАТРИЈА, РАДИО ДИЈАГНОСТИКА</Dejnosti>
+    <Adresa>УЛ. ИНДУСТРИСКА БР. 5 ПЕХЧЕВО</Adresa>
+    <NaselenoMesto>ПЕХЧЕВО</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-392/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4023973107180</DanocenBroj>
+    <ShifraZU>22000104</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ РАДОВИШ</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА, ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ЛАБОРАТОРИЈА, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, РЕНТГЕН ДИЈАГНОСТИКА </Dejnosti>
+    <Adresa>УЛ.БЛАЖЕ КОНЕСКИ БР.1</Adresa>
+    <NaselenoMesto>РАДОВИШ</NaselenoMesto>
+    <Latitude>41.6358186</Latitude>
+    <Longitude>22.46622590000004</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-162/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4026992103020</DanocenBroj>
+    <ShifraZU>26000203</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ ВЕВЧАНИ</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА, ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ЛАБОРАТОРИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, РЕНТГЕН ДИЈАГНОСТИКА </Dejnosti>
+    <Adresa>С. ВЕВЧАНИ</Adresa>
+    <NaselenoMesto>ВЕВЧАНИ</NaselenoMesto>
+    <Latitude>41.2403</Latitude>
+    <Longitude>20.59310000000005</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-274/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4024992100924</DanocenBroj>
+    <ShifraZU>23000109</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ РЕСЕН</NazivNaUstanova>
+    <Dejnosti>ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ЛАБОРАТОРИЈА, ОРТОПЕДИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, РЕНТГЕН ДИЈАГНОСТИКА , ФИЗИКАЛНА ТЕРАПИЈА </Dejnosti>
+    <Adresa>УЛ.КОЧО РАЦИН ББ</Adresa>
+    <NaselenoMesto>РЕСЕН</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-285/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4025956103832</DanocenBroj>
+    <ShifraZU>24000107</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ СВЕТИ НИКОЛЕ</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, РЕНТГЕН ДИЈАГНОСТИКА </Dejnosti>
+    <Adresa>УЛ. СЕПТЕМВРИСКА БР. 39</Adresa>
+    <NaselenoMesto>СВЕТИ НИКОЛЕ</NaselenoMesto>
+    <Latitude>41.8596828</Latitude>
+    <Longitude>21.93441000000007</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-251/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4016994100376</DanocenBroj>
+    <ShifraZU>16000101</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ КРУШЕВО</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА, ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ОСТАНАТИ ДЕЈНОСТИ, РЕНТГЕН ДИЈАГНОСТИКА </Dejnosti>
+    <Adresa>УЛ. ИЛИНДЕНСКА БР. 13 А</Adresa>
+    <NaselenoMesto>КРУШЕВО</NaselenoMesto>
+    <Latitude>41.3676301</Latitude>
+    <Longitude>21.249806300000046</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-628/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4009995100144</DanocenBroj>
+    <ShifraZU>9000104</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ ГОЦЕ ДЕЛЧЕВ </NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА, ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, НЕВРОЛОГИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОФТАЛМОЛОГИЈА, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, РЕНТГЕН ДИЈАГНОСТИКА </Dejnosti>
+    <Adresa>УЛ. М.М. БРИЦО БР 44</Adresa>
+    <NaselenoMesto>ДЕЛЧЕВО</NaselenoMesto>
+    <Latitude>42.0209779</Latitude>
+    <Longitude>22.5878692</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-329/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4005995101480</DanocenBroj>
+    <ShifraZU>5000104</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ ВИНИЦА</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА, ЛАБОРАТОРИЈА, НЕВРОЛОГИЈА, ОПШТА МЕДИЦИНА, РЕНТГЕН ДИЈАГНОСТИКА </Dejnosti>
+    <Adresa>ЈАКИМОВСКИ ПАТ ББ</Adresa>
+    <NaselenoMesto>ВИНИЦА</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-214/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4014979100219</DanocenBroj>
+    <ShifraZU>14000104</ShifraZU>
+    <NazivNaUstanova>ЗДРАСТВЕН ДОМ П.О. Ј.З.У. КРАТОВО</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА, ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ОФТАЛМОЛОГИЈА, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, РЕНТГЕН ДИЈАГНОСТИКА , ФИЗИКАЛНА ТЕРАПИЈА И РЕХАБИЛИТАЦИЈА</Dejnosti>
+    <Adresa>УЛ. НИКОЛА ТЕСЛА БР. 4</Adresa>
+    <NaselenoMesto>КРАТОВО</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-12/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4015996100962</DanocenBroj>
+    <ShifraZU>15000109</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ КРИВА ПАЛАНКА</NazivNaUstanova>
+    <Dejnosti>БИОХЕМИСКА ЛАБОРАТОРИЈА, ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ОСТАНАТИ ДЕЈНОСТИ, ОФТАЛМОЛОГИЈА, ПНЕУМОФИЗИОЛОГИЈА, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, РЕНТГЕН ДИЈАГНОСТИКА СО УЛТРАЗВУЧНА ДИЈАГНОСТИКА, ФИЗИКАЛНА МЕДИЦИНА, ХИРУРШКИ БОЛЕСТИ</Dejnosti>
+    <Adresa>УЛ.ЈОАКИМ ОСОГОВСКИ БР.ББ КРИВА ПАЛАНКА</Adresa>
+    <NaselenoMesto>КРИВА ПАЛАНКА</NaselenoMesto>
+    <Latitude>42.19789</Latitude>
+    <Longitude>22.323941200000036</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-164/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4026005130046</DanocenBroj>
+    <ShifraZU>26003601</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ СТРУГА</NazivNaUstanova>
+    <Dejnosti>ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ОСТАНАТИ ДЕЈНОСТИ, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, СПОРТСКА МЕДИЦИНА</Dejnosti>
+    <Adresa>КЕЈ 8-МИ НОЕМВРИ ББ</Adresa>
+    <NaselenoMesto>СТРУГА</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-306/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4011005123514</DanocenBroj>
+    <ShifraZU>11004602</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ЗДРАВСТВЕН ДОМ КАВАДАРЦИ</NazivNaUstanova>
+    <Dejnosti>БИОХЕМИСКА ЛАБОРАТОРИЈА, ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ОСТАНАТИ ДЕЈНОСТИ, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, СПОРТСКА МЕДИЦИНА</Dejnosti>
+    <Adresa>УЛ. БРАЌА МИЛАДИНОВИ БР 11</Adresa>
+    <NaselenoMesto>КАВАДАРЦИ</NaselenoMesto>
+    <Latitude>41.4324754</Latitude>
+    <Longitude>22.018227000000024</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-80/3_problem</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4021005146498</DanocenBroj>
+    <ShifraZU>20047501</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ ПРИЛЕП</NazivNaUstanova>
+    <Dejnosti>БИОХЕМИСКА ЛАБОРАТОРИЈА, ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ОСТАНАТИ ДЕЈНОСТИ, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, СПОРТСКА МЕДИЦИНА</Dejnosti>
+    <Adresa>УЛ. МАРКСОВА ББ</Adresa>
+    <NaselenoMesto>ПРИЛЕП</NaselenoMesto>
+    <Latitude>41.35173</Latitude>
+    <Longitude>21.56214</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-401/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4019996100968</DanocenBroj>
+    <ShifraZU>18000111</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ НЕГОТИНО </NazivNaUstanova>
+    <Dejnosti>ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ЛАБОРАТОРИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПСИХИЈАТРИЈА, ФИЗИЈАТРИЈА</Dejnosti>
+    <Adresa>УЛ. ВЕЉКО ВЛАХОВИЌ БР. 9</Adresa>
+    <NaselenoMesto>НЕГОТИНО</NaselenoMesto>
+    <Latitude>41.480668</Latitude>
+    <Longitude>22.081830200000013</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-12/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4015996100962</DanocenBroj>
+    <ShifraZU>15000110</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ КРИВА ПАЛАНКА</NazivNaUstanova>
+    <Dejnosti>БИОХЕМИСКА ЛАБОРАТОРИЈА, ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ОСТАНАТИ ДЕЈНОСТИ, ОФТАЛМОЛОГИЈА, ПНЕУМОФИЗИОЛОГИЈА, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, РЕНТГЕН ДИЈАГНОСТИКА СО УЛТРАЗВУЧНА ДИЈАГНОСТИКА, ФИЗИКАЛНА МЕДИЦИНА, ХИРУРШКИ БОЛЕСТИ</Dejnosti>
+    <Adresa>УЛ.ЈОАКИМ ОСОГОВСКИ БР.ББ КРИВА ПАЛАНКА</Adresa>
+    <NaselenoMesto>КРИВА ПАЛАНКА</NaselenoMesto>
+    <Latitude>42.19789</Latitude>
+    <Longitude>22.323941200000036</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-274/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4024992100924</DanocenBroj>
+    <ShifraZU>23000110</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ РЕСЕН</NazivNaUstanova>
+    <Dejnosti>ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ЛАБОРАТОРИЈА, ОРТОПЕДИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, РЕНТГЕН ДИЈАГНОСТИКА , ФИЗИКАЛНА ТЕРАПИЈА </Dejnosti>
+    <Adresa>УЛ.КОЧО РАЦИН ББ</Adresa>
+    <NaselenoMesto>РЕСЕН</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-214/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4014979100219</DanocenBroj>
+    <ShifraZU>14000105</ShifraZU>
+    <NazivNaUstanova>ЗДРАСТВЕН ДОМ П.О. Ј.З.У. КРАТОВО</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА, ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ОФТАЛМОЛОГИЈА, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, РЕНТГЕН ДИЈАГНОСТИКА , ФИЗИКАЛНА ТЕРАПИЈА И РЕХАБИЛИТАЦИЈА</Dejnosti>
+    <Adresa>УЛ. НИКОЛА ТЕСЛА БР. 4</Adresa>
+    <NaselenoMesto>КРАТОВО</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-12/3</ArhivskiBroj>
+    <TipDogovorID>12</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Здравствени домови)</TipNaDogovor>
+    <DanocenBroj>4015996100962</DanocenBroj>
+    <ShifraZU>15000111</ShifraZU>
+    <NazivNaUstanova>ЗДРАВСТВЕН ДОМ КРИВА ПАЛАНКА</NazivNaUstanova>
+    <Dejnosti>БИОХЕМИСКА ЛАБОРАТОРИЈА, ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИТНА МЕДИЦИНСКА ПОМОШ И ДОМАШНО ЛЕКУВАЊЕ, ОСТАНАТИ ДЕЈНОСТИ, ОФТАЛМОЛОГИЈА, ПНЕУМОФИЗИОЛОГИЈА, ПРЕВЕНТИВНА ЗДРАВСТВЕНА ЗАШТИТА, РЕНТГЕН ДИЈАГНОСТИКА СО УЛТРАЗВУЧНА ДИЈАГНОСТИКА, ФИЗИКАЛНА МЕДИЦИНА, ХИРУРШКИ БОЛЕСТИ</Dejnosti>
+    <Adresa>УЛ.ЈОАКИМ ОСОГОВСКИ БР.ББ КРИВА ПАЛАНКА</Adresa>
+    <NaselenoMesto>КРИВА ПАЛАНКА</NaselenoMesto>
+    <Latitude>42.19789</Latitude>
+    <Longitude>22.323941200000036</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+</Dogovori>

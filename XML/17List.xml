@@ -1,0 +1,815 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dogovori>
+  <Dogovor>
+    <ArhivskiBroj>09-967/3</ArhivskiBroj>
+    <TipDogovorID>19</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Универзитетски клиники)</TipNaDogovor>
+    <DanocenBroj>4030007645628</DanocenBroj>
+    <ShifraZU>25093701</ShifraZU>
+    <NazivNaUstanova>ЈЗУ УНИВЕРЗИТЕТСКА КЛИНИКА ЗА РАДИОЛОГИЈА</NazivNaUstanova>
+    <Dejnosti>РАДИОЛОГИЈА</Dejnosti>
+    <Adresa>БЕЛГРАДСКА ББ</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.99316695064472</Latitude>
+    <Longitude>21.432008743286133</Longitude>
+    <Status>2</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1129/2</ArhivskiBroj>
+    <TipDogovorID>19</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Универзитетски клиники)</TipNaDogovor>
+    <DanocenBroj>4030980249612</DanocenBroj>
+    <ShifraZU>25047801</ShifraZU>
+    <NazivNaUstanova>ЈЗУ КЛИНИКА ЗА МАКСИЛОФАЦИЈАЛНА ХИРУРГИЈА</NazivNaUstanova>
+    <Dejnosti>МАКСИЛОФАЦИЈАЛНА ХИРУРГИЈА, ОСТАНАТИ ДЕЈНОСТИ</Dejnosti>
+    <Adresa>УЛ ВОДЊАНСКА БР 17</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9921921</Latitude>
+    <Longitude>21.423597299999983</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1129/2</ArhivskiBroj>
+    <TipDogovorID>19</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Универзитетски клиники)</TipNaDogovor>
+    <DanocenBroj>4030980249612</DanocenBroj>
+    <ShifraZU>25047802</ShifraZU>
+    <NazivNaUstanova>ЈЗУ КЛИНИКА ЗА МАКСИЛОФАЦИЈАЛНА ХИРУРГИЈА</NazivNaUstanova>
+    <Dejnosti>МАКСИЛОФАЦИЈАЛНА ХИРУРГИЈА, ОСТАНАТИ ДЕЈНОСТИ</Dejnosti>
+    <Adresa>УЛ ВОДЊАНСКА БР 17</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9921921</Latitude>
+    <Longitude>21.423597299999983</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-468/3</ArhivskiBroj>
+    <TipDogovorID>19</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Универзитетски клиники)</TipNaDogovor>
+    <DanocenBroj>4030007645474</DanocenBroj>
+    <ShifraZU>25094101</ShifraZU>
+    <NazivNaUstanova>ЈЗУ УНИВЕРЗИТЕТСКА КЛИНИКА ЗА НЕФРОЛОГИЈА</NazivNaUstanova>
+    <Dejnosti>НЕФРОЛОГИЈА</Dejnosti>
+    <Adresa>ВОДЊАНСКА 17</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9921921</Latitude>
+    <Longitude>21.423597299999983</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-821/3</ArhivskiBroj>
+    <TipDogovorID>19</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Универзитетски клиники)</TipNaDogovor>
+    <DanocenBroj>4030005578940</DanocenBroj>
+    <ShifraZU>25047408</ShifraZU>
+    <NazivNaUstanova>ЈЗУ КЛ.ХИРУРШКИ БОЛЕСТИ-СВ. НАУМ ОХРИДСКИ-СК.</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА, РЕАНИМАЦИЈА И ИНТЕНЗИВНИ ЛЕКУВАЊЕ, ИНТЕРНА МЕДИЦИНА, МЕДИЦИНСКА БИОХЕМИЈА, ОСТАНАТИ ДЕЈНОСТИ, РЕНТГЕН ДИЈАГНОСТИКА , ТРАНСФУЗИОЛОГИЈА, УРОЛОГИЈА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>.</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9973462</Latitude>
+    <Longitude>21.42799560000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-821/3</ArhivskiBroj>
+    <TipDogovorID>19</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Универзитетски клиники)</TipNaDogovor>
+    <DanocenBroj>4030005578940</DanocenBroj>
+    <ShifraZU>25047405</ShifraZU>
+    <NazivNaUstanova>ЈЗУ КЛ.ХИРУРШКИ БОЛЕСТИ-СВ. НАУМ ОХРИДСКИ-СК.</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА, РЕАНИМАЦИЈА И ИНТЕНЗИВНИ ЛЕКУВАЊЕ, ИНТЕРНА МЕДИЦИНА, МЕДИЦИНСКА БИОХЕМИЈА, ОСТАНАТИ ДЕЈНОСТИ, РЕНТГЕН ДИЈАГНОСТИКА , ТРАНСФУЗИОЛОГИЈА, УРОЛОГИЈА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ 11 ОКТОМВРИ БР 53</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9892736</Latitude>
+    <Longitude>21.440484500000025</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-821/3</ArhivskiBroj>
+    <TipDogovorID>19</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Универзитетски клиники)</TipNaDogovor>
+    <DanocenBroj>4030005578940</DanocenBroj>
+    <ShifraZU>25047404</ShifraZU>
+    <NazivNaUstanova>ЈЗУ КЛ.ХИРУРШКИ БОЛЕСТИ-СВ. НАУМ ОХРИДСКИ-СК.</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА, РЕАНИМАЦИЈА И ИНТЕНЗИВНИ ЛЕКУВАЊЕ, ИНТЕРНА МЕДИЦИНА, МЕДИЦИНСКА БИОХЕМИЈА, ОСТАНАТИ ДЕЈНОСТИ, РЕНТГЕН ДИЈАГНОСТИКА , ТРАНСФУЗИОЛОГИЈА, УРОЛОГИЈА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>.</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.608635</Latitude>
+    <Longitude>21.745274999999992</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-821/3</ArhivskiBroj>
+    <TipDogovorID>19</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Универзитетски клиники)</TipNaDogovor>
+    <DanocenBroj>4030005578940</DanocenBroj>
+    <ShifraZU>25047403</ShifraZU>
+    <NazivNaUstanova>ЈЗУ КЛ.ХИРУРШКИ БОЛЕСТИ-СВ. НАУМ ОХРИДСКИ-СК.</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА, РЕАНИМАЦИЈА И ИНТЕНЗИВНИ ЛЕКУВАЊЕ, ИНТЕРНА МЕДИЦИНА, МЕДИЦИНСКА БИОХЕМИЈА, ОСТАНАТИ ДЕЈНОСТИ, РЕНТГЕН ДИЈАГНОСТИКА , ТРАНСФУЗИОЛОГИЈА, УРОЛОГИЈА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ 11 ОКТОМВРИ БР 53</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9892736</Latitude>
+    <Longitude>21.440484500000025</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-821/3</ArhivskiBroj>
+    <TipDogovorID>19</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Универзитетски клиники)</TipNaDogovor>
+    <DanocenBroj>4030005578940</DanocenBroj>
+    <ShifraZU>25047402</ShifraZU>
+    <NazivNaUstanova>ЈЗУ КЛ.ХИРУРШКИ БОЛЕСТИ-СВ. НАУМ ОХРИДСКИ-СК.</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА, РЕАНИМАЦИЈА И ИНТЕНЗИВНИ ЛЕКУВАЊЕ, ИНТЕРНА МЕДИЦИНА, МЕДИЦИНСКА БИОХЕМИЈА, ОСТАНАТИ ДЕЈНОСТИ, РЕНТГЕН ДИЈАГНОСТИКА , ТРАНСФУЗИОЛОГИЈА, УРОЛОГИЈА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>.</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9973462</Latitude>
+    <Longitude>21.42799560000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-821/3</ArhivskiBroj>
+    <TipDogovorID>19</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Универзитетски клиники)</TipNaDogovor>
+    <DanocenBroj>4030005578940</DanocenBroj>
+    <ShifraZU>25047406</ShifraZU>
+    <NazivNaUstanova>ЈЗУ КЛ.ХИРУРШКИ БОЛЕСТИ-СВ. НАУМ ОХРИДСКИ-СК.</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА, РЕАНИМАЦИЈА И ИНТЕНЗИВНИ ЛЕКУВАЊЕ, ИНТЕРНА МЕДИЦИНА, МЕДИЦИНСКА БИОХЕМИЈА, ОСТАНАТИ ДЕЈНОСТИ, РЕНТГЕН ДИЈАГНОСТИКА , ТРАНСФУЗИОЛОГИЈА, УРОЛОГИЈА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>.</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9973462</Latitude>
+    <Longitude>21.42799560000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-821/3</ArhivskiBroj>
+    <TipDogovorID>19</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Универзитетски клиники)</TipNaDogovor>
+    <DanocenBroj>4030005578940</DanocenBroj>
+    <ShifraZU>25047401</ShifraZU>
+    <NazivNaUstanova>ЈЗУ КЛ.ХИРУРШКИ БОЛЕСТИ-СВ. НАУМ ОХРИДСКИ-СК.</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА, РЕАНИМАЦИЈА И ИНТЕНЗИВНИ ЛЕКУВАЊЕ, ИНТЕРНА МЕДИЦИНА, МЕДИЦИНСКА БИОХЕМИЈА, ОСТАНАТИ ДЕЈНОСТИ, РЕНТГЕН ДИЈАГНОСТИКА , ТРАНСФУЗИОЛОГИЈА, УРОЛОГИЈА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ 11 ОКТОМВРИ БР 53</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.7156381</Latitude>
+    <Longitude>21.765650400000027</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-970/4</ArhivskiBroj>
+    <TipDogovorID>19</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Универзитетски клиники)</TipNaDogovor>
+    <DanocenBroj>4080010514566</DanocenBroj>
+    <ShifraZU>25120902</ShifraZU>
+    <NazivNaUstanova>ЈЗУ УК,ТРАУМ.ОРТ.АНЕС.РЕАН.УРГ.ЦЕН</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА, РЕАНИМАЦИЈА И ИНТЕНЗИВНИ ЛЕКУВАЊЕ, ОРТОПЕДСКИ БОЛЕСТИ, ТРАУМАТОЛОГИЈА, УРГЕНТЕН ЦЕНТАР СО ПРИЕМНО ОДЕЛЕНИЕ</Dejnosti>
+    <Adresa>ВОДЊАНСКА 17</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9921921</Latitude>
+    <Longitude>21.423597299999983</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-970/4</ArhivskiBroj>
+    <TipDogovorID>19</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Универзитетски клиники)</TipNaDogovor>
+    <DanocenBroj>4080010514566</DanocenBroj>
+    <ShifraZU>25120903</ShifraZU>
+    <NazivNaUstanova>ЈЗУ УК,ТРАУМ.ОРТ.АНЕС.РЕАН.УРГ.ЦЕН</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА, РЕАНИМАЦИЈА И ИНТЕНЗИВНИ ЛЕКУВАЊЕ, ОРТОПЕДСКИ БОЛЕСТИ, ТРАУМАТОЛОГИЈА, УРГЕНТЕН ЦЕНТАР СО ПРИЕМНО ОДЕЛЕНИЕ</Dejnosti>
+    <Adresa>ВОДЊАНСКА 17</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9921921</Latitude>
+    <Longitude>21.423597299999983</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-970/4</ArhivskiBroj>
+    <TipDogovorID>19</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Универзитетски клиники)</TipNaDogovor>
+    <DanocenBroj>4080010514566</DanocenBroj>
+    <ShifraZU>25120904</ShifraZU>
+    <NazivNaUstanova>ЈЗУ УК,ТРАУМ.ОРТ.АНЕС.РЕАН.УРГ.ЦЕН</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА, РЕАНИМАЦИЈА И ИНТЕНЗИВНИ ЛЕКУВАЊЕ, ОРТОПЕДСКИ БОЛЕСТИ, ТРАУМАТОЛОГИЈА, УРГЕНТЕН ЦЕНТАР СО ПРИЕМНО ОДЕЛЕНИЕ</Dejnosti>
+    <Adresa>ВОДЊАНСКА 17</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9921921</Latitude>
+    <Longitude>21.423597299999983</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-474/3</ArhivskiBroj>
+    <TipDogovorID>19</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Универзитетски клиники)</TipNaDogovor>
+    <DanocenBroj>4030007645660</DanocenBroj>
+    <ShifraZU>25093801</ShifraZU>
+    <NazivNaUstanova>ЈЗУ УНИВЕРЗИ. КЛ. ЗА РАДИОТЕРАПИЈА И ОНКОЛОГИЈА</NazivNaUstanova>
+    <Dejnosti>РАДИОТЕРАПИЈА И ОНКОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.ВОДЊАНСКА БР 17 СКПЈЕ</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9921921</Latitude>
+    <Longitude>21.423597299999983</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1130/3</ArhivskiBroj>
+    <TipDogovorID>19</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Универзитетски клиники)</TipNaDogovor>
+    <DanocenBroj>4030007645563</DanocenBroj>
+    <ShifraZU>25095601</ShifraZU>
+    <NazivNaUstanova>ЈЗУ УНИВЕРЗИ. КЛ. ЗА ТОРАКАЛНА И ВАСКУЛАРНА ХИР.</NazivNaUstanova>
+    <Dejnosti>ТОРАКАЛНА И ВАСКУЛАРНА ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ.ВОДЊАНСКА БР.17</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9921921</Latitude>
+    <Longitude>21.423597299999983</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-969/3</ArhivskiBroj>
+    <TipDogovorID>19</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Универзитетски клиники)</TipNaDogovor>
+    <DanocenBroj>4030007645636</DanocenBroj>
+    <ShifraZU>25094401</ShifraZU>
+    <NazivNaUstanova>ЈЗУ УНИВЕРЗИТЕТСКА КЛИНИКА ЗА ЕНДОКРИНОЛОГИЈА </NazivNaUstanova>
+    <Dejnosti>ЕНДОКРИНОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.ВОДЊАНСКА БР.17</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9921921</Latitude>
+    <Longitude>21.423597299999983</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1212/4</ArhivskiBroj>
+    <TipDogovorID>19</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Универзитетски клиники)</TipNaDogovor>
+    <DanocenBroj>4030007645571</DanocenBroj>
+    <ShifraZU>25095401</ShifraZU>
+    <NazivNaUstanova>ЈЗУ УНИВЕРЗИТЕТСКА КЛИНИКА ЗА НЕВРОХИРУРГИЈА </NazivNaUstanova>
+    <Dejnosti>НЕВРОХИРУРШКИ БОЛЕСТИ</Dejnosti>
+    <Adresa>УЛ.ВОДЊАНСКА БР.17</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9921921</Latitude>
+    <Longitude>21.423597299999983</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-470/4</ArhivskiBroj>
+    <TipDogovorID>19</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Универзитетски клиники)</TipNaDogovor>
+    <DanocenBroj>4030007645482</DanocenBroj>
+    <ShifraZU>25095101</ShifraZU>
+    <NazivNaUstanova>ЈЗУ УНИВЕРЗИТЕТСКА КЛИНИКА ЗА НЕВРОЛОГИЈА </NazivNaUstanova>
+    <Dejnosti>НЕВРОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.ВОДЊАНСКА БР.17</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9921921</Latitude>
+    <Longitude>21.423597299999983</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-820/3</ArhivskiBroj>
+    <TipDogovorID>19</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Универзитетски клиники)</TipNaDogovor>
+    <DanocenBroj>4030007645555</DanocenBroj>
+    <ShifraZU>25094601</ShifraZU>
+    <NazivNaUstanova>ЈЗУ УНИВЕРЗИТЕТСКА КЛИНИКА ЗА ХЕМАТОЛОГИЈА </NazivNaUstanova>
+    <Dejnosti>ХЕМАТОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.ВОДЊАНСКА БР.17</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9921921</Latitude>
+    <Longitude>21.423597299999983</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1058/4</ArhivskiBroj>
+    <TipDogovorID>19</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Универзитетски клиники)</TipNaDogovor>
+    <DanocenBroj>4030007645695</DanocenBroj>
+    <ShifraZU>25096302</ShifraZU>
+    <NazivNaUstanova>ЈЗУ УНИВЕРЗИ. КЛ. ЗА ГИНЕКОЛОГИЈА И АКУШЕРСТВО </NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА И АКУШЕРСТВО</Dejnosti>
+    <Adresa>ВОДЊАНСКА 17</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9921921</Latitude>
+    <Longitude>21.423597299999983</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-474/3</ArhivskiBroj>
+    <TipDogovorID>19</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Универзитетски клиники)</TipNaDogovor>
+    <DanocenBroj>4030007645660</DanocenBroj>
+    <ShifraZU>25093802</ShifraZU>
+    <NazivNaUstanova>ЈЗУ УНИВЕРЗИ. КЛ. ЗА РАДИОТЕРАПИЈА И ОНКОЛОГИЈА</NazivNaUstanova>
+    <Dejnosti>РАДИОТЕРАПИЈА И ОНКОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.ВОДЊАНСКА БР 17 СКПЈЕ</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9921921</Latitude>
+    <Longitude>21.423597299999983</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-823/3</ArhivskiBroj>
+    <TipDogovorID>19</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Универзитетски клиники)</TipNaDogovor>
+    <DanocenBroj>4030007645733</DanocenBroj>
+    <ShifraZU>25094202</ShifraZU>
+    <NazivNaUstanova>ЈЗУ УНИВЕРЗИ.КЛ. ЗА ГАСТРОЕНТЕРОХЕПАТОЛОГИЈА </NazivNaUstanova>
+    <Dejnosti>ГАСТРОЕНТЕРОХЕПАТОЛОГИЈА</Dejnosti>
+    <Adresa>ВОДЊАНСКА17</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9973462</Latitude>
+    <Longitude>21.42799560000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-471/3</ArhivskiBroj>
+    <TipDogovorID>19</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Универзитетски клиники)</TipNaDogovor>
+    <DanocenBroj>4030007645504</DanocenBroj>
+    <ShifraZU>25095501</ShifraZU>
+    <NazivNaUstanova>ЈЗУ УНИВЕРЗИ. КЛ. ЗА ДИГЕСТИВНА ХИРУРГИЈА </NazivNaUstanova>
+    <Dejnosti>ДИГЕСТИВНА ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ.ВОДЊАНСКА БР.17</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9921921</Latitude>
+    <Longitude>21.423597299999983</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1132/3</ArhivskiBroj>
+    <TipDogovorID>19</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Универзитетски клиники)</TipNaDogovor>
+    <DanocenBroj>4030007645768</DanocenBroj>
+    <ShifraZU>25093901</ShifraZU>
+    <NazivNaUstanova>ЈЗУ УНИВЕРЗИТЕТСКА КЛИНИКА ЗА КАРДИОЛОГИЈА</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА, КАРДИОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.ВОДЊАНСКА БР.17 СКОПЈЕ</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9921921</Latitude>
+    <Longitude>21.423597299999983</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-467/3</ArhivskiBroj>
+    <TipDogovorID>19</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Универзитетски клиники)</TipNaDogovor>
+    <DanocenBroj>4030007645490</DanocenBroj>
+    <ShifraZU>25096401</ShifraZU>
+    <NazivNaUstanova>ЈЗУ УНИВЕРЗИТЕТСКА КЛИНИКА ЗА ПСИХИЈАТРИЈА </NazivNaUstanova>
+    <Dejnosti>ПСИХИЈАТРИЈА</Dejnosti>
+    <Adresa>УЛ.БЕЛГРАДСКА ББ СКОПЈЕ</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9973462</Latitude>
+    <Longitude>21.42799560000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-973/3</ArhivskiBroj>
+    <TipDogovorID>19</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Универзитетски клиники)</TipNaDogovor>
+    <DanocenBroj>4030007645580</DanocenBroj>
+    <ShifraZU>25095002</ShifraZU>
+    <NazivNaUstanova>ЈЗУ УНИВЕРЗИТЕТСКА КЛИНИКА ЗА ДЕРМАТОЛОГИЈА </NazivNaUstanova>
+    <Dejnosti>ДЕРМАТОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.ВОДЊАНСКА БР.17</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9921921</Latitude>
+    <Longitude>21.423597299999983</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-475/3</ArhivskiBroj>
+    <TipDogovorID>19</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Универзитетски клиники)</TipNaDogovor>
+    <DanocenBroj>4030007645520</DanocenBroj>
+    <ShifraZU>25094802</ShifraZU>
+    <NazivNaUstanova>ЈЗУ УНИВЕРЗИТЕТСКА КЛИНИКА ЗА ДЕТСКИ БОЛЕСТИ </NazivNaUstanova>
+    <Dejnosti>ДЕТСКИ БОЛЕСТИ</Dejnosti>
+    <Adresa>УЛ.ВОДЊАНСКА БР.17</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9921921</Latitude>
+    <Longitude>21.423597299999983</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-969/3</ArhivskiBroj>
+    <TipDogovorID>19</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Универзитетски клиники)</TipNaDogovor>
+    <DanocenBroj>4030007645636</DanocenBroj>
+    <ShifraZU>25094402</ShifraZU>
+    <NazivNaUstanova>ЈЗУ УНИВЕРЗИТЕТСКА КЛИНИКА ЗА ЕНДОКРИНОЛОГИЈА </NazivNaUstanova>
+    <Dejnosti>ЕНДОКРИНОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.ВОДЊАНСКА БР.17</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9921921</Latitude>
+    <Longitude>21.423597299999983</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1132/3</ArhivskiBroj>
+    <TipDogovorID>19</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Универзитетски клиники)</TipNaDogovor>
+    <DanocenBroj>4030007645768</DanocenBroj>
+    <ShifraZU>25093902</ShifraZU>
+    <NazivNaUstanova>ЈЗУ УНИВЕРЗИТЕТСКА КЛИНИКА ЗА КАРДИОЛОГИЈА</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА, КАРДИОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.ВОДЊАНСКА БР.17 СКОПЈЕ</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9921921</Latitude>
+    <Longitude>21.423597299999983</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-470/4</ArhivskiBroj>
+    <TipDogovorID>19</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Универзитетски клиники)</TipNaDogovor>
+    <DanocenBroj>4030007645482</DanocenBroj>
+    <ShifraZU>25095102</ShifraZU>
+    <NazivNaUstanova>ЈЗУ УНИВЕРЗИТЕТСКА КЛИНИКА ЗА НЕВРОЛОГИЈА </NazivNaUstanova>
+    <Dejnosti>НЕВРОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.ВОДЊАНСКА БР.17</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9921921</Latitude>
+    <Longitude>21.423597299999983</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1212/4</ArhivskiBroj>
+    <TipDogovorID>19</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Универзитетски клиники)</TipNaDogovor>
+    <DanocenBroj>4030007645571</DanocenBroj>
+    <ShifraZU>25095402</ShifraZU>
+    <NazivNaUstanova>ЈЗУ УНИВЕРЗИТЕТСКА КЛИНИКА ЗА НЕВРОХИРУРГИЈА </NazivNaUstanova>
+    <Dejnosti>НЕВРОХИРУРШКИ БОЛЕСТИ</Dejnosti>
+    <Adresa>УЛ.ВОДЊАНСКА БР.17</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9921921</Latitude>
+    <Longitude>21.423597299999983</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-473/4</ArhivskiBroj>
+    <TipDogovorID>19</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Универзитетски клиники)</TipNaDogovor>
+    <DanocenBroj>4030007645547</DanocenBroj>
+    <ShifraZU>25096202</ShifraZU>
+    <NazivNaUstanova>ЈЗУ УНИВЕРЗИТЕТСКА КЛИНИКА ЗА ОЧНИ БОЛЕСТИ </NazivNaUstanova>
+    <Dejnosti>ОЧНИ БОЛЕСТИ</Dejnosti>
+    <Adresa>ВОДЊАНСКА 17</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9921921</Latitude>
+    <Longitude>21.423597299999983</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1038/3</ArhivskiBroj>
+    <TipDogovorID>19</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Универзитетски клиники)</TipNaDogovor>
+    <DanocenBroj>4030007645717</DanocenBroj>
+    <ShifraZU>25094702</ShifraZU>
+    <NazivNaUstanova>ЈЗУ УНИВЕРЗИТЕТСКА КЛИНИКА ЗА ТОКСИКОЛОГИЈА </NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА, ТОКСИКОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.ВОДЊАНСКА БР.17</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9921921</Latitude>
+    <Longitude>21.423597299999983</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-970/4</ArhivskiBroj>
+    <TipDogovorID>19</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Универзитетски клиники)</TipNaDogovor>
+    <DanocenBroj>4080010514566</DanocenBroj>
+    <ShifraZU>25120901</ShifraZU>
+    <NazivNaUstanova>ЈЗУ УК,ТРАУМ.ОРТ.АНЕС.РЕАН.УРГ.ЦЕН</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА, РЕАНИМАЦИЈА И ИНТЕНЗИВНИ ЛЕКУВАЊЕ, ОРТОПЕДСКИ БОЛЕСТИ, ТРАУМАТОЛОГИЈА, УРГЕНТЕН ЦЕНТАР СО ПРИЕМНО ОДЕЛЕНИЕ</Dejnosti>
+    <Adresa>ВОДЊАНСКА 17</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9921921</Latitude>
+    <Longitude>21.423597299999983</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-472/3</ArhivskiBroj>
+    <TipDogovorID>19</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Универзитетски клиники)</TipNaDogovor>
+    <DanocenBroj>4030007645652</DanocenBroj>
+    <ShifraZU>25096102</ShifraZU>
+    <NazivNaUstanova>ЈЗУ УНИВЕРЗИТЕТСКА КЛИНИКА ЗА УВО, НОС И ГРЛО </NazivNaUstanova>
+    <Dejnosti>ОТОРИНОЛАРИНГОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.ВОДЊАНСКА БР.17</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9921921</Latitude>
+    <Longitude>21.423597299999983</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1172/3</ArhivskiBroj>
+    <TipDogovorID>19</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Универзитетски клиники)</TipNaDogovor>
+    <DanocenBroj>4030007645784</DanocenBroj>
+    <ShifraZU>25095302</ShifraZU>
+    <NazivNaUstanova>ЈЗУ УНИВЕРЗИТЕТСКА КЛИНИКА ЗА УРОЛОГИЈА</NazivNaUstanova>
+    <Dejnosti>ОСТАНАТИ ДЕЈНОСТИ, УРОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.ВОДЊАНСКА БР.17</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9921921</Latitude>
+    <Longitude>21.423597299999983</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-823/3</ArhivskiBroj>
+    <TipDogovorID>19</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Универзитетски клиники)</TipNaDogovor>
+    <DanocenBroj>4030007645733</DanocenBroj>
+    <ShifraZU>25094201</ShifraZU>
+    <NazivNaUstanova>ЈЗУ УНИВЕРЗИ.КЛ. ЗА ГАСТРОЕНТЕРОХЕПАТОЛОГИЈА </NazivNaUstanova>
+    <Dejnosti>ГАСТРОЕНТЕРОХЕПАТОЛОГИЈА</Dejnosti>
+    <Adresa>ВОДЊАНСКА17</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9973462</Latitude>
+    <Longitude>21.42799560000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1058/4</ArhivskiBroj>
+    <TipDogovorID>19</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Универзитетски клиники)</TipNaDogovor>
+    <DanocenBroj>4030007645695</DanocenBroj>
+    <ShifraZU>25096301</ShifraZU>
+    <NazivNaUstanova>ЈЗУ УНИВЕРЗИ. КЛ. ЗА ГИНЕКОЛОГИЈА И АКУШЕРСТВО </NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА И АКУШЕРСТВО</Dejnosti>
+    <Adresa>ВОДЊАНСКА 17</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9921921</Latitude>
+    <Longitude>21.423597299999983</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-473/4</ArhivskiBroj>
+    <TipDogovorID>19</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Универзитетски клиники)</TipNaDogovor>
+    <DanocenBroj>4030007645547</DanocenBroj>
+    <ShifraZU>25096201</ShifraZU>
+    <NazivNaUstanova>ЈЗУ УНИВЕРЗИТЕТСКА КЛИНИКА ЗА ОЧНИ БОЛЕСТИ </NazivNaUstanova>
+    <Dejnosti>ОЧНИ БОЛЕСТИ</Dejnosti>
+    <Adresa>ВОДЊАНСКА 17</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9921921</Latitude>
+    <Longitude>21.423597299999983</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-824/3</ArhivskiBroj>
+    <TipDogovorID>19</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Универзитетски клиники)</TipNaDogovor>
+    <DanocenBroj>4030007645512</DanocenBroj>
+    <ShifraZU>25094301</ShifraZU>
+    <NazivNaUstanova>ЈЗУ УНИВЕРЗИ.КЛ. ЗА ПУЛМОЛОГИЈА И АЛЕРГОЛОГИЈА</NazivNaUstanova>
+    <Dejnosti>ПУЛМОЛОГИЈА И АЛЕРГОЛОГИЈА</Dejnosti>
+    <Adresa>ВОДЊАНСКА 17</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9921921</Latitude>
+    <Longitude>21.423597299999983</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-971/3</ArhivskiBroj>
+    <TipDogovorID>19</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Универзитетски клиники)</TipNaDogovor>
+    <DanocenBroj>4030007645709</DanocenBroj>
+    <ShifraZU>25094501</ShifraZU>
+    <NazivNaUstanova>ЈЗУ УНИВЕРЗИТЕТСКА КЛИНИКА ЗА РЕВМАТОЛОГИЈА</NazivNaUstanova>
+    <Dejnosti>РЕВМАТОЛОГИЈА</Dejnosti>
+    <Adresa>ВОДЊАНСКА 17</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9921921</Latitude>
+    <Longitude>21.423597299999983</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1171/3</ArhivskiBroj>
+    <TipDogovorID>19</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Универзитетски клиники)</TipNaDogovor>
+    <DanocenBroj>4030007645601</DanocenBroj>
+    <ShifraZU>25094901</ShifraZU>
+    <NazivNaUstanova>ЈЗУ УНИВЕР.КЛИН.ЗА ИНФЕК.БОЛЕС.И ФЕБРИЛ.СОСТОЈБИ</NazivNaUstanova>
+    <Dejnosti>ИНФЕКТИВНИ БОЛЕСТИ И ФИБРИЛНИ СОСТОЈБИ</Dejnosti>
+    <Adresa>УЛ.ВОДЊАНСКА БР.17</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9921921</Latitude>
+    <Longitude>21.423597299999983</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-475/3</ArhivskiBroj>
+    <TipDogovorID>19</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Универзитетски клиники)</TipNaDogovor>
+    <DanocenBroj>4030007645520</DanocenBroj>
+    <ShifraZU>25094801</ShifraZU>
+    <NazivNaUstanova>ЈЗУ УНИВЕРЗИТЕТСКА КЛИНИКА ЗА ДЕТСКИ БОЛЕСТИ </NazivNaUstanova>
+    <Dejnosti>ДЕТСКИ БОЛЕСТИ</Dejnosti>
+    <Adresa>УЛ.ВОДЊАНСКА БР.17</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9921921</Latitude>
+    <Longitude>21.423597299999983</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-973/3</ArhivskiBroj>
+    <TipDogovorID>19</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Универзитетски клиники)</TipNaDogovor>
+    <DanocenBroj>4030007645580</DanocenBroj>
+    <ShifraZU>25095001</ShifraZU>
+    <NazivNaUstanova>ЈЗУ УНИВЕРЗИТЕТСКА КЛИНИКА ЗА ДЕРМАТОЛОГИЈА </NazivNaUstanova>
+    <Dejnosti>ДЕРМАТОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.ВОДЊАНСКА БР.17</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9921921</Latitude>
+    <Longitude>21.423597299999983</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1214/3</ArhivskiBroj>
+    <TipDogovorID>19</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Универзитетски клиники)</TipNaDogovor>
+    <DanocenBroj>4030007645679</DanocenBroj>
+    <ShifraZU>25095801</ShifraZU>
+    <NazivNaUstanova>ЈЗУ УНИВЕРЗИТЕТСКА КЛ. ЗА ДЕТСКА ХИРУРГИЈА </NazivNaUstanova>
+    <Dejnosti>ДЕТСКА ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ.ВОДЊАНСКА БР.17</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9921921</Latitude>
+    <Longitude>21.423597299999983</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1038/3</ArhivskiBroj>
+    <TipDogovorID>19</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Универзитетски клиники)</TipNaDogovor>
+    <DanocenBroj>4030007645717</DanocenBroj>
+    <ShifraZU>25094701</ShifraZU>
+    <NazivNaUstanova>ЈЗУ УНИВЕРЗИТЕТСКА КЛИНИКА ЗА ТОКСИКОЛОГИЈА </NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА, ТОКСИКОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.ВОДЊАНСКА БР.17</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9921921</Latitude>
+    <Longitude>21.423597299999983</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-472/3</ArhivskiBroj>
+    <TipDogovorID>19</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Универзитетски клиники)</TipNaDogovor>
+    <DanocenBroj>4030007645652</DanocenBroj>
+    <ShifraZU>25096101</ShifraZU>
+    <NazivNaUstanova>ЈЗУ УНИВЕРЗИТЕТСКА КЛИНИКА ЗА УВО, НОС И ГРЛО </NazivNaUstanova>
+    <Dejnosti>ОТОРИНОЛАРИНГОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.ВОДЊАНСКА БР.17</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9921921</Latitude>
+    <Longitude>21.423597299999983</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1172/3</ArhivskiBroj>
+    <TipDogovorID>19</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Универзитетски клиники)</TipNaDogovor>
+    <DanocenBroj>4030007645784</DanocenBroj>
+    <ShifraZU>25095301</ShifraZU>
+    <NazivNaUstanova>ЈЗУ УНИВЕРЗИТЕТСКА КЛИНИКА ЗА УРОЛОГИЈА</NazivNaUstanova>
+    <Dejnosti>ОСТАНАТИ ДЕЈНОСТИ, УРОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.ВОДЊАНСКА БР.17</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9921921</Latitude>
+    <Longitude>21.423597299999983</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>25-09-1057/3</ArhivskiBroj>
+    <TipDogovorID>19</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Универзитетски клиники)</TipNaDogovor>
+    <DanocenBroj>4030980267777</DanocenBroj>
+    <ShifraZU>25047906 </ShifraZU>
+    <NazivNaUstanova>ЈЗУ УНИВЕРЗИТЕТСКИ СТОМАТОЛОШКИ КЛИНИЧКИ ЦЕНТАР СВ.ПАНТЕЛЕЈМОН</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА И РЕАНИМАЦИЈА, БОЛЕСТИ НА ЗАБИТЕ И ЕНДОДОНТОТ, БОЛЕСТИ НА УСТА И ПАРАДОНТОТ, ДЕТСКА И ПРЕВЕНТИВНА СТОМАТОЛОГИЈА, ЕНДОДОНЦИЈА, ОРАЛНА ХИРУРГИЈА, ОРТОДОНЦИЈА, ПРОТЕТИКА, РЕНТГЕН ЗА ЗАБИ</Dejnosti>
+    <Adresa>ВОДЊАНСКА БР. 17 СКОПЈЕ </Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9921921</Latitude>
+    <Longitude>21.423597299999983</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>25-09-1057/3</ArhivskiBroj>
+    <TipDogovorID>19</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Универзитетски клиники)</TipNaDogovor>
+    <DanocenBroj>4030980267777</DanocenBroj>
+    <ShifraZU>25047908</ShifraZU>
+    <NazivNaUstanova>ЈЗУ УНИВЕРЗИТЕТСКИ СТОМАТОЛОШКИ КЛИНИЧКИ ЦЕНТАР СВ.ПАНТЕЛЕЈМОН</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА И РЕАНИМАЦИЈА, БОЛЕСТИ НА ЗАБИТЕ И ЕНДОДОНТОТ, БОЛЕСТИ НА УСТА И ПАРАДОНТОТ, ДЕТСКА И ПРЕВЕНТИВНА СТОМАТОЛОГИЈА, ЕНДОДОНЦИЈА, ОРАЛНА ХИРУРГИЈА, ОРТОДОНЦИЈА, ПРОТЕТИКА, РЕНТГЕН ЗА ЗАБИ</Dejnosti>
+    <Adresa>ВОДЊАНСКА БР. 17 СКОПЈЕ </Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9921921</Latitude>
+    <Longitude>21.423597299999983</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>25-09-1057/3</ArhivskiBroj>
+    <TipDogovorID>19</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Универзитетски клиники)</TipNaDogovor>
+    <DanocenBroj>4030980267777</DanocenBroj>
+    <ShifraZU>25047907 </ShifraZU>
+    <NazivNaUstanova>ЈЗУ УНИВЕРЗИТЕТСКИ СТОМАТОЛОШКИ КЛИНИЧКИ ЦЕНТАР СВ.ПАНТЕЛЕЈМОН</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА И РЕАНИМАЦИЈА, БОЛЕСТИ НА ЗАБИТЕ И ЕНДОДОНТОТ, БОЛЕСТИ НА УСТА И ПАРАДОНТОТ, ДЕТСКА И ПРЕВЕНТИВНА СТОМАТОЛОГИЈА, ЕНДОДОНЦИЈА, ОРАЛНА ХИРУРГИЈА, ОРТОДОНЦИЈА, ПРОТЕТИКА, РЕНТГЕН ЗА ЗАБИ</Dejnosti>
+    <Adresa>ВОДЊАНСКА БР. 17 СКОПЈЕ </Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9921921</Latitude>
+    <Longitude>21.423597299999983</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>25-09-1057/3</ArhivskiBroj>
+    <TipDogovorID>19</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Универзитетски клиники)</TipNaDogovor>
+    <DanocenBroj>4030980267777</DanocenBroj>
+    <ShifraZU>25047909</ShifraZU>
+    <NazivNaUstanova>ЈЗУ УНИВЕРЗИТЕТСКИ СТОМАТОЛОШКИ КЛИНИЧКИ ЦЕНТАР СВ.ПАНТЕЛЕЈМОН</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА И РЕАНИМАЦИЈА, БОЛЕСТИ НА ЗАБИТЕ И ЕНДОДОНТОТ, БОЛЕСТИ НА УСТА И ПАРАДОНТОТ, ДЕТСКА И ПРЕВЕНТИВНА СТОМАТОЛОГИЈА, ЕНДОДОНЦИЈА, ОРАЛНА ХИРУРГИЈА, ОРТОДОНЦИЈА, ПРОТЕТИКА, РЕНТГЕН ЗА ЗАБИ</Dejnosti>
+    <Adresa>ВОДЊАНСКА БР. 17 СКОПЈЕ </Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9921921</Latitude>
+    <Longitude>21.423597299999983</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>25-09-1057/3</ArhivskiBroj>
+    <TipDogovorID>19</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Универзитетски клиники)</TipNaDogovor>
+    <DanocenBroj>4030980267777</DanocenBroj>
+    <ShifraZU>25047904</ShifraZU>
+    <NazivNaUstanova>ЈЗУ УНИВЕРЗИТЕТСКИ СТОМАТОЛОШКИ КЛИНИЧКИ ЦЕНТАР СВ.ПАНТЕЛЕЈМОН</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА И РЕАНИМАЦИЈА, БОЛЕСТИ НА ЗАБИТЕ И ЕНДОДОНТОТ, БОЛЕСТИ НА УСТА И ПАРАДОНТОТ, ДЕТСКА И ПРЕВЕНТИВНА СТОМАТОЛОГИЈА, ЕНДОДОНЦИЈА, ОРАЛНА ХИРУРГИЈА, ОРТОДОНЦИЈА, ПРОТЕТИКА, РЕНТГЕН ЗА ЗАБИ</Dejnosti>
+    <Adresa>ВОДЊАНСКА БР. 17 СКОПЈЕ</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9921921</Latitude>
+    <Longitude>21.423597299999983</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>25-09-1057/3</ArhivskiBroj>
+    <TipDogovorID>19</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Универзитетски клиники)</TipNaDogovor>
+    <DanocenBroj>4030980267777</DanocenBroj>
+    <ShifraZU>25047902</ShifraZU>
+    <NazivNaUstanova>ЈЗУ УНИВЕРЗИТЕТСКИ СТОМАТОЛОШКИ КЛИНИЧКИ ЦЕНТАР СВ.ПАНТЕЛЕЈМОН</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА И РЕАНИМАЦИЈА, БОЛЕСТИ НА ЗАБИТЕ И ЕНДОДОНТОТ, БОЛЕСТИ НА УСТА И ПАРАДОНТОТ, ДЕТСКА И ПРЕВЕНТИВНА СТОМАТОЛОГИЈА, ЕНДОДОНЦИЈА, ОРАЛНА ХИРУРГИЈА, ОРТОДОНЦИЈА, ПРОТЕТИКА, РЕНТГЕН ЗА ЗАБИ</Dejnosti>
+    <Adresa>ВОДЊАНСКА БР 17 СКОПЈЕ</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9921921</Latitude>
+    <Longitude>21.423597299999983</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>25-09-1057/3</ArhivskiBroj>
+    <TipDogovorID>19</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Универзитетски клиники)</TipNaDogovor>
+    <DanocenBroj>4030980267777</DanocenBroj>
+    <ShifraZU>25047905</ShifraZU>
+    <NazivNaUstanova>ЈЗУ УНИВЕРЗИТЕТСКИ СТОМАТОЛОШКИ КЛИНИЧКИ ЦЕНТАР СВ.ПАНТЕЛЕЈМОН</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА И РЕАНИМАЦИЈА, БОЛЕСТИ НА ЗАБИТЕ И ЕНДОДОНТОТ, БОЛЕСТИ НА УСТА И ПАРАДОНТОТ, ДЕТСКА И ПРЕВЕНТИВНА СТОМАТОЛОГИЈА, ЕНДОДОНЦИЈА, ОРАЛНА ХИРУРГИЈА, ОРТОДОНЦИЈА, ПРОТЕТИКА, РЕНТГЕН ЗА ЗАБИ</Dejnosti>
+    <Adresa>ВОДЊАНСКА БР. 17 СКОПЈЕ</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9921921</Latitude>
+    <Longitude>21.423597299999983</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>25-09-1057/3</ArhivskiBroj>
+    <TipDogovorID>19</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Универзитетски клиники)</TipNaDogovor>
+    <DanocenBroj>4030980267777</DanocenBroj>
+    <ShifraZU>25047903</ShifraZU>
+    <NazivNaUstanova>ЈЗУ УНИВЕРЗИТЕТСКИ СТОМАТОЛОШКИ КЛИНИЧКИ ЦЕНТАР СВ.ПАНТЕЛЕЈМОН</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА И РЕАНИМАЦИЈА, БОЛЕСТИ НА ЗАБИТЕ И ЕНДОДОНТОТ, БОЛЕСТИ НА УСТА И ПАРАДОНТОТ, ДЕТСКА И ПРЕВЕНТИВНА СТОМАТОЛОГИЈА, ЕНДОДОНЦИЈА, ОРАЛНА ХИРУРГИЈА, ОРТОДОНЦИЈА, ПРОТЕТИКА, РЕНТГЕН ЗА ЗАБИ</Dejnosti>
+    <Adresa>ВОДЊАНСКА БР. 17 СКОПЈЕ</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9921921</Latitude>
+    <Longitude>21.423597299999983</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1170/3</ArhivskiBroj>
+    <TipDogovorID>19</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Универзитетски клиники)</TipNaDogovor>
+    <DanocenBroj>4030007645539</DanocenBroj>
+    <ShifraZU>25095701</ShifraZU>
+    <NazivNaUstanova>ЈЗУ УНИВ. КЛ. ЗА ПЛАСТИЧНА И РЕКОНСТРУКТИВНА ХИР.</NazivNaUstanova>
+    <Dejnosti>ПЛАСТИЧНА И РЕКОНСТРУКТИВНА ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ.ВОДЊАНСКА БР.17</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9921921</Latitude>
+    <Longitude>21.423597299999983</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+</Dogovori>

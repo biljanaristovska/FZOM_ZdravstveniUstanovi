@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dogovori>
+  <Dogovor>
+    <ArhivskiBroj>09-1136/5</ArhivskiBroj>
+    <TipDogovorID>22</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ПЗУ (Кардиоваскуларна хирургија)</TipNaDogovor>
+    <DanocenBroj>4057010505786</DanocenBroj>
+    <ShifraZU>25120103</ShifraZU>
+    <NazivNaUstanova>ПЗУ АЏИБАДЕМ СИСТИНА - КЛИНИЧКА БОЛНИЦА</NazivNaUstanova>
+    <Dejnosti>КАРДИОВАСКУЛАРНА ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ.СКУПИ БР.5А</Adresa>
+    <NaselenoMesto>СКОПЈЕ - КАРПОШ</NaselenoMesto>
+    <Latitude>41.9973462</Latitude>
+    <Longitude>21.42799560000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-131/3</ArhivskiBroj>
+    <TipDogovorID>22</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ПЗУ (Кардиоваскуларна хирургија)</TipNaDogovor>
+    <DanocenBroj>4030002431956</DanocenBroj>
+    <ShifraZU>25105701</ShifraZU>
+    <NazivNaUstanova>ПЗУ ФИЛИП ВТОРИ</NazivNaUstanova>
+    <Dejnosti>КАРДИОВАСКУЛАРНА ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ. ИЛИНДЕНСКА ББ</Adresa>
+    <NaselenoMesto>СКОПЈЕ - КАРПОШ</NaselenoMesto>
+    <Latitude>41.9903939</Latitude>
+    <Longitude>20.962119700000017</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+</Dogovori>

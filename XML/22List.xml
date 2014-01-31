@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dogovori>
+  <Dogovor>
+    <ArhivskiBroj>09-2202/3-1</ArhivskiBroj>
+    <TipDogovorID>24</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ПЗУ (Природни лекувалишта)</TipNaDogovor>
+    <DanocenBroj>4030006598146</DanocenBroj>
+    <ShifraZU>25047701</ShifraZU>
+    <NazivNaUstanova>КАТЛАНОВСКА БАЊА ДОО - КАТЛАНОВО</NazivNaUstanova>
+    <Dejnosti>ФИЗИКАЛНА МЕДИЦИНА И РЕХАБИЛИТАЦИЈА</Dejnosti>
+    <Adresa>УЛ КАТЛАНОВСКА БАЊА ББ</Adresa>
+    <NaselenoMesto>КАТЛАНОВО</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1691/3-1</ArhivskiBroj>
+    <TipDogovorID>24</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ПЗУ (Природни лекувалишта)</TipNaDogovor>
+    <DanocenBroj>4008005103792</DanocenBroj>
+    <ShifraZU>8002801</ShifraZU>
+    <NazivNaUstanova>ПЗУ СПЕЦ. БОЛ. ПО ФИЗ. МЕД. И РЕХ. ДЕБАРСКИ БАЊИ ЦАПА</NazivNaUstanova>
+    <Dejnosti>ФИЗИКАЛНА МЕДИЦИНА И РЕХАБИЛИТАЦИЈА</Dejnosti>
+    <Adresa>Ул 8-ми Септември бр 9</Adresa>
+    <NaselenoMesto>ДЕБАР</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-813/2</ArhivskiBroj>
+    <TipDogovorID>24</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ПЗУ (Природни лекувалишта)</TipNaDogovor>
+    <DanocenBroj>4006974101230</DanocenBroj>
+    <ShifraZU>6001901</ShifraZU>
+    <NazivNaUstanova>НЕГОРСКИ БАЊИ ГЕВГЕЛИЈА</NazivNaUstanova>
+    <Dejnosti>ФИЗИКАЛНА МЕДИЦИНА И РЕХАБИЛИТАЦИЈА</Dejnosti>
+    <Adresa>УЛ. МАРШАЛ ТИТОВ БР. ББ, НЕГОРЦИ </Adresa>
+    <NaselenoMesto>НЕГОРЦИ</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-436/2</ArhivskiBroj>
+    <TipDogovorID>24</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ПЗУ (Природни лекувалишта)</TipNaDogovor>
+    <DanocenBroj>4027986117318</DanocenBroj>
+    <ShifraZU>27006401</ShifraZU>
+    <NazivNaUstanova>ЗУ АД "ЦАР САМУИЛ" - БАНСКО</NazivNaUstanova>
+    <Dejnosti>ФИЗИКАЛНА МЕДИЦИНА И РЕХАБИЛИТАЦИЈА</Dejnosti>
+    <Adresa>С.БАНСКО</Adresa>
+    <NaselenoMesto>БАНСКО</NaselenoMesto>
+    <Latitude>   41.8404241</Latitude>
+    <Longitude>   23.485652999999957</Longitude>
+    <Status>2</Status>
+  </Dogovor>
+</Dogovori>

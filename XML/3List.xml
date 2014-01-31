@@ -1,0 +1,1715 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dogovori>
+  <Dogovor>
+    <ArhivskiBroj>09-106/1/1</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4082012508396</DanocenBroj>
+    <ShifraZU>25127201</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДОНА ГИН</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ. ХРИСТИЈАН Т. КАРПОШ БР. 4/1/2</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЧАИР</NaselenoMesto>
+    <Latitude>42.01850899999999</Latitude>
+    <Longitude>21.447898099999975</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>03-15688/414/1</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4030994218647</DanocenBroj>
+    <ShifraZU>25014101</ShifraZU>
+    <NazivNaUstanova>ПЗУ ГИНЕА</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ. ПУШКАРСКА БР.33</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9973462</Latitude>
+    <Longitude>21.42799560000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>03-15688/739/1</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4030004516231</DanocenBroj>
+    <ShifraZU>25013501</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДР ЖАКЛИНА</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.11-ТИ ОКТОМВРИ БР.44/2/2</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9907169</Latitude>
+    <Longitude>21.43514479999999</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-9593/1</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4032010506623</DanocenBroj>
+    <ShifraZU>25125601</ShifraZU>
+    <NazivNaUstanova>ПЗУ МЕДИКА ПЛУС ДВА</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>БОЈМИЈА 1-ЛОК 9-10  </Adresa>
+    <NaselenoMesto>СКОПЈЕ - АЕРОДРОМ</NaselenoMesto>
+    <Latitude>41.9973462</Latitude>
+    <Longitude>21.42799560000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-9734/1</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4002002152832</DanocenBroj>
+    <ShifraZU>2010900</ShifraZU>
+    <NazivNaUstanova>ПЗУ МЕДИХЕЛП</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>И.МИЛУТИНОВИЌ 64-1-9</Adresa>
+    <NaselenoMesto>БИТОЛА</NaselenoMesto>
+    <Latitude>41.0319444</Latitude>
+    <Longitude>21.334722199999987</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-66/1</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4002007501126</DanocenBroj>
+    <ShifraZU>2059701</ShifraZU>
+    <NazivNaUstanova>ПЗУ СВЕТА АНА</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ. СТРЕЈА НАХМИЈАС БР.5</Adresa>
+    <NaselenoMesto>БИТОЛА</NaselenoMesto>
+    <Latitude>41.0319444</Latitude>
+    <Longitude>21.334722199999987</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-842/2</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4007006137058</DanocenBroj>
+    <ShifraZU>7011801</ShifraZU>
+    <NazivNaUstanova>ПЗУ САНДРА МЕД</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>С РОСТУШЕ</Adresa>
+    <NaselenoMesto>РОСТУША</NaselenoMesto>
+    <Latitude>41.6243153</Latitude>
+    <Longitude>20.664568299999928</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>03-15688/231/1</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4030007619490</DanocenBroj>
+    <ShifraZU>25090701</ShifraZU>
+    <NazivNaUstanova>ПЗУ Д-Р СТАМБОЛИЕВ</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.ЛЕНИНГРАДСКА  ББ</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9973462</Latitude>
+    <Longitude>21.42799560000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>0905-2207/2</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4004994101340</DanocenBroj>
+    <ShifraZU>29000804</ShifraZU>
+    <NazivNaUstanova>ПЗУ ХИПОКРАТ- МБ</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.ДИМИТАР ВЛАХОВ БР.59</Adresa>
+    <NaselenoMesto>ВЕЛЕС</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>0905-2152/2</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4004006120172</DanocenBroj>
+    <ShifraZU>29009301</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДИЈАГНОСТИКА ЛЕК</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.ШЕФКИ САЛИ  БР.5</Adresa>
+    <NaselenoMesto>ВЕЛЕС</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-2632/2</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4011006125707</DanocenBroj>
+    <ShifraZU>11006801</ShifraZU>
+    <NazivNaUstanova>ПЗУ ГИНЕКОМЕДИКА</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ. ШИШКА ББ</Adresa>
+    <NaselenoMesto>КАВАДАРЦИ</NaselenoMesto>
+    <Latitude>41.444466</Latitude>
+    <Longitude>22.0209026</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-2666/2</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4011994102350</DanocenBroj>
+    <ShifraZU>11001001</ShifraZU>
+    <NazivNaUstanova>ПЗУ ВЕНУС</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.ЕДВАРД КАРДЕЉ БР.17/5</Adresa>
+    <NaselenoMesto>КАВАДАРЦИ</NaselenoMesto>
+    <Latitude>41.4422277</Latitude>
+    <Longitude>22.010239400000046</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>03-2031/2</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4026006134134</DanocenBroj>
+    <ShifraZU>26007401</ShifraZU>
+    <NazivNaUstanova>ПЗУ  ГИНЕКОС </NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.КЕЈ 8 - МИ  НОЕМВРИ ББ</Adresa>
+    <NaselenoMesto>СТРУГА</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>03-4571/2</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4027006150594</DanocenBroj>
+    <ShifraZU>27008801</ShifraZU>
+    <NazivNaUstanova>ПЗУ ГИНЕКА</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ МЛАДИНСКА ББ</Adresa>
+    <NaselenoMesto>СТРУМИЦА</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>03-15688/303/1</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4030006617116</DanocenBroj>
+    <ShifraZU>25082401</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДИ-МЕДИКА</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.МАЏАРИ  ББ</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ГАЗИ БАБА</NaselenoMesto>
+    <Latitude>41.9973462</Latitude>
+    <Longitude>21.42799560000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>0905-2188/2</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4004007121440</DanocenBroj>
+    <ShifraZU>29009701</ShifraZU>
+    <NazivNaUstanova>ПЗУ Д-Р СИНАДИНОВСКИ</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.БЛАГОЈ ЃОРЕВ БР.137 М5/2</Adresa>
+    <NaselenoMesto>ВЕЛЕС</NaselenoMesto>
+    <Latitude>41.7117196</Latitude>
+    <Longitude>21.765440000000012</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>08-4446/2</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4028006146615</DanocenBroj>
+    <ShifraZU>28008501</ShifraZU>
+    <NazivNaUstanova>ПЗУ МЕДИПАЛ</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.29-ТИ НОЕМВРИ  ББ</Adresa>
+    <NaselenoMesto>ТЕТОВО</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>03-15688/447/1</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4030006615750</DanocenBroj>
+    <ShifraZU>25062301</ShifraZU>
+    <NazivNaUstanova>ПЗУ Д-Р ГОРДАНА АН - ВИ</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.МАЏАРИ ББ</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ГАЗИ БАБА</NaselenoMesto>
+    <Latitude>41.9973462</Latitude>
+    <Longitude>21.42799560000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>03-15688/79/1/1</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4030006617183</DanocenBroj>
+    <ShifraZU>25069301</ShifraZU>
+    <NazivNaUstanova>ПЗУ ФЕМИНИ МЕДИКАЛ</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.ФЕРИД БАЈРАМ ББ</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЧАИР</NaselenoMesto>
+    <Latitude>41.9973462</Latitude>
+    <Longitude>21.42799560000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>03-15688/650/1</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4030006615776</DanocenBroj>
+    <ShifraZU>25087601</ShifraZU>
+    <NazivNaUstanova>ПЗУ Д-Р ДУШКО ФИЛИПОВСКИ</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>БУЛ.ПАРТИЗАНСКИ ОДРЕДИ ББ-КАРПОШ</Adresa>
+    <NaselenoMesto>СКОПЈЕ - КАРПОШ</NaselenoMesto>
+    <Latitude>41.9709661</Latitude>
+    <Longitude>21.391816800000015</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1489/1/1</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4012006121287</DanocenBroj>
+    <ShifraZU>12004301</ShifraZU>
+    <NazivNaUstanova>ПЗУ АСПАСИЈА-МЕДИКА</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.МАРШАЛ ТИТО ББ</Adresa>
+    <NaselenoMesto>КИЧЕВО</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1491/1-1</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4012006121317</DanocenBroj>
+    <ShifraZU>12005201</ShifraZU>
+    <NazivNaUstanova>ПЗУ Д-Р АФРДИТА-РАЏА</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.МАРШАЛ ТИТО ББ</Adresa>
+    <NaselenoMesto>КИЧЕВО</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1518/1</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4005006108080</DanocenBroj>
+    <ShifraZU>5003001</ShifraZU>
+    <NazivNaUstanova>ПЗУ Д-Р ВЛАДО ЈОВАНОВ</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.ЈАКИМОВСКИ ПАТ ББ</Adresa>
+    <NaselenoMesto>ВИНИЦА</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1491/1</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4012006121171</DanocenBroj>
+    <ShifraZU>12004401</ShifraZU>
+    <NazivNaUstanova>ПЗУ Д-Р РИСТО КОЦЕВСКИ</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.МАРШАЛ ТИТО ББ</Adresa>
+    <NaselenoMesto>КИЧЕВО</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>03-15688/315/1</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4030006617388</DanocenBroj>
+    <ShifraZU>25086701</ShifraZU>
+    <NazivNaUstanova>ПЗУ Д-Р ФИЛИП МАТЕВСКИ</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.КОСТА НОВАКОВИЌ ББ</Adresa>
+    <NaselenoMesto>СКОПЈЕ - АЕРОДРОМ</NaselenoMesto>
+    <Latitude>41.9973462</Latitude>
+    <Longitude>21.42799560000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>16-4339/2</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4020007146685</DanocenBroj>
+    <ShifraZU>19010701</ShifraZU>
+    <NazivNaUstanova>ПЗУ Д-Р ПЕЦАКОВ</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.СИРМА ВОЈВОДА БР.1</Adresa>
+    <NaselenoMesto>ОХРИД</NaselenoMesto>
+    <Latitude>41.1151067</Latitude>
+    <Longitude>20.81613600000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1502/3/2</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4006006121040</DanocenBroj>
+    <ShifraZU>6004201</ShifraZU>
+    <NazivNaUstanova>ПЗУ ПРОФЕМИНИС - М</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.ВАСО МАРКОВ БР.3</Adresa>
+    <NaselenoMesto>БОГДАНЦИ</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>03-15688/344/1</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4030006613730</DanocenBroj>
+    <ShifraZU>25068401</ShifraZU>
+    <NazivNaUstanova>ПЗУ ПРИМАРИУС Д-Р ЏЕКОВА</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.КОСТА НОВАКОВИЌ ББ </Adresa>
+    <NaselenoMesto>СКОПЈЕ - АЕРОДРОМ</NaselenoMesto>
+    <Latitude>41.9973462</Latitude>
+    <Longitude>21.42799560000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>03-15688/31/1</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4030006614494</DanocenBroj>
+    <ShifraZU>25068901</ShifraZU>
+    <NazivNaUstanova>ПЗУ ГИНЕКО  ФЛОРА</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.КРСТЕ МИСИРКОВ ББ</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9973462</Latitude>
+    <Longitude>21.42799560000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>03-15688/523/1</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4030007619015</DanocenBroj>
+    <ShifraZU>25069802</ShifraZU>
+    <NazivNaUstanova>ПЗУ Д-Р ЗАФИРОВСКА Р.</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ. 16та МАКЕДОНСКА БРИГАДА БР.18</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ГАЗИ БАБА</NaselenoMesto>
+    <Latitude>42.0048776</Latitude>
+    <Longitude>21.460692300000005</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>03-15688/352/1</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4030006615946</DanocenBroj>
+    <ShifraZU>25084401</ShifraZU>
+    <NazivNaUstanova>ПЗУ Д-Р БИТОЉАНУ</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.ЃОРЧЕ ПЕТРОВ ББ</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЃОРЧЕ ПЕТРОВ</NaselenoMesto>
+    <Latitude>42.0006281</Latitude>
+    <Longitude>21.391689799999995</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-2395/1</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4010006104185</DanocenBroj>
+    <ShifraZU>10074302</ShifraZU>
+    <NazivNaUstanova>ПЗУ Д-Р СУЗАНА ОГНЕНОВСКА </NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ. 20 БР. 97</Adresa>
+    <NaselenoMesto>САРАЈ - СКОПЈЕ</NaselenoMesto>
+    <Latitude>41.9915222</Latitude>
+    <Longitude>21.463780199999974</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-202/2</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4009006109677</DanocenBroj>
+    <ShifraZU>9004301</ShifraZU>
+    <NazivNaUstanova>ПЗУ Д-Р  АТАНАСОВ</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.МЕТОДИ МИТЕВСКИ - БРИЦО БР.44</Adresa>
+    <NaselenoMesto>ДЕЛЧЕВО</NaselenoMesto>
+    <Latitude>41.9661994</Latitude>
+    <Longitude>22.779947499999935</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>03-15688/374/1</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4030006615210</DanocenBroj>
+    <ShifraZU>25092401</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДР. ХАЏИЕВСКА</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.ИВО ЛОЛА РИБАР ББ</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9973462</Latitude>
+    <Longitude>21.42799560000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>0905-2261/2</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4004999109080</DanocenBroj>
+    <ShifraZU>29000701</ShifraZU>
+    <NazivNaUstanova>ПЗУ Д-Р ПЕРКОВА</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.АЛЕКСО ДЕМНИЕВСКА БР.7</Adresa>
+    <NaselenoMesto>ВЕЛЕС</NaselenoMesto>
+    <Latitude>41.71846680000001</Latitude>
+    <Longitude>21.779119400000013</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>03-2025/2</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4026995107965</DanocenBroj>
+    <ShifraZU>26001001</ShifraZU>
+    <NazivNaUstanova>ПЗУ ПРЕВЕНТИВА</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.КАРАОРМАН  БР.6</Adresa>
+    <NaselenoMesto>СТРУГА</NaselenoMesto>
+    <Latitude>41.1790446</Latitude>
+    <Longitude>20.68278459999999</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>03-15688/665/1</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4030006615814</DanocenBroj>
+    <ShifraZU>25090001</ShifraZU>
+    <NazivNaUstanova>ПЗУ  Д-Р АЛЕКСАНДАР БЛАЖЕВСКИ</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.ПАРТИЗАНСКИ ОДРЕДИ ББ</Adresa>
+    <NaselenoMesto>СКОПЈЕ - КАРПОШ</NaselenoMesto>
+    <Latitude>41.9973462</Latitude>
+    <Longitude>21.42799560000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-4036/2</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4003006105371</DanocenBroj>
+    <ShifraZU>4001101</ShifraZU>
+    <NazivNaUstanova>ПЗУ Д-Р ГЕТОВ</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ. ЛАЗАР КОЛИШЕВСКИ ББ</Adresa>
+    <NaselenoMesto>ВАЛАНДОВО</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>03-1976/2</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4026006133804</DanocenBroj>
+    <ShifraZU>26007601</ShifraZU>
+    <NazivNaUstanova>ПЗУ Д-Р СЕЛМАН ЦАНОСКИ</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.КЕЈ 8-МИ НОЕМВРИ </Adresa>
+    <NaselenoMesto>СТРУГА</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>08-4618/2</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4028001128066</DanocenBroj>
+    <ShifraZU>28017001</ShifraZU>
+    <NazivNaUstanova>ПЗУ ВЛЕРА</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>С. БОГОВИЊЕ</Adresa>
+    <NaselenoMesto>БОГОВИЊЕ</NaselenoMesto>
+    <Latitude>41.927242</Latitude>
+    <Longitude>20.905821999999944</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-812/2</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4021006150650</DanocenBroj>
+    <ShifraZU>20050702</ShifraZU>
+    <NazivNaUstanova>ПЗУ СВЕТИ ПАНТЕЛЕЈМОН П.О.</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ МОША ПИЈАДЕ БР 247</Adresa>
+    <NaselenoMesto>ПРИЛЕП</NaselenoMesto>
+    <Latitude>41.35173</Latitude>
+    <Longitude>21.56214</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-6158/2</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4021006152521</DanocenBroj>
+    <ShifraZU>20055601</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДР СТЕВАН ПЕТРЕСКИ</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ. ТРАЈКО ТАРЦАН ББ</Adresa>
+    <NaselenoMesto>ПРИЛЕП</NaselenoMesto>
+    <Latitude>41.35173</Latitude>
+    <Longitude>21.56214</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>16-4413/2</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4020998120271</DanocenBroj>
+    <ShifraZU>19001702</ShifraZU>
+    <NazivNaUstanova>ПЗУ  ОНКО - ГИНЕКОМЕДИКА</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.КАРПОШ  ВОЈВОДА  ББ ЛАМЕЛА А/2</Adresa>
+    <NaselenoMesto>ОХРИД</NaselenoMesto>
+    <Latitude>41.12162</Latitude>
+    <Longitude>20.819440999999983</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1268/5</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4029004128748</DanocenBroj>
+    <ShifraZU>30007702</ShifraZU>
+    <NazivNaUstanova>ПЗУ ФЕМИНА</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.ПАРТИЗАНСКА ББ ЗГРАДА 3 ВЛЕЗ 1 МЕЗАНИН</Adresa>
+    <NaselenoMesto>ШТИП</NaselenoMesto>
+    <Latitude>43.1333333</Latitude>
+    <Longitude>133.1333333</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>03-15688/302/1</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4030006615890</DanocenBroj>
+    <ShifraZU>25085701</ShifraZU>
+    <NazivNaUstanova>ПЗУ ГИНЕКА ДР ВЕСНА БЛАЖЕВСКА</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ. КРСТЕ МИСИРКОВ ББ</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9973462</Latitude>
+    <Longitude>21.42799560000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>03-15688/198/1</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4030000390217</DanocenBroj>
+    <ShifraZU>25022201</ShifraZU>
+    <NazivNaUstanova>ПЗУ ЛЕГЕ АРТИС- АГНЕСА</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.НАРОДЕН ФРОНТ БР.3/3-44</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9940995</Latitude>
+    <Longitude>21.41745209999999</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>03-15688/190/1</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4030006614281</DanocenBroj>
+    <ShifraZU>25062801</ShifraZU>
+    <NazivNaUstanova>ПЗУ Д-Р ЈОВКА</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.ЃОРЧЕ ПЕТРОВ ББ</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЃОРЧЕ ПЕТРОВ</NaselenoMesto>
+    <Latitude>42.0006281</Latitude>
+    <Longitude>21.391689799999995</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>03-15688/108/1</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4030004615264</DanocenBroj>
+    <ShifraZU>25064501</ShifraZU>
+    <NazivNaUstanova>ПЗУ НИКИ МЕДИКА</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>БУЛ.КРСТЕ МИСИРКОВ ББ</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9973462</Latitude>
+    <Longitude>21.42799560000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>03-15688/784/1</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4030006612319</DanocenBroj>
+    <ShifraZU>25070101</ShifraZU>
+    <NazivNaUstanova>ПЗУ КОРУНОСКИ-МВР</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ. ЛЕНИНГРАДСКА ББ</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9973462</Latitude>
+    <Longitude>21.42799560000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>16-2482/2</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4019006111766</DanocenBroj>
+    <ShifraZU>18003501</ShifraZU>
+    <NazivNaUstanova>ПЗУ ПРИМАРИУС ДР БАЈАТОВ</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ. ВЕЉКО ВЛАХОВИЌ БР 9</Adresa>
+    <NaselenoMesto>НЕГОТИНО</NaselenoMesto>
+    <Latitude>41.480668</Latitude>
+    <Longitude>22.081830200000013</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-126/1</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4002994111202</DanocenBroj>
+    <ShifraZU>2011101</ShifraZU>
+    <NazivNaUstanova>ПЗУ Д-Р КИРИЛ НАСТЕВСКИ</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.МИРЧЕ  АЦЕВ БР.10А</Adresa>
+    <NaselenoMesto>БИТОЛА</NaselenoMesto>
+    <Latitude>41.032934</Latitude>
+    <Longitude>21.329517099999975</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1132/2</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4022006105503</DanocenBroj>
+    <ShifraZU>21001301</ShifraZU>
+    <NazivNaUstanova>ПЗУ ЛАБОР</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ ЈАКИМ СТОЈКОВСКИ ББ</Adresa>
+    <NaselenoMesto>ПРОБИШТИП</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>08-4753/2</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4028994100897</DanocenBroj>
+    <ShifraZU>28001402</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДР  ЈЕНИ </NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ 29 НОЕМВРИ ББ</Adresa>
+    <NaselenoMesto>ТЕТОВО</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>03-607/2</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4008006104199</DanocenBroj>
+    <ShifraZU>8001901</ShifraZU>
+    <NazivNaUstanova>ПЗУ ВИТА-ГИН</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ. АМДИ ЛЕШИ БР. 51</Adresa>
+    <NaselenoMesto>ДЕБАР</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>03-604/2</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4008995100458</DanocenBroj>
+    <ShifraZU>8000401</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДАФИНА ДЕБАР</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>НАС.КЕРНАНИЦА ББ</Adresa>
+    <NaselenoMesto>ДЕБАР</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-790/2</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4007006136876</DanocenBroj>
+    <ShifraZU>7009101</ShifraZU>
+    <NazivNaUstanova>ПЗУ ГИНЕКО МЕД</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ. М. ЧЕДО ФИЛИПОВСКИ</Adresa>
+    <NaselenoMesto>ГОСТИВАР</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>03-15688/520/1</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4030006616128</DanocenBroj>
+    <ShifraZU>25062001</ShifraZU>
+    <NazivNaUstanova>ПЗУ Д-Р ЛАМБЕ КЛОПЧЕВСКИ</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ. МАЏАРИ ББ</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ГАЗИ БАБА</NaselenoMesto>
+    <Latitude>41.9973462</Latitude>
+    <Longitude>21.42799560000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>03-15688/452/1/2</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4030994242700</DanocenBroj>
+    <ShifraZU>25017401</ShifraZU>
+    <NazivNaUstanova>ПЗУ ЈАСМИНА</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.ИСАЈА МАЏОВСКИ БР.85/1</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЃОРЧЕ ПЕТРОВ</NaselenoMesto>
+    <Latitude>41.9973462</Latitude>
+    <Longitude>21.42799560000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>03-15688/569/1</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4030994224272</DanocenBroj>
+    <ShifraZU>25017101</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДР МИТАНОСКИ</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.ЃОРЧЕ ПЕТРОВ БР.12/2</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЃОРЧЕ ПЕТРОВ</NaselenoMesto>
+    <Latitude>41.9973462</Latitude>
+    <Longitude>21.42799560000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>03-15688/281/1</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4030996232655</DanocenBroj>
+    <ShifraZU>25022001</ShifraZU>
+    <NazivNaUstanova>ПЗУ ХИГИА</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ. БЛАГОЈ ДАВКОВ БР. 1/2-2</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>42.0012295</Latitude>
+    <Longitude>21.41670350000004</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-966/2</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4014995100768</DanocenBroj>
+    <ShifraZU>14000302</ShifraZU>
+    <NazivNaUstanova>ПЗУ  ДР КАКАШЕВСКИ</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.НИКОЛА ТЕСЛА БР.4</Adresa>
+    <NaselenoMesto>КРАТОВО</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>03-15688/26/1</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4030006614524</DanocenBroj>
+    <ShifraZU>25072901</ShifraZU>
+    <NazivNaUstanova>ПЗУ Д-Р ЉУБО НЕШКОСКИ</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ. ДИМИТРИЕ ЧУПОСКИ ББ</Adresa>
+    <NaselenoMesto>СКОПЈЕ - КИСЕЛА ВОДА</NaselenoMesto>
+    <Latitude>41.9973462</Latitude>
+    <Longitude>21.42799560000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>03-15688/305/1</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4030006616780</DanocenBroj>
+    <ShifraZU>25088502</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДР ЕМИЛИЈА ТРАЈКОВСКА</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.САВА КОВАЧЕВИЌ БР 47 3-1/1</Adresa>
+    <NaselenoMesto>СКОПЈЕ - КИСЕЛА ВОДА</NaselenoMesto>
+    <Latitude>41.9752043</Latitude>
+    <Longitude>21.443758099999968</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>03-15688/747/1</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4030002439230</DanocenBroj>
+    <ShifraZU>25026201</ShifraZU>
+    <NazivNaUstanova>ПЗУ  ГИНЕКО МЕНСУРА</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ ЦВЕТАН ДИМОВ БР.33/2, ЛОК 47-48</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЧАИР</NaselenoMesto>
+    <Latitude>42.0097337</Latitude>
+    <Longitude>21.443995200000018</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>03-15688/643/1</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4030006616470</DanocenBroj>
+    <ShifraZU>25076201</ShifraZU>
+    <NazivNaUstanova>ПЗУ ГИНЕКО-С</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ. КРСТЕ МИСИРКОВ ББ.</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЧАИР</NaselenoMesto>
+    <Latitude>41.9973462</Latitude>
+    <Longitude>21.42799560000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>03-1973/2</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4026006134215</DanocenBroj>
+    <ShifraZU>26005501</ShifraZU>
+    <NazivNaUstanova>ПЗУ Д-Р ЈУЛИЈАНА КОЧОСКА ПЕШИНОСКА</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>С.ВЕВЧАНИ</Adresa>
+    <NaselenoMesto>ВЕВЧАНИ</NaselenoMesto>
+    <Latitude>41.2403</Latitude>
+    <Longitude>20.59310000000005</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>08-4685/2</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4028006151287</DanocenBroj>
+    <ShifraZU>28016301</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДР ВЕСНА</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ. 29 НОЕМВРИ</Adresa>
+    <NaselenoMesto>ТЕТОВО</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>16-1858/2</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4023006117559</DanocenBroj>
+    <ShifraZU>22003501</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДР. РИСТОВА ВИОЛЕТА </NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.БЛАЖЕ КОНЕВСКИ БР.1</Adresa>
+    <NaselenoMesto>РАДОВИШ</NaselenoMesto>
+    <Latitude>41.6358186</Latitude>
+    <Longitude>22.46622590000004</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-4676/2</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4017994115140</DanocenBroj>
+    <ShifraZU>17014001</ShifraZU>
+    <NazivNaUstanova>ПЗУ ВИТА МЕДИКА</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.КАРАОРМАН БР.6</Adresa>
+    <NaselenoMesto>КУМАНОВО</NaselenoMesto>
+    <Latitude>42.1313327</Latitude>
+    <Longitude>21.71290239999996</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-7515/1</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4017006159391</DanocenBroj>
+    <ShifraZU>17027101</ShifraZU>
+    <NazivNaUstanova>ПЗУ ПОЛИКЛИНИКА Д-Р БОЖИЧКОВИЌ ЛАБОРГИНОМЕДИКА</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ. 11-ТИ ОКТОМВРИ ББ</Adresa>
+    <NaselenoMesto>КУМАНОВО</NaselenoMesto>
+    <Latitude>42.1373332</Latitude>
+    <Longitude>21.715306499999997</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-6150/2</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4021006152394</DanocenBroj>
+    <ShifraZU>20051601</ShifraZU>
+    <NazivNaUstanova>ПЗУ Д-Р ЕВГЕНИЈА</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ. ТРАЈКО ТАРЦАН ББ</Adresa>
+    <NaselenoMesto>ПРИЛЕП</NaselenoMesto>
+    <Latitude>41.35173</Latitude>
+    <Longitude>21.56214</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>03-15688/651/1</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4030006615245</DanocenBroj>
+    <ShifraZU>25072501</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДР. ЛИЛЕ</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>БУЛ. ПАРТИЗАНСКИ ОДРЕДИ ББ</Adresa>
+    <NaselenoMesto>СКОПЈЕ - КАРПОШ</NaselenoMesto>
+    <Latitude>41.9973462</Latitude>
+    <Longitude>21.42799560000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-203/2</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4009006109863</DanocenBroj>
+    <ShifraZU>9002701</ShifraZU>
+    <NazivNaUstanova>ПЗУ Д-Р ЛИЛЈАНА </NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ. МЕТОДИЈА МИТЕВСКИ БРИЦО БР. 44</Adresa>
+    <NaselenoMesto>ДЕЛЧЕВО</NaselenoMesto>
+    <Latitude>41.96525339999999</Latitude>
+    <Longitude>22.782055000000014</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>0905-136/1</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4025006109575</DanocenBroj>
+    <ShifraZU>24001501</ShifraZU>
+    <NazivNaUstanova>ПЗУ Д-Р НАДИЦА ГИНЕКО ФИЛИП С</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ. СЕПТЕМВРИСКА БР. 39</Adresa>
+    <NaselenoMesto>СВЕТИ НИКОЛЕ</NaselenoMesto>
+    <Latitude>41.8596828</Latitude>
+    <Longitude>21.93441000000007</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1118/2</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4024006108572</DanocenBroj>
+    <ShifraZU>23002401</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДР МАГДАЛЕНА ПЕТКОВСКА-ЈОВАНОВСКА</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ КОЧО РАЦИН ББ</Adresa>
+    <NaselenoMesto>РЕСЕН</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-848/2</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4007005132087</DanocenBroj>
+    <ShifraZU>7005401</ShifraZU>
+    <NazivNaUstanova>ПЗУ БЛЕНДА МЕДИКА</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.ЈНА БР.292</Adresa>
+    <NaselenoMesto>ГОСТИВАР</NaselenoMesto>
+    <Latitude>41.794835</Latitude>
+    <Longitude>20.897166900000002</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>16-1888/2</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4013995104570</DanocenBroj>
+    <ShifraZU>13070401</ShifraZU>
+    <NazivNaUstanova>ПЗУ ГИНОМЕДИКА</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.ЕДВАРД КАРДЕЉ БР.20</Adresa>
+    <NaselenoMesto>КОЧАНИ</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>16-4325/2</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4020998118293</DanocenBroj>
+    <ShifraZU>19000701</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДР ЉУБЕН АЛЕКСИОСКИ</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>ДАМЕ ГРУЕВ ББ</Adresa>
+    <NaselenoMesto>ОХРИД</NaselenoMesto>
+    <Latitude>41.12162</Latitude>
+    <Longitude>20.819440999999983</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>16-4516/2</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4020995106936</DanocenBroj>
+    <ShifraZU>19000901</ShifraZU>
+    <NazivNaUstanova>ПЗУ ЗАХАРИЕВСКИ</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>БУЛ ТУРИСТИЧКА 22</Adresa>
+    <NaselenoMesto>ОХРИД</NaselenoMesto>
+    <Latitude>41.12162</Latitude>
+    <Longitude>20.819440999999983</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-12255/3</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4007013515025</DanocenBroj>
+    <ShifraZU>7019800</ShifraZU>
+    <NazivNaUstanova>ПЗУ ГИН &amp; ОБС МЕДИКА ГОСТИВАР</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>СЕДЕК КОСТОСКИ 52</Adresa>
+    <NaselenoMesto>ГОСТИВАР</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1740/2</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4001006108173</DanocenBroj>
+    <ShifraZU>1075502</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДР КАПУШЕВСКИ ПЕХЧЕВО</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>ИНДУСТРИСКА ББ</Adresa>
+    <NaselenoMesto>ПЕХЧЕВО</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>03-15688/431/1</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4030005574596</DanocenBroj>
+    <ShifraZU>25046701</ShifraZU>
+    <NazivNaUstanova>ПЗУ Д-Р ЛОЖАНКОВСКИ</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.ВЕЉКО ВЛАХОВИЌ БР.16А/1-1</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.994931</Latitude>
+    <Longitude>21.429105800000002</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-2114/2</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4029005130738</DanocenBroj>
+    <ShifraZU>30004101</ShifraZU>
+    <NazivNaUstanova>ПЗУ Д-Р ОГЊАН МИЦКОВ</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.СЛАВЧО СТОЈМЕНСКИ ББ</Adresa>
+    <NaselenoMesto>ШТИП</NaselenoMesto>
+    <Latitude>41.7390284</Latitude>
+    <Longitude>22.201347599999963</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>03-15688/56/1</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4030996191061</DanocenBroj>
+    <ShifraZU>25020001</ShifraZU>
+    <NazivNaUstanova>ПЗУ ПЕРО  КАЛЧОВСКИ </NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ. НИЏЕ ПЛАНИНА БР.16</Adresa>
+    <NaselenoMesto>СКОПЈЕ - КИСЕЛА ВОДА</NaselenoMesto>
+    <Latitude>41.9382255</Latitude>
+    <Longitude>21.50963439999998</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-2756/1</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4019013504943</DanocenBroj>
+    <ShifraZU>18004600</ShifraZU>
+    <NazivNaUstanova>ПЗУ ОВА МЕДИКА ОРДИНАЦИЈА ПО ГИНЕКОЛОГИЈА И АКУШЕРСТВО </NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>ФЕМО КУЛАКОВ 15-4</Adresa>
+    <NaselenoMesto>НЕГОТИНО</NaselenoMesto>
+    <Latitude>41.4836097</Latitude>
+    <Longitude>22.0938089</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>16-1910/2</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4013006122999</DanocenBroj>
+    <ShifraZU>13076401</ShifraZU>
+    <NazivNaUstanova>ПЗУ Д-Р СУЗАНА СЛИШКОВИЌ</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.1-ВИ МАЈ  БР.114/1-2</Adresa>
+    <NaselenoMesto>КОЧАНИ</NaselenoMesto>
+    <Latitude>41.9122087</Latitude>
+    <Longitude>22.40027800000007</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-2306/1</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4015006105612</DanocenBroj>
+    <ShifraZU>15001901</ShifraZU>
+    <NazivNaUstanova>ПЗУ Д-Р АЦО МЛАДЕНОВСКИ</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ. МАРШАЛ ТИТО ББ</Adresa>
+    <NaselenoMesto>КРИВА ПАЛАНКА</NaselenoMesto>
+    <Latitude>42.2058454</Latitude>
+    <Longitude>22.33079650000002</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-2156/2</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4029006133692</DanocenBroj>
+    <ShifraZU>30006101</ShifraZU>
+    <NazivNaUstanova>ПЗУ Д-Р ВАЛЕНТИНА</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ. ХРИСТИЈАН Т. КАРПОШ ББ</Adresa>
+    <NaselenoMesto>ШТИП</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>16-1829/2</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4023006117575</DanocenBroj>
+    <ShifraZU>22003001</ShifraZU>
+    <NazivNaUstanova>ПЗУ Д-Р ВАСКА КУКУТАНОВА</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.ЛЕНИНОВА ББ</Adresa>
+    <NaselenoMesto>РАДОВИШ</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-2162/2</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4029006133862</DanocenBroj>
+    <ShifraZU>30006201</ShifraZU>
+    <NazivNaUstanova>ПЗУ Д-Р ВЛАТКО ДАНКОВ</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ. ХРИСТИЈАН Т. КАРПОШ ББ</Adresa>
+    <NaselenoMesto>ШТИП</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>16-1931/2</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4013006123090</DanocenBroj>
+    <ShifraZU>13076001</ShifraZU>
+    <NazivNaUstanova>ПЗУ Д-Р САНДИЦА</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.МИЛАН ЗЕЧАР БР.21</Adresa>
+    <NaselenoMesto>КОЧАНИ</NaselenoMesto>
+    <Latitude>45.4654542</Latitude>
+    <Longitude>9.186515999999983</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-2307/1</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4015006105604</DanocenBroj>
+    <ShifraZU>15001801</ShifraZU>
+    <NazivNaUstanova>ПЗУ Д-Р ГОРАН МЛАДЕНОВСКИ</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ. МАРШАЛ ТИТО ББ</Adresa>
+    <NaselenoMesto>КРИВА ПАЛАНКА</NaselenoMesto>
+    <Latitude>42.2058454</Latitude>
+    <Longitude>22.33079650000002</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>16-1849/2</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4023006117591</DanocenBroj>
+    <ShifraZU>22002701</ShifraZU>
+    <NazivNaUstanova>ПЗУ Д-Р ВИОЛЕТА САМАРОВА</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.БЛАЖЕ КОНЕСКИ БР.1</Adresa>
+    <NaselenoMesto>РАДОВИШ</NaselenoMesto>
+    <Latitude>41.6358186</Latitude>
+    <Longitude>22.46622590000004</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>16-1961/2</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4013006122948</DanocenBroj>
+    <ShifraZU>13076301</ShifraZU>
+    <NazivNaUstanova>ПЗУ Д-Р КОСТАНДА</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.МИЛАН ЗЕЧАР БР.21</Adresa>
+    <NaselenoMesto>КОЧАНИ</NaselenoMesto>
+    <Latitude>45.4654542</Latitude>
+    <Longitude>9.186515999999983</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-4602/2</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4017006159499</DanocenBroj>
+    <ShifraZU>17025901</ShifraZU>
+    <NazivNaUstanova>ПЗУ ФЕМИБОНА КУМАНОВО  </NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>11-ТИ ОКТОМВРИ Б.Б.</Adresa>
+    <NaselenoMesto>КУМАНОВО</NaselenoMesto>
+    <Latitude>42.1363713</Latitude>
+    <Longitude>21.710511099999962</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-4712/2</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4017004151121</DanocenBroj>
+    <ShifraZU>17020101</ShifraZU>
+    <NazivNaUstanova>ПЗУ ГИНОЛАБОР</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.ГОЦЕ ДЕЛЧЕВ БР.48-А</Adresa>
+    <NaselenoMesto>КУМАНОВО</NaselenoMesto>
+    <Latitude>42.1201969</Latitude>
+    <Longitude>21.733146199999965</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-4677/2</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4017993118707</DanocenBroj>
+    <ShifraZU>17011401</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДР КЕЛЕШОВ</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ Ж.Ј. ШПАНАЦ ББ</Adresa>
+    <NaselenoMesto>КУМАНОВО</NaselenoMesto>
+    <Latitude>42.1358333</Latitude>
+    <Longitude>21.71805560000007</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-769/2</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4007993108676</DanocenBroj>
+    <ShifraZU>7000501</ShifraZU>
+    <NazivNaUstanova>ПЗУ ХЕРА</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>ул. БОРИС КИДРИЧ  бр.120</Adresa>
+    <NaselenoMesto>ГОСТИВАР</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>03-15688/431/1</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4030005574596</DanocenBroj>
+    <ShifraZU>25046702</ShifraZU>
+    <NazivNaUstanova>ПЗУ Д-Р ЛОЖАНКОВСКИ</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.ВЕЉКО ВЛАХОВИЌ БР.16А/3</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.994931</Latitude>
+    <Longitude>21.429105800000002</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>08-3313/2</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4028011515645</DanocenBroj>
+    <ShifraZU>28028201</ShifraZU>
+    <NazivNaUstanova>ПЗУ ГИНЕКО-МЕДИКА Д-Р АБАЗ</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ. БОРО ВУЛИЌ БР.34 А</Adresa>
+    <NaselenoMesto>ТЕТОВО</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>03-15688/535/1</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4030006616195</DanocenBroj>
+    <ShifraZU>25085802</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДР ЦВЕТАНОВСКИ ТАСЕ</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>И Л РИБАР ББ</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9973462</Latitude>
+    <Longitude>21.42799560000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>03-15688/585/1</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4030006618635</DanocenBroj>
+    <ShifraZU>25112802</ShifraZU>
+    <NazivNaUstanova>ПЗУ ПРОМЕДИКА ПРИМА</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ. КИРИЈ И МЕТОДИЈ  БР.50 КАТ. 3</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9973462</Latitude>
+    <Longitude>21.42799560000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>03-15688/369/1</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4030000402762</DanocenBroj>
+    <ShifraZU>25022702</ShifraZU>
+    <NazivNaUstanova>ПЗУ КРИСТЕЛА</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.МАКСИМ ГОРКИ БР.25</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9973462</Latitude>
+    <Longitude>21.42799560000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-5980/2</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4021006152467</DanocenBroj>
+    <ShifraZU>20053602</ShifraZU>
+    <NazivNaUstanova>ПЗУ Д-Р СЛОБОДАНКА САВЕСКА</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ. ТРАЈКО ТАРЦАН ББ</Adresa>
+    <NaselenoMesto>ПРИЛЕП</NaselenoMesto>
+    <Latitude>41.35173</Latitude>
+    <Longitude>21.56214</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>03-2023/2</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4026008502068</DanocenBroj>
+    <ShifraZU>26008901</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДУО МЕДИКА</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ. РИСТО КРЛЕ БР.1-2/1</Adresa>
+    <NaselenoMesto>СТРУГА</NaselenoMesto>
+    <Latitude>41.1811505</Latitude>
+    <Longitude>20.68449499999997</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>03-6279/7</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4030994253779</DanocenBroj>
+    <ShifraZU>25024604</ShifraZU>
+    <NazivNaUstanova>ПЗУ ПОЛИКЛИНИКА Н-НА </NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ. ЏОН КЕНЕДИ Б- 10 БР.9/ А</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЧАИР</NaselenoMesto>
+    <Latitude>42.0134036</Latitude>
+    <Longitude>21.438880599999948</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>03-4855/2</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4027009509801</DanocenBroj>
+    <ShifraZU>27016101</ShifraZU>
+    <NazivNaUstanova>ПЗУ ИВАНОВИ</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ. МЛАДИНСКА ББ - ЗГР.ИНТЕРМЕДИЈАРЕН ЦЕНТАР</Adresa>
+    <NaselenoMesto>СТРУМИЦА</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-830/2</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4007000117136</DanocenBroj>
+    <ShifraZU>7001102</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДР АНИФЕ</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ. 203 ББ</Adresa>
+    <NaselenoMesto>ГОСТИВАР</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>03-15688/715/1</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4030993193055</DanocenBroj>
+    <ShifraZU>25011104</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДИЈАГНОСТИЧКИ ЦЕНТАР </NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ. ВАСИЛ  ГЛАВИНОВ БР 3</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>42.0135159</Latitude>
+    <Longitude>21.43317819999993</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-122/1</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4002994127745</DanocenBroj>
+    <ShifraZU>2011403</ShifraZU>
+    <NazivNaUstanova>ПЗУ ГИНЕКО МЕДИКА</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>ИВАН МИЛУТИНОВИЌ</Adresa>
+    <NaselenoMesto>БИТОЛА</NaselenoMesto>
+    <Latitude>41.0319444</Latitude>
+    <Longitude>21.334722199999987</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-44/1</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4002008503670</DanocenBroj>
+    <ShifraZU>2061201</ShifraZU>
+    <NazivNaUstanova>ПЗУ ГЕНЕЗИС</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.ПАНДЕ НИКОЛОВ ББ</Adresa>
+    <NaselenoMesto>БИТОЛА</NaselenoMesto>
+    <Latitude>41.0319444</Latitude>
+    <Longitude>21.334722199999987</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-109/1</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4002005167512</DanocenBroj>
+    <ShifraZU>2043102</ShifraZU>
+    <NazivNaUstanova>ПЗУ БИЛЈАНА ТАЛЕВСКА</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.КУЗМАН ЈОСИФОВСКИ БР.62 Б</Adresa>
+    <NaselenoMesto>БИТОЛА</NaselenoMesto>
+    <Latitude>41.0280912</Latitude>
+    <Longitude>21.33067260000007</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>03-15688/825/3/3</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4030008052370</DanocenBroj>
+    <ShifraZU>25111301</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДР ЦВЕТКО ТРАЈКОВСКИ</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ. АДОЛФ ЦИБОРОВСКИ БР.36/1</Adresa>
+    <NaselenoMesto>СКОПЈЕ - КАРПОШ</NaselenoMesto>
+    <Latitude>41.9973462</Latitude>
+    <Longitude>21.42799560000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>03-15688/53/1</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4080009501264</DanocenBroj>
+    <ShifraZU>25111902</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДР ДИМИТАР КАЦАРСКИ</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.ДАМЕ ГРУЕВ ГРАДСКИ ЗИД ББ, БЛОК4 ЗГР.1</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9973462</Latitude>
+    <Longitude>21.42799560000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-2631/2</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4011008502699</DanocenBroj>
+    <ShifraZU>11009701</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДР КАТЕРИНА</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ. ЗАДРУГАРСКА БР. 16</Adresa>
+    <NaselenoMesto>КАВАДАРЦИ</NaselenoMesto>
+    <Latitude>41.42863639999999</Latitude>
+    <Longitude>22.011006500000008</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-4749/2</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4017009508532</DanocenBroj>
+    <ShifraZU>17032501</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДР СРЃАН</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ. ОКТОМВРИСКА РЕВОЛУЦИЈА 19-1/1</Adresa>
+    <NaselenoMesto>КУМАНОВО</NaselenoMesto>
+    <Latitude>42.1338642</Latitude>
+    <Longitude>21.72809929999994</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1231/1</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4030000400883</DanocenBroj>
+    <ShifraZU>25013703</ShifraZU>
+    <NazivNaUstanova>ПЗУ УРИМ</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ. ЏОН КЕНЕДИ БР.25/6-1</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЧАИР</NaselenoMesto>
+    <Latitude>42.0134036</Latitude>
+    <Longitude>21.438880599999948</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>03-15688/741/1/1</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4030992103966</DanocenBroj>
+    <ShifraZU>25012522</ShifraZU>
+    <NazivNaUstanova>ПЗУ ПОЛИКЛИНИКА МЕДИКА</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>БУЛ.ПАРТИЗАНСКИ ОДРЕДИ БР.42</Adresa>
+    <NaselenoMesto>СКОПЈЕ - КАРПОШ</NaselenoMesto>
+    <Latitude>41.9966854</Latitude>
+    <Longitude>21.42677309999999</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1502/19/2</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4006995100528</DanocenBroj>
+    <ShifraZU>6000401</ShifraZU>
+    <NazivNaUstanova>ПЗУ ПОЛИКЛИНИКА ГИНЕКА-МЕД</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.РИСТО ФАРШИНИН БР.12</Adresa>
+    <NaselenoMesto>ГЕВГЕЛИЈА</NaselenoMesto>
+    <Latitude>41.15</Latitude>
+    <Longitude>22.50999999999999</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>03-15688/741/1/1</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4030992103966</DanocenBroj>
+    <ShifraZU>25012514</ShifraZU>
+    <NazivNaUstanova>ПЗУ ПОЛИКЛИНИКА МЕДИКА</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ. БОРИС КИДРИЧ БР.26</Adresa>
+    <NaselenoMesto>БИТОЛА</NaselenoMesto>
+    <Latitude>41.0297318</Latitude>
+    <Longitude>21.311811300000045</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1123/3,,</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4024995102863</DanocenBroj>
+    <ShifraZU>23000203</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДИЈАГНОСТИЧКИ ЦЕНТАР</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.МИТЕ ТРПОСКИ ББ</Adresa>
+    <NaselenoMesto>РЕСЕН</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>03-15688/69/1</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4030996185029</DanocenBroj>
+    <ShifraZU>25016102</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДИНА 1</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ. ДИМИТРИЈА ЧУПОВСКИ БР.72/1-2</Adresa>
+    <NaselenoMesto>СКОПЈЕ - КИСЕЛА ВОДА</NaselenoMesto>
+    <Latitude>41.994931</Latitude>
+    <Longitude>21.429105800000002</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1454/1</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4012009503687</DanocenBroj>
+    <ShifraZU>12007001</ShifraZU>
+    <NazivNaUstanova>ПЗУ МАТЕ</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ. КУЗМАН ЈОСИФОВСКИ-ПИТУ ББ</Adresa>
+    <NaselenoMesto>КИЧЕВО</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>08-4663/2</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4028009510733</DanocenBroj>
+    <ShifraZU>28023501</ShifraZU>
+    <NazivNaUstanova>ПЗУ Д-Р РУЖДИ</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.29 -ТИ НОЕМВРИ БР.ББ</Adresa>
+    <NaselenoMesto>ТЕТОВО</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-4897/2</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4021011515870</DanocenBroj>
+    <ShifraZU>20061401</ShifraZU>
+    <NazivNaUstanova>ПЗУ  НОВ ЖИВОТ</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ. ЈОЛЕ АНДОНОСКИ БР. 5</Adresa>
+    <NaselenoMesto>ПРИЛЕП</NaselenoMesto>
+    <Latitude>41.3432219</Latitude>
+    <Longitude>21.545556600000054</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>03-4812/2</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4027994116762</DanocenBroj>
+    <ShifraZU>27000404</ShifraZU>
+    <NazivNaUstanova>ПЗУ ПОЛИКЛИНИКА МЕДИКА СТРУМИЦА</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.БЛАГОЈ МУЧЕТО БР.56</Adresa>
+    <NaselenoMesto>СТРУМИЦА</NaselenoMesto>
+    <Latitude>41.4410239</Latitude>
+    <Longitude>22.638153800000055</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-4745/2</ArhivskiBroj>
+    <TipDogovorID>3</TipDogovorID>
+    <TipNaDogovor>ПЗЗ - Гинеколог</TipNaDogovor>
+    <DanocenBroj>4017995105068</DanocenBroj>
+    <ShifraZU>17014702</ShifraZU>
+    <NazivNaUstanova>ПЗУ ПОЛИКЛИНИКА НИТИ</NazivNaUstanova>
+    <Dejnosti>ГИНЕКОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ. БЛАГОЈ  ИЛИЕВ ГУНЕ БР.5</Adresa>
+    <NaselenoMesto>КУМАНОВО</NaselenoMesto>
+    <Latitude>42.1303348</Latitude>
+    <Longitude>21.707923100000016</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+</Dogovori>

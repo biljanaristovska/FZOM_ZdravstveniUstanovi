@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dogovori>
+  <Dogovor>
+    <ArhivskiBroj>09-727/2</ArhivskiBroj>
+    <TipDogovorID>10</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-2)</TipNaDogovor>
+    <DanocenBroj>4017995105939</DanocenBroj>
+    <ShifraZU>17014106</ShifraZU>
+    <NazivNaUstanova>ПЗУ ПОЛИКИЛИНИКА КАРПОШ</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>УЛ. 3-ТА МАКЕДОНСКА УДАРНА БРИГАДА БР.1 В</Adresa>
+    <NaselenoMesto>КУМАНОВО</NaselenoMesto>
+    <Latitude>42.1358333</Latitude>
+    <Longitude>21.71805560000007</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-432/2-2</ArhivskiBroj>
+    <TipDogovorID>10</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-2)</TipNaDogovor>
+    <DanocenBroj>4027994116762</DanocenBroj>
+    <ShifraZU>27000406</ShifraZU>
+    <NazivNaUstanova>ПЗУ ПОЛИКЛИНИКА МЕДИКА СТРУМИЦА</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>БРАТСТВО ЕДИНСТВО 41-А</Adresa>
+    <NaselenoMesto>СТРУМИЦА</NaselenoMesto>
+    <Latitude>41.4413601</Latitude>
+    <Longitude>22.64505120000001</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-722/2</ArhivskiBroj>
+    <TipDogovorID>10</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-2)</TipNaDogovor>
+    <DanocenBroj>4017008505912</DanocenBroj>
+    <ShifraZU>17032001</ShifraZU>
+    <NazivNaUstanova>ПЗУ  ЦИТОЛАБ</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>УЛ.ПИОНЕРСКА ББ.</Adresa>
+    <NaselenoMesto>КУМАНОВО</NaselenoMesto>
+    <Latitude> 42.1358333</Latitude>
+    <Longitude> 21.71805560000007</Longitude>
+    <Status>2</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-503/2</ArhivskiBroj>
+    <TipDogovorID>10</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-2)</TipNaDogovor>
+    <DanocenBroj>4028006150434</DanocenBroj>
+    <ShifraZU>28013003</ShifraZU>
+    <NazivNaUstanova>ПЗУ ОРД. ПО ОПШТА МЕДИЦИНА МЕРКУР СО БИОХЕМИСКИ ЛАБОРАТОРИИ ЛАОР С. СЕЛЦЕ, ТЕТОВО</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>УЛ. 175 БР. 25 , МАЛА РЕЧИЦА </Adresa>
+    <NaselenoMesto>МАЛА РЕЧИЦА</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-189/2</ArhivskiBroj>
+    <TipDogovorID>10</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-2)</TipNaDogovor>
+    <DanocenBroj>4020993112475</DanocenBroj>
+    <ShifraZU>19001003</ShifraZU>
+    <NazivNaUstanova>ПЗУ СОНЦЕ  *</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>ДАМЕ ГРУЕВ БР .Б2-2/2</Adresa>
+    <NaselenoMesto>ОХРИД</NaselenoMesto>
+    <Latitude>41.1152672</Latitude>
+    <Longitude>20.807465200000024</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-952/2</ArhivskiBroj>
+    <TipDogovorID>10</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-2)</TipNaDogovor>
+    <DanocenBroj>4001997103409</DanocenBroj>
+    <ShifraZU>1070403</ShifraZU>
+    <NazivNaUstanova>ПЗУ РУЖА БИОЛАБ</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>МЛАДИНСКИ КЕЈ БР.2</Adresa>
+    <NaselenoMesto>БЕРОВО</NaselenoMesto>
+    <Latitude>41.6661929</Latitude>
+    <Longitude>22.762882999999988</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+</Dogovori>

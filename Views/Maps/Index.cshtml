@@ -1,0 +1,429 @@
+﻿
+<div id="showAdr" style="display:none">
+<br />
+<label id="adr">
+</label>
+<br />
+</div>
+<table>
+  <tr> 
+    <td style="vertical-align:text-top">
+       <div id='jqxWidgetDejnosti'>
+        </div>
+        </br>
+                <div id='jqxWidget'>
+        </div>
+         </br>
+        <div id="selectionlog"></div>
+  </td>
+  <td>
+  <div id="map-canvas">
+  </div>
+  </td>
+
+
+</tr>
+</table>
+
+
+
+@section scripts{
+    <script type="text/javascript">
+       
+    //mapa
+        $(document).ready(function () {
+                        var sourceDejnosti = [
+                                "ПЗЗ - Општа медицина",
+                                "ПЗЗ - Стоматологија",
+                                "ПЗЗ - Гинеколог",
+                                "Аптеки",
+                                "СК здравствена заштита",
+                                "СК здравствена заштита - Стоматологија",
+                                "Лабораториски услуги  (ЛУ-1)",
+                                "Лабораториски услуги  (ЛУ-2)",
+                                "Биомедицинско потпомогнато оплодување (БПО)",
+                                "СКЗЗ ЈЗУ (Здравствени домови)",
+                                "СКЗЗ ЈЗУ (Центри за јавно здравје)",
+                                "СКЗЗ ЈЗУ (Институти)",
+                                "СКЗЗ ЈЗУ (Заводи)",
+                                "БЗЗ ЈЗУ (Општи болници)",
+                                "БЗЗ ЈЗУ (Клинички болници)",
+                                "БЗЗ ЈЗУ (Специјални болници)",
+                                "БЗЗ ЈЗУ (Универзитетски клиники)",
+                                "БЗЗ ЈЗУ (Институти)",
+                                "БЗЗ ЈЗУ (Заводи)",
+                                "БЗЗ ПЗУ (Кардиоваскуларна хирургија)",
+                                "БЗЗ ПЗУ (Офталмологија)",
+                                "БЗЗ ПЗУ (Природни лекувалишта)",
+                                "СКЗЗ - Дијализа"
+
+               		        ];
+
+
+
+            // Create a jqxListBox
+            $("#jqxWidgetDejnosti").jqxListBox({ selectedIndex: -1, source: sourceDejnosti, width:380, height: 210, theme: "" });
+
+
+            $("#jqxWidgetDejnosti").on('select', function (event) {
+                if (event.args) {
+                    if (marker != null)
+                    marker.setMap(null);
+                    $("#selectionlog").children().remove();
+                    var args = event.args;
+                    // select the item in the 'select' tag.
+                    var index = args.item.index;
+                    var url = "XML/" + (index + 1) + "List.xml";
+                    //$("#select").val(args.item.value);
+                    $('#parseBtn').attr('name', index + 1);
+                    $('#reparseBtn').attr('name', index + 1);
+                    // prepare the data
+                    var source =
+                {
+                    datatype: "xml",
+                    datafields: [
+                        { name: 'NazivNaUstanova', map: 'NazivNaUstanova' },
+                        { name: 'ShifraZU', map: 'ShifraZU' },
+                        { name: 'Adresa', map: 'Adresa' },
+                        { name: 'Status', map: 'Status' },
+                        { name: 'Latitude', map: 'Latitude' },
+                        { name: 'Longitude', map: 'Longitude' }
+
+
+                    ],
+                    root: "Dogovori",
+                    record: "Dogovor",
+                    id: 'ShifraZU',
+                    url: url
+                };
+                    var dataAdapter = new $.jqx.dataAdapter(source, {
+                        downloadComplete: function (data, status, xhr) { },
+                        loadComplete: function (data) { },
+                        loadError: function (xhr, status, error) { }
+                    });
+                    // Create a jqxListBox
+                    $("#jqxWidget").jqxListBox({ source: dataAdapter,
+                        displayMember: "NazivNaUstanova",
+                        valueMember: "Adresa",
+                        width: 380,
+                        height: 210,
+                        theme: '',
+                        renderer: function (index, label, value) {
+
+                            var records = dataAdapter.records;
+                            var table = "";
+                            //table = '<table style="min-width: 150px;"><tr><td style="font-weight: bold" colspan="2">' + records[index].NazivNaUstanova + '</td></tr><tr><td style="width:15px; background:red"></td><td>' + records[index].Adresa + '</td></tr></table>';
+                            if (records[index].Status == "1")
+                                table = '<table style="min-width: 150px;"><tr><td style="font-weight: bold" colspan="2">' + records[index].NazivNaUstanova + '</td></tr><tr><td style="width:15px; background:yellow"></td><td>' + records[index].Adresa + '</td></tr></table>';
+                            else if (records[index].Status == "2")
+                                table = '<table style="min-width: 150px;"><tr><td style="font-weight: bold" colspan="2">' + records[index].NazivNaUstanova + '</td></tr><tr><td style="width:15px; background:green"></td><td>' + records[index].Adresa + '</td></tr></table>';
+                            else
+                                table = '<table style="min-width: 150px;"><tr><td style="font-weight: bold" colspan="2">' + records[index].NazivNaUstanova + '</td></tr><tr><td style="width:15px; background:red"></td><td>' + records[index].Adresa + '</td></tr></table>';
+                            return table;
+                        }
+                    });
+
+                    $("#jqxWidget").unbind('select');
+                    $("#jqxWidget").bind('select', function (event) {
+                        if (event.args) {
+                            var item = event.args.item;
+                            if (item) {
+                                console.log(item.originalItem);
+                                var status = item.originalItem.Status;
+                                var lat = item.originalItem.Latitude;
+                                var lng = item.originalItem.Longitude;
+                                var shifraZU = item.originalItem.uid;
+                                var name=item.originalItem.NazivNaUstanova;
+                                var checkboxelement = $("<div></div>");
+                                var buttonelement = $("<div></div>");
+                                var hiddenelement = $("<div><input type='hidden' id='currentShifraZU' value='" + shifraZU + "'/>" +
+                                    "<input type='hidden'id='currentDejnost' value='" + (index + 1) + "'/>" + 
+                                                                                                "<input type='hidden' id='currentName' value='" + name + "'/>"
+                                                                                               + "</div>");
+                                var latlan = $("<div>Latitude: <div id='currentlat'> " + lat + "</div>Longitude: <div id='currentlng'> " + lng + "</div></div>");
+                                if (status == "1") {
+
+                                    
+                                    checkboxelement.html("<input type='checkbox' id='chboxid'>Дали сакате да ја зачувате адресата со овие координати?");
+                                    buttonelement.html("<input id='btnSave' type='button' value='Зачувај' onclick='saveCoordinates()'/>")
+                                }
+                                else if (status == "2") {
+
+                                    
+                                    checkboxelement.html("<input type='checkbox' id='chboxid' checked>Дали сакате да ја зачувате адресата со овие координати?");
+                                    buttonelement.html("<input id='btnSave' type='button' value='Зачувај' onclick='saveCoordinates()'/>")
+                                }
+                                else {
+                                    if (marker != null) marker.setMap(null);
+                                    latlan = $("<div>Latitude: <div id='currentlat'>/</div>Longitude: <div id='currentlng'>/</div></div>");
+                                    checkboxelement.html("<input type='checkbox' id='chboxid' disabled>Дали сакате да ја зачувате адресата со овие координати?");
+                                    buttonelement.html("<input id='btnSave' type='button' value='Зачувај' onclick='saveCoordinates()' disabled/>")
+                                }
+
+                                $("#selectionlog").children().remove();
+                                $("#selectionlog").append(checkboxelement);
+                                $("#selectionlog").append(latlan);
+                                $("#selectionlog").append(buttonelement);
+                                $("#selectionlog").append(hiddenelement);
+                               if (status == "1" || status == "2") 
+                                createMark(lat, lng); 
+                                                                
+                            }
+                        }
+                    });
+                }
+            });
+
+
+        });
+
+    var geocoder;
+    var map;
+    var marker;
+    function initialize() {
+        geocoder = new google.maps.Geocoder();
+        var latlng = new google.maps.LatLng(42.000, 21.433);
+        var mapOptions = {
+            zoom: 12,
+            center: latlng,
+            
+        }
+        map = new google.maps.Map(document.getElementById('map-canvas'), mapOptions);
+
+
+        google.maps.event.addListener(map, "rightclick", function (event) {
+
+            var lat = event.latLng.lat();
+            var lng = event.latLng.lng();
+            var isSelected = $('#currentShifraZU').val();  
+             if(isSelected!=null) {
+              //  if (
+                if (marker != null)
+                marker.setMap(null);
+               
+                marker = new google.maps.Marker({
+                    map: map,
+                    position: event.latLng,
+                    icon: 'Content/Images/pharmacy-building.png'
+                   
+                });
+                
+                $('#chboxid').prop('disabled', false);
+                $('#btnSave').prop('disabled', false);
+                
+                
+                $('#currentlat').html(lat);
+                $('#currentlng').html(lng);
+             }
+
+             else {
+             alert("Селектирајте дејност и установа!");
+             }
+        });
+    }
+    
+
+    function saveCoordinates() {
+    
+    var t=confirm("Дали сте сигурни?");
+    if (t=true) {
+   
+    var lat=$('#currentlat').html();
+    var lng=$('#currentlng').html();
+    var dejnost= $('#currentDejnost').val();
+    var id = $('#currentShifraZU').val();
+
+    var status="1";
+    if ($('#chboxid').is(":checked")) {
+    status = "2";
+    }
+
+    $.ajax({
+
+                    type: "POST",
+                    url: '@Url.Action("ChangeCoordinates")', //Име на ф-цијата во контролерот
+                    contentType: "application/json; charset=utf-8",
+                    data: JSON.stringify({ latitude: lat, longitude: lng, dejnost: dejnost, id: id, status: status}), // key: value 
+                    success: function (data) {
+                        $('#jqxWidget').jqxListBox('refresh');
+                    }
+                });
+
+    }
+   
+
+    
+
+    }
+
+    google.maps.event.addDomListener(window, 'load', initialize);
+        
+        function createMark(m_lat, m_long) {
+        //kreiraj tocka
+        //var pharmacies = [];
+        
+        var name = $('#currentName').val();
+        
+        blatlng = new google.maps.LatLng(m_lat, m_long);
+        //opcii za markerot
+        
+        if (marker!= null)
+        marker.setMap(null);
+        map.setCenter(blatlng);
+        marker = new google.maps.Marker({
+            position: blatlng,
+            title: name,
+            map: map,
+            info: name,
+            icon: 'Content/Images/pharmacy-building.png'
+        });
+
+        ////dodadi go markerot vo globalnata niza
+        //pharmacies.push(marker);
+    }
+  
+    var rez = new Array();
+    function StartParsing(reparse) {
+        var dejnost = $('#parseBtn').attr('name');
+        if (dejnost != null){
+       
+        $.ajax({
+            type: "POST",
+            url: '@Url.Action("ShowFacilities")', //Име на ф-цијата во контролерот
+            contentType: "application/json; charset=utf-8",
+            data: JSON.stringify({ vrednost: dejnost }), // key: value 
+            success: function (data) {
+                rez = new Array();
+                $.each(data, function (index, value) {
+                
+                  var adresa = value.Adresa; 
+                  var id = value.ShifraZU;
+                  if (reparse==true) 
+                  {
+                    GeocodeWithTimeOut(adresa, dejnost, id);
+                  }
+                  else 
+                  {
+                    if (value.Status==null) {
+                        GeocodeWithTimeOut(adresa, dejnost, id);
+                    }
+                  }
+                                       
+                });
+
+    }
+     });
+     }
+     else{
+     alert("Ве молам одберете дејност");
+     
+     }
+     }
+
+
+     
+    function GeocodeWithTimeOut(address, dejnost, id) {
+    geocoder.geocode({
+        'address': address
+    }, function(results, status) {
+        if (status === google.maps.GeocoderStatus.OK) {
+            var result = results[0].geometry.location;
+            var lat = result.lat();
+            var lng = result.lng();
+            
+            rez.push({lat:lat, lng:lng, id:id, dejnost:dejnost, status: 1});
+             $.ajax({
+            type: "POST",
+            url: '@Url.Action("SetStatus")', //Име на ф-цијата во контролерот
+            contentType: "application/json; charset=utf-8",
+            data: JSON.stringify({ latitude: lat, longitude: lng, dejnost: dejnost, id: id, status: 1}), // key: value 
+            success: function (data){
+             var currentTime = new Date();
+             var hours = currentTime.getHours();
+             var minutes = currentTime.getMinutes();
+             var seconds = currentTime.getSeconds();
+            console.log("********");
+            console.log(hours+":"+minutes+":"+seconds);
+            console.log("isSaved: "+data);
+            console.log("id: "+id);
+            console.log("dejnost: "+dejnost);
+            console.log("adresa: "+address);
+            console.log("lat: "+lat);
+            console.log("lng: "+lng);
+            console.log("********");
+            //$('#jqxWidget').jqxListBox('refresh');
+            }
+            });
+        } else if (status === google.maps.GeocoderStatus.OVER_QUERY_LIMIT) {    
+            setTimeout(function() {
+                GeocodeWithTimeOut(address, dejnost, id);
+            }, 200);
+        } else {
+
+             $.ajax({
+            type: "POST",
+            url: '@Url.Action("SetStatus")', //Име на ф-цијата во контролерот
+            contentType: "application/json; charset=utf-8",
+            data: JSON.stringify({ latitude: lat, longitude: lng, dejnost: dejnost, id: id, status: 0})
+            ,success: function(data){
+            console.log("********");
+            var currentTime = new Date();
+            var hours = currentTime.getHours();
+            var minutes = currentTime.getMinutes();
+            var seconds = currentTime.getSeconds();
+            console.log(hours+":"+minutes+":"+seconds);
+            console.log("isSaved: "+data);
+            console.log("id: "+id);
+            console.log("dejnost: "+dejnost);
+            console.log("adresa: "+address);
+            console.log("status: "+status);
+            console.log("********");
+          //  $('#jqxWidget').jqxListBox('refresh');
+            }
+            });
+
+            rez.push({lat:lat, lng:lng, id:id, dejnost:dejnost, status: 0});
+        }
+    });
+}
+
+
+function MergeXML() {
+
+    $.ajax({
+
+                    type: "POST",
+                    url: '@Url.Action("MergeXML")', //Име на ф-цијата во контролерот
+                    contentType: "application/json; charset=utf-8"
+                
+                });
+
+}
+
+function ValidateAll() {
+
+                  var dejnost = $('#parseBtn').attr('name');
+    $.ajax({
+
+                    type: "POST",
+                    url: '@Url.Action("ValidateAll")', //Име на ф-цијата во контролерот
+                    contentType: "application/json; charset=utf-8",
+                    data: JSON.stringify({ dejnost: dejnost}), // key: value 
+                    success: function (data) {
+                        $('#jqxWidget').jqxListBox('refresh');
+                    }
+                    
+                 
+                });
+
+}
+
+    </script>
+}
+<br />
+
+
+<input type="button" value="Парсирај" id="parseBtn" onclick="StartParsing(true)"/>
+<input type="button" value="Комплетирај го парсирањето" id="mergeXMLbtn" onclick="MergeXML()"/>
+<input type="button" value="Испарсирај ги непарсираните" id="reparseBtn" onclick="StartParsing(false)"/>
+<input type="button" value="Валидирај" id="validateBtn" onclick="ValidateAll()"/>

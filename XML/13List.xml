@@ -1,0 +1,167 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dogovori>
+  <Dogovor>
+    <ArhivskiBroj>09-161/3</ArhivskiBroj>
+    <TipDogovorID>15</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Заводи)</TipNaDogovor>
+    <DanocenBroj>4026992104574</DanocenBroj>
+    <ShifraZU>26003702</ShifraZU>
+    <NazivNaUstanova>ЗАВОД ЗА НЕФРОЛОГИЈА СТРУГА</NazivNaUstanova>
+    <Dejnosti>НЕФРОЛОГИЈА, ОСТАНАТИ ДЕЈНОСТИ</Dejnosti>
+    <Adresa>УЛ. ПАРТИЗАНСКА ББ</Adresa>
+    <NaselenoMesto>СТРУГА</NaselenoMesto>
+    <Latitude>43.1333333</Latitude>
+    <Longitude>133.1333333</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-161/3</ArhivskiBroj>
+    <TipDogovorID>15</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Заводи)</TipNaDogovor>
+    <DanocenBroj>4026992104574</DanocenBroj>
+    <ShifraZU>26003701</ShifraZU>
+    <NazivNaUstanova>ЗАВОД ЗА НЕФРОЛОГИЈА СТРУГА</NazivNaUstanova>
+    <Dejnosti>НЕФРОЛОГИЈА, ОСТАНАТИ ДЕЈНОСТИ</Dejnosti>
+    <Adresa>УЛ. ПАРТИЗАНСКА ББ</Adresa>
+    <NaselenoMesto>СТРУГА</NaselenoMesto>
+    <Latitude>43.1333333</Latitude>
+    <Longitude>133.1333333</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-168/3-3</ArhivskiBroj>
+    <TipDogovorID>15</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Заводи)</TipNaDogovor>
+    <DanocenBroj>4020980117702</DanocenBroj>
+    <ShifraZU>19005102</ShifraZU>
+    <NazivNaUstanova>ЗАВОД ЗА ПРЕВ.ЛЕК И РЕХАБ. НА КАРДИО. ЗАБО.ОХРИД</NazivNaUstanova>
+    <Dejnosti>ИНТЕРВЕНТНА КАРДИОЛОГИЈА,ЛЕКУВАЊЕ И РЕХАБИЛИТАЦИЈА НА КАРДИОЛОШКИ ЗАБОЛУВАЊА, ОСТАНАТИ ДЕЈНОСТИ</Dejnosti>
+    <Adresa>СИРМА ВОЈВОДА БР.1</Adresa>
+    <NaselenoMesto>ОХРИД</NaselenoMesto>
+    <Latitude>41.1151067</Latitude>
+    <Longitude>20.81613600000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-168/3-3</ArhivskiBroj>
+    <TipDogovorID>15</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Заводи)</TipNaDogovor>
+    <DanocenBroj>4020980117702</DanocenBroj>
+    <ShifraZU>19005103</ShifraZU>
+    <NazivNaUstanova>ЗАВОД ЗА ПРЕВ.ЛЕК И РЕХАБ. НА КАРДИО. ЗАБО.ОХРИД</NazivNaUstanova>
+    <Dejnosti>ИНТЕРВЕНТНА КАРДИОЛОГИЈА,ЛЕКУВАЊЕ И РЕХАБИЛИТАЦИЈА НА КАРДИОЛОШКИ ЗАБОЛУВАЊА, ОСТАНАТИ ДЕЈНОСТИ</Dejnosti>
+    <Adresa>СИРМА ВОЈВОДА БР.1</Adresa>
+    <NaselenoMesto>ОХРИД</NaselenoMesto>
+    <Latitude>41.1151067</Latitude>
+    <Longitude>20.81613600000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-261/3</ArhivskiBroj>
+    <TipDogovorID>15</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Заводи)</TipNaDogovor>
+    <DanocenBroj>4002991127574</DanocenBroj>
+    <ShifraZU>2047301</ShifraZU>
+    <NazivNaUstanova>ЗАВОД ЗА РЕХАБИЛИТАЦИЈА НА СЛУХ, ГОВОР И ГЛАС</NazivNaUstanova>
+    <Dejnosti>МЕДИЦИНСКА РЕХАБИЛИТАЦИЈА НА ЛИЦА СО РАСТРОЈСТВА ВО СЛУХОТ, ГОВОРОТ И ГЛАСОТ</Dejnosti>
+    <Adresa>УЛ ЕЛПИДА КАРАМАНДИ БР 28</Adresa>
+    <NaselenoMesto>БИТОЛА</NaselenoMesto>
+    <Latitude>41.0268753</Latitude>
+    <Longitude>21.338198499999976</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-275/3</ArhivskiBroj>
+    <TipDogovorID>15</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Заводи)</TipNaDogovor>
+    <DanocenBroj>4024984103442</DanocenBroj>
+    <ShifraZU>23001901</ShifraZU>
+    <NazivNaUstanova>ЗАВОД ЗА РЕХАБИЛИТАЦИЈА ОТЕШЕВО</NazivNaUstanova>
+    <Dejnosti>ОСТАНАТИ ДЕЈНОСТИ, ПРЕВЕНЦИЈА, ЛЕКУВАЊЕ И РЕХАБИЛИТАЦИЈА НА ХРОНИЧНИ РЕСПИРАТОРНИ НЕСПЕЦИФИЧНИ И АЛЕРГИСКИ ЗАБОЛУВАЊА</Dejnosti>
+    <Adresa>ОТЕШЕВО</Adresa>
+    <NaselenoMesto>ОТЕШЕВО</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-826/3</ArhivskiBroj>
+    <TipDogovorID>15</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Заводи)</TipNaDogovor>
+    <DanocenBroj>4030974213550</DanocenBroj>
+    <ShifraZU>25047501</ShifraZU>
+    <NazivNaUstanova>ЗАВОД ЗА ФИЗИКАЛНА МЕДИЦИНА И РЕХАБИЛИТАЦИЈА СКОПЈЕ</NazivNaUstanova>
+    <Dejnosti>ФИЗИКАЛНА МЕДИЦИНА И РЕХАБИЛИТАЦИЈА</Dejnosti>
+    <Adresa>УЛ.ЕЛИСИЕ ПОПОВСКИ БР.28</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9904297</Latitude>
+    <Longitude>21.416558500000065</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-168/3-3</ArhivskiBroj>
+    <TipDogovorID>15</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Заводи)</TipNaDogovor>
+    <DanocenBroj>4020980117702</DanocenBroj>
+    <ShifraZU>19005104</ShifraZU>
+    <NazivNaUstanova>ЗАВОД ЗА ПРЕВ.ЛЕК И РЕХАБ. НА КАРДИО. ЗАБО.ОХРИД</NazivNaUstanova>
+    <Dejnosti>ИНТЕРВЕНТНА КАРДИОЛОГИЈА,ЛЕКУВАЊЕ И РЕХАБИЛИТАЦИЈА НА КАРДИОЛОШКИ ЗАБОЛУВАЊА, ОСТАНАТИ ДЕЈНОСТИ</Dejnosti>
+    <Adresa>СИРМА ВОЈВОДА БР.1</Adresa>
+    <NaselenoMesto>ОХРИД</NaselenoMesto>
+    <Latitude>41.1151067</Latitude>
+    <Longitude>20.81613600000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1035/3</ArhivskiBroj>
+    <TipDogovorID>15</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Заводи)</TipNaDogovor>
+    <DanocenBroj>4030997139926</DanocenBroj>
+    <ShifraZU>25048301</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ГЕРОНТОЛОШКИ ЗАВОД 13 НОЕМВРИ СКОПЈЕ</NazivNaUstanova>
+    <Dejnosti>ГЕРОНТОЛОГИЈА, ОСТАНАТИ ДЕЈНОСТИ</Dejnosti>
+    <Adresa>УЛ 4 ЈУЛИ БР 129</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЃОРЧЕ ПЕТРОВ</NaselenoMesto>
+    <Latitude>42.0085595</Latitude>
+    <Longitude>21.346195699999953</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1035/3</ArhivskiBroj>
+    <TipDogovorID>15</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Заводи)</TipNaDogovor>
+    <DanocenBroj>4030997139926</DanocenBroj>
+    <ShifraZU>25048303</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ГЕРОНТОЛОШКИ ЗАВОД 13 НОЕМВРИ СКОПЈЕ</NazivNaUstanova>
+    <Dejnosti>ГЕРОНТОЛОГИЈА, ОСТАНАТИ ДЕЈНОСТИ</Dejnosti>
+    <Adresa>УЛ 4 ЈУЛИ БР 129</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЃОРЧЕ ПЕТРОВ</NaselenoMesto>
+    <Latitude>42.0085595</Latitude>
+    <Longitude>21.346195699999953</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-275/3</ArhivskiBroj>
+    <TipDogovorID>15</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Заводи)</TipNaDogovor>
+    <DanocenBroj>4024984103442</DanocenBroj>
+    <ShifraZU>23001902</ShifraZU>
+    <NazivNaUstanova>ЗАВОД ЗА РЕХАБИЛИТАЦИЈА ОТЕШЕВО</NazivNaUstanova>
+    <Dejnosti>ОСТАНАТИ ДЕЈНОСТИ, ПРЕВЕНЦИЈА, ЛЕКУВАЊЕ И РЕХАБИЛИТАЦИЈА НА ХРОНИЧНИ РЕСПИРАТОРНИ НЕСПЕЦИФИЧНИ И АЛЕРГИСКИ ЗАБОЛУВАЊА</Dejnosti>
+    <Adresa>ОТЕШЕВО</Adresa>
+    <NaselenoMesto>ОТЕШЕВО</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-168/3-3</ArhivskiBroj>
+    <TipDogovorID>15</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Заводи)</TipNaDogovor>
+    <DanocenBroj>4020980117702</DanocenBroj>
+    <ShifraZU>19005105</ShifraZU>
+    <NazivNaUstanova>ЗАВОД ЗА ПРЕВ.ЛЕК И РЕХАБ. НА КАРДИО. ЗАБО.ОХРИД</NazivNaUstanova>
+    <Dejnosti>ИНТЕРВЕНТНА КАРДИОЛОГИЈА,ЛЕКУВАЊЕ И РЕХАБИЛИТАЦИЈА НА КАРДИОЛОШКИ ЗАБОЛУВАЊА, ОСТАНАТИ ДЕЈНОСТИ</Dejnosti>
+    <Adresa>СИРМА ВОЈВОДА БР.1</Adresa>
+    <NaselenoMesto>ОХРИД</NaselenoMesto>
+    <Latitude>41.1151067</Latitude>
+    <Longitude>20.81613600000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+</Dogovori>

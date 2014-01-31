@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dogovori>
+  <Dogovor>
+    <ArhivskiBroj>09-23450/3</ArhivskiBroj>
+    <TipDogovorID>23</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ПЗУ (Офталмологија)</TipNaDogovor>
+    <DanocenBroj>4030003492924</DanocenBroj>
+    <ShifraZU>25129901</ShifraZU>
+    <NazivNaUstanova>ПЗУ СПЕЦИЈАЛНА БОЛНИЦА ПО ОФТАЛМОЛОГИЈА СЕРАФИМОВСКИ</NazivNaUstanova>
+    <Dejnosti>ОФТАЛМОЛОГИЈА</Dejnosti>
+    <Adresa>ВАСИЛ ГОРГОВ 20</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.99357560000001</Latitude>
+    <Longitude>21.41030150000006</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-172/2-1</ArhivskiBroj>
+    <TipDogovorID>23</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ПЗУ (Офталмологија)</TipNaDogovor>
+    <DanocenBroj>4044011504606</DanocenBroj>
+    <ShifraZU>25124601</ShifraZU>
+    <NazivNaUstanova>ПЗУ ЕУРОПИАН ЕЈЕ ХОСПИТАЛ</NazivNaUstanova>
+    <Dejnosti>ОЧНА ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ. СРЕМСКИ ФРОНТ БР.1</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЃОРЧЕ ПЕТРОВ</NaselenoMesto>
+    <Latitude>41.74984389999999</Latitude>
+    <Longitude>22.2001037</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-987/4</ArhivskiBroj>
+    <TipDogovorID>23</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ПЗУ (Офталмологија)</TipNaDogovor>
+    <DanocenBroj>4057010506286</DanocenBroj>
+    <ShifraZU>25124501</ShifraZU>
+    <NazivNaUstanova>ПЗУ СИСТИНА - ОФТАЛМОЛОГИЈА</NazivNaUstanova>
+    <Dejnosti>ОЧНА ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ. ЛОНДОНСКА БР.19</Adresa>
+    <NaselenoMesto>СКОПЈЕ - КАРПОШ</NaselenoMesto>
+    <Latitude>42.0005765</Latitude>
+    <Longitude>21.391892999999982</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+</Dogovori>

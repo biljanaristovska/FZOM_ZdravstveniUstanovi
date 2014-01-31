@@ -1,0 +1,2657 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dogovori>
+  <Dogovor>
+    <ArhivskiBroj>09-307/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4011005123522</DanocenBroj>
+    <ShifraZU>11004705</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА КАВАДАРЦИ </NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА И РЕАНИМАЦИЈА, БИОХЕМИСКА ЛАБОРАТОРИЈА, ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИНФЕКТИВНИ БОЛЕСТИ И ФИБРИЛНИ СОСТОЈБИ, НЕВРОЛОГИЈА, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОРТОПЕДИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПЕДИЈАТРИЈА, РЕНТГЕН ДИЈАГНОСТИКА , ТРАНСФУЗИЈА, УРОЛОГИЈА, ФИЗИКАЛНА МЕДИЦИНА СО РЕХАБИЛИТАЦИЈА И БАЛНЕОЛОГИЈА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ. ШИШКА ББ</Adresa>
+    <NaselenoMesto>КАВАДАРЦИ</NaselenoMesto>
+    <Latitude>41.444466</Latitude>
+    <Longitude>22.0209026</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-672/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4007005132974</DanocenBroj>
+    <ShifraZU>7005901</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА ГОСТИВАР</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА И РЕАНИМАЦИЈА, ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИНФЕКТИВНИ БОЛЕСТИ, НЕВРОЛОГИЈА, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОРТОПЕДИЈА И ТРАУМАТОЛОГИЈА, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПАТОЛОШКА АНАТОМИЈА И СУДСКА МЕДИЦИНА, ПЕДИЈАТРИЈА, РЕНТГЕН ДИЈАГНОСТИКА , УРОЛОГИЈА, ФИЗИКАЛНА ТЕРАПИЈА , ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ: МАЈОР ЧЕДЕ ФИЛИПОВСКИ  БР.29</Adresa>
+    <NaselenoMesto>ГОСТИВАР</NaselenoMesto>
+    <Latitude>41.79285360000001</Latitude>
+    <Longitude>20.90485609999996</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-340/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4013005120860</DanocenBroj>
+    <ShifraZU>13074015</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА КОЧАНИ</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА И РЕАНИМАЦИЈА, БИОХЕМИСКА ЛАБОРАТОРИЈА, ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ДЕРМАТОЛОГИЈА, ИНТЕРНИ БОЛЕСТИ СО ДИЈАЛИЗА, ИНФЕКТИВНИ БОЛЕСТИ, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОРТОПЕДИЈА, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПАТОЛОГИЈА, ПЕДИЈАТРИЈА, РЕНТГЕН ДИЈАГНОСТИКА , ТРАНСФУЗИЈА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ МИЛАН ЗЕЧАР БР 21</Adresa>
+    <NaselenoMesto>КОЧАНИ</NaselenoMesto>
+    <Latitude>45.4654542</Latitude>
+    <Longitude>9.186515999999983</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-615/2-4</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4017005154426</DanocenBroj>
+    <ShifraZU>17020624</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА КУМАНОВО</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА, РЕАНИМАЦИЈА И ИНТЕНЗИВНИ ЛЕКУВАЊЕ, АНТИТУБЕРКУЛОЗЕН ДИНСПАНЦЕР(АТД) , БИОХЕМИСКА ЛАБОРАТОРИЈА, ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ИНТЕРНА МЕДИЦИНА, КОЖНО ВЕНЕРИЧНИ БОЛЕСТИ, НЕВРОЛОГИЈА, ОРТОПЕДИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПЕДИЈАТРИЈА, ПСИХИЈАТРИЈА, РЕНТГЕН ДИЈАГНОСТИКА , ТРАНСФУЗИЈА, УРОЛОГИЈА, ФИЗИКАЛНА МЕДИЦИНА И РЕХАБИЛИТАЦИЈА, ХИРУРШКИ БОЛЕСТИ</Dejnosti>
+    <Adresa>УЛ. 11 ОКТОМВРИ ББ</Adresa>
+    <NaselenoMesto>КУМАНОВО</NaselenoMesto>
+    <Latitude>42.1373332</Latitude>
+    <Longitude>21.715306499999997</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-128/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4004005117380</DanocenBroj>
+    <ShifraZU>29005702</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА ВЕЛЕС</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА, РЕАНИМАЦИЈА И ИНТЕНЗИВНИ ЛЕКУВАЊЕ, АНТИТУБЕРКУЛОЗЕН ДИНСПАНЦЕР(АТД) , ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИНФЕКТИВНИ БОЛЕСТИ И ФЕБРИЛНИ СОСТОЈБИ, ЛАБОРАТОРИЈА, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОРТОПЕДИЈА И ТРАУМАТОЛОГИЈА, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПАТОЛОГИЈА, ПЕДИЈАТРИЈА, ПСИХИЈАТРИЈА, РАДИОЛОШКА ДИЈАГНОСТИКА, УРОЛОГИЈА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ.САМОБОРСКА ББ</Adresa>
+    <NaselenoMesto>ВЕЛЕС</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-128/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4004005117380</DanocenBroj>
+    <ShifraZU>29005714</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА ВЕЛЕС</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА, РЕАНИМАЦИЈА И ИНТЕНЗИВНИ ЛЕКУВАЊЕ, АНТИТУБЕРКУЛОЗЕН ДИНСПАНЦЕР(АТД) , ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИНФЕКТИВНИ БОЛЕСТИ И ФЕБРИЛНИ СОСТОЈБИ, ЛАБОРАТОРИЈА, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОРТОПЕДИЈА И ТРАУМАТОЛОГИЈА, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПАТОЛОГИЈА, ПЕДИЈАТРИЈА, ПСИХИЈАТРИЈА, РАДИОЛОШКА ДИЈАГНОСТИКА, УРОЛОГИЈА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ.САМОБОРСКА ББ</Adresa>
+    <NaselenoMesto>ВЕЛЕС</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-615/2-4</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4017005154426</DanocenBroj>
+    <ShifraZU>17020623</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА КУМАНОВО</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА, РЕАНИМАЦИЈА И ИНТЕНЗИВНИ ЛЕКУВАЊЕ, АНТИТУБЕРКУЛОЗЕН ДИНСПАНЦЕР(АТД) , БИОХЕМИСКА ЛАБОРАТОРИЈА, ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ИНТЕРНА МЕДИЦИНА, КОЖНО ВЕНЕРИЧНИ БОЛЕСТИ, НЕВРОЛОГИЈА, ОРТОПЕДИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПЕДИЈАТРИЈА, ПСИХИЈАТРИЈА, РЕНТГЕН ДИЈАГНОСТИКА , ТРАНСФУЗИЈА, УРОЛОГИЈА, ФИЗИКАЛНА МЕДИЦИНА И РЕХАБИЛИТАЦИЈА, ХИРУРШКИ БОЛЕСТИ</Dejnosti>
+    <Adresa>УЛ. 11 ОКТОМВРИ ББ</Adresa>
+    <NaselenoMesto>КУМАНОВО</NaselenoMesto>
+    <Latitude>42.1373332</Latitude>
+    <Longitude>21.715306499999997</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-166/4</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4020005141775</DanocenBroj>
+    <ShifraZU>19004910</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА ОХРИД</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА, РЕАНИМАЦИЈА И ИНТЕНЗИВНИ ЛЕКУВАЊЕ, АНТИТУБЕРКУЛОЗЕН ДИНСПАНЦЕР(АТД) , БИОХЕМИСКА ЛАБОРАТОРИЈА, БОЛНИЧКА АПТЕКА, ДЕРМАТОВЕНЕРОЛОГИЈА, ЗДРАВСТВЕНА ЗАШТИТА НА ЖЕНАТА СО ЕДИНИЦА ЗА НЕОНАТОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИНФЕКТИВНИ БОЛЕСТИ, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПАТОЛОШКА АНАТОМИЈА, ПЕДИЈАТРИЈА, РАДИОЛОГИЈА, ТРАНСФУЗИЈА, УРОЛОГИЈА, ФИЗИЈАТРИЈА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ: СИРМА ВОЈВОДА  БР.1 </Adresa>
+    <NaselenoMesto>ОХРИД</NaselenoMesto>
+    <Latitude>41.1151067</Latitude>
+    <Longitude>20.81613600000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-79/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4021005146480</DanocenBroj>
+    <ShifraZU>20047704</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА ПРИЛЕП</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА, РЕАНИМАЦИЈА И ИНТЕНЗИВНИ ЛЕКУВАЊЕ, АНТИТУБЕРКУЛОЗЕН ДИНСПАНЦЕР(АТД) , ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИНФЕКТИВНИ БОЛЕСТИ, МАКСИЛОФАЦИЈАЛНА ХИРУРГИЈА, НЕВРОЛОГИЈА, ОРТОПЕДИЈА И ТРАУМАТОЛОГИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПЕДИЈАТРИЈА, ПСИХИЈАТРИЈА, РАДИО ДИЈАГНОСТИКА, УРОЛОГИЈА, ФИЗИКАЛНА ТЕРАПИЈА , ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ. ТРАЈКО ТАРЦАН, БР. ББ</Adresa>
+    <NaselenoMesto>ПРИЛЕП</NaselenoMesto>
+    <Latitude>41.3464931</Latitude>
+    <Longitude>21.552972700000055</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-166/4</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4020005141775</DanocenBroj>
+    <ShifraZU>19004902</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА ОХРИД</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА, РЕАНИМАЦИЈА И ИНТЕНЗИВНИ ЛЕКУВАЊЕ, АНТИТУБЕРКУЛОЗЕН ДИНСПАНЦЕР(АТД) , БИОХЕМИСКА ЛАБОРАТОРИЈА, БОЛНИЧКА АПТЕКА, ДЕРМАТОВЕНЕРОЛОГИЈА, ЗДРАВСТВЕНА ЗАШТИТА НА ЖЕНАТА СО ЕДИНИЦА ЗА НЕОНАТОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИНФЕКТИВНИ БОЛЕСТИ, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПАТОЛОШКА АНАТОМИЈА, ПЕДИЈАТРИЈА, РАДИОЛОГИЈА, ТРАНСФУЗИЈА, УРОЛОГИЈА, ФИЗИЈАТРИЈА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ.СИРМА ВОЈВОДА БР.1</Adresa>
+    <NaselenoMesto>ОХРИД</NaselenoMesto>
+    <Latitude>41.1151067</Latitude>
+    <Longitude>20.81613600000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-699/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4012005118894</DanocenBroj>
+    <ShifraZU>12002502</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА КИЧЕВО</NazivNaUstanova>
+    <Dejnosti>БИОХЕМИСКА ЛАБОРАТОРИЈА, ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ИНТЕРНА МЕДИЦИНА, ИНФЕКТИВНИ БОЛЕСТИ, НЕВРОЛОГИЈА, ОРТОПЕДИЈА И ТРАУМАТОЛОГИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ПЕДИЈАТРИЈА, ПСИХИЈАТРИЈА, РЕНТГЕН ДИЈАГНОСТИКА , ТРАНСФУЗИЈА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ. МАРШАЛ ТИТО БР 42</Adresa>
+    <NaselenoMesto>КИЧЕВО</NaselenoMesto>
+    <Latitude>41.5202351</Latitude>
+    <Longitude>20.96291050000002</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-340/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4013005120860</DanocenBroj>
+    <ShifraZU>13074002</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА КОЧАНИ</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА И РЕАНИМАЦИЈА, БИОХЕМИСКА ЛАБОРАТОРИЈА, ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ДЕРМАТОЛОГИЈА, ИНТЕРНИ БОЛЕСТИ СО ДИЈАЛИЗА, ИНФЕКТИВНИ БОЛЕСТИ, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОРТОПЕДИЈА, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПАТОЛОГИЈА, ПЕДИЈАТРИЈА, РЕНТГЕН ДИЈАГНОСТИКА , ТРАНСФУЗИЈА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ МИЛАН ЗЕЧАР БР 21</Adresa>
+    <NaselenoMesto>КОЧАНИ</NaselenoMesto>
+    <Latitude>45.4654542</Latitude>
+    <Longitude>9.186515999999983</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-483/5</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4008005103741</DanocenBroj>
+    <ShifraZU>8000905</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА ДЕБАР</NazivNaUstanova>
+    <Dejnosti>БИОХЕМИСКА ЛАБОРАТОРИЈА, ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПСИХИЈАТРИЈА, РАДИО ДИЈАГНОСТИКА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ.АМДИ ЛЕШИ БР:51</Adresa>
+    <NaselenoMesto>ДЕБАР</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-166/4</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4020005141775</DanocenBroj>
+    <ShifraZU>19004905</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА ОХРИД</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА, РЕАНИМАЦИЈА И ИНТЕНЗИВНИ ЛЕКУВАЊЕ, АНТИТУБЕРКУЛОЗЕН ДИНСПАНЦЕР(АТД) , БИОХЕМИСКА ЛАБОРАТОРИЈА, БОЛНИЧКА АПТЕКА, ДЕРМАТОВЕНЕРОЛОГИЈА, ЗДРАВСТВЕНА ЗАШТИТА НА ЖЕНАТА СО ЕДИНИЦА ЗА НЕОНАТОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИНФЕКТИВНИ БОЛЕСТИ, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПАТОЛОШКА АНАТОМИЈА, ПЕДИЈАТРИЈА, РАДИОЛОГИЈА, ТРАНСФУЗИЈА, УРОЛОГИЈА, ФИЗИЈАТРИЈА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ.СИРМА ВОЈВОДА БР.1</Adresa>
+    <NaselenoMesto>ОХРИД</NaselenoMesto>
+    <Latitude>41.1151067</Latitude>
+    <Longitude>20.81613600000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-79/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4021005146480</DanocenBroj>
+    <ShifraZU>20047719</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА ПРИЛЕП</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА, РЕАНИМАЦИЈА И ИНТЕНЗИВНИ ЛЕКУВАЊЕ, АНТИТУБЕРКУЛОЗЕН ДИНСПАНЦЕР(АТД) , ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИНФЕКТИВНИ БОЛЕСТИ, МАКСИЛОФАЦИЈАЛНА ХИРУРГИЈА, НЕВРОЛОГИЈА, ОРТОПЕДИЈА И ТРАУМАТОЛОГИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПЕДИЈАТРИЈА, ПСИХИЈАТРИЈА, РАДИО ДИЈАГНОСТИКА, УРОЛОГИЈА, ФИЗИКАЛНА ТЕРАПИЈА , ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ. ТРАЈКО ТАРЦАН, БР. ББ</Adresa>
+    <NaselenoMesto>ПРИЛЕП</NaselenoMesto>
+    <Latitude>41.3464931</Latitude>
+    <Longitude>21.552972700000055</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-483/5</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4008005103741</DanocenBroj>
+    <ShifraZU>8000907</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА ДЕБАР</NazivNaUstanova>
+    <Dejnosti>БИОХЕМИСКА ЛАБОРАТОРИЈА, ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПСИХИЈАТРИЈА, РАДИО ДИЈАГНОСТИКА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ.АМДИ ЛЕШИ БР:51</Adresa>
+    <NaselenoMesto>ДЕБАР</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-672/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4007005132974</DanocenBroj>
+    <ShifraZU>7005902</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА ГОСТИВАР</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА И РЕАНИМАЦИЈА, ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИНФЕКТИВНИ БОЛЕСТИ, НЕВРОЛОГИЈА, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОРТОПЕДИЈА И ТРАУМАТОЛОГИЈА, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПАТОЛОШКА АНАТОМИЈА И СУДСКА МЕДИЦИНА, ПЕДИЈАТРИЈА, РЕНТГЕН ДИЈАГНОСТИКА , УРОЛОГИЈА, ФИЗИКАЛНА ТЕРАПИЈА , ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ: МАЈОР ЧЕДЕ ФИЛИПОВСКИ  БР.29</Adresa>
+    <NaselenoMesto>ГОСТИВАР</NaselenoMesto>
+    <Latitude>41.79285360000001</Latitude>
+    <Longitude>20.90485609999996</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-699/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4012005118894</DanocenBroj>
+    <ShifraZU>12002513</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА КИЧЕВО</NazivNaUstanova>
+    <Dejnosti>БИОХЕМИСКА ЛАБОРАТОРИЈА, ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ИНТЕРНА МЕДИЦИНА, ИНФЕКТИВНИ БОЛЕСТИ, НЕВРОЛОГИЈА, ОРТОПЕДИЈА И ТРАУМАТОЛОГИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ПЕДИЈАТРИЈА, ПСИХИЈАТРИЈА, РЕНТГЕН ДИЈАГНОСТИКА , ТРАНСФУЗИЈА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ. МАРШАЛ ТИТО БР 42</Adresa>
+    <NaselenoMesto>КИЧЕВО</NaselenoMesto>
+    <Latitude>41.5202351</Latitude>
+    <Longitude>20.96291050000002</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-340/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4013005120860</DanocenBroj>
+    <ShifraZU>13074003</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА КОЧАНИ</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА И РЕАНИМАЦИЈА, БИОХЕМИСКА ЛАБОРАТОРИЈА, ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ДЕРМАТОЛОГИЈА, ИНТЕРНИ БОЛЕСТИ СО ДИЈАЛИЗА, ИНФЕКТИВНИ БОЛЕСТИ, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОРТОПЕДИЈА, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПАТОЛОГИЈА, ПЕДИЈАТРИЈА, РЕНТГЕН ДИЈАГНОСТИКА , ТРАНСФУЗИЈА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ МИЛАН ЗЕЧАР БР 21</Adresa>
+    <NaselenoMesto>КОЧАНИ</NaselenoMesto>
+    <Latitude>45.4654542</Latitude>
+    <Longitude>9.186515999999983</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-307/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4011005123522</DanocenBroj>
+    <ShifraZU>11004703</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА КАВАДАРЦИ </NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА И РЕАНИМАЦИЈА, БИОХЕМИСКА ЛАБОРАТОРИЈА, ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИНФЕКТИВНИ БОЛЕСТИ И ФИБРИЛНИ СОСТОЈБИ, НЕВРОЛОГИЈА, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОРТОПЕДИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПЕДИЈАТРИЈА, РЕНТГЕН ДИЈАГНОСТИКА , ТРАНСФУЗИЈА, УРОЛОГИЈА, ФИЗИКАЛНА МЕДИЦИНА СО РЕХАБИЛИТАЦИЈА И БАЛНЕОЛОГИЈА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ. ШИШКА ББ</Adresa>
+    <NaselenoMesto>КАВАДАРЦИ</NaselenoMesto>
+    <Latitude>41.444466</Latitude>
+    <Longitude>22.0209026</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-128/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4004005117380</DanocenBroj>
+    <ShifraZU>29005701</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА ВЕЛЕС</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА, РЕАНИМАЦИЈА И ИНТЕНЗИВНИ ЛЕКУВАЊЕ, АНТИТУБЕРКУЛОЗЕН ДИНСПАНЦЕР(АТД) , ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИНФЕКТИВНИ БОЛЕСТИ И ФЕБРИЛНИ СОСТОЈБИ, ЛАБОРАТОРИЈА, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОРТОПЕДИЈА И ТРАУМАТОЛОГИЈА, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПАТОЛОГИЈА, ПЕДИЈАТРИЈА, ПСИХИЈАТРИЈА, РАДИОЛОШКА ДИЈАГНОСТИКА, УРОЛОГИЈА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ.САМОБОРСКА ББ</Adresa>
+    <NaselenoMesto>ВЕЛЕС</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-615/2-4</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4017005154426</DanocenBroj>
+    <ShifraZU>17020617</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА КУМАНОВО</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА, РЕАНИМАЦИЈА И ИНТЕНЗИВНИ ЛЕКУВАЊЕ, АНТИТУБЕРКУЛОЗЕН ДИНСПАНЦЕР(АТД) , БИОХЕМИСКА ЛАБОРАТОРИЈА, ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ИНТЕРНА МЕДИЦИНА, КОЖНО ВЕНЕРИЧНИ БОЛЕСТИ, НЕВРОЛОГИЈА, ОРТОПЕДИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПЕДИЈАТРИЈА, ПСИХИЈАТРИЈА, РЕНТГЕН ДИЈАГНОСТИКА , ТРАНСФУЗИЈА, УРОЛОГИЈА, ФИЗИКАЛНА МЕДИЦИНА И РЕХАБИЛИТАЦИЈА, ХИРУРШКИ БОЛЕСТИ</Dejnosti>
+    <Adresa>УЛ. 11 ОКТОМВРИ ББ</Adresa>
+    <NaselenoMesto>КУМАНОВО</NaselenoMesto>
+    <Latitude>42.1373332</Latitude>
+    <Longitude>21.715306499999997</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-814/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4006005119025</DanocenBroj>
+    <ShifraZU>6001708</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА ГЕВГЕЛИЈА</NazivNaUstanova>
+    <Dejnosti>ДЕРМАТОВЕНЕРОЛОГИЈА, ИНФЕКТИВНИ БОЛЕСТИ, ЛАБОРАТОРИЈА, НЕВРОЛОГИЈА, ОРТОПЕДСКИ БОЛЕСТИ, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПСИХИЈАТРИЈА, ТРАНСФУЗИЈА, ФИЗИКАЛНА МЕДИЦИНА И РЕХАБИЛИТАЦИЈА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ:СЛОБОДАН МИТРОВ ДЕНКО  БР.38</Adresa>
+    <NaselenoMesto>ГЕВГЕЛИЈА</NaselenoMesto>
+    <Latitude>41.15</Latitude>
+    <Longitude>22.50999999999999</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-672/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4007005132974</DanocenBroj>
+    <ShifraZU>7005908</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА ГОСТИВАР</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА И РЕАНИМАЦИЈА, ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИНФЕКТИВНИ БОЛЕСТИ, НЕВРОЛОГИЈА, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОРТОПЕДИЈА И ТРАУМАТОЛОГИЈА, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПАТОЛОШКА АНАТОМИЈА И СУДСКА МЕДИЦИНА, ПЕДИЈАТРИЈА, РЕНТГЕН ДИЈАГНОСТИКА , УРОЛОГИЈА, ФИЗИКАЛНА ТЕРАПИЈА , ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ: МАЈОР ЧЕДЕ ФИЛИПОВСКИ  БР.29</Adresa>
+    <NaselenoMesto>ГОСТИВАР</NaselenoMesto>
+    <Latitude>41.79285360000001</Latitude>
+    <Longitude>20.90485609999996</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-483/5</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4008005103741</DanocenBroj>
+    <ShifraZU>8000909</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА ДЕБАР</NazivNaUstanova>
+    <Dejnosti>БИОХЕМИСКА ЛАБОРАТОРИЈА, ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПСИХИЈАТРИЈА, РАДИО ДИЈАГНОСТИКА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ.АМДИ ЛЕШИ БР:51</Adresa>
+    <NaselenoMesto>ДЕБАР</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-340/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4013005120860</DanocenBroj>
+    <ShifraZU>13074013</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА КОЧАНИ</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА И РЕАНИМАЦИЈА, БИОХЕМИСКА ЛАБОРАТОРИЈА, ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ДЕРМАТОЛОГИЈА, ИНТЕРНИ БОЛЕСТИ СО ДИЈАЛИЗА, ИНФЕКТИВНИ БОЛЕСТИ, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОРТОПЕДИЈА, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПАТОЛОГИЈА, ПЕДИЈАТРИЈА, РЕНТГЕН ДИЈАГНОСТИКА , ТРАНСФУЗИЈА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ МИЛАН ЗЕЧАР БР 21</Adresa>
+    <NaselenoMesto>КОЧАНИ</NaselenoMesto>
+    <Latitude>45.4654542</Latitude>
+    <Longitude>9.186515999999983</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-615/2-4</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4017005154426</DanocenBroj>
+    <ShifraZU>17020611</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА КУМАНОВО</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА, РЕАНИМАЦИЈА И ИНТЕНЗИВНИ ЛЕКУВАЊЕ, АНТИТУБЕРКУЛОЗЕН ДИНСПАНЦЕР(АТД) , БИОХЕМИСКА ЛАБОРАТОРИЈА, ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ИНТЕРНА МЕДИЦИНА, КОЖНО ВЕНЕРИЧНИ БОЛЕСТИ, НЕВРОЛОГИЈА, ОРТОПЕДИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПЕДИЈАТРИЈА, ПСИХИЈАТРИЈА, РЕНТГЕН ДИЈАГНОСТИКА , ТРАНСФУЗИЈА, УРОЛОГИЈА, ФИЗИКАЛНА МЕДИЦИНА И РЕХАБИЛИТАЦИЈА, ХИРУРШКИ БОЛЕСТИ</Dejnosti>
+    <Adresa>УЛ. 11 ОКТОМВРИ ББ</Adresa>
+    <NaselenoMesto>КУМАНОВО</NaselenoMesto>
+    <Latitude>42.1373332</Latitude>
+    <Longitude>21.715306499999997</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-615/2-4</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4017005154426</DanocenBroj>
+    <ShifraZU>17020601</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА КУМАНОВО</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА, РЕАНИМАЦИЈА И ИНТЕНЗИВНИ ЛЕКУВАЊЕ, АНТИТУБЕРКУЛОЗЕН ДИНСПАНЦЕР(АТД) , БИОХЕМИСКА ЛАБОРАТОРИЈА, ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ИНТЕРНА МЕДИЦИНА, КОЖНО ВЕНЕРИЧНИ БОЛЕСТИ, НЕВРОЛОГИЈА, ОРТОПЕДИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПЕДИЈАТРИЈА, ПСИХИЈАТРИЈА, РЕНТГЕН ДИЈАГНОСТИКА , ТРАНСФУЗИЈА, УРОЛОГИЈА, ФИЗИКАЛНА МЕДИЦИНА И РЕХАБИЛИТАЦИЈА, ХИРУРШКИ БОЛЕСТИ</Dejnosti>
+    <Adresa>УЛ. 11 ОКТОМВРИ ББ</Adresa>
+    <NaselenoMesto>КУМАНОВО</NaselenoMesto>
+    <Latitude>42.1373332</Latitude>
+    <Longitude>21.715306499999997</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-128/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4004005117380</DanocenBroj>
+    <ShifraZU>29005705</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА ВЕЛЕС</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА, РЕАНИМАЦИЈА И ИНТЕНЗИВНИ ЛЕКУВАЊЕ, АНТИТУБЕРКУЛОЗЕН ДИНСПАНЦЕР(АТД) , ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИНФЕКТИВНИ БОЛЕСТИ И ФЕБРИЛНИ СОСТОЈБИ, ЛАБОРАТОРИЈА, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОРТОПЕДИЈА И ТРАУМАТОЛОГИЈА, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПАТОЛОГИЈА, ПЕДИЈАТРИЈА, ПСИХИЈАТРИЈА, РАДИОЛОШКА ДИЈАГНОСТИКА, УРОЛОГИЈА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ.САМОБОРСКА ББ</Adresa>
+    <NaselenoMesto>ВЕЛЕС</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-699/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4012005118894</DanocenBroj>
+    <ShifraZU>12002519</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА КИЧЕВО</NazivNaUstanova>
+    <Dejnosti>БИОХЕМИСКА ЛАБОРАТОРИЈА, ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ИНТЕРНА МЕДИЦИНА, ИНФЕКТИВНИ БОЛЕСТИ, НЕВРОЛОГИЈА, ОРТОПЕДИЈА И ТРАУМАТОЛОГИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ПЕДИЈАТРИЈА, ПСИХИЈАТРИЈА, РЕНТГЕН ДИЈАГНОСТИКА , ТРАНСФУЗИЈА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>МАРШАЛ ТИТО</Adresa>
+    <NaselenoMesto>КИЧЕВО</NaselenoMesto>
+    <Latitude>41.5202351</Latitude>
+    <Longitude>20.96291050000002</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-672/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4007005132974</DanocenBroj>
+    <ShifraZU>7005925</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА ГОСТИВАР</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА И РЕАНИМАЦИЈА, ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИНФЕКТИВНИ БОЛЕСТИ, НЕВРОЛОГИЈА, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОРТОПЕДИЈА И ТРАУМАТОЛОГИЈА, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПАТОЛОШКА АНАТОМИЈА И СУДСКА МЕДИЦИНА, ПЕДИЈАТРИЈА, РЕНТГЕН ДИЈАГНОСТИКА , УРОЛОГИЈА, ФИЗИКАЛНА ТЕРАПИЈА , ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ: МАЈОР ЧЕДЕ ФИЛИПОВСКИ  БР.29</Adresa>
+    <NaselenoMesto>ГОСТИВАР</NaselenoMesto>
+    <Latitude>41.79285360000001</Latitude>
+    <Longitude>20.90485609999996</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-340/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4013005120860</DanocenBroj>
+    <ShifraZU>13074001</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА КОЧАНИ</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА И РЕАНИМАЦИЈА, БИОХЕМИСКА ЛАБОРАТОРИЈА, ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ДЕРМАТОЛОГИЈА, ИНТЕРНИ БОЛЕСТИ СО ДИЈАЛИЗА, ИНФЕКТИВНИ БОЛЕСТИ, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОРТОПЕДИЈА, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПАТОЛОГИЈА, ПЕДИЈАТРИЈА, РЕНТГЕН ДИЈАГНОСТИКА , ТРАНСФУЗИЈА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ МИЛАН ЗЕЧАР БР 21</Adresa>
+    <NaselenoMesto>КОЧАНИ</NaselenoMesto>
+    <Latitude>45.4654542</Latitude>
+    <Longitude>9.186515999999983</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-340/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4013005120860</DanocenBroj>
+    <ShifraZU>13074007</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА КОЧАНИ</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА И РЕАНИМАЦИЈА, БИОХЕМИСКА ЛАБОРАТОРИЈА, ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ДЕРМАТОЛОГИЈА, ИНТЕРНИ БОЛЕСТИ СО ДИЈАЛИЗА, ИНФЕКТИВНИ БОЛЕСТИ, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОРТОПЕДИЈА, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПАТОЛОГИЈА, ПЕДИЈАТРИЈА, РЕНТГЕН ДИЈАГНОСТИКА , ТРАНСФУЗИЈА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ МИЛАН ЗЕЧАР БР 21</Adresa>
+    <NaselenoMesto>КОЧАНИ</NaselenoMesto>
+    <Latitude>45.4654542</Latitude>
+    <Longitude>9.186515999999983</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-814/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4006005119025</DanocenBroj>
+    <ShifraZU>6001707</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА ГЕВГЕЛИЈА</NazivNaUstanova>
+    <Dejnosti>ДЕРМАТОВЕНЕРОЛОГИЈА, ИНФЕКТИВНИ БОЛЕСТИ, ЛАБОРАТОРИЈА, НЕВРОЛОГИЈА, ОРТОПЕДСКИ БОЛЕСТИ, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПСИХИЈАТРИЈА, ТРАНСФУЗИЈА, ФИЗИКАЛНА МЕДИЦИНА И РЕХАБИЛИТАЦИЈА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ:СЛОБОДАН МИТРОВ ДЕНКО  БР.38</Adresa>
+    <NaselenoMesto>ГЕВГЕЛИЈА</NaselenoMesto>
+    <Latitude>41.15</Latitude>
+    <Longitude>22.50999999999999</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-672/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4007005132974</DanocenBroj>
+    <ShifraZU>7005907</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА ГОСТИВАР</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА И РЕАНИМАЦИЈА, ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИНФЕКТИВНИ БОЛЕСТИ, НЕВРОЛОГИЈА, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОРТОПЕДИЈА И ТРАУМАТОЛОГИЈА, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПАТОЛОШКА АНАТОМИЈА И СУДСКА МЕДИЦИНА, ПЕДИЈАТРИЈА, РЕНТГЕН ДИЈАГНОСТИКА , УРОЛОГИЈА, ФИЗИКАЛНА ТЕРАПИЈА , ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ: МАЈОР ЧЕДЕ ФИЛИПОВСКИ  БР.29</Adresa>
+    <NaselenoMesto>ГОСТИВАР</NaselenoMesto>
+    <Latitude>41.79285360000001</Latitude>
+    <Longitude>20.90485609999996</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-699/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4012005118894</DanocenBroj>
+    <ShifraZU>12002501</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА КИЧЕВО</NazivNaUstanova>
+    <Dejnosti>БИОХЕМИСКА ЛАБОРАТОРИЈА, ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ИНТЕРНА МЕДИЦИНА, ИНФЕКТИВНИ БОЛЕСТИ, НЕВРОЛОГИЈА, ОРТОПЕДИЈА И ТРАУМАТОЛОГИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ПЕДИЈАТРИЈА, ПСИХИЈАТРИЈА, РЕНТГЕН ДИЈАГНОСТИКА , ТРАНСФУЗИЈА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ. МАРШАЛ ТИТО БР 42</Adresa>
+    <NaselenoMesto>КИЧЕВО</NaselenoMesto>
+    <Latitude>41.5202351</Latitude>
+    <Longitude>20.96291050000002</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-128/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4004005117380</DanocenBroj>
+    <ShifraZU>29005704</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА ВЕЛЕС</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА, РЕАНИМАЦИЈА И ИНТЕНЗИВНИ ЛЕКУВАЊЕ, АНТИТУБЕРКУЛОЗЕН ДИНСПАНЦЕР(АТД) , ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИНФЕКТИВНИ БОЛЕСТИ И ФЕБРИЛНИ СОСТОЈБИ, ЛАБОРАТОРИЈА, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОРТОПЕДИЈА И ТРАУМАТОЛОГИЈА, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПАТОЛОГИЈА, ПЕДИЈАТРИЈА, ПСИХИЈАТРИЈА, РАДИОЛОШКА ДИЈАГНОСТИКА, УРОЛОГИЈА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ.САМОБОРСКА ББ</Adresa>
+    <NaselenoMesto>ВЕЛЕС</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1056/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4057010504712</DanocenBroj>
+    <ShifraZU>25119602</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ГРАДСКА ОПШТА БОЛНИЦА 8 МИ СЕПТЕМВРИ</NazivNaUstanova>
+    <Dejnosti>БИОХЕМИСКА ЛАБОРАТОРИЈА, ДИГЕСТИВНИ БОЛЕСТИ, ИНТЕРНИ БОЛЕСТИ, ИНФЕКТИВНИ БОЛЕСТИ, КОЖНО ВЕНЕРИЧНИ БОЛЕСТИ, МАКСИЛОФАЦИЈАЛНА ХИРУРГИЈА, МЕДИЦИНА НА ТРУДОТ, НЕВРОЛОГИЈА, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОПШТА ХИРУРГИЈА, ОРТОПЕДСКИ БОЛЕСТИ, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПАТОЛОГИЈА, ПЛАСТИЧНА ХИРУРГИЈА, РЕНТГЕН ДИЈАГНОСТИКА , ТРАНСФУЗИЈА, УРОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.ПАРИСКА БР.ББ</Adresa>
+    <NaselenoMesto>СКОПЈЕ - КАРПОШ</NaselenoMesto>
+    <Latitude>42.0004079</Latitude>
+    <Longitude>21.400886300000025</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1056/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4057010504712</DanocenBroj>
+    <ShifraZU>25119611</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ГРАДСКА ОПШТА БОЛНИЦА 8 МИ СЕПТЕМВРИ</NazivNaUstanova>
+    <Dejnosti>БИОХЕМИСКА ЛАБОРАТОРИЈА, ДИГЕСТИВНИ БОЛЕСТИ, ИНТЕРНИ БОЛЕСТИ, ИНФЕКТИВНИ БОЛЕСТИ, КОЖНО ВЕНЕРИЧНИ БОЛЕСТИ, МАКСИЛОФАЦИЈАЛНА ХИРУРГИЈА, МЕДИЦИНА НА ТРУДОТ, НЕВРОЛОГИЈА, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОПШТА ХИРУРГИЈА, ОРТОПЕДСКИ БОЛЕСТИ, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПАТОЛОГИЈА, ПЛАСТИЧНА ХИРУРГИЈА, РЕНТГЕН ДИЈАГНОСТИКА , ТРАНСФУЗИЈА, УРОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.ПАРИСКА БР.ББ</Adresa>
+    <NaselenoMesto>СКОПЈЕ - КАРПОШ</NaselenoMesto>
+    <Latitude>42.0004079</Latitude>
+    <Longitude>21.400886300000025</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1056/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4057010504712</DanocenBroj>
+    <ShifraZU>25119613</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ГРАДСКА ОПШТА БОЛНИЦА 8 МИ СЕПТЕМВРИ</NazivNaUstanova>
+    <Dejnosti>БИОХЕМИСКА ЛАБОРАТОРИЈА, ДИГЕСТИВНИ БОЛЕСТИ, ИНТЕРНИ БОЛЕСТИ, ИНФЕКТИВНИ БОЛЕСТИ, КОЖНО ВЕНЕРИЧНИ БОЛЕСТИ, МАКСИЛОФАЦИЈАЛНА ХИРУРГИЈА, МЕДИЦИНА НА ТРУДОТ, НЕВРОЛОГИЈА, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОПШТА ХИРУРГИЈА, ОРТОПЕДСКИ БОЛЕСТИ, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПАТОЛОГИЈА, ПЛАСТИЧНА ХИРУРГИЈА, РЕНТГЕН ДИЈАГНОСТИКА , ТРАНСФУЗИЈА, УРОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.ПАРИСКА БР.ББ</Adresa>
+    <NaselenoMesto>СКОПЈЕ - КАРПОШ</NaselenoMesto>
+    <Latitude>42.0004079</Latitude>
+    <Longitude>21.400886300000025</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1056/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4057010504712</DanocenBroj>
+    <ShifraZU>25119614</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ГРАДСКА ОПШТА БОЛНИЦА 8 МИ СЕПТЕМВРИ</NazivNaUstanova>
+    <Dejnosti>БИОХЕМИСКА ЛАБОРАТОРИЈА, ДИГЕСТИВНИ БОЛЕСТИ, ИНТЕРНИ БОЛЕСТИ, ИНФЕКТИВНИ БОЛЕСТИ, КОЖНО ВЕНЕРИЧНИ БОЛЕСТИ, МАКСИЛОФАЦИЈАЛНА ХИРУРГИЈА, МЕДИЦИНА НА ТРУДОТ, НЕВРОЛОГИЈА, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОПШТА ХИРУРГИЈА, ОРТОПЕДСКИ БОЛЕСТИ, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПАТОЛОГИЈА, ПЛАСТИЧНА ХИРУРГИЈА, РЕНТГЕН ДИЈАГНОСТИКА , ТРАНСФУЗИЈА, УРОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.ПАРИСКА БР.ББ</Adresa>
+    <NaselenoMesto>СКОПЈЕ - КАРПОШ</NaselenoMesto>
+    <Latitude>42.0004079</Latitude>
+    <Longitude>21.400886300000025</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1056/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4057010504712</DanocenBroj>
+    <ShifraZU>25119615</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ГРАДСКА ОПШТА БОЛНИЦА 8 МИ СЕПТЕМВРИ</NazivNaUstanova>
+    <Dejnosti>БИОХЕМИСКА ЛАБОРАТОРИЈА, ДИГЕСТИВНИ БОЛЕСТИ, ИНТЕРНИ БОЛЕСТИ, ИНФЕКТИВНИ БОЛЕСТИ, КОЖНО ВЕНЕРИЧНИ БОЛЕСТИ, МАКСИЛОФАЦИЈАЛНА ХИРУРГИЈА, МЕДИЦИНА НА ТРУДОТ, НЕВРОЛОГИЈА, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОПШТА ХИРУРГИЈА, ОРТОПЕДСКИ БОЛЕСТИ, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПАТОЛОГИЈА, ПЛАСТИЧНА ХИРУРГИЈА, РЕНТГЕН ДИЈАГНОСТИКА , ТРАНСФУЗИЈА, УРОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.ПАРИСКА БР.ББ</Adresa>
+    <NaselenoMesto>СКОПЈЕ - КАРПОШ</NaselenoMesto>
+    <Latitude>42.0004079</Latitude>
+    <Longitude>21.400886300000025</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1056/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4057010504712</DanocenBroj>
+    <ShifraZU>25119617</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ГРАДСКА ОПШТА БОЛНИЦА 8 МИ СЕПТЕМВРИ</NazivNaUstanova>
+    <Dejnosti>БИОХЕМИСКА ЛАБОРАТОРИЈА, ДИГЕСТИВНИ БОЛЕСТИ, ИНТЕРНИ БОЛЕСТИ, ИНФЕКТИВНИ БОЛЕСТИ, КОЖНО ВЕНЕРИЧНИ БОЛЕСТИ, МАКСИЛОФАЦИЈАЛНА ХИРУРГИЈА, МЕДИЦИНА НА ТРУДОТ, НЕВРОЛОГИЈА, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОПШТА ХИРУРГИЈА, ОРТОПЕДСКИ БОЛЕСТИ, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПАТОЛОГИЈА, ПЛАСТИЧНА ХИРУРГИЈА, РЕНТГЕН ДИЈАГНОСТИКА , ТРАНСФУЗИЈА, УРОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.ПАРИСКА БР.ББ</Adresa>
+    <NaselenoMesto>СКОПЈЕ - КАРПОШ</NaselenoMesto>
+    <Latitude>42.0004079</Latitude>
+    <Longitude>21.400886300000025</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1056/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4057010504712</DanocenBroj>
+    <ShifraZU>25119618</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ГРАДСКА ОПШТА БОЛНИЦА 8 МИ СЕПТЕМВРИ</NazivNaUstanova>
+    <Dejnosti>БИОХЕМИСКА ЛАБОРАТОРИЈА, ДИГЕСТИВНИ БОЛЕСТИ, ИНТЕРНИ БОЛЕСТИ, ИНФЕКТИВНИ БОЛЕСТИ, КОЖНО ВЕНЕРИЧНИ БОЛЕСТИ, МАКСИЛОФАЦИЈАЛНА ХИРУРГИЈА, МЕДИЦИНА НА ТРУДОТ, НЕВРОЛОГИЈА, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОПШТА ХИРУРГИЈА, ОРТОПЕДСКИ БОЛЕСТИ, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПАТОЛОГИЈА, ПЛАСТИЧНА ХИРУРГИЈА, РЕНТГЕН ДИЈАГНОСТИКА , ТРАНСФУЗИЈА, УРОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.ПАРИСКА БР.ББ</Adresa>
+    <NaselenoMesto>СКОПЈЕ - КАРПОШ</NaselenoMesto>
+    <Latitude>42.0004079</Latitude>
+    <Longitude>21.400886300000025</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1056/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4057010504712</DanocenBroj>
+    <ShifraZU>25119619</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ГРАДСКА ОПШТА БОЛНИЦА 8 МИ СЕПТЕМВРИ</NazivNaUstanova>
+    <Dejnosti>БИОХЕМИСКА ЛАБОРАТОРИЈА, ДИГЕСТИВНИ БОЛЕСТИ, ИНТЕРНИ БОЛЕСТИ, ИНФЕКТИВНИ БОЛЕСТИ, КОЖНО ВЕНЕРИЧНИ БОЛЕСТИ, МАКСИЛОФАЦИЈАЛНА ХИРУРГИЈА, МЕДИЦИНА НА ТРУДОТ, НЕВРОЛОГИЈА, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОПШТА ХИРУРГИЈА, ОРТОПЕДСКИ БОЛЕСТИ, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПАТОЛОГИЈА, ПЛАСТИЧНА ХИРУРГИЈА, РЕНТГЕН ДИЈАГНОСТИКА , ТРАНСФУЗИЈА, УРОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.ПАРИСКА БР.ББ</Adresa>
+    <NaselenoMesto>СКОПЈЕ - КАРПОШ</NaselenoMesto>
+    <Latitude>42.0004079</Latitude>
+    <Longitude>21.400886300000025</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1056/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4057010504712</DanocenBroj>
+    <ShifraZU>25119603</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ГРАДСКА ОПШТА БОЛНИЦА 8 МИ СЕПТЕМВРИ</NazivNaUstanova>
+    <Dejnosti>БИОХЕМИСКА ЛАБОРАТОРИЈА, ДИГЕСТИВНИ БОЛЕСТИ, ИНТЕРНИ БОЛЕСТИ, ИНФЕКТИВНИ БОЛЕСТИ, КОЖНО ВЕНЕРИЧНИ БОЛЕСТИ, МАКСИЛОФАЦИЈАЛНА ХИРУРГИЈА, МЕДИЦИНА НА ТРУДОТ, НЕВРОЛОГИЈА, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОПШТА ХИРУРГИЈА, ОРТОПЕДСКИ БОЛЕСТИ, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПАТОЛОГИЈА, ПЛАСТИЧНА ХИРУРГИЈА, РЕНТГЕН ДИЈАГНОСТИКА , ТРАНСФУЗИЈА, УРОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.ПАРИСКА БР.ББ</Adresa>
+    <NaselenoMesto>СКОПЈЕ - КАРПОШ</NaselenoMesto>
+    <Latitude>42.0004079</Latitude>
+    <Longitude>21.400886300000025</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1056/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4057010504712</DanocenBroj>
+    <ShifraZU>25119604</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ГРАДСКА ОПШТА БОЛНИЦА 8 МИ СЕПТЕМВРИ</NazivNaUstanova>
+    <Dejnosti>БИОХЕМИСКА ЛАБОРАТОРИЈА, ДИГЕСТИВНИ БОЛЕСТИ, ИНТЕРНИ БОЛЕСТИ, ИНФЕКТИВНИ БОЛЕСТИ, КОЖНО ВЕНЕРИЧНИ БОЛЕСТИ, МАКСИЛОФАЦИЈАЛНА ХИРУРГИЈА, МЕДИЦИНА НА ТРУДОТ, НЕВРОЛОГИЈА, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОПШТА ХИРУРГИЈА, ОРТОПЕДСКИ БОЛЕСТИ, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПАТОЛОГИЈА, ПЛАСТИЧНА ХИРУРГИЈА, РЕНТГЕН ДИЈАГНОСТИКА , ТРАНСФУЗИЈА, УРОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.ПАРИСКА БР.ББ</Adresa>
+    <NaselenoMesto>СКОПЈЕ - КАРПОШ</NaselenoMesto>
+    <Latitude>42.0004079</Latitude>
+    <Longitude>21.400886300000025</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1056/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4057010504712</DanocenBroj>
+    <ShifraZU>25119605</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ГРАДСКА ОПШТА БОЛНИЦА 8 МИ СЕПТЕМВРИ</NazivNaUstanova>
+    <Dejnosti>БИОХЕМИСКА ЛАБОРАТОРИЈА, ДИГЕСТИВНИ БОЛЕСТИ, ИНТЕРНИ БОЛЕСТИ, ИНФЕКТИВНИ БОЛЕСТИ, КОЖНО ВЕНЕРИЧНИ БОЛЕСТИ, МАКСИЛОФАЦИЈАЛНА ХИРУРГИЈА, МЕДИЦИНА НА ТРУДОТ, НЕВРОЛОГИЈА, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОПШТА ХИРУРГИЈА, ОРТОПЕДСКИ БОЛЕСТИ, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПАТОЛОГИЈА, ПЛАСТИЧНА ХИРУРГИЈА, РЕНТГЕН ДИЈАГНОСТИКА , ТРАНСФУЗИЈА, УРОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.ПАРИСКА БР.ББ</Adresa>
+    <NaselenoMesto>СКОПЈЕ - КАРПОШ</NaselenoMesto>
+    <Latitude>42.0004079</Latitude>
+    <Longitude>21.400886300000025</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1056/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4057010504712</DanocenBroj>
+    <ShifraZU>25119607</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ГРАДСКА ОПШТА БОЛНИЦА 8 МИ СЕПТЕМВРИ</NazivNaUstanova>
+    <Dejnosti>БИОХЕМИСКА ЛАБОРАТОРИЈА, ДИГЕСТИВНИ БОЛЕСТИ, ИНТЕРНИ БОЛЕСТИ, ИНФЕКТИВНИ БОЛЕСТИ, КОЖНО ВЕНЕРИЧНИ БОЛЕСТИ, МАКСИЛОФАЦИЈАЛНА ХИРУРГИЈА, МЕДИЦИНА НА ТРУДОТ, НЕВРОЛОГИЈА, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОПШТА ХИРУРГИЈА, ОРТОПЕДСКИ БОЛЕСТИ, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПАТОЛОГИЈА, ПЛАСТИЧНА ХИРУРГИЈА, РЕНТГЕН ДИЈАГНОСТИКА , ТРАНСФУЗИЈА, УРОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.ПАРИСКА БР.ББ</Adresa>
+    <NaselenoMesto>СКОПЈЕ - КАРПОШ</NaselenoMesto>
+    <Latitude>42.0004079</Latitude>
+    <Longitude>21.400886300000025</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1056/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4057010504712</DanocenBroj>
+    <ShifraZU>25119608</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ГРАДСКА ОПШТА БОЛНИЦА 8 МИ СЕПТЕМВРИ</NazivNaUstanova>
+    <Dejnosti>БИОХЕМИСКА ЛАБОРАТОРИЈА, ДИГЕСТИВНИ БОЛЕСТИ, ИНТЕРНИ БОЛЕСТИ, ИНФЕКТИВНИ БОЛЕСТИ, КОЖНО ВЕНЕРИЧНИ БОЛЕСТИ, МАКСИЛОФАЦИЈАЛНА ХИРУРГИЈА, МЕДИЦИНА НА ТРУДОТ, НЕВРОЛОГИЈА, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОПШТА ХИРУРГИЈА, ОРТОПЕДСКИ БОЛЕСТИ, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПАТОЛОГИЈА, ПЛАСТИЧНА ХИРУРГИЈА, РЕНТГЕН ДИЈАГНОСТИКА , ТРАНСФУЗИЈА, УРОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.ПАРИСКА БР.ББ</Adresa>
+    <NaselenoMesto>СКОПЈЕ - КАРПОШ</NaselenoMesto>
+    <Latitude>42.0004079</Latitude>
+    <Longitude>21.400886300000025</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1056/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4057010504712</DanocenBroj>
+    <ShifraZU>25119609</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ГРАДСКА ОПШТА БОЛНИЦА 8 МИ СЕПТЕМВРИ</NazivNaUstanova>
+    <Dejnosti>БИОХЕМИСКА ЛАБОРАТОРИЈА, ДИГЕСТИВНИ БОЛЕСТИ, ИНТЕРНИ БОЛЕСТИ, ИНФЕКТИВНИ БОЛЕСТИ, КОЖНО ВЕНЕРИЧНИ БОЛЕСТИ, МАКСИЛОФАЦИЈАЛНА ХИРУРГИЈА, МЕДИЦИНА НА ТРУДОТ, НЕВРОЛОГИЈА, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОПШТА ХИРУРГИЈА, ОРТОПЕДСКИ БОЛЕСТИ, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПАТОЛОГИЈА, ПЛАСТИЧНА ХИРУРГИЈА, РЕНТГЕН ДИЈАГНОСТИКА , ТРАНСФУЗИЈА, УРОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.ПАРИСКА БР.ББ</Adresa>
+    <NaselenoMesto>СКОПЈЕ - КАРПОШ</NaselenoMesto>
+    <Latitude>42.0004079</Latitude>
+    <Longitude>21.400886300000025</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-128/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4004005117380</DanocenBroj>
+    <ShifraZU>29005719</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА ВЕЛЕС</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА, РЕАНИМАЦИЈА И ИНТЕНЗИВНИ ЛЕКУВАЊЕ, АНТИТУБЕРКУЛОЗЕН ДИНСПАНЦЕР(АТД) , ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИНФЕКТИВНИ БОЛЕСТИ И ФЕБРИЛНИ СОСТОЈБИ, ЛАБОРАТОРИЈА, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОРТОПЕДИЈА И ТРАУМАТОЛОГИЈА, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПАТОЛОГИЈА, ПЕДИЈАТРИЈА, ПСИХИЈАТРИЈА, РАДИОЛОШКА ДИЈАГНОСТИКА, УРОЛОГИЈА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ.САМОБОРСКА ББ</Adresa>
+    <NaselenoMesto>ВЕЛЕС</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-128/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4004005117380</DanocenBroj>
+    <ShifraZU>29005708</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА ВЕЛЕС</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА, РЕАНИМАЦИЈА И ИНТЕНЗИВНИ ЛЕКУВАЊЕ, АНТИТУБЕРКУЛОЗЕН ДИНСПАНЦЕР(АТД) , ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИНФЕКТИВНИ БОЛЕСТИ И ФЕБРИЛНИ СОСТОЈБИ, ЛАБОРАТОРИЈА, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОРТОПЕДИЈА И ТРАУМАТОЛОГИЈА, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПАТОЛОГИЈА, ПЕДИЈАТРИЈА, ПСИХИЈАТРИЈА, РАДИОЛОШКА ДИЈАГНОСТИКА, УРОЛОГИЈА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ.САМОБОРСКА ББ</Adresa>
+    <NaselenoMesto>ВЕЛЕС</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-814/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4006005119025</DanocenBroj>
+    <ShifraZU>6001701</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА ГЕВГЕЛИЈА</NazivNaUstanova>
+    <Dejnosti>ДЕРМАТОВЕНЕРОЛОГИЈА, ИНФЕКТИВНИ БОЛЕСТИ, ЛАБОРАТОРИЈА, НЕВРОЛОГИЈА, ОРТОПЕДСКИ БОЛЕСТИ, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПСИХИЈАТРИЈА, ТРАНСФУЗИЈА, ФИЗИКАЛНА МЕДИЦИНА И РЕХАБИЛИТАЦИЈА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ:СЛОБОДАН МИТРОВ ДЕНКО  БР.38</Adresa>
+    <NaselenoMesto>ГЕВГЕЛИЈА</NaselenoMesto>
+    <Latitude>41.15</Latitude>
+    <Longitude>22.50999999999999</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-672/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4007005132974</DanocenBroj>
+    <ShifraZU>7005903</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА ГОСТИВАР</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА И РЕАНИМАЦИЈА, ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИНФЕКТИВНИ БОЛЕСТИ, НЕВРОЛОГИЈА, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОРТОПЕДИЈА И ТРАУМАТОЛОГИЈА, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПАТОЛОШКА АНАТОМИЈА И СУДСКА МЕДИЦИНА, ПЕДИЈАТРИЈА, РЕНТГЕН ДИЈАГНОСТИКА , УРОЛОГИЈА, ФИЗИКАЛНА ТЕРАПИЈА , ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ: МАЈОР ЧЕДЕ ФИЛИПОВСКИ  БР.29</Adresa>
+    <NaselenoMesto>ГОСТИВАР</NaselenoMesto>
+    <Latitude>41.79285360000001</Latitude>
+    <Longitude>20.90485609999996</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-307/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4011005123522</DanocenBroj>
+    <ShifraZU>11004713</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА КАВАДАРЦИ </NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА И РЕАНИМАЦИЈА, БИОХЕМИСКА ЛАБОРАТОРИЈА, ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИНФЕКТИВНИ БОЛЕСТИ И ФИБРИЛНИ СОСТОЈБИ, НЕВРОЛОГИЈА, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОРТОПЕДИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПЕДИЈАТРИЈА, РЕНТГЕН ДИЈАГНОСТИКА , ТРАНСФУЗИЈА, УРОЛОГИЈА, ФИЗИКАЛНА МЕДИЦИНА СО РЕХАБИЛИТАЦИЈА И БАЛНЕОЛОГИЈА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ. ШИШКА ББ</Adresa>
+    <NaselenoMesto>КАВАДАРЦИ</NaselenoMesto>
+    <Latitude>41.444466</Latitude>
+    <Longitude>22.0209026</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-307/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4011005123522</DanocenBroj>
+    <ShifraZU>11004714</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА КАВАДАРЦИ </NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА И РЕАНИМАЦИЈА, БИОХЕМИСКА ЛАБОРАТОРИЈА, ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИНФЕКТИВНИ БОЛЕСТИ И ФИБРИЛНИ СОСТОЈБИ, НЕВРОЛОГИЈА, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОРТОПЕДИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПЕДИЈАТРИЈА, РЕНТГЕН ДИЈАГНОСТИКА , ТРАНСФУЗИЈА, УРОЛОГИЈА, ФИЗИКАЛНА МЕДИЦИНА СО РЕХАБИЛИТАЦИЈА И БАЛНЕОЛОГИЈА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ. ШИШКА ББ</Adresa>
+    <NaselenoMesto>КАВАДАРЦИ</NaselenoMesto>
+    <Latitude>41.444466</Latitude>
+    <Longitude>22.0209026</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-307/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4011005123522</DanocenBroj>
+    <ShifraZU>11004715</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА КАВАДАРЦИ </NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА И РЕАНИМАЦИЈА, БИОХЕМИСКА ЛАБОРАТОРИЈА, ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИНФЕКТИВНИ БОЛЕСТИ И ФИБРИЛНИ СОСТОЈБИ, НЕВРОЛОГИЈА, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОРТОПЕДИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПЕДИЈАТРИЈА, РЕНТГЕН ДИЈАГНОСТИКА , ТРАНСФУЗИЈА, УРОЛОГИЈА, ФИЗИКАЛНА МЕДИЦИНА СО РЕХАБИЛИТАЦИЈА И БАЛНЕОЛОГИЈА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ. ШИШКА ББ</Adresa>
+    <NaselenoMesto>КАВАДАРЦИ</NaselenoMesto>
+    <Latitude>41.444466</Latitude>
+    <Longitude>22.0209026</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-307/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4011005123522</DanocenBroj>
+    <ShifraZU>11004716</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА КАВАДАРЦИ </NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА И РЕАНИМАЦИЈА, БИОХЕМИСКА ЛАБОРАТОРИЈА, ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИНФЕКТИВНИ БОЛЕСТИ И ФИБРИЛНИ СОСТОЈБИ, НЕВРОЛОГИЈА, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОРТОПЕДИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПЕДИЈАТРИЈА, РЕНТГЕН ДИЈАГНОСТИКА , ТРАНСФУЗИЈА, УРОЛОГИЈА, ФИЗИКАЛНА МЕДИЦИНА СО РЕХАБИЛИТАЦИЈА И БАЛНЕОЛОГИЈА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ. ШИШКА ББ</Adresa>
+    <NaselenoMesto>КАВАДАРЦИ</NaselenoMesto>
+    <Latitude>41.444466</Latitude>
+    <Longitude>22.0209026</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-307/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4011005123522</DanocenBroj>
+    <ShifraZU>11004719</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА КАВАДАРЦИ </NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА И РЕАНИМАЦИЈА, БИОХЕМИСКА ЛАБОРАТОРИЈА, ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИНФЕКТИВНИ БОЛЕСТИ И ФИБРИЛНИ СОСТОЈБИ, НЕВРОЛОГИЈА, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОРТОПЕДИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПЕДИЈАТРИЈА, РЕНТГЕН ДИЈАГНОСТИКА , ТРАНСФУЗИЈА, УРОЛОГИЈА, ФИЗИКАЛНА МЕДИЦИНА СО РЕХАБИЛИТАЦИЈА И БАЛНЕОЛОГИЈА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ. ШИШКА ББ</Adresa>
+    <NaselenoMesto>КАВАДАРЦИ</NaselenoMesto>
+    <Latitude>41.444466</Latitude>
+    <Longitude>22.0209026</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-307/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4011005123522</DanocenBroj>
+    <ShifraZU>11004721</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА КАВАДАРЦИ </NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА И РЕАНИМАЦИЈА, БИОХЕМИСКА ЛАБОРАТОРИЈА, ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИНФЕКТИВНИ БОЛЕСТИ И ФИБРИЛНИ СОСТОЈБИ, НЕВРОЛОГИЈА, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОРТОПЕДИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПЕДИЈАТРИЈА, РЕНТГЕН ДИЈАГНОСТИКА , ТРАНСФУЗИЈА, УРОЛОГИЈА, ФИЗИКАЛНА МЕДИЦИНА СО РЕХАБИЛИТАЦИЈА И БАЛНЕОЛОГИЈА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ. ШИШКА ББ</Adresa>
+    <NaselenoMesto>КАВАДАРЦИ</NaselenoMesto>
+    <Latitude>41.444466</Latitude>
+    <Longitude>22.0209026</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-307/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4011005123522</DanocenBroj>
+    <ShifraZU>11004723</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА КАВАДАРЦИ </NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА И РЕАНИМАЦИЈА, БИОХЕМИСКА ЛАБОРАТОРИЈА, ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИНФЕКТИВНИ БОЛЕСТИ И ФИБРИЛНИ СОСТОЈБИ, НЕВРОЛОГИЈА, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОРТОПЕДИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПЕДИЈАТРИЈА, РЕНТГЕН ДИЈАГНОСТИКА , ТРАНСФУЗИЈА, УРОЛОГИЈА, ФИЗИКАЛНА МЕДИЦИНА СО РЕХАБИЛИТАЦИЈА И БАЛНЕОЛОГИЈА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ. ШИШКА ББ</Adresa>
+    <NaselenoMesto>КАВАДАРЦИ</NaselenoMesto>
+    <Latitude>41.444466</Latitude>
+    <Longitude>22.0209026</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-307/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4011005123522</DanocenBroj>
+    <ShifraZU>11004706</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА КАВАДАРЦИ </NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА И РЕАНИМАЦИЈА, БИОХЕМИСКА ЛАБОРАТОРИЈА, ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИНФЕКТИВНИ БОЛЕСТИ И ФИБРИЛНИ СОСТОЈБИ, НЕВРОЛОГИЈА, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОРТОПЕДИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПЕДИЈАТРИЈА, РЕНТГЕН ДИЈАГНОСТИКА , ТРАНСФУЗИЈА, УРОЛОГИЈА, ФИЗИКАЛНА МЕДИЦИНА СО РЕХАБИЛИТАЦИЈА И БАЛНЕОЛОГИЈА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ. ШИШКА ББ</Adresa>
+    <NaselenoMesto>КАВАДАРЦИ</NaselenoMesto>
+    <Latitude>41.444466</Latitude>
+    <Longitude>22.0209026</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-307/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4011005123522</DanocenBroj>
+    <ShifraZU>11004707</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА КАВАДАРЦИ </NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА И РЕАНИМАЦИЈА, БИОХЕМИСКА ЛАБОРАТОРИЈА, ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИНФЕКТИВНИ БОЛЕСТИ И ФИБРИЛНИ СОСТОЈБИ, НЕВРОЛОГИЈА, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОРТОПЕДИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПЕДИЈАТРИЈА, РЕНТГЕН ДИЈАГНОСТИКА , ТРАНСФУЗИЈА, УРОЛОГИЈА, ФИЗИКАЛНА МЕДИЦИНА СО РЕХАБИЛИТАЦИЈА И БАЛНЕОЛОГИЈА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ. ШИШКА ББ</Adresa>
+    <NaselenoMesto>КАВАДАРЦИ</NaselenoMesto>
+    <Latitude>41.444466</Latitude>
+    <Longitude>22.0209026</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-307/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4011005123522</DanocenBroj>
+    <ShifraZU>11004708</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА КАВАДАРЦИ </NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА И РЕАНИМАЦИЈА, БИОХЕМИСКА ЛАБОРАТОРИЈА, ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИНФЕКТИВНИ БОЛЕСТИ И ФИБРИЛНИ СОСТОЈБИ, НЕВРОЛОГИЈА, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОРТОПЕДИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПЕДИЈАТРИЈА, РЕНТГЕН ДИЈАГНОСТИКА , ТРАНСФУЗИЈА, УРОЛОГИЈА, ФИЗИКАЛНА МЕДИЦИНА СО РЕХАБИЛИТАЦИЈА И БАЛНЕОЛОГИЈА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ. ШИШКА ББ</Adresa>
+    <NaselenoMesto>КАВАДАРЦИ</NaselenoMesto>
+    <Latitude>41.444466</Latitude>
+    <Longitude>22.0209026</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-307/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4011005123522</DanocenBroj>
+    <ShifraZU>11004709</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА КАВАДАРЦИ </NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА И РЕАНИМАЦИЈА, БИОХЕМИСКА ЛАБОРАТОРИЈА, ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИНФЕКТИВНИ БОЛЕСТИ И ФИБРИЛНИ СОСТОЈБИ, НЕВРОЛОГИЈА, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОРТОПЕДИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПЕДИЈАТРИЈА, РЕНТГЕН ДИЈАГНОСТИКА , ТРАНСФУЗИЈА, УРОЛОГИЈА, ФИЗИКАЛНА МЕДИЦИНА СО РЕХАБИЛИТАЦИЈА И БАЛНЕОЛОГИЈА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ. ШИШКА ББ</Adresa>
+    <NaselenoMesto>КАВАДАРЦИ</NaselenoMesto>
+    <Latitude>41.444466</Latitude>
+    <Longitude>22.0209026</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-307/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4011005123522</DanocenBroj>
+    <ShifraZU>11004710</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА КАВАДАРЦИ </NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА И РЕАНИМАЦИЈА, БИОХЕМИСКА ЛАБОРАТОРИЈА, ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИНФЕКТИВНИ БОЛЕСТИ И ФИБРИЛНИ СОСТОЈБИ, НЕВРОЛОГИЈА, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОРТОПЕДИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПЕДИЈАТРИЈА, РЕНТГЕН ДИЈАГНОСТИКА , ТРАНСФУЗИЈА, УРОЛОГИЈА, ФИЗИКАЛНА МЕДИЦИНА СО РЕХАБИЛИТАЦИЈА И БАЛНЕОЛОГИЈА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ. ШИШКА ББ</Adresa>
+    <NaselenoMesto>КАВАДАРЦИ</NaselenoMesto>
+    <Latitude>41.444466</Latitude>
+    <Longitude>22.0209026</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-307/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4011005123522</DanocenBroj>
+    <ShifraZU>11004711</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА КАВАДАРЦИ </NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА И РЕАНИМАЦИЈА, БИОХЕМИСКА ЛАБОРАТОРИЈА, ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИНФЕКТИВНИ БОЛЕСТИ И ФИБРИЛНИ СОСТОЈБИ, НЕВРОЛОГИЈА, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОРТОПЕДИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПЕДИЈАТРИЈА, РЕНТГЕН ДИЈАГНОСТИКА , ТРАНСФУЗИЈА, УРОЛОГИЈА, ФИЗИКАЛНА МЕДИЦИНА СО РЕХАБИЛИТАЦИЈА И БАЛНЕОЛОГИЈА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ. ШИШКА ББ</Adresa>
+    <NaselenoMesto>КАВАДАРЦИ</NaselenoMesto>
+    <Latitude>41.444466</Latitude>
+    <Longitude>22.0209026</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-307/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4011005123522</DanocenBroj>
+    <ShifraZU>11004712</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА КАВАДАРЦИ </NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА И РЕАНИМАЦИЈА, БИОХЕМИСКА ЛАБОРАТОРИЈА, ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИНФЕКТИВНИ БОЛЕСТИ И ФИБРИЛНИ СОСТОЈБИ, НЕВРОЛОГИЈА, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОРТОПЕДИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПЕДИЈАТРИЈА, РЕНТГЕН ДИЈАГНОСТИКА , ТРАНСФУЗИЈА, УРОЛОГИЈА, ФИЗИКАЛНА МЕДИЦИНА СО РЕХАБИЛИТАЦИЈА И БАЛНЕОЛОГИЈА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ. ШИШКА ББ</Adresa>
+    <NaselenoMesto>КАВАДАРЦИ</NaselenoMesto>
+    <Latitude>41.444466</Latitude>
+    <Longitude>22.0209026</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-615/2-4</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4017005154426</DanocenBroj>
+    <ShifraZU>17020619</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА КУМАНОВО</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА, РЕАНИМАЦИЈА И ИНТЕНЗИВНИ ЛЕКУВАЊЕ, АНТИТУБЕРКУЛОЗЕН ДИНСПАНЦЕР(АТД) , БИОХЕМИСКА ЛАБОРАТОРИЈА, ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ИНТЕРНА МЕДИЦИНА, КОЖНО ВЕНЕРИЧНИ БОЛЕСТИ, НЕВРОЛОГИЈА, ОРТОПЕДИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПЕДИЈАТРИЈА, ПСИХИЈАТРИЈА, РЕНТГЕН ДИЈАГНОСТИКА , ТРАНСФУЗИЈА, УРОЛОГИЈА, ФИЗИКАЛНА МЕДИЦИНА И РЕХАБИЛИТАЦИЈА, ХИРУРШКИ БОЛЕСТИ</Dejnosti>
+    <Adresa>11 ОКТОМВРИ Б.Б.</Adresa>
+    <NaselenoMesto>КУМАНОВО</NaselenoMesto>
+    <Latitude>42.1363713</Latitude>
+    <Longitude>21.710511099999962</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-79/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4021005146480</DanocenBroj>
+    <ShifraZU>20047711</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА ПРИЛЕП</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА, РЕАНИМАЦИЈА И ИНТЕНЗИВНИ ЛЕКУВАЊЕ, АНТИТУБЕРКУЛОЗЕН ДИНСПАНЦЕР(АТД) , ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИНФЕКТИВНИ БОЛЕСТИ, МАКСИЛОФАЦИЈАЛНА ХИРУРГИЈА, НЕВРОЛОГИЈА, ОРТОПЕДИЈА И ТРАУМАТОЛОГИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПЕДИЈАТРИЈА, ПСИХИЈАТРИЈА, РАДИО ДИЈАГНОСТИКА, УРОЛОГИЈА, ФИЗИКАЛНА ТЕРАПИЈА , ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ.А.МАКЕДОНСКИ ББ</Adresa>
+    <NaselenoMesto>ПРИЛЕП</NaselenoMesto>
+    <Latitude>41.35173</Latitude>
+    <Longitude>21.56214</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-79/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4021005146480</DanocenBroj>
+    <ShifraZU>20047712</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА ПРИЛЕП</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА, РЕАНИМАЦИЈА И ИНТЕНЗИВНИ ЛЕКУВАЊЕ, АНТИТУБЕРКУЛОЗЕН ДИНСПАНЦЕР(АТД) , ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИНФЕКТИВНИ БОЛЕСТИ, МАКСИЛОФАЦИЈАЛНА ХИРУРГИЈА, НЕВРОЛОГИЈА, ОРТОПЕДИЈА И ТРАУМАТОЛОГИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПЕДИЈАТРИЈА, ПСИХИЈАТРИЈА, РАДИО ДИЈАГНОСТИКА, УРОЛОГИЈА, ФИЗИКАЛНА ТЕРАПИЈА , ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ. ТРАЈКО ТАРЦАН, БР. ББ</Adresa>
+    <NaselenoMesto>ПРИЛЕП</NaselenoMesto>
+    <Latitude>41.3464931</Latitude>
+    <Longitude>21.552972700000055</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-79/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4021005146480</DanocenBroj>
+    <ShifraZU>20047713</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА ПРИЛЕП</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА, РЕАНИМАЦИЈА И ИНТЕНЗИВНИ ЛЕКУВАЊЕ, АНТИТУБЕРКУЛОЗЕН ДИНСПАНЦЕР(АТД) , ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИНФЕКТИВНИ БОЛЕСТИ, МАКСИЛОФАЦИЈАЛНА ХИРУРГИЈА, НЕВРОЛОГИЈА, ОРТОПЕДИЈА И ТРАУМАТОЛОГИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПЕДИЈАТРИЈА, ПСИХИЈАТРИЈА, РАДИО ДИЈАГНОСТИКА, УРОЛОГИЈА, ФИЗИКАЛНА ТЕРАПИЈА , ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ. ТРАЈКО ТАРЦАН, БР. ББ</Adresa>
+    <NaselenoMesto>ПРИЛЕП</NaselenoMesto>
+    <Latitude>41.3464931</Latitude>
+    <Longitude>21.552972700000055</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-79/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4021005146480</DanocenBroj>
+    <ShifraZU>20047714</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА ПРИЛЕП</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА, РЕАНИМАЦИЈА И ИНТЕНЗИВНИ ЛЕКУВАЊЕ, АНТИТУБЕРКУЛОЗЕН ДИНСПАНЦЕР(АТД) , ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИНФЕКТИВНИ БОЛЕСТИ, МАКСИЛОФАЦИЈАЛНА ХИРУРГИЈА, НЕВРОЛОГИЈА, ОРТОПЕДИЈА И ТРАУМАТОЛОГИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПЕДИЈАТРИЈА, ПСИХИЈАТРИЈА, РАДИО ДИЈАГНОСТИКА, УРОЛОГИЈА, ФИЗИКАЛНА ТЕРАПИЈА , ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ.А.МАКЕДОНСКИ ББ</Adresa>
+    <NaselenoMesto>ПРИЛЕП</NaselenoMesto>
+    <Latitude>41.35173</Latitude>
+    <Longitude>21.56214</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-79/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4021005146480</DanocenBroj>
+    <ShifraZU>20047715</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА ПРИЛЕП</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА, РЕАНИМАЦИЈА И ИНТЕНЗИВНИ ЛЕКУВАЊЕ, АНТИТУБЕРКУЛОЗЕН ДИНСПАНЦЕР(АТД) , ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИНФЕКТИВНИ БОЛЕСТИ, МАКСИЛОФАЦИЈАЛНА ХИРУРГИЈА, НЕВРОЛОГИЈА, ОРТОПЕДИЈА И ТРАУМАТОЛОГИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПЕДИЈАТРИЈА, ПСИХИЈАТРИЈА, РАДИО ДИЈАГНОСТИКА, УРОЛОГИЈА, ФИЗИКАЛНА ТЕРАПИЈА , ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ. ТРАЈКО ТАРЦАН, БР. ББ</Adresa>
+    <NaselenoMesto>ПРИЛЕП</NaselenoMesto>
+    <Latitude>41.3464931</Latitude>
+    <Longitude>21.552972700000055</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-79/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4021005146480</DanocenBroj>
+    <ShifraZU>20047717</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА ПРИЛЕП</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА, РЕАНИМАЦИЈА И ИНТЕНЗИВНИ ЛЕКУВАЊЕ, АНТИТУБЕРКУЛОЗЕН ДИНСПАНЦЕР(АТД) , ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИНФЕКТИВНИ БОЛЕСТИ, МАКСИЛОФАЦИЈАЛНА ХИРУРГИЈА, НЕВРОЛОГИЈА, ОРТОПЕДИЈА И ТРАУМАТОЛОГИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПЕДИЈАТРИЈА, ПСИХИЈАТРИЈА, РАДИО ДИЈАГНОСТИКА, УРОЛОГИЈА, ФИЗИКАЛНА ТЕРАПИЈА , ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ. ТРАЈКО ТАРЦАН, БР. ББ</Adresa>
+    <NaselenoMesto>ПРИЛЕП</NaselenoMesto>
+    <Latitude>41.3464931</Latitude>
+    <Longitude>21.552972700000055</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-79/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4021005146480</DanocenBroj>
+    <ShifraZU>20047720</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА ПРИЛЕП</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА, РЕАНИМАЦИЈА И ИНТЕНЗИВНИ ЛЕКУВАЊЕ, АНТИТУБЕРКУЛОЗЕН ДИНСПАНЦЕР(АТД) , ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИНФЕКТИВНИ БОЛЕСТИ, МАКСИЛОФАЦИЈАЛНА ХИРУРГИЈА, НЕВРОЛОГИЈА, ОРТОПЕДИЈА И ТРАУМАТОЛОГИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПЕДИЈАТРИЈА, ПСИХИЈАТРИЈА, РАДИО ДИЈАГНОСТИКА, УРОЛОГИЈА, ФИЗИКАЛНА ТЕРАПИЈА , ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ. ТРАЈКО ТАРЦАН, БР. ББ</Adresa>
+    <NaselenoMesto>ПРИЛЕП</NaselenoMesto>
+    <Latitude>41.3464931</Latitude>
+    <Longitude>21.552972700000055</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-79/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4021005146480</DanocenBroj>
+    <ShifraZU>20047721</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА ПРИЛЕП</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА, РЕАНИМАЦИЈА И ИНТЕНЗИВНИ ЛЕКУВАЊЕ, АНТИТУБЕРКУЛОЗЕН ДИНСПАНЦЕР(АТД) , ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИНФЕКТИВНИ БОЛЕСТИ, МАКСИЛОФАЦИЈАЛНА ХИРУРГИЈА, НЕВРОЛОГИЈА, ОРТОПЕДИЈА И ТРАУМАТОЛОГИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПЕДИЈАТРИЈА, ПСИХИЈАТРИЈА, РАДИО ДИЈАГНОСТИКА, УРОЛОГИЈА, ФИЗИКАЛНА ТЕРАПИЈА , ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ. ТРАЈКО ТАРЦАН, БР. ББ</Adresa>
+    <NaselenoMesto>ПРИЛЕП</NaselenoMesto>
+    <Latitude>41.3464931</Latitude>
+    <Longitude>21.552972700000055</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-79/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4021005146480</DanocenBroj>
+    <ShifraZU>20047701</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА ПРИЛЕП</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА, РЕАНИМАЦИЈА И ИНТЕНЗИВНИ ЛЕКУВАЊЕ, АНТИТУБЕРКУЛОЗЕН ДИНСПАНЦЕР(АТД) , ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИНФЕКТИВНИ БОЛЕСТИ, МАКСИЛОФАЦИЈАЛНА ХИРУРГИЈА, НЕВРОЛОГИЈА, ОРТОПЕДИЈА И ТРАУМАТОЛОГИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПЕДИЈАТРИЈА, ПСИХИЈАТРИЈА, РАДИО ДИЈАГНОСТИКА, УРОЛОГИЈА, ФИЗИКАЛНА ТЕРАПИЈА , ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ. ТРАЈКО ТАРЦАН, БР. ББ</Adresa>
+    <NaselenoMesto>ПРИЛЕП</NaselenoMesto>
+    <Latitude>41.3464931</Latitude>
+    <Longitude>21.552972700000055</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-79/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4021005146480</DanocenBroj>
+    <ShifraZU>20047703</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА ПРИЛЕП</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА, РЕАНИМАЦИЈА И ИНТЕНЗИВНИ ЛЕКУВАЊЕ, АНТИТУБЕРКУЛОЗЕН ДИНСПАНЦЕР(АТД) , ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИНФЕКТИВНИ БОЛЕСТИ, МАКСИЛОФАЦИЈАЛНА ХИРУРГИЈА, НЕВРОЛОГИЈА, ОРТОПЕДИЈА И ТРАУМАТОЛОГИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПЕДИЈАТРИЈА, ПСИХИЈАТРИЈА, РАДИО ДИЈАГНОСТИКА, УРОЛОГИЈА, ФИЗИКАЛНА ТЕРАПИЈА , ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ. ТРАЈКО ТАРЦАН, БР. ББ</Adresa>
+    <NaselenoMesto>ПРИЛЕП</NaselenoMesto>
+    <Latitude>41.3464931</Latitude>
+    <Longitude>21.552972700000055</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-79/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4021005146480</DanocenBroj>
+    <ShifraZU>20047706</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА ПРИЛЕП</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА, РЕАНИМАЦИЈА И ИНТЕНЗИВНИ ЛЕКУВАЊЕ, АНТИТУБЕРКУЛОЗЕН ДИНСПАНЦЕР(АТД) , ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИНФЕКТИВНИ БОЛЕСТИ, МАКСИЛОФАЦИЈАЛНА ХИРУРГИЈА, НЕВРОЛОГИЈА, ОРТОПЕДИЈА И ТРАУМАТОЛОГИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПЕДИЈАТРИЈА, ПСИХИЈАТРИЈА, РАДИО ДИЈАГНОСТИКА, УРОЛОГИЈА, ФИЗИКАЛНА ТЕРАПИЈА , ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ. ТРАЈКО ТАРЦАН, БР. ББ</Adresa>
+    <NaselenoMesto>ПРИЛЕП</NaselenoMesto>
+    <Latitude>41.3464931</Latitude>
+    <Longitude>21.552972700000055</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-79/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4021005146480</DanocenBroj>
+    <ShifraZU>20047707</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА ПРИЛЕП</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА, РЕАНИМАЦИЈА И ИНТЕНЗИВНИ ЛЕКУВАЊЕ, АНТИТУБЕРКУЛОЗЕН ДИНСПАНЦЕР(АТД) , ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИНФЕКТИВНИ БОЛЕСТИ, МАКСИЛОФАЦИЈАЛНА ХИРУРГИЈА, НЕВРОЛОГИЈА, ОРТОПЕДИЈА И ТРАУМАТОЛОГИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПЕДИЈАТРИЈА, ПСИХИЈАТРИЈА, РАДИО ДИЈАГНОСТИКА, УРОЛОГИЈА, ФИЗИКАЛНА ТЕРАПИЈА , ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ.А.МАКЕДОНСКИ ББ</Adresa>
+    <NaselenoMesto>ПРИЛЕП</NaselenoMesto>
+    <Latitude>41.35173</Latitude>
+    <Longitude>21.56214</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-79/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4021005146480</DanocenBroj>
+    <ShifraZU>20047710</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА ПРИЛЕП</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА, РЕАНИМАЦИЈА И ИНТЕНЗИВНИ ЛЕКУВАЊЕ, АНТИТУБЕРКУЛОЗЕН ДИНСПАНЦЕР(АТД) , ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИНФЕКТИВНИ БОЛЕСТИ, МАКСИЛОФАЦИЈАЛНА ХИРУРГИЈА, НЕВРОЛОГИЈА, ОРТОПЕДИЈА И ТРАУМАТОЛОГИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПЕДИЈАТРИЈА, ПСИХИЈАТРИЈА, РАДИО ДИЈАГНОСТИКА, УРОЛОГИЈА, ФИЗИКАЛНА ТЕРАПИЈА , ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ. ТРАЈКО ТАРЦАН, БР. ББ</Adresa>
+    <NaselenoMesto>ПРИЛЕП</NaselenoMesto>
+    <Latitude>41.3464931</Latitude>
+    <Longitude>21.552972700000055</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-165/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4026005130054</DanocenBroj>
+    <ShifraZU>26003501</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА СТРУГА</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА И РЕАНИМАЦИЈА, БИОХЕМИСКА ЛАБОРАТОРИЈА, ДЕРМАТОВЕНЕРОЛОГИЈА, ЗДРАВСТВЕНА ЗАШТИТА НА ДЕЦАТА, ЗДРАВСТВЕНА ЗАШТИТА НА ЖЕНАТА СО ЕДИНИЦА ЗА НЕОНАТОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, НЕВРОПСИХИЈАТРИЈА И ПСИХОЛОГИЈА, ОБЕЗБЕДУВАЊЕ НА КРВ И КРВНИ ДЕРИВАТИ, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, РАДИОЛОШКА ДИЈАГНОСТИКА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ. КЕЈ 8-МИ НОЕМВРИ ББ</Adresa>
+    <NaselenoMesto>СТРУГА</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-165/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4026005130054</DanocenBroj>
+    <ShifraZU>26003511</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА СТРУГА</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА И РЕАНИМАЦИЈА, БИОХЕМИСКА ЛАБОРАТОРИЈА, ДЕРМАТОВЕНЕРОЛОГИЈА, ЗДРАВСТВЕНА ЗАШТИТА НА ДЕЦАТА, ЗДРАВСТВЕНА ЗАШТИТА НА ЖЕНАТА СО ЕДИНИЦА ЗА НЕОНАТОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, НЕВРОПСИХИЈАТРИЈА И ПСИХОЛОГИЈА, ОБЕЗБЕДУВАЊЕ НА КРВ И КРВНИ ДЕРИВАТИ, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, РАДИОЛОШКА ДИЈАГНОСТИКА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ. КЕЈ 8-МИ НОЕМВРИ ББ</Adresa>
+    <NaselenoMesto>СТРУГА</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-165/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4026005130054</DanocenBroj>
+    <ShifraZU>26003512</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА СТРУГА</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА И РЕАНИМАЦИЈА, БИОХЕМИСКА ЛАБОРАТОРИЈА, ДЕРМАТОВЕНЕРОЛОГИЈА, ЗДРАВСТВЕНА ЗАШТИТА НА ДЕЦАТА, ЗДРАВСТВЕНА ЗАШТИТА НА ЖЕНАТА СО ЕДИНИЦА ЗА НЕОНАТОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, НЕВРОПСИХИЈАТРИЈА И ПСИХОЛОГИЈА, ОБЕЗБЕДУВАЊЕ НА КРВ И КРВНИ ДЕРИВАТИ, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, РАДИОЛОШКА ДИЈАГНОСТИКА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ. КЕЈ 8-МИ НОЕМВРИ ББ</Adresa>
+    <NaselenoMesto>СТРУГА</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-165/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4026005130054</DanocenBroj>
+    <ShifraZU>26003513</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА СТРУГА</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА И РЕАНИМАЦИЈА, БИОХЕМИСКА ЛАБОРАТОРИЈА, ДЕРМАТОВЕНЕРОЛОГИЈА, ЗДРАВСТВЕНА ЗАШТИТА НА ДЕЦАТА, ЗДРАВСТВЕНА ЗАШТИТА НА ЖЕНАТА СО ЕДИНИЦА ЗА НЕОНАТОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, НЕВРОПСИХИЈАТРИЈА И ПСИХОЛОГИЈА, ОБЕЗБЕДУВАЊЕ НА КРВ И КРВНИ ДЕРИВАТИ, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, РАДИОЛОШКА ДИЈАГНОСТИКА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ. КЕЈ 8-МИ НОЕМВРИ ББ</Adresa>
+    <NaselenoMesto>СТРУГА</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-165/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4026005130054</DanocenBroj>
+    <ShifraZU>26003502</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА СТРУГА</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА И РЕАНИМАЦИЈА, БИОХЕМИСКА ЛАБОРАТОРИЈА, ДЕРМАТОВЕНЕРОЛОГИЈА, ЗДРАВСТВЕНА ЗАШТИТА НА ДЕЦАТА, ЗДРАВСТВЕНА ЗАШТИТА НА ЖЕНАТА СО ЕДИНИЦА ЗА НЕОНАТОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, НЕВРОПСИХИЈАТРИЈА И ПСИХОЛОГИЈА, ОБЕЗБЕДУВАЊЕ НА КРВ И КРВНИ ДЕРИВАТИ, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, РАДИОЛОШКА ДИЈАГНОСТИКА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ. КЕЈ 8-МИ НОЕМВРИ ББ</Adresa>
+    <NaselenoMesto>СТРУГА</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-165/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4026005130054</DanocenBroj>
+    <ShifraZU>26003503</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА СТРУГА</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА И РЕАНИМАЦИЈА, БИОХЕМИСКА ЛАБОРАТОРИЈА, ДЕРМАТОВЕНЕРОЛОГИЈА, ЗДРАВСТВЕНА ЗАШТИТА НА ДЕЦАТА, ЗДРАВСТВЕНА ЗАШТИТА НА ЖЕНАТА СО ЕДИНИЦА ЗА НЕОНАТОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, НЕВРОПСИХИЈАТРИЈА И ПСИХОЛОГИЈА, ОБЕЗБЕДУВАЊЕ НА КРВ И КРВНИ ДЕРИВАТИ, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, РАДИОЛОШКА ДИЈАГНОСТИКА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ. КЕЈ 8-МИ НОЕМВРИ ББ</Adresa>
+    <NaselenoMesto>СТРУГА</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-165/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4026005130054</DanocenBroj>
+    <ShifraZU>26003505</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА СТРУГА</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА И РЕАНИМАЦИЈА, БИОХЕМИСКА ЛАБОРАТОРИЈА, ДЕРМАТОВЕНЕРОЛОГИЈА, ЗДРАВСТВЕНА ЗАШТИТА НА ДЕЦАТА, ЗДРАВСТВЕНА ЗАШТИТА НА ЖЕНАТА СО ЕДИНИЦА ЗА НЕОНАТОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, НЕВРОПСИХИЈАТРИЈА И ПСИХОЛОГИЈА, ОБЕЗБЕДУВАЊЕ НА КРВ И КРВНИ ДЕРИВАТИ, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, РАДИОЛОШКА ДИЈАГНОСТИКА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ. КЕЈ 8-МИ НОЕМВРИ ББ</Adresa>
+    <NaselenoMesto>СТРУГА</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-165/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4026005130054</DanocenBroj>
+    <ShifraZU>26003506</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА СТРУГА</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА И РЕАНИМАЦИЈА, БИОХЕМИСКА ЛАБОРАТОРИЈА, ДЕРМАТОВЕНЕРОЛОГИЈА, ЗДРАВСТВЕНА ЗАШТИТА НА ДЕЦАТА, ЗДРАВСТВЕНА ЗАШТИТА НА ЖЕНАТА СО ЕДИНИЦА ЗА НЕОНАТОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, НЕВРОПСИХИЈАТРИЈА И ПСИХОЛОГИЈА, ОБЕЗБЕДУВАЊЕ НА КРВ И КРВНИ ДЕРИВАТИ, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, РАДИОЛОШКА ДИЈАГНОСТИКА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ. КЕЈ 8-МИ НОЕМВРИ ББ</Adresa>
+    <NaselenoMesto>СТРУГА</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-165/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4026005130054</DanocenBroj>
+    <ShifraZU>26003507</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА СТРУГА</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА И РЕАНИМАЦИЈА, БИОХЕМИСКА ЛАБОРАТОРИЈА, ДЕРМАТОВЕНЕРОЛОГИЈА, ЗДРАВСТВЕНА ЗАШТИТА НА ДЕЦАТА, ЗДРАВСТВЕНА ЗАШТИТА НА ЖЕНАТА СО ЕДИНИЦА ЗА НЕОНАТОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, НЕВРОПСИХИЈАТРИЈА И ПСИХОЛОГИЈА, ОБЕЗБЕДУВАЊЕ НА КРВ И КРВНИ ДЕРИВАТИ, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, РАДИОЛОШКА ДИЈАГНОСТИКА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ. КЕЈ 8-МИ НОЕМВРИ ББ</Adresa>
+    <NaselenoMesto>СТРУГА</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-165/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4026005130054</DanocenBroj>
+    <ShifraZU>26003509</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА СТРУГА</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА И РЕАНИМАЦИЈА, БИОХЕМИСКА ЛАБОРАТОРИЈА, ДЕРМАТОВЕНЕРОЛОГИЈА, ЗДРАВСТВЕНА ЗАШТИТА НА ДЕЦАТА, ЗДРАВСТВЕНА ЗАШТИТА НА ЖЕНАТА СО ЕДИНИЦА ЗА НЕОНАТОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, НЕВРОПСИХИЈАТРИЈА И ПСИХОЛОГИЈА, ОБЕЗБЕДУВАЊЕ НА КРВ И КРВНИ ДЕРИВАТИ, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, РАДИОЛОШКА ДИЈАГНОСТИКА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ. КЕЈ 8-МИ НОЕМВРИ ББ</Adresa>
+    <NaselenoMesto>СТРУГА</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-165/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4026005130054</DanocenBroj>
+    <ShifraZU>26003510</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА СТРУГА</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА И РЕАНИМАЦИЈА, БИОХЕМИСКА ЛАБОРАТОРИЈА, ДЕРМАТОВЕНЕРОЛОГИЈА, ЗДРАВСТВЕНА ЗАШТИТА НА ДЕЦАТА, ЗДРАВСТВЕНА ЗАШТИТА НА ЖЕНАТА СО ЕДИНИЦА ЗА НЕОНАТОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, НЕВРОПСИХИЈАТРИЈА И ПСИХОЛОГИЈА, ОБЕЗБЕДУВАЊЕ НА КРВ И КРВНИ ДЕРИВАТИ, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, РАДИОЛОШКА ДИЈАГНОСТИКА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ. КЕЈ 8-МИ НОЕМВРИ ББ</Adresa>
+    <NaselenoMesto>СТРУГА</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-433/3_problem</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4027005145082</DanocenBroj>
+    <ShifraZU>27006306</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА СТРУМИЦА</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА И РЕАНИМАЦИЈА, БИОХЕМИСКА ЛАБОРАТОРИЈА, ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНИ БОЛЕСТИ СО ДИЈАЛИЗА, ИНФЕКТИВНИ БОЛЕСТИ, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОРТОПЕДИЈА И ТРАУМАТОЛОГИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПЕДИЈАТРИЈА, РЕНТГЕН ДИЈАГНОСТИКА , ТРАНСФУЗИЈА, УРОЛОГИЈА, ФИЗИКАЛНА МЕДИЦИНА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ: МЛАДИНСКА БР.2 </Adresa>
+    <NaselenoMesto>СТРУМИЦА</NaselenoMesto>
+    <Latitude>41.43081430000001</Latitude>
+    <Longitude>22.64802039999995</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-433/3_problem</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4027005145082</DanocenBroj>
+    <ShifraZU>27006307</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА СТРУМИЦА</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА И РЕАНИМАЦИЈА, БИОХЕМИСКА ЛАБОРАТОРИЈА, ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНИ БОЛЕСТИ СО ДИЈАЛИЗА, ИНФЕКТИВНИ БОЛЕСТИ, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОРТОПЕДИЈА И ТРАУМАТОЛОГИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПЕДИЈАТРИЈА, РЕНТГЕН ДИЈАГНОСТИКА , ТРАНСФУЗИЈА, УРОЛОГИЈА, ФИЗИКАЛНА МЕДИЦИНА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ: МЛАДИНСКА БР.2 </Adresa>
+    <NaselenoMesto>СТРУМИЦА</NaselenoMesto>
+    <Latitude>41.43081430000001</Latitude>
+    <Longitude>22.64802039999995</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-433/3_problem</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4027005145082</DanocenBroj>
+    <ShifraZU>27006309</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА СТРУМИЦА</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА И РЕАНИМАЦИЈА, БИОХЕМИСКА ЛАБОРАТОРИЈА, ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНИ БОЛЕСТИ СО ДИЈАЛИЗА, ИНФЕКТИВНИ БОЛЕСТИ, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОРТОПЕДИЈА И ТРАУМАТОЛОГИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПЕДИЈАТРИЈА, РЕНТГЕН ДИЈАГНОСТИКА , ТРАНСФУЗИЈА, УРОЛОГИЈА, ФИЗИКАЛНА МЕДИЦИНА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ: МЛАДИНСКА БР.2 </Adresa>
+    <NaselenoMesto>СТРУМИЦА</NaselenoMesto>
+    <Latitude>41.43081430000001</Latitude>
+    <Longitude>22.64802039999995</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-433/3_problem</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4027005145082</DanocenBroj>
+    <ShifraZU>27006310</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА СТРУМИЦА</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА И РЕАНИМАЦИЈА, БИОХЕМИСКА ЛАБОРАТОРИЈА, ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНИ БОЛЕСТИ СО ДИЈАЛИЗА, ИНФЕКТИВНИ БОЛЕСТИ, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОРТОПЕДИЈА И ТРАУМАТОЛОГИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПЕДИЈАТРИЈА, РЕНТГЕН ДИЈАГНОСТИКА , ТРАНСФУЗИЈА, УРОЛОГИЈА, ФИЗИКАЛНА МЕДИЦИНА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ: МЛАДИНСКА БР.2 </Adresa>
+    <NaselenoMesto>СТРУМИЦА</NaselenoMesto>
+    <Latitude>41.43081430000001</Latitude>
+    <Longitude>22.64802039999995</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-433/3_problem</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4027005145082</DanocenBroj>
+    <ShifraZU>27006313</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА СТРУМИЦА</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА И РЕАНИМАЦИЈА, БИОХЕМИСКА ЛАБОРАТОРИЈА, ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНИ БОЛЕСТИ СО ДИЈАЛИЗА, ИНФЕКТИВНИ БОЛЕСТИ, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОРТОПЕДИЈА И ТРАУМАТОЛОГИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПЕДИЈАТРИЈА, РЕНТГЕН ДИЈАГНОСТИКА , ТРАНСФУЗИЈА, УРОЛОГИЈА, ФИЗИКАЛНА МЕДИЦИНА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ: МЛАДИНСКА БР.2 </Adresa>
+    <NaselenoMesto>СТРУМИЦА</NaselenoMesto>
+    <Latitude>41.43081430000001</Latitude>
+    <Longitude>22.64802039999995</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-433/3_problem</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4027005145082</DanocenBroj>
+    <ShifraZU>27006316</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА СТРУМИЦА</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА И РЕАНИМАЦИЈА, БИОХЕМИСКА ЛАБОРАТОРИЈА, ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНИ БОЛЕСТИ СО ДИЈАЛИЗА, ИНФЕКТИВНИ БОЛЕСТИ, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОРТОПЕДИЈА И ТРАУМАТОЛОГИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПЕДИЈАТРИЈА, РЕНТГЕН ДИЈАГНОСТИКА , ТРАНСФУЗИЈА, УРОЛОГИЈА, ФИЗИКАЛНА МЕДИЦИНА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ: МЛАДИНСКА БР.2 </Adresa>
+    <NaselenoMesto>СТРУМИЦА</NaselenoMesto>
+    <Latitude>41.43081430000001</Latitude>
+    <Longitude>22.64802039999995</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-433/3_problem</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4027005145082</DanocenBroj>
+    <ShifraZU>27006320</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА СТРУМИЦА</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА И РЕАНИМАЦИЈА, БИОХЕМИСКА ЛАБОРАТОРИЈА, ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНИ БОЛЕСТИ СО ДИЈАЛИЗА, ИНФЕКТИВНИ БОЛЕСТИ, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОРТОПЕДИЈА И ТРАУМАТОЛОГИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПЕДИЈАТРИЈА, РЕНТГЕН ДИЈАГНОСТИКА , ТРАНСФУЗИЈА, УРОЛОГИЈА, ФИЗИКАЛНА МЕДИЦИНА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ: МЛАДИНСКА БР.2 </Adresa>
+    <NaselenoMesto>СТРУМИЦА</NaselenoMesto>
+    <Latitude>41.43081430000001</Latitude>
+    <Longitude>22.64802039999995</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-433/3_problem</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4027005145082</DanocenBroj>
+    <ShifraZU>27006301</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА СТРУМИЦА</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА И РЕАНИМАЦИЈА, БИОХЕМИСКА ЛАБОРАТОРИЈА, ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНИ БОЛЕСТИ СО ДИЈАЛИЗА, ИНФЕКТИВНИ БОЛЕСТИ, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОРТОПЕДИЈА И ТРАУМАТОЛОГИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПЕДИЈАТРИЈА, РЕНТГЕН ДИЈАГНОСТИКА , ТРАНСФУЗИЈА, УРОЛОГИЈА, ФИЗИКАЛНА МЕДИЦИНА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ: МЛАДИНСКА БР.2 </Adresa>
+    <NaselenoMesto>СТРУМИЦА</NaselenoMesto>
+    <Latitude>41.43081430000001</Latitude>
+    <Longitude>22.64802039999995</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-433/3_problem</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4027005145082</DanocenBroj>
+    <ShifraZU>27006302</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА СТРУМИЦА</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА И РЕАНИМАЦИЈА, БИОХЕМИСКА ЛАБОРАТОРИЈА, ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНИ БОЛЕСТИ СО ДИЈАЛИЗА, ИНФЕКТИВНИ БОЛЕСТИ, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОРТОПЕДИЈА И ТРАУМАТОЛОГИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПЕДИЈАТРИЈА, РЕНТГЕН ДИЈАГНОСТИКА , ТРАНСФУЗИЈА, УРОЛОГИЈА, ФИЗИКАЛНА МЕДИЦИНА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ: МЛАДИНСКА БР.2 </Adresa>
+    <NaselenoMesto>СТРУМИЦА</NaselenoMesto>
+    <Latitude>41.43081430000001</Latitude>
+    <Longitude>22.64802039999995</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-433/3_problem</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4027005145082</DanocenBroj>
+    <ShifraZU>27006303</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА СТРУМИЦА</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА И РЕАНИМАЦИЈА, БИОХЕМИСКА ЛАБОРАТОРИЈА, ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНИ БОЛЕСТИ СО ДИЈАЛИЗА, ИНФЕКТИВНИ БОЛЕСТИ, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОРТОПЕДИЈА И ТРАУМАТОЛОГИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПЕДИЈАТРИЈА, РЕНТГЕН ДИЈАГНОСТИКА , ТРАНСФУЗИЈА, УРОЛОГИЈА, ФИЗИКАЛНА МЕДИЦИНА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ: МЛАДИНСКА БР.2 </Adresa>
+    <NaselenoMesto>СТРУМИЦА</NaselenoMesto>
+    <Latitude>41.43081430000001</Latitude>
+    <Longitude>22.64802039999995</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-433/3_problem</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4027005145082</DanocenBroj>
+    <ShifraZU>27006304</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА СТРУМИЦА</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА И РЕАНИМАЦИЈА, БИОХЕМИСКА ЛАБОРАТОРИЈА, ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНИ БОЛЕСТИ СО ДИЈАЛИЗА, ИНФЕКТИВНИ БОЛЕСТИ, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОРТОПЕДИЈА И ТРАУМАТОЛОГИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПЕДИЈАТРИЈА, РЕНТГЕН ДИЈАГНОСТИКА , ТРАНСФУЗИЈА, УРОЛОГИЈА, ФИЗИКАЛНА МЕДИЦИНА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ: МЛАДИНСКА БР.2 </Adresa>
+    <NaselenoMesto>СТРУМИЦА</NaselenoMesto>
+    <Latitude>41.43081430000001</Latitude>
+    <Longitude>22.64802039999995</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-433/3_problem</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4027005145082</DanocenBroj>
+    <ShifraZU>27006305</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА СТРУМИЦА</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА И РЕАНИМАЦИЈА, БИОХЕМИСКА ЛАБОРАТОРИЈА, ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНИ БОЛЕСТИ СО ДИЈАЛИЗА, ИНФЕКТИВНИ БОЛЕСТИ, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОРТОПЕДИЈА И ТРАУМАТОЛОГИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПЕДИЈАТРИЈА, РЕНТГЕН ДИЈАГНОСТИКА , ТРАНСФУЗИЈА, УРОЛОГИЈА, ФИЗИКАЛНА МЕДИЦИНА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ: МЛАДИНСКА БР.2 </Adresa>
+    <NaselenoMesto>СТРУМИЦА</NaselenoMesto>
+    <Latitude>41.43081430000001</Latitude>
+    <Longitude>22.64802039999995</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-615/2-4</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4017005154426</DanocenBroj>
+    <ShifraZU>17020602</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА КУМАНОВО</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА, РЕАНИМАЦИЈА И ИНТЕНЗИВНИ ЛЕКУВАЊЕ, АНТИТУБЕРКУЛОЗЕН ДИНСПАНЦЕР(АТД) , БИОХЕМИСКА ЛАБОРАТОРИЈА, ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ИНТЕРНА МЕДИЦИНА, КОЖНО ВЕНЕРИЧНИ БОЛЕСТИ, НЕВРОЛОГИЈА, ОРТОПЕДИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПЕДИЈАТРИЈА, ПСИХИЈАТРИЈА, РЕНТГЕН ДИЈАГНОСТИКА , ТРАНСФУЗИЈА, УРОЛОГИЈА, ФИЗИКАЛНА МЕДИЦИНА И РЕХАБИЛИТАЦИЈА, ХИРУРШКИ БОЛЕСТИ</Dejnosti>
+    <Adresa>УЛ. 11 ОКТОМВРИ ББ</Adresa>
+    <NaselenoMesto>КУМАНОВО</NaselenoMesto>
+    <Latitude>42.1373332</Latitude>
+    <Longitude>21.715306499999997</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-166/4</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4020005141775</DanocenBroj>
+    <ShifraZU>19004909</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА ОХРИД</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА, РЕАНИМАЦИЈА И ИНТЕНЗИВНИ ЛЕКУВАЊЕ, АНТИТУБЕРКУЛОЗЕН ДИНСПАНЦЕР(АТД) , БИОХЕМИСКА ЛАБОРАТОРИЈА, БОЛНИЧКА АПТЕКА, ДЕРМАТОВЕНЕРОЛОГИЈА, ЗДРАВСТВЕНА ЗАШТИТА НА ЖЕНАТА СО ЕДИНИЦА ЗА НЕОНАТОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИНФЕКТИВНИ БОЛЕСТИ, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПАТОЛОШКА АНАТОМИЈА, ПЕДИЈАТРИЈА, РАДИОЛОГИЈА, ТРАНСФУЗИЈА, УРОЛОГИЈА, ФИЗИЈАТРИЈА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ: СИРМА ВОЈВОДА  БР.1 </Adresa>
+    <NaselenoMesto>ОХРИД</NaselenoMesto>
+    <Latitude>41.1151067</Latitude>
+    <Longitude>20.81613600000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-128/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4004005117380</DanocenBroj>
+    <ShifraZU>29005716</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА ВЕЛЕС</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА, РЕАНИМАЦИЈА И ИНТЕНЗИВНИ ЛЕКУВАЊЕ, АНТИТУБЕРКУЛОЗЕН ДИНСПАНЦЕР(АТД) , ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИНФЕКТИВНИ БОЛЕСТИ И ФЕБРИЛНИ СОСТОЈБИ, ЛАБОРАТОРИЈА, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОРТОПЕДИЈА И ТРАУМАТОЛОГИЈА, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПАТОЛОГИЈА, ПЕДИЈАТРИЈА, ПСИХИЈАТРИЈА, РАДИОЛОШКА ДИЈАГНОСТИКА, УРОЛОГИЈА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ.САМОБОРСКА ББ</Adresa>
+    <NaselenoMesto>ВЕЛЕС</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-814/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4006005119025</DanocenBroj>
+    <ShifraZU>6001709</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА ГЕВГЕЛИЈА</NazivNaUstanova>
+    <Dejnosti>ДЕРМАТОВЕНЕРОЛОГИЈА, ИНФЕКТИВНИ БОЛЕСТИ, ЛАБОРАТОРИЈА, НЕВРОЛОГИЈА, ОРТОПЕДСКИ БОЛЕСТИ, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПСИХИЈАТРИЈА, ТРАНСФУЗИЈА, ФИЗИКАЛНА МЕДИЦИНА И РЕХАБИЛИТАЦИЈА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ:СЛОБОДАН МИТРОВ ДЕНКО  БР.38</Adresa>
+    <NaselenoMesto>ГЕВГЕЛИЈА</NaselenoMesto>
+    <Latitude>41.15</Latitude>
+    <Longitude>22.50999999999999</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-814/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4006005119025</DanocenBroj>
+    <ShifraZU>6001710</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА ГЕВГЕЛИЈА</NazivNaUstanova>
+    <Dejnosti>ДЕРМАТОВЕНЕРОЛОГИЈА, ИНФЕКТИВНИ БОЛЕСТИ, ЛАБОРАТОРИЈА, НЕВРОЛОГИЈА, ОРТОПЕДСКИ БОЛЕСТИ, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПСИХИЈАТРИЈА, ТРАНСФУЗИЈА, ФИЗИКАЛНА МЕДИЦИНА И РЕХАБИЛИТАЦИЈА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ:СЛОБОДАН МИТРОВ ДЕНКО  БР.38</Adresa>
+    <NaselenoMesto>ГЕВГЕЛИЈА</NaselenoMesto>
+    <Latitude>41.15</Latitude>
+    <Longitude>22.50999999999999</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-699/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4012005118894</DanocenBroj>
+    <ShifraZU>12002504</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА КИЧЕВО</NazivNaUstanova>
+    <Dejnosti>БИОХЕМИСКА ЛАБОРАТОРИЈА, ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ИНТЕРНА МЕДИЦИНА, ИНФЕКТИВНИ БОЛЕСТИ, НЕВРОЛОГИЈА, ОРТОПЕДИЈА И ТРАУМАТОЛОГИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ПЕДИЈАТРИЈА, ПСИХИЈАТРИЈА, РЕНТГЕН ДИЈАГНОСТИКА , ТРАНСФУЗИЈА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ. МАРШАЛ ТИТО БР 42</Adresa>
+    <NaselenoMesto>КИЧЕВО</NaselenoMesto>
+    <Latitude>41.5202351</Latitude>
+    <Longitude>20.96291050000002</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-615/2-4</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4017005154426</DanocenBroj>
+    <ShifraZU>17020603</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА КУМАНОВО</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА, РЕАНИМАЦИЈА И ИНТЕНЗИВНИ ЛЕКУВАЊЕ, АНТИТУБЕРКУЛОЗЕН ДИНСПАНЦЕР(АТД) , БИОХЕМИСКА ЛАБОРАТОРИЈА, ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ИНТЕРНА МЕДИЦИНА, КОЖНО ВЕНЕРИЧНИ БОЛЕСТИ, НЕВРОЛОГИЈА, ОРТОПЕДИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПЕДИЈАТРИЈА, ПСИХИЈАТРИЈА, РЕНТГЕН ДИЈАГНОСТИКА , ТРАНСФУЗИЈА, УРОЛОГИЈА, ФИЗИКАЛНА МЕДИЦИНА И РЕХАБИЛИТАЦИЈА, ХИРУРШКИ БОЛЕСТИ</Dejnosti>
+    <Adresa>УЛ. 11 ОКТОМВРИ ББ</Adresa>
+    <NaselenoMesto>КУМАНОВО</NaselenoMesto>
+    <Latitude>42.1373332</Latitude>
+    <Longitude>21.715306499999997</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-128/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4004005117380</DanocenBroj>
+    <ShifraZU>29005709</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА ВЕЛЕС</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА, РЕАНИМАЦИЈА И ИНТЕНЗИВНИ ЛЕКУВАЊЕ, АНТИТУБЕРКУЛОЗЕН ДИНСПАНЦЕР(АТД) , ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИНФЕКТИВНИ БОЛЕСТИ И ФЕБРИЛНИ СОСТОЈБИ, ЛАБОРАТОРИЈА, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОРТОПЕДИЈА И ТРАУМАТОЛОГИЈА, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПАТОЛОГИЈА, ПЕДИЈАТРИЈА, ПСИХИЈАТРИЈА, РАДИОЛОШКА ДИЈАГНОСТИКА, УРОЛОГИЈА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ.САМОБОРСКА ББ</Adresa>
+    <NaselenoMesto>ВЕЛЕС</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-672/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4007005132974</DanocenBroj>
+    <ShifraZU>7005909</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА ГОСТИВАР</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА И РЕАНИМАЦИЈА, ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИНФЕКТИВНИ БОЛЕСТИ, НЕВРОЛОГИЈА, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОРТОПЕДИЈА И ТРАУМАТОЛОГИЈА, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПАТОЛОШКА АНАТОМИЈА И СУДСКА МЕДИЦИНА, ПЕДИЈАТРИЈА, РЕНТГЕН ДИЈАГНОСТИКА , УРОЛОГИЈА, ФИЗИКАЛНА ТЕРАПИЈА , ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ: МАЈОР ЧЕДЕ ФИЛИПОВСКИ  БР.29</Adresa>
+    <NaselenoMesto>ГОСТИВАР</NaselenoMesto>
+    <Latitude>41.79285360000001</Latitude>
+    <Longitude>20.90485609999996</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-340/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4013005120860</DanocenBroj>
+    <ShifraZU>13074014</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА КОЧАНИ</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА И РЕАНИМАЦИЈА, БИОХЕМИСКА ЛАБОРАТОРИЈА, ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ДЕРМАТОЛОГИЈА, ИНТЕРНИ БОЛЕСТИ СО ДИЈАЛИЗА, ИНФЕКТИВНИ БОЛЕСТИ, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОРТОПЕДИЈА, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПАТОЛОГИЈА, ПЕДИЈАТРИЈА, РЕНТГЕН ДИЈАГНОСТИКА , ТРАНСФУЗИЈА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ МИЛАН ЗЕЧАР БР 21</Adresa>
+    <NaselenoMesto>КОЧАНИ</NaselenoMesto>
+    <Latitude>45.4654542</Latitude>
+    <Longitude>9.186515999999983</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-79/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4021005146480</DanocenBroj>
+    <ShifraZU>20047718</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА ПРИЛЕП</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА, РЕАНИМАЦИЈА И ИНТЕНЗИВНИ ЛЕКУВАЊЕ, АНТИТУБЕРКУЛОЗЕН ДИНСПАНЦЕР(АТД) , ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИНФЕКТИВНИ БОЛЕСТИ, МАКСИЛОФАЦИЈАЛНА ХИРУРГИЈА, НЕВРОЛОГИЈА, ОРТОПЕДИЈА И ТРАУМАТОЛОГИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПЕДИЈАТРИЈА, ПСИХИЈАТРИЈА, РАДИО ДИЈАГНОСТИКА, УРОЛОГИЈА, ФИЗИКАЛНА ТЕРАПИЈА , ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ. ТРАЈКО ТАРЦАН, БР. ББ</Adresa>
+    <NaselenoMesto>ПРИЛЕП</NaselenoMesto>
+    <Latitude>41.3464931</Latitude>
+    <Longitude>21.552972700000055</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1056/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4057010504712</DanocenBroj>
+    <ShifraZU>25119601</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ГРАДСКА ОПШТА БОЛНИЦА 8 МИ СЕПТЕМВРИ</NazivNaUstanova>
+    <Dejnosti>БИОХЕМИСКА ЛАБОРАТОРИЈА, ДИГЕСТИВНИ БОЛЕСТИ, ИНТЕРНИ БОЛЕСТИ, ИНФЕКТИВНИ БОЛЕСТИ, КОЖНО ВЕНЕРИЧНИ БОЛЕСТИ, МАКСИЛОФАЦИЈАЛНА ХИРУРГИЈА, МЕДИЦИНА НА ТРУДОТ, НЕВРОЛОГИЈА, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОПШТА ХИРУРГИЈА, ОРТОПЕДСКИ БОЛЕСТИ, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПАТОЛОГИЈА, ПЛАСТИЧНА ХИРУРГИЈА, РЕНТГЕН ДИЈАГНОСТИКА , ТРАНСФУЗИЈА, УРОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.ПАРИСКА БР.ББ</Adresa>
+    <NaselenoMesto>СКОПЈЕ - КАРПОШ</NaselenoMesto>
+    <Latitude>42.0004079</Latitude>
+    <Longitude>21.400886300000025</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1056/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4057010504712</DanocenBroj>
+    <ShifraZU>25119606</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ГРАДСКА ОПШТА БОЛНИЦА 8 МИ СЕПТЕМВРИ</NazivNaUstanova>
+    <Dejnosti>БИОХЕМИСКА ЛАБОРАТОРИЈА, ДИГЕСТИВНИ БОЛЕСТИ, ИНТЕРНИ БОЛЕСТИ, ИНФЕКТИВНИ БОЛЕСТИ, КОЖНО ВЕНЕРИЧНИ БОЛЕСТИ, МАКСИЛОФАЦИЈАЛНА ХИРУРГИЈА, МЕДИЦИНА НА ТРУДОТ, НЕВРОЛОГИЈА, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОПШТА ХИРУРГИЈА, ОРТОПЕДСКИ БОЛЕСТИ, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПАТОЛОГИЈА, ПЛАСТИЧНА ХИРУРГИЈА, РЕНТГЕН ДИЈАГНОСТИКА , ТРАНСФУЗИЈА, УРОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.ПАРИСКА БР.ББ</Adresa>
+    <NaselenoMesto>СКОПЈЕ - КАРПОШ</NaselenoMesto>
+    <Latitude>42.0004079</Latitude>
+    <Longitude>21.400886300000025</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-340/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4013005120860</DanocenBroj>
+    <ShifraZU>13074017</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА КОЧАНИ</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА И РЕАНИМАЦИЈА, БИОХЕМИСКА ЛАБОРАТОРИЈА, ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ДЕРМАТОЛОГИЈА, ИНТЕРНИ БОЛЕСТИ СО ДИЈАЛИЗА, ИНФЕКТИВНИ БОЛЕСТИ, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОРТОПЕДИЈА, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПАТОЛОГИЈА, ПЕДИЈАТРИЈА, РЕНТГЕН ДИЈАГНОСТИКА , ТРАНСФУЗИЈА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ МИЛАН ЗЕЧАР БР 21</Adresa>
+    <NaselenoMesto>КОЧАНИ</NaselenoMesto>
+    <Latitude>45.4654542</Latitude>
+    <Longitude>9.186515999999983</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-615/2-4</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4017005154426</DanocenBroj>
+    <ShifraZU>17020612</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА КУМАНОВО</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА, РЕАНИМАЦИЈА И ИНТЕНЗИВНИ ЛЕКУВАЊЕ, АНТИТУБЕРКУЛОЗЕН ДИНСПАНЦЕР(АТД) , БИОХЕМИСКА ЛАБОРАТОРИЈА, ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ИНТЕРНА МЕДИЦИНА, КОЖНО ВЕНЕРИЧНИ БОЛЕСТИ, НЕВРОЛОГИЈА, ОРТОПЕДИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПЕДИЈАТРИЈА, ПСИХИЈАТРИЈА, РЕНТГЕН ДИЈАГНОСТИКА , ТРАНСФУЗИЈА, УРОЛОГИЈА, ФИЗИКАЛНА МЕДИЦИНА И РЕХАБИЛИТАЦИЈА, ХИРУРШКИ БОЛЕСТИ</Dejnosti>
+    <Adresa>УЛ. 11 ОКТОМВРИ ББ</Adresa>
+    <NaselenoMesto>КУМАНОВО</NaselenoMesto>
+    <Latitude>42.1373332</Latitude>
+    <Longitude>21.715306499999997</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-128/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4004005117380</DanocenBroj>
+    <ShifraZU>29005707</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА ВЕЛЕС</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА, РЕАНИМАЦИЈА И ИНТЕНЗИВНИ ЛЕКУВАЊЕ, АНТИТУБЕРКУЛОЗЕН ДИНСПАНЦЕР(АТД) , ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИНФЕКТИВНИ БОЛЕСТИ И ФЕБРИЛНИ СОСТОЈБИ, ЛАБОРАТОРИЈА, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОРТОПЕДИЈА И ТРАУМАТОЛОГИЈА, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПАТОЛОГИЈА, ПЕДИЈАТРИЈА, ПСИХИЈАТРИЈА, РАДИОЛОШКА ДИЈАГНОСТИКА, УРОЛОГИЈА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ.САМОБОРСКА ББ</Adresa>
+    <NaselenoMesto>ВЕЛЕС</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-433/3_problem</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4027005145082</DanocenBroj>
+    <ShifraZU>27006319</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА СТРУМИЦА</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА И РЕАНИМАЦИЈА, БИОХЕМИСКА ЛАБОРАТОРИЈА, ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНИ БОЛЕСТИ СО ДИЈАЛИЗА, ИНФЕКТИВНИ БОЛЕСТИ, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОРТОПЕДИЈА И ТРАУМАТОЛОГИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПЕДИЈАТРИЈА, РЕНТГЕН ДИЈАГНОСТИКА , ТРАНСФУЗИЈА, УРОЛОГИЈА, ФИЗИКАЛНА МЕДИЦИНА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ: МЛАДИНСКА БР.2 </Adresa>
+    <NaselenoMesto>СТРУМИЦА</NaselenoMesto>
+    <Latitude>41.43081430000001</Latitude>
+    <Longitude>22.64802039999995</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-699/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4012005118894</DanocenBroj>
+    <ShifraZU>12002505</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА КИЧЕВО</NazivNaUstanova>
+    <Dejnosti>БИОХЕМИСКА ЛАБОРАТОРИЈА, ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ИНТЕРНА МЕДИЦИНА, ИНФЕКТИВНИ БОЛЕСТИ, НЕВРОЛОГИЈА, ОРТОПЕДИЈА И ТРАУМАТОЛОГИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ПЕДИЈАТРИЈА, ПСИХИЈАТРИЈА, РЕНТГЕН ДИЈАГНОСТИКА , ТРАНСФУЗИЈА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ. МАРШАЛ ТИТО БР 42</Adresa>
+    <NaselenoMesto>КИЧЕВО</NaselenoMesto>
+    <Latitude>41.5202351</Latitude>
+    <Longitude>20.96291050000002</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-672/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4007005132974</DanocenBroj>
+    <ShifraZU>7005919</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА ГОСТИВАР</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА И РЕАНИМАЦИЈА, ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИНФЕКТИВНИ БОЛЕСТИ, НЕВРОЛОГИЈА, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОРТОПЕДИЈА И ТРАУМАТОЛОГИЈА, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПАТОЛОШКА АНАТОМИЈА И СУДСКА МЕДИЦИНА, ПЕДИЈАТРИЈА, РЕНТГЕН ДИЈАГНОСТИКА , УРОЛОГИЈА, ФИЗИКАЛНА ТЕРАПИЈА , ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ: МАЈОР ЧЕДЕ ФИЛИПОВСКИ  БР.29</Adresa>
+    <NaselenoMesto>ГОСТИВАР</NaselenoMesto>
+    <Latitude>41.79285360000001</Latitude>
+    <Longitude>20.90485609999996</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-814/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4006005119025</DanocenBroj>
+    <ShifraZU>6001711</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА ГЕВГЕЛИЈА</NazivNaUstanova>
+    <Dejnosti>ДЕРМАТОВЕНЕРОЛОГИЈА, ИНФЕКТИВНИ БОЛЕСТИ, ЛАБОРАТОРИЈА, НЕВРОЛОГИЈА, ОРТОПЕДСКИ БОЛЕСТИ, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПСИХИЈАТРИЈА, ТРАНСФУЗИЈА, ФИЗИКАЛНА МЕДИЦИНА И РЕХАБИЛИТАЦИЈА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ:СЛОБОДАН МИТРОВ ДЕНКО  БР.38</Adresa>
+    <NaselenoMesto>ГЕВГЕЛИЈА</NaselenoMesto>
+    <Latitude>41.15</Latitude>
+    <Longitude>22.50999999999999</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-340/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4013005120860</DanocenBroj>
+    <ShifraZU>13074019</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА КОЧАНИ</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА И РЕАНИМАЦИЈА, БИОХЕМИСКА ЛАБОРАТОРИЈА, ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ДЕРМАТОЛОГИЈА, ИНТЕРНИ БОЛЕСТИ СО ДИЈАЛИЗА, ИНФЕКТИВНИ БОЛЕСТИ, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОРТОПЕДИЈА, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПАТОЛОГИЈА, ПЕДИЈАТРИЈА, РЕНТГЕН ДИЈАГНОСТИКА , ТРАНСФУЗИЈА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ МИЛАН ЗЕЧАР БР 21</Adresa>
+    <NaselenoMesto>КОЧАНИ</NaselenoMesto>
+    <Latitude>45.4654542</Latitude>
+    <Longitude>9.186515999999983</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-483/5</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4008005103741</DanocenBroj>
+    <ShifraZU>8000913</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА ДЕБАР</NazivNaUstanova>
+    <Dejnosti>БИОХЕМИСКА ЛАБОРАТОРИЈА, ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПСИХИЈАТРИЈА, РАДИО ДИЈАГНОСТИКА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ.АМДИ ЛЕШИ БР:51</Adresa>
+    <NaselenoMesto>ДЕБАР</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-699/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4012005118894</DanocenBroj>
+    <ShifraZU>12002516</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА КИЧЕВО</NazivNaUstanova>
+    <Dejnosti>БИОХЕМИСКА ЛАБОРАТОРИЈА, ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ИНТЕРНА МЕДИЦИНА, ИНФЕКТИВНИ БОЛЕСТИ, НЕВРОЛОГИЈА, ОРТОПЕДИЈА И ТРАУМАТОЛОГИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ПЕДИЈАТРИЈА, ПСИХИЈАТРИЈА, РЕНТГЕН ДИЈАГНОСТИКА , ТРАНСФУЗИЈА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ. МАРШАЛ ТИТО БР 42</Adresa>
+    <NaselenoMesto>КИЧЕВО</NaselenoMesto>
+    <Latitude>41.5202351</Latitude>
+    <Longitude>20.96291050000002</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-433/3_problem</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4027005145082</DanocenBroj>
+    <ShifraZU>27006321</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА СТРУМИЦА</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА И РЕАНИМАЦИЈА, БИОХЕМИСКА ЛАБОРАТОРИЈА, ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНИ БОЛЕСТИ СО ДИЈАЛИЗА, ИНФЕКТИВНИ БОЛЕСТИ, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОРТОПЕДИЈА И ТРАУМАТОЛОГИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПЕДИЈАТРИЈА, РЕНТГЕН ДИЈАГНОСТИКА , ТРАНСФУЗИЈА, УРОЛОГИЈА, ФИЗИКАЛНА МЕДИЦИНА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ: МЛАДИНСКА БР.2 </Adresa>
+    <NaselenoMesto>СТРУМИЦА</NaselenoMesto>
+    <Latitude>41.43081430000001</Latitude>
+    <Longitude>22.64802039999995</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-615/2-4</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4017005154426</DanocenBroj>
+    <ShifraZU>17020610</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА КУМАНОВО</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА, РЕАНИМАЦИЈА И ИНТЕНЗИВНИ ЛЕКУВАЊЕ, АНТИТУБЕРКУЛОЗЕН ДИНСПАНЦЕР(АТД) , БИОХЕМИСКА ЛАБОРАТОРИЈА, ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ИНТЕРНА МЕДИЦИНА, КОЖНО ВЕНЕРИЧНИ БОЛЕСТИ, НЕВРОЛОГИЈА, ОРТОПЕДИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПЕДИЈАТРИЈА, ПСИХИЈАТРИЈА, РЕНТГЕН ДИЈАГНОСТИКА , ТРАНСФУЗИЈА, УРОЛОГИЈА, ФИЗИКАЛНА МЕДИЦИНА И РЕХАБИЛИТАЦИЈА, ХИРУРШКИ БОЛЕСТИ</Dejnosti>
+    <Adresa>УЛ. 11 ОКТОМВРИ ББ</Adresa>
+    <NaselenoMesto>КУМАНОВО</NaselenoMesto>
+    <Latitude>42.1373332</Latitude>
+    <Longitude>21.715306499999997</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-307/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4011005123522</DanocenBroj>
+    <ShifraZU>11004722</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА КАВАДАРЦИ </NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА И РЕАНИМАЦИЈА, БИОХЕМИСКА ЛАБОРАТОРИЈА, ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИНФЕКТИВНИ БОЛЕСТИ И ФИБРИЛНИ СОСТОЈБИ, НЕВРОЛОГИЈА, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОРТОПЕДИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПЕДИЈАТРИЈА, РЕНТГЕН ДИЈАГНОСТИКА , ТРАНСФУЗИЈА, УРОЛОГИЈА, ФИЗИКАЛНА МЕДИЦИНА СО РЕХАБИЛИТАЦИЈА И БАЛНЕОЛОГИЈА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ. ШИШКА ББ</Adresa>
+    <NaselenoMesto>КАВАДАРЦИ</NaselenoMesto>
+    <Latitude>41.444466</Latitude>
+    <Longitude>22.0209026</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-814/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4006005119025</DanocenBroj>
+    <ShifraZU>6001724</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА ГЕВГЕЛИЈА</NazivNaUstanova>
+    <Dejnosti>ДЕРМАТОВЕНЕРОЛОГИЈА, ИНФЕКТИВНИ БОЛЕСТИ, ЛАБОРАТОРИЈА, НЕВРОЛОГИЈА, ОРТОПЕДСКИ БОЛЕСТИ, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПСИХИЈАТРИЈА, ТРАНСФУЗИЈА, ФИЗИКАЛНА МЕДИЦИНА И РЕХАБИЛИТАЦИЈА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ:СЛОБОДАН МИТРОВ ДЕНКО  БР.38</Adresa>
+    <NaselenoMesto>ГЕВГЕЛИЈА</NaselenoMesto>
+    <Latitude>41.15</Latitude>
+    <Longitude>22.50999999999999</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-165/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4026005130054</DanocenBroj>
+    <ShifraZU>26003514</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА СТРУГА</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА И РЕАНИМАЦИЈА, БИОХЕМИСКА ЛАБОРАТОРИЈА, ДЕРМАТОВЕНЕРОЛОГИЈА, ЗДРАВСТВЕНА ЗАШТИТА НА ДЕЦАТА, ЗДРАВСТВЕНА ЗАШТИТА НА ЖЕНАТА СО ЕДИНИЦА ЗА НЕОНАТОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, НЕВРОПСИХИЈАТРИЈА И ПСИХОЛОГИЈА, ОБЕЗБЕДУВАЊЕ НА КРВ И КРВНИ ДЕРИВАТИ, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, РАДИОЛОШКА ДИЈАГНОСТИКА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ. КЕЈ 8-МИ НОЕМВРИ ББ</Adresa>
+    <NaselenoMesto>СТРУГА</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-128/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4004005117380</DanocenBroj>
+    <ShifraZU>29005711</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА ВЕЛЕС</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА, РЕАНИМАЦИЈА И ИНТЕНЗИВНИ ЛЕКУВАЊЕ, АНТИТУБЕРКУЛОЗЕН ДИНСПАНЦЕР(АТД) , ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИНФЕКТИВНИ БОЛЕСТИ И ФЕБРИЛНИ СОСТОЈБИ, ЛАБОРАТОРИЈА, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОРТОПЕДИЈА И ТРАУМАТОЛОГИЈА, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПАТОЛОГИЈА, ПЕДИЈАТРИЈА, ПСИХИЈАТРИЈА, РАДИОЛОШКА ДИЈАГНОСТИКА, УРОЛОГИЈА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ.САМОБОРСКА ББ</Adresa>
+    <NaselenoMesto>ВЕЛЕС</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-615/2-4</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4017005154426</DanocenBroj>
+    <ShifraZU>17020604</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА КУМАНОВО</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА, РЕАНИМАЦИЈА И ИНТЕНЗИВНИ ЛЕКУВАЊЕ, АНТИТУБЕРКУЛОЗЕН ДИНСПАНЦЕР(АТД) , БИОХЕМИСКА ЛАБОРАТОРИЈА, ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ИНТЕРНА МЕДИЦИНА, КОЖНО ВЕНЕРИЧНИ БОЛЕСТИ, НЕВРОЛОГИЈА, ОРТОПЕДИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПЕДИЈАТРИЈА, ПСИХИЈАТРИЈА, РЕНТГЕН ДИЈАГНОСТИКА , ТРАНСФУЗИЈА, УРОЛОГИЈА, ФИЗИКАЛНА МЕДИЦИНА И РЕХАБИЛИТАЦИЈА, ХИРУРШКИ БОЛЕСТИ</Dejnosti>
+    <Adresa>УЛ. 11 ОКТОМВРИ ББ</Adresa>
+    <NaselenoMesto>КУМАНОВО</NaselenoMesto>
+    <Latitude>42.1373332</Latitude>
+    <Longitude>21.715306499999997</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-672/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4007005132974</DanocenBroj>
+    <ShifraZU>7005915</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА ГОСТИВАР</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА И РЕАНИМАЦИЈА, ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИНФЕКТИВНИ БОЛЕСТИ, НЕВРОЛОГИЈА, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОРТОПЕДИЈА И ТРАУМАТОЛОГИЈА, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПАТОЛОШКА АНАТОМИЈА И СУДСКА МЕДИЦИНА, ПЕДИЈАТРИЈА, РЕНТГЕН ДИЈАГНОСТИКА , УРОЛОГИЈА, ФИЗИКАЛНА ТЕРАПИЈА , ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ: МАЈОР ЧЕДЕ ФИЛИПОВСКИ  БР.29</Adresa>
+    <NaselenoMesto>ГОСТИВАР</NaselenoMesto>
+    <Latitude>41.79285360000001</Latitude>
+    <Longitude>20.90485609999996</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-483/5</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4008005103741</DanocenBroj>
+    <ShifraZU>8000910</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА ДЕБАР</NazivNaUstanova>
+    <Dejnosti>БИОХЕМИСКА ЛАБОРАТОРИЈА, ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПСИХИЈАТРИЈА, РАДИО ДИЈАГНОСТИКА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ.АМДИ ЛЕШИ БР:51</Adresa>
+    <NaselenoMesto>ДЕБАР</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-699/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4012005118894</DanocenBroj>
+    <ShifraZU>12002509</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА КИЧЕВО</NazivNaUstanova>
+    <Dejnosti>БИОХЕМИСКА ЛАБОРАТОРИЈА, ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ИНТЕРНА МЕДИЦИНА, ИНФЕКТИВНИ БОЛЕСТИ, НЕВРОЛОГИЈА, ОРТОПЕДИЈА И ТРАУМАТОЛОГИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ПЕДИЈАТРИЈА, ПСИХИЈАТРИЈА, РЕНТГЕН ДИЈАГНОСТИКА , ТРАНСФУЗИЈА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ. МАРШАЛ ТИТО БР 42</Adresa>
+    <NaselenoMesto>КИЧЕВО</NaselenoMesto>
+    <Latitude>41.5202351</Latitude>
+    <Longitude>20.96291050000002</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-340/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4013005120860</DanocenBroj>
+    <ShifraZU>13074011</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА КОЧАНИ</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА И РЕАНИМАЦИЈА, БИОХЕМИСКА ЛАБОРАТОРИЈА, ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ДЕРМАТОЛОГИЈА, ИНТЕРНИ БОЛЕСТИ СО ДИЈАЛИЗА, ИНФЕКТИВНИ БОЛЕСТИ, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОРТОПЕДИЈА, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПАТОЛОГИЈА, ПЕДИЈАТРИЈА, РЕНТГЕН ДИЈАГНОСТИКА , ТРАНСФУЗИЈА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ МИЛАН ЗЕЧАР БР 21</Adresa>
+    <NaselenoMesto>КОЧАНИ</NaselenoMesto>
+    <Latitude>45.4654542</Latitude>
+    <Longitude>9.186515999999983</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-814/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4006005119025</DanocenBroj>
+    <ShifraZU>6001713</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА ГЕВГЕЛИЈА</NazivNaUstanova>
+    <Dejnosti>ДЕРМАТОВЕНЕРОЛОГИЈА, ИНФЕКТИВНИ БОЛЕСТИ, ЛАБОРАТОРИЈА, НЕВРОЛОГИЈА, ОРТОПЕДСКИ БОЛЕСТИ, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПСИХИЈАТРИЈА, ТРАНСФУЗИЈА, ФИЗИКАЛНА МЕДИЦИНА И РЕХАБИЛИТАЦИЈА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ:СЛОБОДАН МИТРОВ ДЕНКО  БР.38</Adresa>
+    <NaselenoMesto>ГЕВГЕЛИЈА</NaselenoMesto>
+    <Latitude>41.15</Latitude>
+    <Longitude>22.50999999999999</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-814/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4006005119025</DanocenBroj>
+    <ShifraZU>6001714</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА ГЕВГЕЛИЈА</NazivNaUstanova>
+    <Dejnosti>ДЕРМАТОВЕНЕРОЛОГИЈА, ИНФЕКТИВНИ БОЛЕСТИ, ЛАБОРАТОРИЈА, НЕВРОЛОГИЈА, ОРТОПЕДСКИ БОЛЕСТИ, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПСИХИЈАТРИЈА, ТРАНСФУЗИЈА, ФИЗИКАЛНА МЕДИЦИНА И РЕХАБИЛИТАЦИЈА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ:СЛОБОДАН МИТРОВ ДЕНКО  БР.38</Adresa>
+    <NaselenoMesto>ГЕВГЕЛИЈА</NaselenoMesto>
+    <Latitude>41.15</Latitude>
+    <Longitude>22.50999999999999</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-340/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4013005120860</DanocenBroj>
+    <ShifraZU>13074018</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА КОЧАНИ</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА И РЕАНИМАЦИЈА, БИОХЕМИСКА ЛАБОРАТОРИЈА, ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ДЕРМАТОЛОГИЈА, ИНТЕРНИ БОЛЕСТИ СО ДИЈАЛИЗА, ИНФЕКТИВНИ БОЛЕСТИ, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОРТОПЕДИЈА, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПАТОЛОГИЈА, ПЕДИЈАТРИЈА, РЕНТГЕН ДИЈАГНОСТИКА , ТРАНСФУЗИЈА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ МИЛАН ЗЕЧАР БР 21</Adresa>
+    <NaselenoMesto>КОЧАНИ</NaselenoMesto>
+    <Latitude>45.4654542</Latitude>
+    <Longitude>9.186515999999983</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-483/5</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4008005103741</DanocenBroj>
+    <ShifraZU>8000911</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА ДЕБАР</NazivNaUstanova>
+    <Dejnosti>БИОХЕМИСКА ЛАБОРАТОРИЈА, ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПСИХИЈАТРИЈА, РАДИО ДИЈАГНОСТИКА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ.АМДИ ЛЕШИ БР:51</Adresa>
+    <NaselenoMesto>ДЕБАР</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-672/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4007005132974</DanocenBroj>
+    <ShifraZU>7005911</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА ГОСТИВАР</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА И РЕАНИМАЦИЈА, ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИНФЕКТИВНИ БОЛЕСТИ, НЕВРОЛОГИЈА, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОРТОПЕДИЈА И ТРАУМАТОЛОГИЈА, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПАТОЛОШКА АНАТОМИЈА И СУДСКА МЕДИЦИНА, ПЕДИЈАТРИЈА, РЕНТГЕН ДИЈАГНОСТИКА , УРОЛОГИЈА, ФИЗИКАЛНА ТЕРАПИЈА , ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ: МАЈОР ЧЕДЕ ФИЛИПОВСКИ  БР.29</Adresa>
+    <NaselenoMesto>ГОСТИВАР</NaselenoMesto>
+    <Latitude>41.79285360000001</Latitude>
+    <Longitude>20.90485609999996</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-615/2-4</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4017005154426</DanocenBroj>
+    <ShifraZU>17020605</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА КУМАНОВО</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА, РЕАНИМАЦИЈА И ИНТЕНЗИВНИ ЛЕКУВАЊЕ, АНТИТУБЕРКУЛОЗЕН ДИНСПАНЦЕР(АТД) , БИОХЕМИСКА ЛАБОРАТОРИЈА, ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ИНТЕРНА МЕДИЦИНА, КОЖНО ВЕНЕРИЧНИ БОЛЕСТИ, НЕВРОЛОГИЈА, ОРТОПЕДИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПЕДИЈАТРИЈА, ПСИХИЈАТРИЈА, РЕНТГЕН ДИЈАГНОСТИКА , ТРАНСФУЗИЈА, УРОЛОГИЈА, ФИЗИКАЛНА МЕДИЦИНА И РЕХАБИЛИТАЦИЈА, ХИРУРШКИ БОЛЕСТИ</Dejnosti>
+    <Adresa>УЛ. 11 ОКТОМВРИ ББ</Adresa>
+    <NaselenoMesto>КУМАНОВО</NaselenoMesto>
+    <Latitude>42.1373332</Latitude>
+    <Longitude>21.715306499999997</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-128/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4004005117380</DanocenBroj>
+    <ShifraZU>29005710</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА ВЕЛЕС</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА, РЕАНИМАЦИЈА И ИНТЕНЗИВНИ ЛЕКУВАЊЕ, АНТИТУБЕРКУЛОЗЕН ДИНСПАНЦЕР(АТД) , ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИНФЕКТИВНИ БОЛЕСТИ И ФЕБРИЛНИ СОСТОЈБИ, ЛАБОРАТОРИЈА, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОРТОПЕДИЈА И ТРАУМАТОЛОГИЈА, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПАТОЛОГИЈА, ПЕДИЈАТРИЈА, ПСИХИЈАТРИЈА, РАДИОЛОШКА ДИЈАГНОСТИКА, УРОЛОГИЈА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ.САМОБОРСКА ББ</Adresa>
+    <NaselenoMesto>ВЕЛЕС</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-128/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4004005117380</DanocenBroj>
+    <ShifraZU>29005713</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА ВЕЛЕС</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА, РЕАНИМАЦИЈА И ИНТЕНЗИВНИ ЛЕКУВАЊЕ, АНТИТУБЕРКУЛОЗЕН ДИНСПАНЦЕР(АТД) , ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИНФЕКТИВНИ БОЛЕСТИ И ФЕБРИЛНИ СОСТОЈБИ, ЛАБОРАТОРИЈА, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОРТОПЕДИЈА И ТРАУМАТОЛОГИЈА, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПАТОЛОГИЈА, ПЕДИЈАТРИЈА, ПСИХИЈАТРИЈА, РАДИОЛОШКА ДИЈАГНОСТИКА, УРОЛОГИЈА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ.САМОБОРСКА ББ</Adresa>
+    <NaselenoMesto>ВЕЛЕС</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-340/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4013005120860</DanocenBroj>
+    <ShifraZU>13074008</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА КОЧАНИ</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА И РЕАНИМАЦИЈА, БИОХЕМИСКА ЛАБОРАТОРИЈА, ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ДЕРМАТОЛОГИЈА, ИНТЕРНИ БОЛЕСТИ СО ДИЈАЛИЗА, ИНФЕКТИВНИ БОЛЕСТИ, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОРТОПЕДИЈА, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПАТОЛОГИЈА, ПЕДИЈАТРИЈА, РЕНТГЕН ДИЈАГНОСТИКА , ТРАНСФУЗИЈА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ МИЛАН ЗЕЧАР БР 21</Adresa>
+    <NaselenoMesto>КОЧАНИ</NaselenoMesto>
+    <Latitude>45.4654542</Latitude>
+    <Longitude>9.186515999999983</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-672/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4007005132974</DanocenBroj>
+    <ShifraZU>7005912</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА ГОСТИВАР</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА И РЕАНИМАЦИЈА, ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИНФЕКТИВНИ БОЛЕСТИ, НЕВРОЛОГИЈА, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОРТОПЕДИЈА И ТРАУМАТОЛОГИЈА, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПАТОЛОШКА АНАТОМИЈА И СУДСКА МЕДИЦИНА, ПЕДИЈАТРИЈА, РЕНТГЕН ДИЈАГНОСТИКА , УРОЛОГИЈА, ФИЗИКАЛНА ТЕРАПИЈА , ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ: МАЈОР ЧЕДЕ ФИЛИПОВСКИ  БР.29</Adresa>
+    <NaselenoMesto>ГОСТИВАР</NaselenoMesto>
+    <Latitude>41.79285360000001</Latitude>
+    <Longitude>20.90485609999996</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-672/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4007005132974</DanocenBroj>
+    <ShifraZU>7005913</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА ГОСТИВАР</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА И РЕАНИМАЦИЈА, ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИНФЕКТИВНИ БОЛЕСТИ, НЕВРОЛОГИЈА, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОРТОПЕДИЈА И ТРАУМАТОЛОГИЈА, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПАТОЛОШКА АНАТОМИЈА И СУДСКА МЕДИЦИНА, ПЕДИЈАТРИЈА, РЕНТГЕН ДИЈАГНОСТИКА , УРОЛОГИЈА, ФИЗИКАЛНА ТЕРАПИЈА , ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ: МАЈОР ЧЕДЕ ФИЛИПОВСКИ  БР.29</Adresa>
+    <NaselenoMesto>ГОСТИВАР</NaselenoMesto>
+    <Latitude>41.79285360000001</Latitude>
+    <Longitude>20.90485609999996</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-699/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4012005118894</DanocenBroj>
+    <ShifraZU>12002514</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА КИЧЕВО</NazivNaUstanova>
+    <Dejnosti>БИОХЕМИСКА ЛАБОРАТОРИЈА, ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ИНТЕРНА МЕДИЦИНА, ИНФЕКТИВНИ БОЛЕСТИ, НЕВРОЛОГИЈА, ОРТОПЕДИЈА И ТРАУМАТОЛОГИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ПЕДИЈАТРИЈА, ПСИХИЈАТРИЈА, РЕНТГЕН ДИЈАГНОСТИКА , ТРАНСФУЗИЈА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ. МАРШАЛ ТИТО БР 42</Adresa>
+    <NaselenoMesto>КИЧЕВО</NaselenoMesto>
+    <Latitude>41.5202351</Latitude>
+    <Longitude>20.96291050000002</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-340/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4013005120860</DanocenBroj>
+    <ShifraZU>13074006</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА КОЧАНИ</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА И РЕАНИМАЦИЈА, БИОХЕМИСКА ЛАБОРАТОРИЈА, ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ДЕРМАТОЛОГИЈА, ИНТЕРНИ БОЛЕСТИ СО ДИЈАЛИЗА, ИНФЕКТИВНИ БОЛЕСТИ, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОРТОПЕДИЈА, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПАТОЛОГИЈА, ПЕДИЈАТРИЈА, РЕНТГЕН ДИЈАГНОСТИКА , ТРАНСФУЗИЈА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ МИЛАН ЗЕЧАР БР 21</Adresa>
+    <NaselenoMesto>КОЧАНИ</NaselenoMesto>
+    <Latitude>45.4654542</Latitude>
+    <Longitude>9.186515999999983</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-615/2-4</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4017005154426</DanocenBroj>
+    <ShifraZU>17020609</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА КУМАНОВО</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА, РЕАНИМАЦИЈА И ИНТЕНЗИВНИ ЛЕКУВАЊЕ, АНТИТУБЕРКУЛОЗЕН ДИНСПАНЦЕР(АТД) , БИОХЕМИСКА ЛАБОРАТОРИЈА, ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ИНТЕРНА МЕДИЦИНА, КОЖНО ВЕНЕРИЧНИ БОЛЕСТИ, НЕВРОЛОГИЈА, ОРТОПЕДИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПЕДИЈАТРИЈА, ПСИХИЈАТРИЈА, РЕНТГЕН ДИЈАГНОСТИКА , ТРАНСФУЗИЈА, УРОЛОГИЈА, ФИЗИКАЛНА МЕДИЦИНА И РЕХАБИЛИТАЦИЈА, ХИРУРШКИ БОЛЕСТИ</Dejnosti>
+    <Adresa>УЛ. 11 ОКТОМВРИ ББ</Adresa>
+    <NaselenoMesto>КУМАНОВО</NaselenoMesto>
+    <Latitude>42.1373332</Latitude>
+    <Longitude>21.715306499999997</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-128/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4004005117380</DanocenBroj>
+    <ShifraZU>29005706</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА ВЕЛЕС</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА, РЕАНИМАЦИЈА И ИНТЕНЗИВНИ ЛЕКУВАЊЕ, АНТИТУБЕРКУЛОЗЕН ДИНСПАНЦЕР(АТД) , ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИНФЕКТИВНИ БОЛЕСТИ И ФЕБРИЛНИ СОСТОЈБИ, ЛАБОРАТОРИЈА, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОРТОПЕДИЈА И ТРАУМАТОЛОГИЈА, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПАТОЛОГИЈА, ПЕДИЈАТРИЈА, ПСИХИЈАТРИЈА, РАДИОЛОШКА ДИЈАГНОСТИКА, УРОЛОГИЈА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ.САМОБОРСКА ББ</Adresa>
+    <NaselenoMesto>ВЕЛЕС</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-615/2-4</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4017005154426</DanocenBroj>
+    <ShifraZU>17020606</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА КУМАНОВО</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА, РЕАНИМАЦИЈА И ИНТЕНЗИВНИ ЛЕКУВАЊЕ, АНТИТУБЕРКУЛОЗЕН ДИНСПАНЦЕР(АТД) , БИОХЕМИСКА ЛАБОРАТОРИЈА, ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ИНТЕРНА МЕДИЦИНА, КОЖНО ВЕНЕРИЧНИ БОЛЕСТИ, НЕВРОЛОГИЈА, ОРТОПЕДИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПЕДИЈАТРИЈА, ПСИХИЈАТРИЈА, РЕНТГЕН ДИЈАГНОСТИКА , ТРАНСФУЗИЈА, УРОЛОГИЈА, ФИЗИКАЛНА МЕДИЦИНА И РЕХАБИЛИТАЦИЈА, ХИРУРШКИ БОЛЕСТИ</Dejnosti>
+    <Adresa>УЛ. 11 ОКТОМВРИ ББ</Adresa>
+    <NaselenoMesto>КУМАНОВО</NaselenoMesto>
+    <Latitude>42.1373332</Latitude>
+    <Longitude>21.715306499999997</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-814/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4006005119025</DanocenBroj>
+    <ShifraZU>6001715</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА ГЕВГЕЛИЈА</NazivNaUstanova>
+    <Dejnosti>ДЕРМАТОВЕНЕРОЛОГИЈА, ИНФЕКТИВНИ БОЛЕСТИ, ЛАБОРАТОРИЈА, НЕВРОЛОГИЈА, ОРТОПЕДСКИ БОЛЕСТИ, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПСИХИЈАТРИЈА, ТРАНСФУЗИЈА, ФИЗИКАЛНА МЕДИЦИНА И РЕХАБИЛИТАЦИЈА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ:СЛОБОДАН МИТРОВ ДЕНКО  БР.38</Adresa>
+    <NaselenoMesto>ГЕВГЕЛИЈА</NaselenoMesto>
+    <Latitude>41.15</Latitude>
+    <Longitude>22.50999999999999</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-699/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4012005118894</DanocenBroj>
+    <ShifraZU>12002507</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА КИЧЕВО</NazivNaUstanova>
+    <Dejnosti>БИОХЕМИСКА ЛАБОРАТОРИЈА, ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ИНТЕРНА МЕДИЦИНА, ИНФЕКТИВНИ БОЛЕСТИ, НЕВРОЛОГИЈА, ОРТОПЕДИЈА И ТРАУМАТОЛОГИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ПЕДИЈАТРИЈА, ПСИХИЈАТРИЈА, РЕНТГЕН ДИЈАГНОСТИКА , ТРАНСФУЗИЈА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ. МАРШАЛ ТИТО БР 42</Adresa>
+    <NaselenoMesto>КИЧЕВО</NaselenoMesto>
+    <Latitude>41.5202351</Latitude>
+    <Longitude>20.96291050000002</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-483/5</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4008005103741</DanocenBroj>
+    <ShifraZU>8000912</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА ДЕБАР</NazivNaUstanova>
+    <Dejnosti>БИОХЕМИСКА ЛАБОРАТОРИЈА, ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПСИХИЈАТРИЈА, РАДИО ДИЈАГНОСТИКА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ.АМДИ ЛЕШИ БР:51</Adresa>
+    <NaselenoMesto>ДЕБАР</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-483/5</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4008005103741</DanocenBroj>
+    <ShifraZU>8000906</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА ДЕБАР</NazivNaUstanova>
+    <Dejnosti>БИОХЕМИСКА ЛАБОРАТОРИЈА, ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПСИХИЈАТРИЈА, РАДИО ДИЈАГНОСТИКА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ.АМДИ ЛЕШИ БР:51</Adresa>
+    <NaselenoMesto>ДЕБАР</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-79/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4021005146480</DanocenBroj>
+    <ShifraZU>20047705</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА ПРИЛЕП</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА, РЕАНИМАЦИЈА И ИНТЕНЗИВНИ ЛЕКУВАЊЕ, АНТИТУБЕРКУЛОЗЕН ДИНСПАНЦЕР(АТД) , ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИНФЕКТИВНИ БОЛЕСТИ, МАКСИЛОФАЦИЈАЛНА ХИРУРГИЈА, НЕВРОЛОГИЈА, ОРТОПЕДИЈА И ТРАУМАТОЛОГИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПЕДИЈАТРИЈА, ПСИХИЈАТРИЈА, РАДИО ДИЈАГНОСТИКА, УРОЛОГИЈА, ФИЗИКАЛНА ТЕРАПИЈА , ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ. ТРАЈКО ТАРЦАН, БР. ББ</Adresa>
+    <NaselenoMesto>ПРИЛЕП</NaselenoMesto>
+    <Latitude>41.3464931</Latitude>
+    <Longitude>21.552972700000055</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-128/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4004005117380</DanocenBroj>
+    <ShifraZU>29005717</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА ВЕЛЕС</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА, РЕАНИМАЦИЈА И ИНТЕНЗИВНИ ЛЕКУВАЊЕ, АНТИТУБЕРКУЛОЗЕН ДИНСПАНЦЕР(АТД) , ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИНФЕКТИВНИ БОЛЕСТИ И ФЕБРИЛНИ СОСТОЈБИ, ЛАБОРАТОРИЈА, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОРТОПЕДИЈА И ТРАУМАТОЛОГИЈА, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПАТОЛОГИЈА, ПЕДИЈАТРИЈА, ПСИХИЈАТРИЈА, РАДИОЛОШКА ДИЈАГНОСТИКА, УРОЛОГИЈА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ.САМОБОРСКА ББ</Adresa>
+    <NaselenoMesto>ВЕЛЕС</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-166/4</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4020005141775</DanocenBroj>
+    <ShifraZU>19004901</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА ОХРИД</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА, РЕАНИМАЦИЈА И ИНТЕНЗИВНИ ЛЕКУВАЊЕ, АНТИТУБЕРКУЛОЗЕН ДИНСПАНЦЕР(АТД) , БИОХЕМИСКА ЛАБОРАТОРИЈА, БОЛНИЧКА АПТЕКА, ДЕРМАТОВЕНЕРОЛОГИЈА, ЗДРАВСТВЕНА ЗАШТИТА НА ЖЕНАТА СО ЕДИНИЦА ЗА НЕОНАТОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИНФЕКТИВНИ БОЛЕСТИ, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПАТОЛОШКА АНАТОМИЈА, ПЕДИЈАТРИЈА, РАДИОЛОГИЈА, ТРАНСФУЗИЈА, УРОЛОГИЈА, ФИЗИЈАТРИЈА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ: СИРМА ВОЈВОДА  БР.1 </Adresa>
+    <NaselenoMesto>ОХРИД</NaselenoMesto>
+    <Latitude>41.1151067</Latitude>
+    <Longitude>20.81613600000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-166/4</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4020005141775</DanocenBroj>
+    <ShifraZU>19004907</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА ОХРИД</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА, РЕАНИМАЦИЈА И ИНТЕНЗИВНИ ЛЕКУВАЊЕ, АНТИТУБЕРКУЛОЗЕН ДИНСПАНЦЕР(АТД) , БИОХЕМИСКА ЛАБОРАТОРИЈА, БОЛНИЧКА АПТЕКА, ДЕРМАТОВЕНЕРОЛОГИЈА, ЗДРАВСТВЕНА ЗАШТИТА НА ЖЕНАТА СО ЕДИНИЦА ЗА НЕОНАТОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИНФЕКТИВНИ БОЛЕСТИ, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПАТОЛОШКА АНАТОМИЈА, ПЕДИЈАТРИЈА, РАДИОЛОГИЈА, ТРАНСФУЗИЈА, УРОЛОГИЈА, ФИЗИЈАТРИЈА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ: СИРМА ВОЈВОДА  БР.1 </Adresa>
+    <NaselenoMesto>ОХРИД</NaselenoMesto>
+    <Latitude>41.1151067</Latitude>
+    <Longitude>20.81613600000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-166/4</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4020005141775</DanocenBroj>
+    <ShifraZU>19004908</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА ОХРИД</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА, РЕАНИМАЦИЈА И ИНТЕНЗИВНИ ЛЕКУВАЊЕ, АНТИТУБЕРКУЛОЗЕН ДИНСПАНЦЕР(АТД) , БИОХЕМИСКА ЛАБОРАТОРИЈА, БОЛНИЧКА АПТЕКА, ДЕРМАТОВЕНЕРОЛОГИЈА, ЗДРАВСТВЕНА ЗАШТИТА НА ЖЕНАТА СО ЕДИНИЦА ЗА НЕОНАТОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИНФЕКТИВНИ БОЛЕСТИ, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПАТОЛОШКА АНАТОМИЈА, ПЕДИЈАТРИЈА, РАДИОЛОГИЈА, ТРАНСФУЗИЈА, УРОЛОГИЈА, ФИЗИЈАТРИЈА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ: СИРМА ВОЈВОДА  БР.1 </Adresa>
+    <NaselenoMesto>ОХРИД</NaselenoMesto>
+    <Latitude>41.1151067</Latitude>
+    <Longitude>20.81613600000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-166/4</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4020005141775</DanocenBroj>
+    <ShifraZU>19004917</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА ОХРИД</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА, РЕАНИМАЦИЈА И ИНТЕНЗИВНИ ЛЕКУВАЊЕ, АНТИТУБЕРКУЛОЗЕН ДИНСПАНЦЕР(АТД) , БИОХЕМИСКА ЛАБОРАТОРИЈА, БОЛНИЧКА АПТЕКА, ДЕРМАТОВЕНЕРОЛОГИЈА, ЗДРАВСТВЕНА ЗАШТИТА НА ЖЕНАТА СО ЕДИНИЦА ЗА НЕОНАТОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИНФЕКТИВНИ БОЛЕСТИ, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПАТОЛОШКА АНАТОМИЈА, ПЕДИЈАТРИЈА, РАДИОЛОГИЈА, ТРАНСФУЗИЈА, УРОЛОГИЈА, ФИЗИЈАТРИЈА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ: СИРМА ВОЈВОДА  БР.1 </Adresa>
+    <NaselenoMesto>ОХРИД</NaselenoMesto>
+    <Latitude>41.1151067</Latitude>
+    <Longitude>20.81613600000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-166/4</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4020005141775</DanocenBroj>
+    <ShifraZU>19004919</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА ОХРИД</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА, РЕАНИМАЦИЈА И ИНТЕНЗИВНИ ЛЕКУВАЊЕ, АНТИТУБЕРКУЛОЗЕН ДИНСПАНЦЕР(АТД) , БИОХЕМИСКА ЛАБОРАТОРИЈА, БОЛНИЧКА АПТЕКА, ДЕРМАТОВЕНЕРОЛОГИЈА, ЗДРАВСТВЕНА ЗАШТИТА НА ЖЕНАТА СО ЕДИНИЦА ЗА НЕОНАТОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИНФЕКТИВНИ БОЛЕСТИ, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПАТОЛОШКА АНАТОМИЈА, ПЕДИЈАТРИЈА, РАДИОЛОГИЈА, ТРАНСФУЗИЈА, УРОЛОГИЈА, ФИЗИЈАТРИЈА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ: СИРМА ВОЈВОДА  БР.1 </Adresa>
+    <NaselenoMesto>ОХРИД</NaselenoMesto>
+    <Latitude>41.1151067</Latitude>
+    <Longitude>20.81613600000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-166/4</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4020005141775</DanocenBroj>
+    <ShifraZU>19004906</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА ОХРИД</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА, РЕАНИМАЦИЈА И ИНТЕНЗИВНИ ЛЕКУВАЊЕ, АНТИТУБЕРКУЛОЗЕН ДИНСПАНЦЕР(АТД) , БИОХЕМИСКА ЛАБОРАТОРИЈА, БОЛНИЧКА АПТЕКА, ДЕРМАТОВЕНЕРОЛОГИЈА, ЗДРАВСТВЕНА ЗАШТИТА НА ЖЕНАТА СО ЕДИНИЦА ЗА НЕОНАТОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИНФЕКТИВНИ БОЛЕСТИ, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПАТОЛОШКА АНАТОМИЈА, ПЕДИЈАТРИЈА, РАДИОЛОГИЈА, ТРАНСФУЗИЈА, УРОЛОГИЈА, ФИЗИЈАТРИЈА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ: СИРМА ВОЈВОДА  БР.1 </Adresa>
+    <NaselenoMesto>ОХРИД</NaselenoMesto>
+    <Latitude>41.1151067</Latitude>
+    <Longitude>20.81613600000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-166/4</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4020005141775</DanocenBroj>
+    <ShifraZU>19004911</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА ОХРИД</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА, РЕАНИМАЦИЈА И ИНТЕНЗИВНИ ЛЕКУВАЊЕ, АНТИТУБЕРКУЛОЗЕН ДИНСПАНЦЕР(АТД) , БИОХЕМИСКА ЛАБОРАТОРИЈА, БОЛНИЧКА АПТЕКА, ДЕРМАТОВЕНЕРОЛОГИЈА, ЗДРАВСТВЕНА ЗАШТИТА НА ЖЕНАТА СО ЕДИНИЦА ЗА НЕОНАТОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИНФЕКТИВНИ БОЛЕСТИ, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПАТОЛОШКА АНАТОМИЈА, ПЕДИЈАТРИЈА, РАДИОЛОГИЈА, ТРАНСФУЗИЈА, УРОЛОГИЈА, ФИЗИЈАТРИЈА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ: СИРМА ВОЈВОДА  БР.1 </Adresa>
+    <NaselenoMesto>ОХРИД</NaselenoMesto>
+    <Latitude>41.1151067</Latitude>
+    <Longitude>20.81613600000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-166/4</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4020005141775</DanocenBroj>
+    <ShifraZU>19004904</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА ОХРИД</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА, РЕАНИМАЦИЈА И ИНТЕНЗИВНИ ЛЕКУВАЊЕ, АНТИТУБЕРКУЛОЗЕН ДИНСПАНЦЕР(АТД) , БИОХЕМИСКА ЛАБОРАТОРИЈА, БОЛНИЧКА АПТЕКА, ДЕРМАТОВЕНЕРОЛОГИЈА, ЗДРАВСТВЕНА ЗАШТИТА НА ЖЕНАТА СО ЕДИНИЦА ЗА НЕОНАТОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИНФЕКТИВНИ БОЛЕСТИ, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПАТОЛОШКА АНАТОМИЈА, ПЕДИЈАТРИЈА, РАДИОЛОГИЈА, ТРАНСФУЗИЈА, УРОЛОГИЈА, ФИЗИЈАТРИЈА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ: СИРМА ВОЈВОДА  БР.1 </Adresa>
+    <NaselenoMesto>ОХРИД</NaselenoMesto>
+    <Latitude>41.1151067</Latitude>
+    <Longitude>20.81613600000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-166/4</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4020005141775</DanocenBroj>
+    <ShifraZU>19004912</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА ОХРИД</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА, РЕАНИМАЦИЈА И ИНТЕНЗИВНИ ЛЕКУВАЊЕ, АНТИТУБЕРКУЛОЗЕН ДИНСПАНЦЕР(АТД) , БИОХЕМИСКА ЛАБОРАТОРИЈА, БОЛНИЧКА АПТЕКА, ДЕРМАТОВЕНЕРОЛОГИЈА, ЗДРАВСТВЕНА ЗАШТИТА НА ЖЕНАТА СО ЕДИНИЦА ЗА НЕОНАТОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИНФЕКТИВНИ БОЛЕСТИ, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПАТОЛОШКА АНАТОМИЈА, ПЕДИЈАТРИЈА, РАДИОЛОГИЈА, ТРАНСФУЗИЈА, УРОЛОГИЈА, ФИЗИЈАТРИЈА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ: СИРМА ВОЈВОДА  БР.1 </Adresa>
+    <NaselenoMesto>ОХРИД</NaselenoMesto>
+    <Latitude>41.1151067</Latitude>
+    <Longitude>20.81613600000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-166/4</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4020005141775</DanocenBroj>
+    <ShifraZU>19004913</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА ОХРИД</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА, РЕАНИМАЦИЈА И ИНТЕНЗИВНИ ЛЕКУВАЊЕ, АНТИТУБЕРКУЛОЗЕН ДИНСПАНЦЕР(АТД) , БИОХЕМИСКА ЛАБОРАТОРИЈА, БОЛНИЧКА АПТЕКА, ДЕРМАТОВЕНЕРОЛОГИЈА, ЗДРАВСТВЕНА ЗАШТИТА НА ЖЕНАТА СО ЕДИНИЦА ЗА НЕОНАТОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИНФЕКТИВНИ БОЛЕСТИ, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПАТОЛОШКА АНАТОМИЈА, ПЕДИЈАТРИЈА, РАДИОЛОГИЈА, ТРАНСФУЗИЈА, УРОЛОГИЈА, ФИЗИЈАТРИЈА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ: СИРМА ВОЈВОДА  БР.1 </Adresa>
+    <NaselenoMesto>ОХРИД</NaselenoMesto>
+    <Latitude>41.1151067</Latitude>
+    <Longitude>20.81613600000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-166/4</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4020005141775</DanocenBroj>
+    <ShifraZU>19004915</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА ОХРИД</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА, РЕАНИМАЦИЈА И ИНТЕНЗИВНИ ЛЕКУВАЊЕ, АНТИТУБЕРКУЛОЗЕН ДИНСПАНЦЕР(АТД) , БИОХЕМИСКА ЛАБОРАТОРИЈА, БОЛНИЧКА АПТЕКА, ДЕРМАТОВЕНЕРОЛОГИЈА, ЗДРАВСТВЕНА ЗАШТИТА НА ЖЕНАТА СО ЕДИНИЦА ЗА НЕОНАТОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИНФЕКТИВНИ БОЛЕСТИ, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПАТОЛОШКА АНАТОМИЈА, ПЕДИЈАТРИЈА, РАДИОЛОГИЈА, ТРАНСФУЗИЈА, УРОЛОГИЈА, ФИЗИЈАТРИЈА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ: СИРМА ВОЈВОДА  БР.1 </Adresa>
+    <NaselenoMesto>ОХРИД</NaselenoMesto>
+    <Latitude>41.1151067</Latitude>
+    <Longitude>20.81613600000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-166/4</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4020005141775</DanocenBroj>
+    <ShifraZU>19004916</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА ОХРИД</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА, РЕАНИМАЦИЈА И ИНТЕНЗИВНИ ЛЕКУВАЊЕ, АНТИТУБЕРКУЛОЗЕН ДИНСПАНЦЕР(АТД) , БИОХЕМИСКА ЛАБОРАТОРИЈА, БОЛНИЧКА АПТЕКА, ДЕРМАТОВЕНЕРОЛОГИЈА, ЗДРАВСТВЕНА ЗАШТИТА НА ЖЕНАТА СО ЕДИНИЦА ЗА НЕОНАТОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИНФЕКТИВНИ БОЛЕСТИ, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПАТОЛОШКА АНАТОМИЈА, ПЕДИЈАТРИЈА, РАДИОЛОГИЈА, ТРАНСФУЗИЈА, УРОЛОГИЈА, ФИЗИЈАТРИЈА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ: СИРМА ВОЈВОДА  БР.1 </Adresa>
+    <NaselenoMesto>ОХРИД</NaselenoMesto>
+    <Latitude>41.1151067</Latitude>
+    <Longitude>20.81613600000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-166/4</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4020005141775</DanocenBroj>
+    <ShifraZU>19004918</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА ОХРИД</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА, РЕАНИМАЦИЈА И ИНТЕНЗИВНИ ЛЕКУВАЊЕ, АНТИТУБЕРКУЛОЗЕН ДИНСПАНЦЕР(АТД) , БИОХЕМИСКА ЛАБОРАТОРИЈА, БОЛНИЧКА АПТЕКА, ДЕРМАТОВЕНЕРОЛОГИЈА, ЗДРАВСТВЕНА ЗАШТИТА НА ЖЕНАТА СО ЕДИНИЦА ЗА НЕОНАТОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИНФЕКТИВНИ БОЛЕСТИ, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПАТОЛОШКА АНАТОМИЈА, ПЕДИЈАТРИЈА, РАДИОЛОГИЈА, ТРАНСФУЗИЈА, УРОЛОГИЈА, ФИЗИЈАТРИЈА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ: СИРМА ВОЈВОДА  БР.1 </Adresa>
+    <NaselenoMesto>ОХРИД</NaselenoMesto>
+    <Latitude>41.1151067</Latitude>
+    <Longitude>20.81613600000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-615/2-4</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4017005154426</DanocenBroj>
+    <ShifraZU>17020613</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА КУМАНОВО</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА, РЕАНИМАЦИЈА И ИНТЕНЗИВНИ ЛЕКУВАЊЕ, АНТИТУБЕРКУЛОЗЕН ДИНСПАНЦЕР(АТД) , БИОХЕМИСКА ЛАБОРАТОРИЈА, ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ИНТЕРНА МЕДИЦИНА, КОЖНО ВЕНЕРИЧНИ БОЛЕСТИ, НЕВРОЛОГИЈА, ОРТОПЕДИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПЕДИЈАТРИЈА, ПСИХИЈАТРИЈА, РЕНТГЕН ДИЈАГНОСТИКА , ТРАНСФУЗИЈА, УРОЛОГИЈА, ФИЗИКАЛНА МЕДИЦИНА И РЕХАБИЛИТАЦИЈА, ХИРУРШКИ БОЛЕСТИ</Dejnosti>
+    <Adresa>УЛ. 11 ОКТОМВРИ ББ</Adresa>
+    <NaselenoMesto>КУМАНОВО</NaselenoMesto>
+    <Latitude>42.1373332</Latitude>
+    <Longitude>21.715306499999997</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-672/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4007005132974</DanocenBroj>
+    <ShifraZU>7005914</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА ГОСТИВАР</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА И РЕАНИМАЦИЈА, ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИНФЕКТИВНИ БОЛЕСТИ, НЕВРОЛОГИЈА, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОРТОПЕДИЈА И ТРАУМАТОЛОГИЈА, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПАТОЛОШКА АНАТОМИЈА И СУДСКА МЕДИЦИНА, ПЕДИЈАТРИЈА, РЕНТГЕН ДИЈАГНОСТИКА , УРОЛОГИЈА, ФИЗИКАЛНА ТЕРАПИЈА , ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ: МАЈОР ЧЕДЕ ФИЛИПОВСКИ  БР.29</Adresa>
+    <NaselenoMesto>ГОСТИВАР</NaselenoMesto>
+    <Latitude>41.79285360000001</Latitude>
+    <Longitude>20.90485609999996</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-699/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4012005118894</DanocenBroj>
+    <ShifraZU>12002508</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА КИЧЕВО</NazivNaUstanova>
+    <Dejnosti>БИОХЕМИСКА ЛАБОРАТОРИЈА, ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ИНТЕРНА МЕДИЦИНА, ИНФЕКТИВНИ БОЛЕСТИ, НЕВРОЛОГИЈА, ОРТОПЕДИЈА И ТРАУМАТОЛОГИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ПЕДИЈАТРИЈА, ПСИХИЈАТРИЈА, РЕНТГЕН ДИЈАГНОСТИКА , ТРАНСФУЗИЈА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ. МАРШАЛ ТИТО БР 42</Adresa>
+    <NaselenoMesto>КИЧЕВО</NaselenoMesto>
+    <Latitude>41.5202351</Latitude>
+    <Longitude>20.96291050000002</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-340/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4013005120860</DanocenBroj>
+    <ShifraZU>13074009</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА КОЧАНИ</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА И РЕАНИМАЦИЈА, БИОХЕМИСКА ЛАБОРАТОРИЈА, ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ДЕРМАТОЛОГИЈА, ИНТЕРНИ БОЛЕСТИ СО ДИЈАЛИЗА, ИНФЕКТИВНИ БОЛЕСТИ, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОРТОПЕДИЈА, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПАТОЛОГИЈА, ПЕДИЈАТРИЈА, РЕНТГЕН ДИЈАГНОСТИКА , ТРАНСФУЗИЈА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ МИЛАН ЗЕЧАР БР 21</Adresa>
+    <NaselenoMesto>КОЧАНИ</NaselenoMesto>
+    <Latitude>45.4654542</Latitude>
+    <Longitude>9.186515999999983</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-483/5</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4008005103741</DanocenBroj>
+    <ShifraZU>8000914</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА ДЕБАР</NazivNaUstanova>
+    <Dejnosti>БИОХЕМИСКА ЛАБОРАТОРИЈА, ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПСИХИЈАТРИЈА, РАДИО ДИЈАГНОСТИКА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ. АМДИ ЛЕШИ БР.51</Adresa>
+    <NaselenoMesto>ДЕБАР</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-672/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4007005132974</DanocenBroj>
+    <ShifraZU>7005920</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА ГОСТИВАР</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА И РЕАНИМАЦИЈА, ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИНФЕКТИВНИ БОЛЕСТИ, НЕВРОЛОГИЈА, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОРТОПЕДИЈА И ТРАУМАТОЛОГИЈА, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПАТОЛОШКА АНАТОМИЈА И СУДСКА МЕДИЦИНА, ПЕДИЈАТРИЈА, РЕНТГЕН ДИЈАГНОСТИКА , УРОЛОГИЈА, ФИЗИКАЛНА ТЕРАПИЈА , ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ: МАЈОР ЧЕДЕ ФИЛИПОВСКИ  БР.29</Adresa>
+    <NaselenoMesto>ГОСТИВАР</NaselenoMesto>
+    <Latitude>41.79285360000001</Latitude>
+    <Longitude>20.90485609999996</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-615/2-4</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4017005154426</DanocenBroj>
+    <ShifraZU>17020607</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА КУМАНОВО</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА, РЕАНИМАЦИЈА И ИНТЕНЗИВНИ ЛЕКУВАЊЕ, АНТИТУБЕРКУЛОЗЕН ДИНСПАНЦЕР(АТД) , БИОХЕМИСКА ЛАБОРАТОРИЈА, ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ИНТЕРНА МЕДИЦИНА, КОЖНО ВЕНЕРИЧНИ БОЛЕСТИ, НЕВРОЛОГИЈА, ОРТОПЕДИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПЕДИЈАТРИЈА, ПСИХИЈАТРИЈА, РЕНТГЕН ДИЈАГНОСТИКА , ТРАНСФУЗИЈА, УРОЛОГИЈА, ФИЗИКАЛНА МЕДИЦИНА И РЕХАБИЛИТАЦИЈА, ХИРУРШКИ БОЛЕСТИ</Dejnosti>
+    <Adresa>УЛ. 11 ОКТОМВРИ ББ</Adresa>
+    <NaselenoMesto>КУМАНОВО</NaselenoMesto>
+    <Latitude>42.1373332</Latitude>
+    <Longitude>21.715306499999997</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-128/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4004005117380</DanocenBroj>
+    <ShifraZU>29005718</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА ВЕЛЕС</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА, РЕАНИМАЦИЈА И ИНТЕНЗИВНИ ЛЕКУВАЊЕ, АНТИТУБЕРКУЛОЗЕН ДИНСПАНЦЕР(АТД) , ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИНФЕКТИВНИ БОЛЕСТИ И ФЕБРИЛНИ СОСТОЈБИ, ЛАБОРАТОРИЈА, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОРТОПЕДИЈА И ТРАУМАТОЛОГИЈА, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПАТОЛОГИЈА, ПЕДИЈАТРИЈА, ПСИХИЈАТРИЈА, РАДИОЛОШКА ДИЈАГНОСТИКА, УРОЛОГИЈА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ.САМОБОРСКА ББ</Adresa>
+    <NaselenoMesto>ВЕЛЕС</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-433/3_problem</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4027005145082</DanocenBroj>
+    <ShifraZU>27006315</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА СТРУМИЦА</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА И РЕАНИМАЦИЈА, БИОХЕМИСКА ЛАБОРАТОРИЈА, ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНИ БОЛЕСТИ СО ДИЈАЛИЗА, ИНФЕКТИВНИ БОЛЕСТИ, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОРТОПЕДИЈА И ТРАУМАТОЛОГИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПЕДИЈАТРИЈА, РЕНТГЕН ДИЈАГНОСТИКА , ТРАНСФУЗИЈА, УРОЛОГИЈА, ФИЗИКАЛНА МЕДИЦИНА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ: МЛАДИНСКА БР.2 </Adresa>
+    <NaselenoMesto>СТРУМИЦА</NaselenoMesto>
+    <Latitude>41.43081430000001</Latitude>
+    <Longitude>22.64802039999995</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-79/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4021005146480</DanocenBroj>
+    <ShifraZU>20047716</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА ПРИЛЕП</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА, РЕАНИМАЦИЈА И ИНТЕНЗИВНИ ЛЕКУВАЊЕ, АНТИТУБЕРКУЛОЗЕН ДИНСПАНЦЕР(АТД) , ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИНФЕКТИВНИ БОЛЕСТИ, МАКСИЛОФАЦИЈАЛНА ХИРУРГИЈА, НЕВРОЛОГИЈА, ОРТОПЕДИЈА И ТРАУМАТОЛОГИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПЕДИЈАТРИЈА, ПСИХИЈАТРИЈА, РАДИО ДИЈАГНОСТИКА, УРОЛОГИЈА, ФИЗИКАЛНА ТЕРАПИЈА , ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ. ТРАЈКО ТАРЦАН, БР. ББ</Adresa>
+    <NaselenoMesto>ПРИЛЕП</NaselenoMesto>
+    <Latitude>41.3464931</Latitude>
+    <Longitude>21.552972700000055</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-433/3_problem</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4027005145082</DanocenBroj>
+    <ShifraZU>27006311</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА СТРУМИЦА</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА И РЕАНИМАЦИЈА, БИОХЕМИСКА ЛАБОРАТОРИЈА, ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНИ БОЛЕСТИ СО ДИЈАЛИЗА, ИНФЕКТИВНИ БОЛЕСТИ, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОРТОПЕДИЈА И ТРАУМАТОЛОГИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПЕДИЈАТРИЈА, РЕНТГЕН ДИЈАГНОСТИКА , ТРАНСФУЗИЈА, УРОЛОГИЈА, ФИЗИКАЛНА МЕДИЦИНА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ: МЛАДИНСКА БР.2 </Adresa>
+    <NaselenoMesto>СТРУМИЦА</NaselenoMesto>
+    <Latitude>41.43081430000001</Latitude>
+    <Longitude>22.64802039999995</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-615/2-4</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4017005154426</DanocenBroj>
+    <ShifraZU>17020625</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА КУМАНОВО</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА, РЕАНИМАЦИЈА И ИНТЕНЗИВНИ ЛЕКУВАЊЕ, АНТИТУБЕРКУЛОЗЕН ДИНСПАНЦЕР(АТД) , БИОХЕМИСКА ЛАБОРАТОРИЈА, ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ИНТЕРНА МЕДИЦИНА, КОЖНО ВЕНЕРИЧНИ БОЛЕСТИ, НЕВРОЛОГИЈА, ОРТОПЕДИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПЕДИЈАТРИЈА, ПСИХИЈАТРИЈА, РЕНТГЕН ДИЈАГНОСТИКА , ТРАНСФУЗИЈА, УРОЛОГИЈА, ФИЗИКАЛНА МЕДИЦИНА И РЕХАБИЛИТАЦИЈА, ХИРУРШКИ БОЛЕСТИ</Dejnosti>
+    <Adresa>УЛ. 11 ОКТОМВРИ ББ</Adresa>
+    <NaselenoMesto>КУМАНОВО</NaselenoMesto>
+    <Latitude>42.1373332</Latitude>
+    <Longitude>21.715306499999997</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-814/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4006005119025</DanocenBroj>
+    <ShifraZU>6001712</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА ГЕВГЕЛИЈА</NazivNaUstanova>
+    <Dejnosti>ДЕРМАТОВЕНЕРОЛОГИЈА, ИНФЕКТИВНИ БОЛЕСТИ, ЛАБОРАТОРИЈА, НЕВРОЛОГИЈА, ОРТОПЕДСКИ БОЛЕСТИ, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПСИХИЈАТРИЈА, ТРАНСФУЗИЈА, ФИЗИКАЛНА МЕДИЦИНА И РЕХАБИЛИТАЦИЈА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ:СЛОБОДАН МИТРОВ ДЕНКО  БР.38</Adresa>
+    <NaselenoMesto>ГЕВГЕЛИЈА</NaselenoMesto>
+    <Latitude>41.15</Latitude>
+    <Longitude>22.50999999999999</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-672/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4007005132974</DanocenBroj>
+    <ShifraZU>7005917</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА ГОСТИВАР</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА И РЕАНИМАЦИЈА, ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИНФЕКТИВНИ БОЛЕСТИ, НЕВРОЛОГИЈА, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОРТОПЕДИЈА И ТРАУМАТОЛОГИЈА, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПАТОЛОШКА АНАТОМИЈА И СУДСКА МЕДИЦИНА, ПЕДИЈАТРИЈА, РЕНТГЕН ДИЈАГНОСТИКА , УРОЛОГИЈА, ФИЗИКАЛНА ТЕРАПИЈА , ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ: МАЈОР ЧЕДЕ ФИЛИПОВСКИ  БР.29</Adresa>
+    <NaselenoMesto>ГОСТИВАР</NaselenoMesto>
+    <Latitude>41.79285360000001</Latitude>
+    <Longitude>20.90485609999996</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-483/5</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4008005103741</DanocenBroj>
+    <ShifraZU>8000902</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА ДЕБАР</NazivNaUstanova>
+    <Dejnosti>БИОХЕМИСКА ЛАБОРАТОРИЈА, ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПСИХИЈАТРИЈА, РАДИО ДИЈАГНОСТИКА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ.АМДИ ЛЕШИ БР:51</Adresa>
+    <NaselenoMesto>ДЕБАР</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-672/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4007005132974</DanocenBroj>
+    <ShifraZU>7005923</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА ГОСТИВАР</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА И РЕАНИМАЦИЈА, ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, ИНФЕКТИВНИ БОЛЕСТИ, НЕВРОЛОГИЈА, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОРТОПЕДИЈА И ТРАУМАТОЛОГИЈА, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПАТОЛОШКА АНАТОМИЈА И СУДСКА МЕДИЦИНА, ПЕДИЈАТРИЈА, РЕНТГЕН ДИЈАГНОСТИКА , УРОЛОГИЈА, ФИЗИКАЛНА ТЕРАПИЈА , ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ: МАЈОР ЧЕДЕ ФИЛИПОВСКИ  БР.29</Adresa>
+    <NaselenoMesto>ГОСТИВАР</NaselenoMesto>
+    <Latitude>41.79285360000001</Latitude>
+    <Longitude>20.90485609999996</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-340/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4013005120860</DanocenBroj>
+    <ShifraZU>13074005</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА КОЧАНИ</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА И РЕАНИМАЦИЈА, БИОХЕМИСКА ЛАБОРАТОРИЈА, ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ДЕРМАТОЛОГИЈА, ИНТЕРНИ БОЛЕСТИ СО ДИЈАЛИЗА, ИНФЕКТИВНИ БОЛЕСТИ, НЕВРОПСИХИЈАТРИСКИ БОЛЕСТИ, ОРТОПЕДИЈА, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПАТОЛОГИЈА, ПЕДИЈАТРИЈА, РЕНТГЕН ДИЈАГНОСТИКА , ТРАНСФУЗИЈА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ МИЛАН ЗЕЧАР БР 21</Adresa>
+    <NaselenoMesto>КОЧАНИ</NaselenoMesto>
+    <Latitude>45.4654542</Latitude>
+    <Longitude>9.186515999999983</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-814/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4006005119025</DanocenBroj>
+    <ShifraZU>6001716</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА ГЕВГЕЛИЈА</NazivNaUstanova>
+    <Dejnosti>ДЕРМАТОВЕНЕРОЛОГИЈА, ИНФЕКТИВНИ БОЛЕСТИ, ЛАБОРАТОРИЈА, НЕВРОЛОГИЈА, ОРТОПЕДСКИ БОЛЕСТИ, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПСИХИЈАТРИЈА, ТРАНСФУЗИЈА, ФИЗИКАЛНА МЕДИЦИНА И РЕХАБИЛИТАЦИЈА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ:СЛОБОДАН МИТРОВ ДЕНКО  БР.38</Adresa>
+    <NaselenoMesto>ГЕВГЕЛИЈА</NaselenoMesto>
+    <Latitude>41.15</Latitude>
+    <Longitude>22.50999999999999</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-699/3</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4012005118894</DanocenBroj>
+    <ShifraZU>12002511</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА КИЧЕВО</NazivNaUstanova>
+    <Dejnosti>БИОХЕМИСКА ЛАБОРАТОРИЈА, ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ИНТЕРНА МЕДИЦИНА, ИНФЕКТИВНИ БОЛЕСТИ, НЕВРОЛОГИЈА, ОРТОПЕДИЈА И ТРАУМАТОЛОГИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ПЕДИЈАТРИЈА, ПСИХИЈАТРИЈА, РЕНТГЕН ДИЈАГНОСТИКА , ТРАНСФУЗИЈА, ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ. МАРШАЛ ТИТО БР 42</Adresa>
+    <NaselenoMesto>КИЧЕВО</NaselenoMesto>
+    <Latitude>41.5202351</Latitude>
+    <Longitude>20.96291050000002</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-615/2-4</ArhivskiBroj>
+    <TipDogovorID>16</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Општи болници)</TipNaDogovor>
+    <DanocenBroj>4017005154426</DanocenBroj>
+    <ShifraZU>17020608</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ОПШТА БОЛНИЦА КУМАНОВО</NazivNaUstanova>
+    <Dejnosti>АНЕСТЕЗИЈА, РЕАНИМАЦИЈА И ИНТЕНЗИВНИ ЛЕКУВАЊЕ, АНТИТУБЕРКУЛОЗЕН ДИНСПАНЦЕР(АТД) , БИОХЕМИСКА ЛАБОРАТОРИЈА, ГИНЕКОЛОГИЈА И АКУШЕРСТВО, ИНТЕРНА МЕДИЦИНА, КОЖНО ВЕНЕРИЧНИ БОЛЕСТИ, НЕВРОЛОГИЈА, ОРТОПЕДИЈА, ОСТАНАТИ ДЕЈНОСТИ, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПЕДИЈАТРИЈА, ПСИХИЈАТРИЈА, РЕНТГЕН ДИЈАГНОСТИКА , ТРАНСФУЗИЈА, УРОЛОГИЈА, ФИЗИКАЛНА МЕДИЦИНА И РЕХАБИЛИТАЦИЈА, ХИРУРШКИ БОЛЕСТИ</Dejnosti>
+    <Adresa>УЛ. 11 ОКТОМВРИ ББ</Adresa>
+    <NaselenoMesto>КУМАНОВО</NaselenoMesto>
+    <Latitude>42.1373332</Latitude>
+    <Longitude>21.715306499999997</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+</Dogovori>

@@ -1,0 +1,1489 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dogovori>
+  <Dogovor>
+    <ArhivskiBroj>09-1183/2</ArhivskiBroj>
+    <TipDogovorID>9</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-1)</TipNaDogovor>
+    <DanocenBroj>4029998114317</DanocenBroj>
+    <ShifraZU>30001802</ShifraZU>
+    <NazivNaUstanova>ПЗУ ПРИМАРИУС ДР САМАРЏИСКИ</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>УЛ.ПАРТИЗАНСКА ББ.</Adresa>
+    <NaselenoMesto>ШТИП</NaselenoMesto>
+    <Latitude>43.1333333</Latitude>
+    <Longitude>133.1333333</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-981/2</ArhivskiBroj>
+    <TipDogovorID>9</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-1)</TipNaDogovor>
+    <DanocenBroj>4030007619228</DanocenBroj>
+    <ShifraZU>25087102</ShifraZU>
+    <NazivNaUstanova>ПЗУ БИОХЕМ МЕДИКА</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>ЦВЕТАН ДИМОВ 33/1</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЧАИР</NaselenoMesto>
+    <Latitude>42.0097337</Latitude>
+    <Longitude>21.443995200000018</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-114/3</ArhivskiBroj>
+    <TipDogovorID>9</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-1)</TipNaDogovor>
+    <DanocenBroj>4021996101373</DanocenBroj>
+    <ShifraZU>20013604</ShifraZU>
+    <NazivNaUstanova>ПЗУ ХОСПИТАЛИЈА</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>УЛ.БУЛЕВАР ПАРТИЗАНСКИ ОДРЕДИ БР.18-А</Adresa>
+    <NaselenoMesto>СКОПЈЕ - КАРПОШ</NaselenoMesto>
+    <Latitude>42.002753</Latitude>
+    <Longitude>21.398465299999998</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-674/2</ArhivskiBroj>
+    <TipDogovorID>9</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-1)</TipNaDogovor>
+    <DanocenBroj>4007993103356</DanocenBroj>
+    <ShifraZU>7000602</ShifraZU>
+    <NazivNaUstanova>ПЗУ САНАТРИКС  НЌ</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>С.ДОБРИДОЛ ВРАПЧИШТЕ</Adresa>
+    <NaselenoMesto>ГОСТИВАР</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-596/2</ArhivskiBroj>
+    <TipDogovorID>9</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-1)</TipNaDogovor>
+    <DanocenBroj>4026007134561</DanocenBroj>
+    <ShifraZU>26007902</ShifraZU>
+    <NazivNaUstanova>ПЗУ МЕН МАК МЕДИКА</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>УЛ.КЕЈ 8-МИ НОЕМВРИ</Adresa>
+    <NaselenoMesto>СТРУГА</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-379/2</ArhivskiBroj>
+    <TipDogovorID>9</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-1)</TipNaDogovor>
+    <DanocenBroj>4023996106157</DanocenBroj>
+    <ShifraZU>22000302</ShifraZU>
+    <NazivNaUstanova>ПЗУ АЛЕКСАНДАР И МЕТОДИ БЕЛУШКОВИ</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>УЛ.ЃОРЧЕ ПЕТРОВ БР.104</Adresa>
+    <NaselenoMesto>РАДОВИШ</NaselenoMesto>
+    <Latitude>41.6372279</Latitude>
+    <Longitude>22.475490000000036</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-519/2</ArhivskiBroj>
+    <TipDogovorID>9</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-1)</TipNaDogovor>
+    <DanocenBroj>4028994113395</DanocenBroj>
+    <ShifraZU>28002002</ShifraZU>
+    <NazivNaUstanova>ПЗУ  ФЛОРЕНС</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>УЛ.29-ТИ НОЕМВРИ БР.73</Adresa>
+    <NaselenoMesto>ТЕТОВО</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-138/2</ArhivskiBroj>
+    <TipDogovorID>9</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-1)</TipNaDogovor>
+    <DanocenBroj>4004001112511</DanocenBroj>
+    <ShifraZU>29000502</ShifraZU>
+    <NazivNaUstanova>ПЗУ ПОЛИКЛИНИКА  ВИТАЛИНО</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>УЛ.ГРОЗДА КОЧОВА БР.11</Adresa>
+    <NaselenoMesto>ВЕЛЕС</NaselenoMesto>
+    <Latitude>41.7059197</Latitude>
+    <Longitude>21.760439200000064</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-217/2</ArhivskiBroj>
+    <TipDogovorID>9</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-1)</TipNaDogovor>
+    <DanocenBroj>4029995111244</DanocenBroj>
+    <ShifraZU>30000603</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДР ЗЛАТКО СТОЈМЕНОВ</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>УЛ.ТРСТ ББ</Adresa>
+    <NaselenoMesto>ШТИП</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>978/2</ArhivskiBroj>
+    <TipDogovorID>9</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-1)</TipNaDogovor>
+    <DanocenBroj>4030993140040</DanocenBroj>
+    <ShifraZU>25019502</ShifraZU>
+    <NazivNaUstanova>ПЗУ ПОЛИКЛИНИКА МАНОЛЕВИ</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>УЛ.РАДИШАНСКА БР 83-А</Adresa>
+    <NaselenoMesto>СКОПЈЕ - БУТЕЛ</NaselenoMesto>
+    <Latitude>42.06185480000001</Latitude>
+    <Longitude>21.45119420000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1071/2</ArhivskiBroj>
+    <TipDogovorID>9</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-1)</TipNaDogovor>
+    <DanocenBroj>4030003479790</DanocenBroj>
+    <ShifraZU>25010502</ShifraZU>
+    <NazivNaUstanova>ПЗУ ГЕРИМЕДИКАЛ </NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>УЛ. СТРАШО ПИНЏУР  С.ЈОСИФОВО</Adresa>
+    <NaselenoMesto>ВАЛАНДОВО</NaselenoMesto>
+    <Latitude>41.3318184</Latitude>
+    <Longitude>22.475418200000036</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-815/2-2</ArhivskiBroj>
+    <TipDogovorID>9</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-1)</TipNaDogovor>
+    <DanocenBroj>4006008502040</DanocenBroj>
+    <ShifraZU>6006201</ShifraZU>
+    <NazivNaUstanova>ПЗУ РОЈАЛ-МЕДИКА 2</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>УЛ.МАРШАЛ ТИТО БР.121</Adresa>
+    <NaselenoMesto>БОГДАНЦИ</NaselenoMesto>
+    <Latitude>41.1561487</Latitude>
+    <Longitude>22.577644599999985</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-832/2</ArhivskiBroj>
+    <TipDogovorID>9</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-1)</TipNaDogovor>
+    <DanocenBroj>4030006585320</DanocenBroj>
+    <ShifraZU>25048603</ShifraZU>
+    <NazivNaUstanova>ПЗУ РЕС ХУМАНА</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>УЛ. МИЛЕ ПОП ЈОРДАНОВ БР. 44</Adresa>
+    <NaselenoMesto>СКОПЈЕ - КАРПОШ</NaselenoMesto>
+    <Latitude>41.9957065</Latitude>
+    <Longitude>21.39860539999995</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-327/2</ArhivskiBroj>
+    <TipDogovorID>9</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-1)</TipNaDogovor>
+    <DanocenBroj>4005009501548</DanocenBroj>
+    <ShifraZU>5004201</ShifraZU>
+    <NazivNaUstanova>ПЗУ ПАВЛИНА</NazivNaUstanova>
+    <Dejnosti>БИОХЕМИСКА ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>УЛ.ИЛИНДЕНСКА БР.ББ</Adresa>
+    <NaselenoMesto>ВИНИЦА</NaselenoMesto>
+    <Latitude>41.9196617</Latitude>
+    <Longitude>22.40867609999998</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-833/2</ArhivskiBroj>
+    <TipDogovorID>9</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-1)</TipNaDogovor>
+    <DanocenBroj>4030001415329</DanocenBroj>
+    <ShifraZU>25023908</ShifraZU>
+    <NazivNaUstanova>ПЗУ ИНТЕРГИН</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>УЛ. ШУТО ОРИЗАРИ БР.56</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ШУТО ОРИЗАРИ</NaselenoMesto>
+    <Latitude>42.0290416</Latitude>
+    <Longitude>21.409702700000025</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-34/2</ArhivskiBroj>
+    <TipDogovorID>9</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-1)</TipNaDogovor>
+    <DanocenBroj>4002008504110</DanocenBroj>
+    <ShifraZU>2061401</ShifraZU>
+    <NazivNaUstanova>ПЗУ Д-Р КОСТУРСКИ</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>ЦАНЕ ВАСИЛЕВ 5  </Adresa>
+    <NaselenoMesto>БИТОЛА</NaselenoMesto>
+    <Latitude>41.0348647</Latitude>
+    <Longitude>21.337726100000054</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-37/2</ArhivskiBroj>
+    <TipDogovorID>9</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-1)</TipNaDogovor>
+    <DanocenBroj>4002993116391</DanocenBroj>
+    <ShifraZU>2011602</ShifraZU>
+    <NazivNaUstanova>ПЗУ  ПСИХОМЕДИКА</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>УЛ.КАРПОШ ЛАМЕЛА 2 БР.ЛОКАЛ 2,3,4</Adresa>
+    <NaselenoMesto>БИТОЛА</NaselenoMesto>
+    <Latitude>41.0319444</Latitude>
+    <Longitude>21.334722199999987</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-35/2</ArhivskiBroj>
+    <TipDogovorID>9</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-1)</TipNaDogovor>
+    <DanocenBroj>4002994119106</DanocenBroj>
+    <ShifraZU>2010702</ShifraZU>
+    <NazivNaUstanova>ПЗУ ОРАЛДЕНТ</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>УЛ.15 КОРПУС БР.40 </Adresa>
+    <NaselenoMesto>БИТОЛА</NaselenoMesto>
+    <Latitude>41.0216506</Latitude>
+    <Longitude>21.32236809999995</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-218/2</ArhivskiBroj>
+    <TipDogovorID>9</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-1)</TipNaDogovor>
+    <DanocenBroj>4029007136245</DanocenBroj>
+    <ShifraZU>30010402</ShifraZU>
+    <NazivNaUstanova>ПЗУ ПРИМ Д-Р АЦО НИКОЛОВ ВИДАФИ</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>УЛ.СТОЈАН МИЛЕВСКИ БР.1</Adresa>
+    <NaselenoMesto>ШТИП</NaselenoMesto>
+    <Latitude>41.749538</Latitude>
+    <Longitude>22.19635889999995</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-177/2</ArhivskiBroj>
+    <TipDogovorID>9</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-1)</TipNaDogovor>
+    <DanocenBroj>4020993112475</DanocenBroj>
+    <ShifraZU>19001002</ShifraZU>
+    <NazivNaUstanova>ПЗУ СОНЦЕ  *</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>ДАМЕ ГРУЕВ БР .Б2-2/2</Adresa>
+    <NaselenoMesto>ОХРИД</NaselenoMesto>
+    <Latitude>41.1152672</Latitude>
+    <Longitude>20.807465200000024</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-179/2</ArhivskiBroj>
+    <TipDogovorID>9</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-1)</TipNaDogovor>
+    <DanocenBroj>4020009508509</DanocenBroj>
+    <ShifraZU>19013701</ShifraZU>
+    <NazivNaUstanova>ПЗУ ПОЛИКЛИНИКА КАРДИОЛАБ МАЏАРОВ</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>НИКОЛА КАРЕВ ББ  </Adresa>
+    <NaselenoMesto>ОХРИД</NaselenoMesto>
+    <Latitude>41.12162</Latitude>
+    <Longitude>20.819440999999983</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-114/3</ArhivskiBroj>
+    <TipDogovorID>9</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-1)</TipNaDogovor>
+    <DanocenBroj>4021996101373</DanocenBroj>
+    <ShifraZU>20013602</ShifraZU>
+    <NazivNaUstanova>ПЗУ ХОСПИТАЛИЈА</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>УЛ.ТРАЈКО САНДАНСКИ  БР.2</Adresa>
+    <NaselenoMesto>ПРИЛЕП</NaselenoMesto>
+    <Latitude>41.35173</Latitude>
+    <Longitude>21.56214</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-113/2</ArhivskiBroj>
+    <TipDogovorID>9</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-1)</TipNaDogovor>
+    <DanocenBroj>4021001131712</DanocenBroj>
+    <ShifraZU>20013504</ShifraZU>
+    <NazivNaUstanova>ПЗУ  95-МЕДИКА</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>УЛ.АНДОН СЛАБЕЈКО БР.16</Adresa>
+    <NaselenoMesto>ПРИЛЕП</NaselenoMesto>
+    <Latitude>41.3400101</Latitude>
+    <Longitude>21.547924899999998</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-112/2</ArhivskiBroj>
+    <TipDogovorID>9</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-1)</TipNaDogovor>
+    <DanocenBroj>4021007152657</DanocenBroj>
+    <ShifraZU>20050602</ShifraZU>
+    <NazivNaUstanova>ПЗУ АНАСТАЗИЈА БИОМЕД</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>УЛ МАРШАЛ ТИТО БР 35</Adresa>
+    <NaselenoMesto>ПРИЛЕП</NaselenoMesto>
+    <Latitude>41.35173</Latitude>
+    <Longitude>21.56214</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-111/2</ArhivskiBroj>
+    <TipDogovorID>9</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-1)</TipNaDogovor>
+    <DanocenBroj>4021008501434</DanocenBroj>
+    <ShifraZU>20058701</ShifraZU>
+    <NazivNaUstanova>ПЗУ АЛБИМИНИ</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>УЛ.БИДИМАЖ БР.ББ</Adresa>
+    <NaselenoMesto>ПРИЛЕП</NaselenoMesto>
+    <Latitude>41.3426175</Latitude>
+    <Longitude>21.545985900000005</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-125/2</ArhivskiBroj>
+    <TipDogovorID>9</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-1)</TipNaDogovor>
+    <DanocenBroj>4021008501710</DanocenBroj>
+    <ShifraZU>20058102</ShifraZU>
+    <NazivNaUstanova>ПЗУ МЕДИКА ДР ПЕЦКО ДЕСОСКИ</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>УЛ. АНДОН СЛАБЕЈКО БР.52</Adresa>
+    <NaselenoMesto>ПРИЛЕП</NaselenoMesto>
+    <Latitude>41.3400101</Latitude>
+    <Longitude>21.547924899999998</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-139/2</ArhivskiBroj>
+    <TipDogovorID>9</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-1)</TipNaDogovor>
+    <DanocenBroj>4004994101340</DanocenBroj>
+    <ShifraZU>29000802</ShifraZU>
+    <NazivNaUstanova>ПЗУ ХИПОКРАТ- МБ</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>УЛ.ДИМИТАР ВЛАХОВ БР.59</Adresa>
+    <NaselenoMesto>ВЕЛЕС</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-834/2</ArhivskiBroj>
+    <TipDogovorID>9</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-1)</TipNaDogovor>
+    <DanocenBroj>4030004521790</DanocenBroj>
+    <ShifraZU>25026102</ShifraZU>
+    <NazivNaUstanova>ПЗУ ПОЛИКЛИНИКА ТОСПАШ</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>БУЛ.ЈАНЕ САНДАНСКИ  БР.69 Б-3</Adresa>
+    <NaselenoMesto>СКОПЈЕ - КИСЕЛА ВОДА</NaselenoMesto>
+    <Latitude>41.9880216</Latitude>
+    <Longitude>21.452106500000014</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-509/2</ArhivskiBroj>
+    <TipDogovorID>9</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-1)</TipNaDogovor>
+    <DanocenBroj>4028006149991</DanocenBroj>
+    <ShifraZU>28015302</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДР ЛИДИЈА</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>УЛ. ДИМО ГРАВРОВСКИ КАРА БР. ББ</Adresa>
+    <NaselenoMesto>ТЕТОВО</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-137/2</ArhivskiBroj>
+    <TipDogovorID>9</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-1)</TipNaDogovor>
+    <DanocenBroj>4004994100858</DanocenBroj>
+    <ShifraZU>29001002</ShifraZU>
+    <NazivNaUstanova>ПЗУ  ТРАЈКОВИ</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>УЛ.ЛАЗО ОСМАКОВ БР.9</Adresa>
+    <NaselenoMesto>ВЕЛЕС</NaselenoMesto>
+    <Latitude>41.7150073</Latitude>
+    <Longitude>21.77003149999996</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-136/2</ArhivskiBroj>
+    <TipDogovorID>9</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-1)</TipNaDogovor>
+    <DanocenBroj>4004995102021</DanocenBroj>
+    <ShifraZU>29000205</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДР-ПАНЧЕ АРСОВ</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>УЛ.11-ТИ ОКТОМВРИ БР.4</Adresa>
+    <NaselenoMesto>ВЕЛЕС</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-977/2</ArhivskiBroj>
+    <TipDogovorID>9</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-1)</TipNaDogovor>
+    <DanocenBroj>4030000403815</DanocenBroj>
+    <ShifraZU>25020108</ShifraZU>
+    <NazivNaUstanova>ПЗУ МЕДИКА ПЛУС</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>УЛ.БОЈМИЈА  БР.1 ЛОКАЛ 15</Adresa>
+    <NaselenoMesto>СКОПЈЕ - КИСЕЛА ВОДА</NaselenoMesto>
+    <Latitude>41.9897899</Latitude>
+    <Longitude>21.450151199999937</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1087/2</ArhivskiBroj>
+    <TipDogovorID>9</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-1)</TipNaDogovor>
+    <DanocenBroj>4030005540659</DanocenBroj>
+    <ShifraZU>25041802</ShifraZU>
+    <NazivNaUstanova>ПЗУ А-Е МЕДИКА</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>УЛ ЃОРЃИ ПОП ХРИСТОВ БР 4</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЧАИР</NaselenoMesto>
+    <Latitude>42.0155176</Latitude>
+    <Longitude>21.43301980000001</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-518/2</ArhivskiBroj>
+    <TipDogovorID>9</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-1)</TipNaDogovor>
+    <DanocenBroj>4028999119910</DanocenBroj>
+    <ShifraZU>28009505</ShifraZU>
+    <NazivNaUstanova>ПЗУ АЛБИМЕДИКА</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>29 НОЕМВРИ ББ</Adresa>
+    <NaselenoMesto>ТЕТОВО</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-518/2</ArhivskiBroj>
+    <TipDogovorID>9</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-1)</TipNaDogovor>
+    <DanocenBroj>4028999119910</DanocenBroj>
+    <ShifraZU>28009504</ShifraZU>
+    <NazivNaUstanova>ПЗУ АЛБИМЕДИКА</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>29 НОЕМВРИ ББ</Adresa>
+    <NaselenoMesto>ТЕТОВО</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-510/2</ArhivskiBroj>
+    <TipDogovorID>9</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-1)</TipNaDogovor>
+    <DanocenBroj>4028001126420</DanocenBroj>
+    <ShifraZU>28001702</ShifraZU>
+    <NazivNaUstanova>ПЗУ МЕДИКА</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>УЛ. ЈАНЕ САНДАНСКИ БР.98/1-1</Adresa>
+    <NaselenoMesto>ТЕТОВО</NaselenoMesto>
+    <Latitude>42.0079777</Latitude>
+    <Longitude>20.97268340000005</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-513/2</ArhivskiBroj>
+    <TipDogovorID>9</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-1)</TipNaDogovor>
+    <DanocenBroj>4028006151562</DanocenBroj>
+    <ShifraZU>28017102</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДР СЛАЃАН</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>УЛ Б.МИЛАДИНОВИ БР 1</Adresa>
+    <NaselenoMesto>ТЕТОВО</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-514/2</ArhivskiBroj>
+    <TipDogovorID>9</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-1)</TipNaDogovor>
+    <DanocenBroj>4028006149835</DanocenBroj>
+    <ShifraZU>28014602</ShifraZU>
+    <NazivNaUstanova>ПЗУ НАРВИС</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>УЛ. 29 -ТИ НОЕМВРИ БР 45</Adresa>
+    <NaselenoMesto>ТЕТОВО</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-718/2</ArhivskiBroj>
+    <TipDogovorID>9</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-1)</TipNaDogovor>
+    <DanocenBroj>4017001137470</DanocenBroj>
+    <ShifraZU>17011202</ShifraZU>
+    <NazivNaUstanova>ПЗУ ВИТА МЕДИКА ДР ПАВКА</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>УЛ БРАНКО БОГДАНСКИ-ГУЦМАН ББ</Adresa>
+    <NaselenoMesto>КУМАНОВО</NaselenoMesto>
+    <Latitude>42.1358333</Latitude>
+    <Longitude>21.71805560000007</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-719/2</ArhivskiBroj>
+    <TipDogovorID>9</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-1)</TipNaDogovor>
+    <DanocenBroj>4017994108985</DanocenBroj>
+    <ShifraZU>17010402</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДР ГОРАН ДЕНКОВСКИ</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>УЛ.ИЛИНДЕНСКА БР.5-А</Adresa>
+    <NaselenoMesto>КУМАНОВО</NaselenoMesto>
+    <Latitude>42.1339382</Latitude>
+    <Longitude>21.717562300000054</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-713/2</ArhivskiBroj>
+    <TipDogovorID>9</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-1)</TipNaDogovor>
+    <DanocenBroj>4017008504916</DanocenBroj>
+    <ShifraZU>17031304</ShifraZU>
+    <NazivNaUstanova>ПЗУ ПОЛИКЛИНИКА ПРИМА-МЕДИКУС</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>УЛ. ПИРИНСКА МАКЕДОНИЈА БР. 9</Adresa>
+    <NaselenoMesto>КУМАНОВО</NaselenoMesto>
+    <Latitude>42.13418490000001</Latitude>
+    <Longitude>21.725181099999986</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-714/2</ArhivskiBroj>
+    <TipDogovorID>9</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-1)</TipNaDogovor>
+    <DanocenBroj>4017003146310</DanocenBroj>
+    <ShifraZU>17013002</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДР ТАСЕВСКИ</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>УЛ.ЃУРО САЛАЈ БР.2</Adresa>
+    <NaselenoMesto>КУМАНОВО</NaselenoMesto>
+    <Latitude>42.1294527</Latitude>
+    <Longitude>21.707502500000032</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-720/2</ArhivskiBroj>
+    <TipDogovorID>9</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-1)</TipNaDogovor>
+    <DanocenBroj>4017994124603</DanocenBroj>
+    <ShifraZU>17012802</ShifraZU>
+    <NazivNaUstanova>ПЗУ МЕДИ РЕС</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>С.ЛИПКОВО,КУМАНОВО</Adresa>
+    <NaselenoMesto>ЛИПКОВО</NaselenoMesto>
+    <Latitude>42.1561352</Latitude>
+    <Longitude>21.587074400000006</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-303/2</ArhivskiBroj>
+    <TipDogovorID>9</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-1)</TipNaDogovor>
+    <DanocenBroj>4011999113245</DanocenBroj>
+    <ShifraZU>11000702</ShifraZU>
+    <NazivNaUstanova>ПЗУ СИМБИМЕД</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>УЛ.ЦАНО ПОП  РИСТОВ БР.36 </Adresa>
+    <NaselenoMesto>КАВАДАРЦИ</NaselenoMesto>
+    <Latitude>41.4352464</Latitude>
+    <Longitude>22.01353849999998</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-302/2</ArhivskiBroj>
+    <TipDogovorID>9</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-1)</TipNaDogovor>
+    <DanocenBroj>4011006125456</DanocenBroj>
+    <ShifraZU>11005102</ShifraZU>
+    <NazivNaUstanova>ПЗУ ЕМИ МЕДИКУС</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>УЛ.ЛЕНИНОВА ББ</Adresa>
+    <NaselenoMesto>КАВАДАРЦИ</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-305/2</ArhivskiBroj>
+    <TipDogovorID>9</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-1)</TipNaDogovor>
+    <DanocenBroj>4011995102346</DanocenBroj>
+    <ShifraZU>11000402</ShifraZU>
+    <NazivNaUstanova>ПЗУ ПОЛИКЛИНИКА МЕДИКУС 92</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>УЛ.КЛИМЕНТ ОХРИДСКИ БР.6</Adresa>
+    <NaselenoMesto>КАВАДАРЦИ</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-519/2</ArhivskiBroj>
+    <TipDogovorID>9</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-1)</TipNaDogovor>
+    <DanocenBroj>4028994113395</DanocenBroj>
+    <ShifraZU>28002006</ShifraZU>
+    <NazivNaUstanova>ПЗУ  ФЛОРЕНС</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>С.ЖЕЛИНО КП 752/3</Adresa>
+    <NaselenoMesto>ТЕТОВО</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-407/2</ArhivskiBroj>
+    <TipDogovorID>9</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-1)</TipNaDogovor>
+    <DanocenBroj>4027002133148</DanocenBroj>
+    <ShifraZU>27001202</ShifraZU>
+    <NazivNaUstanova>ПЗУ НЕУРОМЕД П.О.</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>УЛ.МАРШАЛ ТИТО БР.134</Adresa>
+    <NaselenoMesto>СТРУМИЦА</NaselenoMesto>
+    <Latitude>41.4277193</Latitude>
+    <Longitude>22.64561709999998</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-406/2-2</ArhivskiBroj>
+    <TipDogovorID>9</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-1)</TipNaDogovor>
+    <DanocenBroj>4027993105023</DanocenBroj>
+    <ShifraZU>27000802</ShifraZU>
+    <NazivNaUstanova>ПЗУ  ПОЛИКЛИНИКА ДР ЗОНКА ЈАНЕВСКА</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>УЛ.ГОЦЕ ДЕЛЧЕВ БР.49</Adresa>
+    <NaselenoMesto>СТРУМИЦА</NaselenoMesto>
+    <Latitude>41.4382144</Latitude>
+    <Longitude>22.646212600000013</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-408/2-2</ArhivskiBroj>
+    <TipDogovorID>9</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-1)</TipNaDogovor>
+    <DanocenBroj>4027007152558</DanocenBroj>
+    <ShifraZU>27012902</ShifraZU>
+    <NazivNaUstanova>ПЗУ МЕДИ - ЛАБ</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>УЛ.БРАЌА  МИЛАДИНОВИ БР.8</Adresa>
+    <NaselenoMesto>СТРУМИЦА</NaselenoMesto>
+    <Latitude>41.44191379999999</Latitude>
+    <Longitude>22.64459510000006</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-411/2-2</ArhivskiBroj>
+    <TipDogovorID>9</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-1)</TipNaDogovor>
+    <DanocenBroj>4027994106651</DanocenBroj>
+    <ShifraZU>27000202</ShifraZU>
+    <NazivNaUstanova>ПЗУ МЕДИКО ТЕХНИК-АЛЕКСАНДАР  СТРУМИЦА</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>УЛ.ЛЕНИНОВА БР.15  </Adresa>
+    <NaselenoMesto>СТРУМИЦА</NaselenoMesto>
+    <Latitude>41.4360588</Latitude>
+    <Longitude>22.63759730000004</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-677/2</ArhivskiBroj>
+    <TipDogovorID>9</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-1)</TipNaDogovor>
+    <DanocenBroj>5007998109054</DanocenBroj>
+    <ShifraZU>7000302</ShifraZU>
+    <NazivNaUstanova>ПЗУ БЕНЕЛУ ИНТЕРНИСТИКА</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>УЛ.ЛЕНИНГРАДСКА БР.14</Adresa>
+    <NaselenoMesto>ГОСТИВАР</NaselenoMesto>
+    <Latitude>41.7957021</Latitude>
+    <Longitude>20.906197900000052</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-508/2</ArhivskiBroj>
+    <TipDogovorID>9</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-1)</TipNaDogovor>
+    <DanocenBroj>4028001126403</DanocenBroj>
+    <ShifraZU>28002802</ShifraZU>
+    <NazivNaUstanova>ПЗУ  БАЛТА -МЕДИКА</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>УЛ. ПИРОК ББ, ПИРОК </Adresa>
+    <NaselenoMesto>ПИРОК</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-582/2</ArhivskiBroj>
+    <TipDogovorID>9</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-1)</TipNaDogovor>
+    <DanocenBroj>4022993101484</DanocenBroj>
+    <ShifraZU>21000302</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДР МИЈАЛЧО АНДОНОВСКИ</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>УЛ НИКОЛА КАРЕВ БР 23</Adresa>
+    <NaselenoMesto>ПРОБИШТИП</NaselenoMesto>
+    <Latitude>41.9914505</Latitude>
+    <Longitude>22.187232999999992</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-675/2</ArhivskiBroj>
+    <TipDogovorID>9</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-1)</TipNaDogovor>
+    <DanocenBroj>4007004128620</DanocenBroj>
+    <ShifraZU>7002302</ShifraZU>
+    <NazivNaUstanova>ПЗУ РОЈАЛ МЕДИКА</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>УЛ.ГОЦЕ ДЕЛЧЕВ БР.84</Adresa>
+    <NaselenoMesto>ГОСТИВАР</NaselenoMesto>
+    <Latitude>41.79630239999999</Latitude>
+    <Longitude>20.910791300000028</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-698/2</ArhivskiBroj>
+    <TipDogovorID>9</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-1)</TipNaDogovor>
+    <DanocenBroj>4012004117487</DanocenBroj>
+    <ShifraZU>12000604</ShifraZU>
+    <NazivNaUstanova>ПЗУ ПОЛИКЛИНИКА ПРИМА МЕДИКА</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>УЛ.УЖИЧКА РЕПУБЛИКА БР.ББ</Adresa>
+    <NaselenoMesto>КИЧЕВО</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-696/2</ArhivskiBroj>
+    <TipDogovorID>9</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-1)</TipNaDogovor>
+    <DanocenBroj>4012006121317</DanocenBroj>
+    <ShifraZU>12005202</ShifraZU>
+    <NazivNaUstanova>ПЗУ Д-Р АФРДИТА-РАЏА</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>УЛ.11-ТИ СЕПТЕМВРИ БР.106</Adresa>
+    <NaselenoMesto>КИЧЕВО</NaselenoMesto>
+    <Latitude>41.5105626</Latitude>
+    <Longitude>20.955052499999965</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-365/2</ArhivskiBroj>
+    <TipDogovorID>9</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-1)</TipNaDogovor>
+    <DanocenBroj>4013006121810</DanocenBroj>
+    <ShifraZU>13073802</ShifraZU>
+    <NazivNaUstanova>ПЗУ Д-Р АПОСТОЛОВСКИ</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>УЛ.НИКОЛА ВАПЦАРОВ БР.8-1/4</Adresa>
+    <NaselenoMesto>КОЧАНИ</NaselenoMesto>
+    <Latitude>41.9142644</Latitude>
+    <Longitude>22.42956389999995</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-352/2</ArhivskiBroj>
+    <TipDogovorID>9</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-1)</TipNaDogovor>
+    <DanocenBroj>4013998107910</DanocenBroj>
+    <ShifraZU>13070903</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДР ШУПЕРЛИСКИ</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>УЛ.РАДЕ КРАТОВЧЕ БР.2</Adresa>
+    <NaselenoMesto>КОЧАНИ</NaselenoMesto>
+    <Latitude>41.9240992</Latitude>
+    <Longitude>22.411473699999988</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-790/2</ArhivskiBroj>
+    <TipDogovorID>9</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-1)</TipNaDogovor>
+    <DanocenBroj>4015996106391</DanocenBroj>
+    <ShifraZU>15000202</ShifraZU>
+    <NazivNaUstanova>ПЗУ ПОЛИКЛИНИКА МЕДИКА</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>УЛ.ЈАНЕ САНДАНСКИ БР.1</Adresa>
+    <NaselenoMesto>КРИВА ПАЛАНКА</NaselenoMesto>
+    <Latitude>42.2058454</Latitude>
+    <Longitude>22.33079650000002</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-975/2</ArhivskiBroj>
+    <TipDogovorID>9</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-1)</TipNaDogovor>
+    <DanocenBroj>4030996218164</DanocenBroj>
+    <ShifraZU>25012402</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДИЈАГНОСТИКА-ФАРМАХЕМ</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>УЛ. 4-ТИ ЈУЛИ БР. 2/2-ЛОК. 3</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЃОРЧЕ ПЕТРОВ</NaselenoMesto>
+    <Latitude>42.0085595</Latitude>
+    <Longitude>21.346195699999953</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-979/2</ArhivskiBroj>
+    <TipDogovorID>9</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-1)</TipNaDogovor>
+    <DanocenBroj>4030007639679</DanocenBroj>
+    <ShifraZU>25093601</ShifraZU>
+    <NazivNaUstanova>ПЗУ МЕДИКО ПОИНТ</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>УЛ 4-ти ЈУЛИ БР.49</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЃОРЧЕ ПЕТРОВ</NaselenoMesto>
+    <Latitude>42.0085595</Latitude>
+    <Longitude>21.346195699999953</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1127/2</ArhivskiBroj>
+    <TipDogovorID>9</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-1)</TipNaDogovor>
+    <DanocenBroj>4030006615342</DanocenBroj>
+    <ShifraZU>25069905</ShifraZU>
+    <NazivNaUstanova>ПЗУ ПРЕВЕМЕД</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>УЛ.ЈАНИ ЛУКРОВСКИ БР.3/1</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ГАЗИ БАБА</NaselenoMesto>
+    <Latitude>42.00266</Latitude>
+    <Longitude>21.465206800000033</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-974/2</ArhivskiBroj>
+    <TipDogovorID>9</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-1)</TipNaDogovor>
+    <DanocenBroj>4030004497784</DanocenBroj>
+    <ShifraZU>25012202</ShifraZU>
+    <NazivNaUstanova>ПЗУ ЕХОЛАБ</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>УЛ.СПИРО ЦРНЕ БР.6</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ГАЗИ БАБА</NaselenoMesto>
+    <Latitude>42.0118663</Latitude>
+    <Longitude>21.512831000000006</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1161/2</ArhivskiBroj>
+    <TipDogovorID>9</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-1)</TipNaDogovor>
+    <DanocenBroj>4030993223540</DanocenBroj>
+    <ShifraZU>25001902</ShifraZU>
+    <NazivNaUstanova>ПЗУ  ДР МИРЈАНА АНДОНОВСКА</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>ХРИСТОФЕР ЖЕФАРОВИЌ б.б.</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ГАЗИ БАБА</NaselenoMesto>
+    <Latitude>42.0135163</Latitude>
+    <Longitude>21.514460600000007</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1072/2</ArhivskiBroj>
+    <TipDogovorID>9</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-1)</TipNaDogovor>
+    <DanocenBroj>4030998344698</DanocenBroj>
+    <ShifraZU>25012102</ShifraZU>
+    <NazivNaUstanova>ПЗУ ПОЛИКЛИНИКА ЗЕГИН МЕДИКА </NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>УЛ.ЖЕЛЕЗНИЧКА ББ</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9973462</Latitude>
+    <Longitude>21.42799560000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-828/2</ArhivskiBroj>
+    <TipDogovorID>9</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-1)</TipNaDogovor>
+    <DanocenBroj>4030005569363</DanocenBroj>
+    <ShifraZU>25049101</ShifraZU>
+    <NazivNaUstanova>ПЗУ АВИЦЕНА ЛАБОРАТОРИЈА</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>УЛ.ШАРСКИ ОДРЕДИ БР.7</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.99166779999999</Latitude>
+    <Longitude>21.420700600000032</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-9091/3</ArhivskiBroj>
+    <TipDogovorID>9</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-1)</TipNaDogovor>
+    <DanocenBroj>4007006135691</DanocenBroj>
+    <ShifraZU>7007602</ShifraZU>
+    <NazivNaUstanova>ПЗУ НОВА МЕДИКА</NazivNaUstanova>
+    <Dejnosti>БИОХЕМИСКА ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>УЛ. ИЛИНДЕНСКА ЛОКАЛ 37 </Adresa>
+    <NaselenoMesto>ГОСТИВАР</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-678/2</ArhivskiBroj>
+    <TipDogovorID>9</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-1)</TipNaDogovor>
+    <DanocenBroj>4007996102075</DanocenBroj>
+    <ShifraZU>7002202</ShifraZU>
+    <NazivNaUstanova>ПЗУ КАРДИОМЕД ФС</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>УЛ.БРАЌА ГИНОСКИ БР.227</Adresa>
+    <NaselenoMesto>ГОСТИВАР</NaselenoMesto>
+    <Latitude>41.7937725</Latitude>
+    <Longitude>20.90789319999999</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-516/2</ArhivskiBroj>
+    <TipDogovorID>9</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-1)</TipNaDogovor>
+    <DanocenBroj>4028006150345</DanocenBroj>
+    <ShifraZU>28015002</ShifraZU>
+    <NazivNaUstanova>ПЗУ ЛИНДА МЕДИКА</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>УЛ. 101 БР. ББ, РОГАЧЕВО</Adresa>
+    <NaselenoMesto>ЈЕГУНОВЦЕ</NaselenoMesto>
+    <Latitude>42.0736089</Latitude>
+    <Longitude>21.121057599999972</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-281/2</ArhivskiBroj>
+    <TipDogovorID>9</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-1)</TipNaDogovor>
+    <DanocenBroj>4024006108670</DanocenBroj>
+    <ShifraZU>23004102</ShifraZU>
+    <NazivNaUstanova>ПЗУ Д-Р ПАШКОВСКИ</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>УЛ.ЛЕНИНОВА ЗГРАДА 16 ЛОКАЛ 5</Adresa>
+    <NaselenoMesto>РЕСЕН</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-395/2</ArhivskiBroj>
+    <TipDogovorID>9</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-1)</TipNaDogovor>
+    <DanocenBroj>4019997104762</DanocenBroj>
+    <ShifraZU>18000302</ShifraZU>
+    <NazivNaUstanova>ПЗУ  ХИПОКРАТ</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>ИКО ЗАРОВ 6  </Adresa>
+    <NaselenoMesto>НЕГОТИНО</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-393/2</ArhivskiBroj>
+    <TipDogovorID>9</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-1)</TipNaDogovor>
+    <DanocenBroj>4019000106531</DanocenBroj>
+    <ShifraZU>18000502</ShifraZU>
+    <NazivNaUstanova>ПЗУ ЖАНА</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>УЛ.ГОЦЕ ДЕЛЧЕВ БР.1</Adresa>
+    <NaselenoMesto>НЕГОТИНО</NaselenoMesto>
+    <Latitude>41.4855387</Latitude>
+    <Longitude>22.08788389999995</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-394/2</ArhivskiBroj>
+    <TipDogovorID>9</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-1)</TipNaDogovor>
+    <DanocenBroj>4019994103226</DanocenBroj>
+    <ShifraZU>18000402</ShifraZU>
+    <NazivNaUstanova>ПЗУ ГАЛМЕДИКУС</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>УЛ.НИКОЛА ПЕТРОВ БР.2</Adresa>
+    <NaselenoMesto>НЕГОТИНО</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-624/2</ArhivskiBroj>
+    <TipDogovorID>9</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-1)</TipNaDogovor>
+    <DanocenBroj>4009998103233</DanocenBroj>
+    <ShifraZU>9000202</ShifraZU>
+    <NazivNaUstanova>ПЗУ АКУС МЕДИКА-ДЕЛЧЕВО</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>УЛ.4 ТИ ЈУЛИ</Adresa>
+    <NaselenoMesto>ДЕЛЧЕВО</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-697/2</ArhivskiBroj>
+    <TipDogovorID>9</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-1)</TipNaDogovor>
+    <DanocenBroj>4012003115227</DanocenBroj>
+    <ShifraZU>12000404</ShifraZU>
+    <NazivNaUstanova>ПЗУ ЕРА МЕДИКА</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>УЛ. ВЕЛЕ ЗМЕЈКОВСКИ ББ.</Adresa>
+    <NaselenoMesto>КИЧЕВО</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-673/2</ArhivskiBroj>
+    <TipDogovorID>9</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-1)</TipNaDogovor>
+    <DanocenBroj>4007006136752</DanocenBroj>
+    <ShifraZU>7008202</ShifraZU>
+    <NazivNaUstanova>ПЗУ АРБ-МЕДИКА</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>УЛ.МАЈОР ЧЕДЕ ФИЛИПОВСКИ БР.244</Adresa>
+    <NaselenoMesto>ГОСТИВАР</NaselenoMesto>
+    <Latitude>41.79285360000001</Latitude>
+    <Longitude>20.90485609999996</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-116/2</ArhivskiBroj>
+    <TipDogovorID>9</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-1)</TipNaDogovor>
+    <DanocenBroj>4021004142944</DanocenBroj>
+    <ShifraZU>20012603</ShifraZU>
+    <NazivNaUstanova>ПЗУ  ПРИМ ДР ЃОКО</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>УЛ. БИТОЛСКА БР. 1 </Adresa>
+    <NaselenoMesto>ПРИЛЕП</NaselenoMesto>
+    <Latitude>41.3410302</Latitude>
+    <Longitude>21.556131400000027</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-412/2-2</ArhivskiBroj>
+    <TipDogovorID>9</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-1)</TipNaDogovor>
+    <DanocenBroj>4027006150306</DanocenBroj>
+    <ShifraZU>27008904</ShifraZU>
+    <NazivNaUstanova>ПЗУ ПОЛИКЛИНИКА ЕЛИ-МЕДИКА</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>УЛ.БЛАЖЕ КОНЕСКИ БР. 10</Adresa>
+    <NaselenoMesto>РАДОВИШ</NaselenoMesto>
+    <Latitude>41.6358186</Latitude>
+    <Longitude>22.46622590000004</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-412/2-2</ArhivskiBroj>
+    <TipDogovorID>9</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-1)</TipNaDogovor>
+    <DanocenBroj>4027006150306</DanocenBroj>
+    <ShifraZU>27008902</ShifraZU>
+    <NazivNaUstanova>ПЗУ ПОЛИКЛИНИКА ЕЛИ-МЕДИКА</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>УЛ МАВРОВО БР. 7</Adresa>
+    <NaselenoMesto>СТРУМИЦА</NaselenoMesto>
+    <Latitude>41.4350976</Latitude>
+    <Longitude>22.64074089999997</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-178/2</ArhivskiBroj>
+    <TipDogovorID>9</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-1)</TipNaDogovor>
+    <DanocenBroj>4020006146525</DanocenBroj>
+    <ShifraZU>19010103</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДАРОН  МЕД</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>ТУРИСТИЧКА БР.73</Adresa>
+    <NaselenoMesto>ОХРИД</NaselenoMesto>
+    <Latitude>41.1173125</Latitude>
+    <Longitude>20.80065430000002</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-115/2</ArhivskiBroj>
+    <TipDogovorID>9</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-1)</TipNaDogovor>
+    <DanocenBroj>4021004142952</DanocenBroj>
+    <ShifraZU>20013803</ShifraZU>
+    <NazivNaUstanova>ПЗУ  ПОЛИКЛИНИКА ПРОМЕДИКА</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>С.ОБРШАНИ КРИВОГАШТАНИ</Adresa>
+    <NaselenoMesto>ОБРШАНИ</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-378/2</ArhivskiBroj>
+    <TipDogovorID>9</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-1)</TipNaDogovor>
+    <DanocenBroj>4023999108355</DanocenBroj>
+    <ShifraZU>22000502</ShifraZU>
+    <NazivNaUstanova>ПЗУ ИНТЕРМЕДИКА</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>УЛ.22-РИ ОКТОМВРИ БР.43</Adresa>
+    <NaselenoMesto>РАДОВИШ</NaselenoMesto>
+    <Latitude>41.6365194</Latitude>
+    <Longitude>22.46322209999994</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-830/2</ArhivskiBroj>
+    <TipDogovorID>9</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-1)</TipNaDogovor>
+    <DanocenBroj>4030999367438</DanocenBroj>
+    <ShifraZU>25020602</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДЕНТИЦИЈА</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>УЛ.ВАСИЛ ЃОРГОВ БР.18/2-1</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9928199</Latitude>
+    <Longitude>21.41717110000002</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-835/2</ArhivskiBroj>
+    <TipDogovorID>9</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-1)</TipNaDogovor>
+    <DanocenBroj>4030997139926</DanocenBroj>
+    <ShifraZU>25048302</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ГЕРОНТОЛОШКИ ЗАВОД 13 НОЕМВРИ СКОПЈЕ</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>УЛ 4-ТИ ЈУЛИ 129</Adresa>
+    <NaselenoMesto>СКОПЈЕ - КАРПОШ</NaselenoMesto>
+    <Latitude>42.0085595</Latitude>
+    <Longitude>21.346195699999953</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-715/2</ArhivskiBroj>
+    <TipDogovorID>9</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-1)</TipNaDogovor>
+    <DanocenBroj>4017994101026</DanocenBroj>
+    <ShifraZU>17012405</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДР.СТОЈМАНОВСКИ </NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>УЛ.ПИОНЕРСКА ББ</Adresa>
+    <NaselenoMesto>КУМАНОВО</NaselenoMesto>
+    <Latitude>42.1358333</Latitude>
+    <Longitude>21.71805560000007</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-829/2</ArhivskiBroj>
+    <TipDogovorID>9</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-1)</TipNaDogovor>
+    <DanocenBroj>4030000401537</DanocenBroj>
+    <ShifraZU>25018004</ShifraZU>
+    <NazivNaUstanova>ПЗУ АДРИАЛАБ</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>УЛ.КРУШЕВСКА РЕПУБЛИКА БР.345/1</Adresa>
+    <NaselenoMesto>ТЕТОВО</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-829/2</ArhivskiBroj>
+    <TipDogovorID>9</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-1)</TipNaDogovor>
+    <DanocenBroj>4030000401537</DanocenBroj>
+    <ShifraZU>25018003</ShifraZU>
+    <NazivNaUstanova>ПЗУ АДРИАЛАБ</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>УЛ.МАРШАЛ ТИТО БР.132</Adresa>
+    <NaselenoMesto>БИТОЛА</NaselenoMesto>
+    <Latitude>41.0319444</Latitude>
+    <Longitude>21.334722199999987</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-246/4</ArhivskiBroj>
+    <TipDogovorID>9</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-1)</TipNaDogovor>
+    <DanocenBroj>4029006133714</DanocenBroj>
+    <ShifraZU>30001002</ShifraZU>
+    <NazivNaUstanova>ПЗУ ПОЛИКЛИНИКА 1 Д-Р СТОЈАН МАРОЛОВ</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>УЛ.ПИРИНСКА БР.92</Adresa>
+    <NaselenoMesto>ШТИП</NaselenoMesto>
+    <Latitude>41.7419593</Latitude>
+    <Longitude>22.195484599999986</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-721/2</ArhivskiBroj>
+    <TipDogovorID>9</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-1)</TipNaDogovor>
+    <DanocenBroj>4017995114229</DanocenBroj>
+    <ShifraZU>17011702</ShifraZU>
+    <NazivNaUstanova>ПЗУ ПОЛИКЛИНИКА НЕОМЕДИКА</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>УЛ.11-ТИ НОЕМВРИ БР.38</Adresa>
+    <NaselenoMesto>КУМАНОВО</NaselenoMesto>
+    <Latitude>42.1398708</Latitude>
+    <Longitude>21.69964540000001</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-829/2</ArhivskiBroj>
+    <TipDogovorID>9</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-1)</TipNaDogovor>
+    <DanocenBroj>4030000401537</DanocenBroj>
+    <ShifraZU>25018002</ShifraZU>
+    <NazivNaUstanova>ПЗУ АДРИАЛАБ</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>УЛ.ДРЕНАК БР.6</Adresa>
+    <NaselenoMesto>СКОПЈЕ - КИСЕЛА ВОДА</NaselenoMesto>
+    <Latitude>41.98671239999999</Latitude>
+    <Longitude>21.434406699999954</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-976/2-2</ArhivskiBroj>
+    <TipDogovorID>9</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-1)</TipNaDogovor>
+    <DanocenBroj>4030994249003</DanocenBroj>
+    <ShifraZU>25019902</ShifraZU>
+    <NazivNaUstanova>ПЗУ АСКЛЕПИОС-2</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>БУЛ.ВИДОЕ СМИЛЕВСКИ БАТО БР.43</Adresa>
+    <NaselenoMesto>СКОПЈЕ - АЕРОДРОМ</NaselenoMesto>
+    <Latitude>41.9836673</Latitude>
+    <Longitude>21.480277800000067</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-954/2</ArhivskiBroj>
+    <TipDogovorID>9</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-1)</TipNaDogovor>
+    <DanocenBroj>4001997103409</DanocenBroj>
+    <ShifraZU>1070402</ShifraZU>
+    <NazivNaUstanova>ПЗУ РУЖА БИОЛАБ</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>МАЛДИНСКИ КЕЈ БР.2</Adresa>
+    <NaselenoMesto>БЕРОВО</NaselenoMesto>
+    <Latitude>41.6661929</Latitude>
+    <Longitude>22.762882999999988</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-124/2</ArhivskiBroj>
+    <TipDogovorID>9</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-1)</TipNaDogovor>
+    <DanocenBroj>4021004142782</DanocenBroj>
+    <ShifraZU>20027902</ShifraZU>
+    <NazivNaUstanova>ПЗУ ПОЛИКЛИНИКА АЛТЕА</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>УЛ. ОРДЕ ЧОПЕЛА БР.4</Adresa>
+    <NaselenoMesto>ПРИЛЕП</NaselenoMesto>
+    <Latitude>41.3420585</Latitude>
+    <Longitude>21.554636699999946</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-511/2</ArhivskiBroj>
+    <TipDogovorID>9</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-1)</TipNaDogovor>
+    <DanocenBroj>4028993113120</DanocenBroj>
+    <ShifraZU>28002502</ShifraZU>
+    <NazivNaUstanova>ПЗУ БА МИ КОР МЕДИКА</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>УЛ.125 БР. 7</Adresa>
+    <NaselenoMesto>ТЕТОВО</NaselenoMesto>
+    <Latitude>42.0288112</Latitude>
+    <Longitude>20.99695440000005</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1073/2</ArhivskiBroj>
+    <TipDogovorID>9</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-1)</TipNaDogovor>
+    <DanocenBroj>4044010502359</DanocenBroj>
+    <ShifraZU>25119902</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДИАМЕД</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>УЛ.ЃОРЧЕ ПЕТРОВ  БР.23</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЃОРЧЕ ПЕТРОВ</NaselenoMesto>
+    <Latitude>41.9973462</Latitude>
+    <Longitude>21.42799560000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-517/2</ArhivskiBroj>
+    <TipDogovorID>9</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-1)</TipNaDogovor>
+    <DanocenBroj>4028005148150</DanocenBroj>
+    <ShifraZU>28012503</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДР ВАНЧО -  ВРАТНИЦА</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>С.ВРАТНИЦА</Adresa>
+    <NaselenoMesto>ЈЕГУНОВЦЕ</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-215/2</ArhivskiBroj>
+    <TipDogovorID>9</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-1)</TipNaDogovor>
+    <DanocenBroj>4014994100616</DanocenBroj>
+    <ShifraZU>14000202</ShifraZU>
+    <NazivNaUstanova>ПЗУ БЕБИ МЕДИКА</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>УЛ. НИКОЛА ТЕСЛА БР.4</Adresa>
+    <NaselenoMesto>КРАТОВО</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-597/2</ArhivskiBroj>
+    <TipDogovorID>9</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-1)</TipNaDogovor>
+    <DanocenBroj>4026006133774</DanocenBroj>
+    <ShifraZU>26005903</ShifraZU>
+    <NazivNaUstanova>ПЗУ ПОЛИКЛИНИКА МЕНИКС</NazivNaUstanova>
+    <Dejnosti>БИОХЕМИСКА ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>С. ЛАБУНИШТА</Adresa>
+    <NaselenoMesto>ЛАБУНИШТА</NaselenoMesto>
+    <Latitude>41.2687996</Latitude>
+    <Longitude>20.593131800000037</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-413/2-2</ArhivskiBroj>
+    <TipDogovorID>9</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-1)</TipNaDogovor>
+    <DanocenBroj>4027994116762</DanocenBroj>
+    <ShifraZU>27000407</ShifraZU>
+    <NazivNaUstanova>ПЗУ ПОЛИКЛИНИКА МЕДИКА СТРУМИЦА</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>ПАНЧЕ ПЕШЕВ 26</Adresa>
+    <NaselenoMesto>СТРУМИЦА</NaselenoMesto>
+    <Latitude>41.439555</Latitude>
+    <Longitude>22.642728199999965</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-975/2</ArhivskiBroj>
+    <TipDogovorID>9</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-1)</TipNaDogovor>
+    <DanocenBroj>4030996218164</DanocenBroj>
+    <ShifraZU>25012401</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДИЈАГНОСТИКА-ФАРМАХЕМ</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>БУЛ.ЈАНЕ САНДАНСКИ БР.65</Adresa>
+    <NaselenoMesto>СКОПЈЕ - АЕРОДРОМ</NaselenoMesto>
+    <Latitude>41.9880216</Latitude>
+    <Longitude>21.452106500000014</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1088/2</ArhivskiBroj>
+    <TipDogovorID>9</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-1)</TipNaDogovor>
+    <DanocenBroj>4030992103966</DanocenBroj>
+    <ShifraZU>25012519</ShifraZU>
+    <NazivNaUstanova>ПЗУ ПОЛИКЛИНИКА МЕДИКА</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>БУЛ.ПАРТИЗАНСКИ ОДРЕДИ БР.42</Adresa>
+    <NaselenoMesto>СКОПЈЕ - КАРПОШ</NaselenoMesto>
+    <Latitude>41.9966854</Latitude>
+    <Longitude>21.42677309999999</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-676/2</ArhivskiBroj>
+    <TipDogovorID>9</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-1)</TipNaDogovor>
+    <DanocenBroj>4007005132087</DanocenBroj>
+    <ShifraZU>7005402</ShifraZU>
+    <NazivNaUstanova>ПЗУ БЛЕНДА МЕДИКА</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>УЛ.ЈНА БР.292</Adresa>
+    <NaselenoMesto>ГОСТИВАР</NaselenoMesto>
+    <Latitude>41.794835</Latitude>
+    <Longitude>20.897166900000002</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1155/2</ArhivskiBroj>
+    <TipDogovorID>9</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-1)</TipNaDogovor>
+    <DanocenBroj>4082010504776</DanocenBroj>
+    <ShifraZU>25123401</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДИЈАГ БИОХЕМ ЛАБОРАТОРИЈА БИОХЕМИЈА ЛАБ</NazivNaUstanova>
+    <Dejnosti>БИОХЕМИСКА ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>УЛ. БЛАГОЈА ПАРОВИЌ 1/1 ЛОК 4</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЧАИР</NaselenoMesto>
+    <Latitude>41.9973462</Latitude>
+    <Longitude>21.42799560000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-409/2</ArhivskiBroj>
+    <TipDogovorID>9</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-1)</TipNaDogovor>
+    <DanocenBroj>4027994116711</DanocenBroj>
+    <ShifraZU>27000304</ShifraZU>
+    <NazivNaUstanova>ПЗУ  МЕДИКУС</NazivNaUstanova>
+    <Dejnosti>БИОХЕМИСКА ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>УЛ. МАРШАЛ ТИТО БР. 174 </Adresa>
+    <NaselenoMesto>СТРУМИЦА</NaselenoMesto>
+    <Latitude>41.4277193</Latitude>
+    <Longitude>22.64561709999998</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-512/2</ArhivskiBroj>
+    <TipDogovorID>9</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-1)</TipNaDogovor>
+    <DanocenBroj>4028006150434</DanocenBroj>
+    <ShifraZU>28013002</ShifraZU>
+    <NazivNaUstanova>ПЗУ ОРД. ПО ОПШТА МЕДИЦИНА МЕРКУР СО БИОХЕМИСКИ ЛАБОРАТОРИИ ЛАОР С. СЕЛЦЕ, ТЕТОВО</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>УЛ.102 БР.15</Adresa>
+    <NaselenoMesto>ТЕТОВО</NaselenoMesto>
+    <Latitude>42.0288112</Latitude>
+    <Longitude>20.99695440000005</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-512/2</ArhivskiBroj>
+    <TipDogovorID>9</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-1)</TipNaDogovor>
+    <DanocenBroj>4028006150434</DanocenBroj>
+    <ShifraZU>28013004</ShifraZU>
+    <NazivNaUstanova>ПЗУ ОРД. ПО ОПШТА МЕДИЦИНА МЕРКУР СО БИОХЕМИСКИ ЛАБОРАТОРИИ ЛАОР С. СЕЛЦЕ, ТЕТОВО</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>29-ТИ НОЕМВРИ 59  </Adresa>
+    <NaselenoMesto>ТЕТОВО</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-716/2</ArhivskiBroj>
+    <TipDogovorID>9</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-1)</TipNaDogovor>
+    <DanocenBroj>4017997127760</DanocenBroj>
+    <ShifraZU>17012902</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДР ТЕУТА</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>ХРИСТИЈАН ТОДОРОСКИ БР 43</Adresa>
+    <NaselenoMesto>КУМАНОВО</NaselenoMesto>
+    <Latitude>42.1339234</Latitude>
+    <Longitude>21.71052050000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-717/2</ArhivskiBroj>
+    <TipDogovorID>9</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-1)</TipNaDogovor>
+    <DanocenBroj>4017006159324</DanocenBroj>
+    <ShifraZU>17025402</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДР ФИДАНКА РИЗИНСКА</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>УЛ.НИКОЛА ТЕСЛА БР.36</Adresa>
+    <NaselenoMesto>КУМАНОВО</NaselenoMesto>
+    <Latitude>42.1448039</Latitude>
+    <Longitude>21.717605100000014</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-304/2</ArhivskiBroj>
+    <TipDogovorID>9</TipDogovorID>
+    <TipNaDogovor>Лабораториски услуги  (ЛУ-1)</TipNaDogovor>
+    <DanocenBroj>4011995108743</DanocenBroj>
+    <ShifraZU>11000502</ShifraZU>
+    <NazivNaUstanova>ПЗУ РИЈА МЕДИКА</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА</Dejnosti>
+    <Adresa>БУЛЕВАР МАКЕДОНИЈА БР.7/3-1</Adresa>
+    <NaselenoMesto>КАВАДАРЦИ</NaselenoMesto>
+    <Latitude>41.4409791</Latitude>
+    <Longitude>22.01144899999997</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+</Dogovori>

@@ -1,0 +1,168 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dogovori>
+  <Dogovor>
+    <ArhivskiBroj>09-1187/3</ArhivskiBroj>
+    <TipDogovorID>14</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Институти)</TipNaDogovor>
+    <DanocenBroj>4030952263278</DanocenBroj>
+    <NazivNaUstanova>ЈЗУ ИНСТИТУТ ЗА ТРАНСФУЗИОНА МЕДИЦИНА НА Р.М</NazivNaUstanova>
+    <Dejnosti>ТРАНСФУЗИОЛОГИЈА</Dejnosti>
+    <Adresa>САМОБОРСКА ББ  </Adresa>
+    <NaselenoMesto>ВЕЛЕС</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1169/3</ArhivskiBroj>
+    <TipDogovorID>14</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Институти)</TipNaDogovor>
+    <DanocenBroj>4030982108064</DanocenBroj>
+    <ShifraZU>25048002</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ИНСТИТУТ ЗА ЈАВНО ЗДРАВЈЕ НА Р. МАКЕДОНИЈА</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА СО МИКРОБИОЛОГИЈА</Dejnosti>
+    <Adresa>50-ТА ДИВИЗИЈА БР.6</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9904279</Latitude>
+    <Longitude>21.425463900000068</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1187/3</ArhivskiBroj>
+    <TipDogovorID>14</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Институти)</TipNaDogovor>
+    <DanocenBroj>4030952263278</DanocenBroj>
+    <ShifraZU>25055102</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ИНСТИТУТ ЗА ТРАНСФУЗИОНА МЕДИЦИНА НА Р.М</NazivNaUstanova>
+    <Dejnosti>ТРАНСФУЗИОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.ВОДЊАНСКА 17</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9921921</Latitude>
+    <Longitude>21.423597299999983</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1085/3</ArhivskiBroj>
+    <TipDogovorID>14</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Институти)</TipNaDogovor>
+    <DanocenBroj>4030007645610</DanocenBroj>
+    <ShifraZU>25094001</ShifraZU>
+    <NazivNaUstanova>ЈЗУ УНИВЕРЗИТЕТСКА КЛИНИКА ЗА КЛ. БИОХЕМИЈА</NazivNaUstanova>
+    <Dejnosti>КЛНИЧКА БИОХЕМИЈА</Dejnosti>
+    <Adresa>УЛ.ВОДЊАНСКА БР.17</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9921921</Latitude>
+    <Longitude>21.423597299999983</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1173/3</ArhivskiBroj>
+    <TipDogovorID>14</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Институти)</TipNaDogovor>
+    <DanocenBroj>4030008027839</DanocenBroj>
+    <ShifraZU>25110901</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ИНСТИТУТ ЗА МЕДИЦИНА НА ТРУД НА РМ</NazivNaUstanova>
+    <Dejnosti>МЕДИЦИНА НА ТРУДОТ, ОСТАНАТИ ДЕЈНОСТИ</Dejnosti>
+    <Adresa>УЛ.ВТОРА МАКЕДОНСКА БРИГАДА БР;43</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9973462</Latitude>
+    <Longitude>21.42799560000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1173/3</ArhivskiBroj>
+    <TipDogovorID>14</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Институти)</TipNaDogovor>
+    <DanocenBroj>4030008027839</DanocenBroj>
+    <ShifraZU>25110902</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ИНСТИТУТ ЗА МЕДИЦИНА НА ТРУД НА РМ</NazivNaUstanova>
+    <Dejnosti>МЕДИЦИНА НА ТРУДОТ, ОСТАНАТИ ДЕЈНОСТИ</Dejnosti>
+    <Adresa>УЛ.ВТОРА МАКЕДОНСКА БРИГАДА БР;43</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9973462</Latitude>
+    <Longitude>21.42799560000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1133/3</ArhivskiBroj>
+    <TipDogovorID>14</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Институти)</TipNaDogovor>
+    <DanocenBroj>4080009100154</DanocenBroj>
+    <ShifraZU>25123802</ShifraZU>
+    <NazivNaUstanova>УНИВЕРЗИТЕТ СВ.КИРИЛ И МЕТОДИЈ-МЕДИЦИНСКИ ФАКУЛТЕТ</NazivNaUstanova>
+    <Dejnosti>ИМУНОЛОГИЈА, МЕДИЦИНСКА БИОХЕМИЈА, МИКРОБИОЛОГИЈА, ОСТАНАТИ ДЕЈНОСТИ, ПАТОЛОШКА АНАТОМИЈА, СПОРТСКА МЕДИЦИНА, СУДСКА МЕДИЦИНА</Dejnosti>
+    <Adresa>50 ДИВИЗИЈА 6</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9898748</Latitude>
+    <Longitude>21.426381600000013</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1133/3</ArhivskiBroj>
+    <TipDogovorID>14</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Институти)</TipNaDogovor>
+    <DanocenBroj>4080009100154</DanocenBroj>
+    <ShifraZU>25123803</ShifraZU>
+    <NazivNaUstanova>УНИВЕРЗИТЕТ СВ.КИРИЛ И МЕТОДИЈ-МЕДИЦИНСКИ ФАКУЛТЕТ</NazivNaUstanova>
+    <Dejnosti>ИМУНОЛОГИЈА, МЕДИЦИНСКА БИОХЕМИЈА, МИКРОБИОЛОГИЈА, ОСТАНАТИ ДЕЈНОСТИ, ПАТОЛОШКА АНАТОМИЈА, СПОРТСКА МЕДИЦИНА, СУДСКА МЕДИЦИНА</Dejnosti>
+    <Adresa>50 ДИВИЗИЈА 6</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9898748</Latitude>
+    <Longitude>21.426381600000013</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1133/3</ArhivskiBroj>
+    <TipDogovorID>14</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Институти)</TipNaDogovor>
+    <DanocenBroj>4080009100154</DanocenBroj>
+    <ShifraZU>25123807</ShifraZU>
+    <NazivNaUstanova>УНИВЕРЗИТЕТ СВ.КИРИЛ И МЕТОДИЈ-МЕДИЦИНСКИ ФАКУЛТЕТ</NazivNaUstanova>
+    <Dejnosti>ИМУНОЛОГИЈА, МЕДИЦИНСКА БИОХЕМИЈА, МИКРОБИОЛОГИЈА, ОСТАНАТИ ДЕЈНОСТИ, ПАТОЛОШКА АНАТОМИЈА, СПОРТСКА МЕДИЦИНА, СУДСКА МЕДИЦИНА</Dejnosti>
+    <Adresa>50 ДИВИЗИЈА 6</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9898748</Latitude>
+    <Longitude>21.426381600000013</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1133/3</ArhivskiBroj>
+    <TipDogovorID>14</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Институти)</TipNaDogovor>
+    <DanocenBroj>4080009100154</DanocenBroj>
+    <ShifraZU>25123808</ShifraZU>
+    <NazivNaUstanova>УНИВЕРЗИТЕТ СВ.КИРИЛ И МЕТОДИЈ-МЕДИЦИНСКИ ФАКУЛТЕТ</NazivNaUstanova>
+    <Dejnosti>ИМУНОЛОГИЈА, МЕДИЦИНСКА БИОХЕМИЈА, МИКРОБИОЛОГИЈА, ОСТАНАТИ ДЕЈНОСТИ, ПАТОЛОШКА АНАТОМИЈА, СПОРТСКА МЕДИЦИНА, СУДСКА МЕДИЦИНА</Dejnosti>
+    <Adresa>50 ДИВИЗИЈА 6</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9898748</Latitude>
+    <Longitude>21.426381600000013</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1133/3</ArhivskiBroj>
+    <TipDogovorID>14</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Институти)</TipNaDogovor>
+    <DanocenBroj>4080009100154</DanocenBroj>
+    <ShifraZU>25123809</ShifraZU>
+    <NazivNaUstanova>УНИВЕРЗИТЕТ СВ.КИРИЛ И МЕТОДИЈ-МЕДИЦИНСКИ ФАКУЛТЕТ</NazivNaUstanova>
+    <Dejnosti>ИМУНОЛОГИЈА, МЕДИЦИНСКА БИОХЕМИЈА, МИКРОБИОЛОГИЈА, ОСТАНАТИ ДЕЈНОСТИ, ПАТОЛОШКА АНАТОМИЈА, СПОРТСКА МЕДИЦИНА, СУДСКА МЕДИЦИНА</Dejnosti>
+    <Adresa>50 ДИВИЗИЈА 6</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9898748</Latitude>
+    <Longitude>21.426381600000013</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1133/3</ArhivskiBroj>
+    <TipDogovorID>14</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Институти)</TipNaDogovor>
+    <DanocenBroj>4080009100154</DanocenBroj>
+    <ShifraZU>25123810</ShifraZU>
+    <NazivNaUstanova>УНИВЕРЗИТЕТ СВ.КИРИЛ И МЕТОДИЈ-МЕДИЦИНСКИ ФАКУЛТЕТ</NazivNaUstanova>
+    <Dejnosti>ИМУНОЛОГИЈА, МЕДИЦИНСКА БИОХЕМИЈА, МИКРОБИОЛОГИЈА, ОСТАНАТИ ДЕЈНОСТИ, ПАТОЛОШКА АНАТОМИЈА, СПОРТСКА МЕДИЦИНА, СУДСКА МЕДИЦИНА</Dejnosti>
+    <Adresa>50 ДИВИЗИЈА 6</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9898748</Latitude>
+    <Longitude>21.426381600000013</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+</Dogovori>

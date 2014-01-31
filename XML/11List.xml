@@ -1,0 +1,267 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dogovori>
+  <Dogovor>
+    <ArhivskiBroj>09-523/3</ArhivskiBroj>
+    <TipDogovorID>13</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Центри за јавно здравје)</TipNaDogovor>
+    <DanocenBroj>4028993108380</DanocenBroj>
+    <ShifraZU>28009002</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ЦЕНТАР ЗА ЈАВНО ЗДРАВЈЕ ТЕТОВО</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА СО МИКРОБИОЛОГИЈА, ОСТАНАТИ ДЕЈНОСТИ</Dejnosti>
+    <Adresa>29 НОЕМВРИ БР.73</Adresa>
+    <NaselenoMesto>ТЕТОВО</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-260/3</ArhivskiBroj>
+    <TipDogovorID>13</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Центри за јавно здравје)</TipNaDogovor>
+    <DanocenBroj>4002993111934</DanocenBroj>
+    <ShifraZU>2047402</ShifraZU>
+    <NazivNaUstanova> ЈЗУ ЦЕНТАР ЗА ЈАВНО ЗДРАВЈЕ БИТОЛА</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА СО МИКРОБИОЛОГИЈА, ОСТАНАТИ ДЕЈНОСТИ</Dejnosti>
+    <Adresa>ул. ПАРТИЗАНСКА ББ</Adresa>
+    <NaselenoMesto>БИТОЛА</NaselenoMesto>
+    <Latitude>41.0319444</Latitude>
+    <Longitude>21.334722199999987</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-260/3</ArhivskiBroj>
+    <TipDogovorID>13</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Центри за јавно здравје)</TipNaDogovor>
+    <DanocenBroj>4002993111934</DanocenBroj>
+    <ShifraZU>2047403</ShifraZU>
+    <NazivNaUstanova> ЈЗУ ЦЕНТАР ЗА ЈАВНО ЗДРАВЈЕ БИТОЛА</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА СО МИКРОБИОЛОГИЈА, ОСТАНАТИ ДЕЈНОСТИ</Dejnosti>
+    <Adresa>ул. ПАРТИЗАНСКА ББ</Adresa>
+    <NaselenoMesto>БИТОЛА</NaselenoMesto>
+    <Latitude>41.0319444</Latitude>
+    <Longitude>21.334722199999987</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-129/3</ArhivskiBroj>
+    <TipDogovorID>13</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Центри за јавно здравје)</TipNaDogovor>
+    <DanocenBroj>4004993105341</DanocenBroj>
+    <ShifraZU>29004902</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ЦЕНТАР ЗА ЈАВНО ЗДРАВЈЕ  ВЕЛЕС</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА СО МИКРОБИОЛОГИЈА, ОСТАНАТИ ДЕЈНОСТИ</Dejnosti>
+    <Adresa>УЛ. ЛАЗО ОСМАКОВ БР. 14</Adresa>
+    <NaselenoMesto>ВЕЛЕС</NaselenoMesto>
+    <Latitude>41.7150073</Latitude>
+    <Longitude>21.77003149999996</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-129/3</ArhivskiBroj>
+    <TipDogovorID>13</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Центри за јавно здравје)</TipNaDogovor>
+    <DanocenBroj>4004993105341</DanocenBroj>
+    <ShifraZU>29004903</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ЦЕНТАР ЗА ЈАВНО ЗДРАВЈЕ  ВЕЛЕС</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА СО МИКРОБИОЛОГИЈА, ОСТАНАТИ ДЕЈНОСТИ</Dejnosti>
+    <Adresa>УЛ. ЛАЗО ОСМАКОВ БР. 14</Adresa>
+    <NaselenoMesto>ВЕЛЕС</NaselenoMesto>
+    <Latitude>41.7150073</Latitude>
+    <Longitude>21.77003149999996</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-338/3</ArhivskiBroj>
+    <TipDogovorID>13</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Центри за јавно здравје)</TipNaDogovor>
+    <DanocenBroj>4013993100080</DanocenBroj>
+    <ShifraZU>13074102</ShifraZU>
+    <NazivNaUstanova> ЈЗУ ЦЕНТАР ЗА ЈАВНО ЗДРАВЈЕ КОЧАНИ</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА СО МИКРОБИОЛОГИЈА, ОСТАНАТИ ДЕЈНОСТИ</Dejnosti>
+    <Adresa>ул. МИЛАН ЗЕЧАР бр. 21</Adresa>
+    <NaselenoMesto>КОЧАНИ</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-338/3</ArhivskiBroj>
+    <TipDogovorID>13</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Центри за јавно здравје)</TipNaDogovor>
+    <DanocenBroj>4013993100080</DanocenBroj>
+    <ShifraZU>13074103</ShifraZU>
+    <NazivNaUstanova> ЈЗУ ЦЕНТАР ЗА ЈАВНО ЗДРАВЈЕ КОЧАНИ</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА СО МИКРОБИОЛОГИЈА, ОСТАНАТИ ДЕЈНОСТИ</Dejnosti>
+    <Adresa>ул. МИЛАН ЗЕЧАР бр. 21</Adresa>
+    <NaselenoMesto>КОЧАНИ</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-170/3</ArhivskiBroj>
+    <TipDogovorID>13</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Центри за јавно здравје)</TipNaDogovor>
+    <DanocenBroj>4020993109423</DanocenBroj>
+    <ShifraZU>19005203</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ЦЕНТАР ЗА ЈАВНО ЗДРАВЈЕ  ОХРИД</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА СО МИКРОБИОЛОГИЈА, ОСТАНАТИ ДЕЈНОСТИ</Dejnosti>
+    <Adresa>ул. СИРМА ВОЈВОДА ББ</Adresa>
+    <NaselenoMesto>ОХРИД</NaselenoMesto>
+    <Latitude>41.12162</Latitude>
+    <Longitude>20.819440999999983</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-170/3</ArhivskiBroj>
+    <TipDogovorID>13</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Центри за јавно здравје)</TipNaDogovor>
+    <DanocenBroj>4020993109423</DanocenBroj>
+    <ShifraZU>19005202</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ЦЕНТАР ЗА ЈАВНО ЗДРАВЈЕ  ОХРИД</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА СО МИКРОБИОЛОГИЈА, ОСТАНАТИ ДЕЈНОСТИ</Dejnosti>
+    <Adresa>ул. СИРМА ВОЈВОДА ББ</Adresa>
+    <NaselenoMesto>ОХРИД</NaselenoMesto>
+    <Latitude>41.12162</Latitude>
+    <Longitude>20.819440999999983</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-435/3</ArhivskiBroj>
+    <TipDogovorID>13</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Центри за јавно здравје)</TipNaDogovor>
+    <DanocenBroj>4027993103934</DanocenBroj>
+    <ShifraZU>27006502</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ЦЕНТАР ЗА ЈАВНО ЗДРАВЈЕ  СТРУМИЦА</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА СО МИКРОБИОЛОГИЈА, ОСТАНАТИ ДЕЈНОСТИ</Dejnosti>
+    <Adresa>УЛ. ПАНЧЕ ПЕШЕВ ББ</Adresa>
+    <NaselenoMesto>СТРУМИЦА</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-435/3</ArhivskiBroj>
+    <TipDogovorID>13</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Центри за јавно здравје)</TipNaDogovor>
+    <DanocenBroj>4027993103934</DanocenBroj>
+    <ShifraZU>27006503</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ЦЕНТАР ЗА ЈАВНО ЗДРАВЈЕ  СТРУМИЦА</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА СО МИКРОБИОЛОГИЈА, ОСТАНАТИ ДЕЈНОСТИ</Dejnosti>
+    <Adresa>УЛ. ПАНЧЕ ПЕШЕВ ББ</Adresa>
+    <NaselenoMesto>СТРУМИЦА</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-523/3</ArhivskiBroj>
+    <TipDogovorID>13</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Центри за јавно здравје)</TipNaDogovor>
+    <DanocenBroj>4028993108380</DanocenBroj>
+    <ShifraZU>28009001</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ЦЕНТАР ЗА ЈАВНО ЗДРАВЈЕ ТЕТОВО</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА СО МИКРОБИОЛОГИЈА, ОСТАНАТИ ДЕЈНОСТИ</Dejnosti>
+    <Adresa>29 НОЕМВРИ БР.73</Adresa>
+    <NaselenoMesto>ТЕТОВО</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-793/3</ArhivskiBroj>
+    <TipDogovorID>13</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Центри за јавно здравје)</TipNaDogovor>
+    <DanocenBroj>4029993105662</DanocenBroj>
+    <ShifraZU>30004302</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ЦЕНТАР ЗА ЈАВНО ЗДРАВЈЕ ШТИП</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА СО МИКРОБИОЛОГИЈА, ОСТАНАТИ ДЕЈНОСТИ</Dejnosti>
+    <Adresa> УЛ. ХРИСТИЈАН КАРПОШ ББ</Adresa>
+    <NaselenoMesto>ШТИП</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-793/3</ArhivskiBroj>
+    <TipDogovorID>13</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Центри за јавно здравје)</TipNaDogovor>
+    <DanocenBroj>4029993105662</DanocenBroj>
+    <ShifraZU>30004303</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ЦЕНТАР ЗА ЈАВНО ЗДРАВЈЕ ШТИП</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА СО МИКРОБИОЛОГИЈА, ОСТАНАТИ ДЕЈНОСТИ</Dejnosti>
+    <Adresa> УЛ. ХРИСТИЈАН КАРПОШ ББ</Adresa>
+    <NaselenoMesto>ШТИП</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-78/3</ArhivskiBroj>
+    <TipDogovorID>13</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Центри за јавно здравје)</TipNaDogovor>
+    <DanocenBroj>4021993106668</DanocenBroj>
+    <ShifraZU>20047602</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ЦЕНТАР ЗА ЈАВНО ЗДРАВЈЕ-ПРИЛЕП</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА СО МИКРОБИОЛОГИЈА, ОСТАНАТИ ДЕЈНОСТИ</Dejnosti>
+    <Adresa>УЛ. ОКТОМВРИСКА ББ</Adresa>
+    <NaselenoMesto>ПРИЛЕП</NaselenoMesto>
+    <Latitude>41.35173</Latitude>
+    <Longitude>21.56214</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-78/3</ArhivskiBroj>
+    <TipDogovorID>13</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Центри за јавно здравје)</TipNaDogovor>
+    <DanocenBroj>4021993106668</DanocenBroj>
+    <ShifraZU>20047603</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ЦЕНТАР ЗА ЈАВНО ЗДРАВЈЕ-ПРИЛЕП</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА СО МИКРОБИОЛОГИЈА, ОСТАНАТИ ДЕЈНОСТИ</Dejnosti>
+    <Adresa>УЛ. ОКТОМВРИСКА ББ</Adresa>
+    <NaselenoMesto>ПРИЛЕП</NaselenoMesto>
+    <Latitude>41.35173</Latitude>
+    <Longitude>21.56214</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-614/3</ArhivskiBroj>
+    <TipDogovorID>13</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Центри за јавно здравје)</TipNaDogovor>
+    <DanocenBroj>4017993127641</DanocenBroj>
+    <ShifraZU>17020802</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ЦЕНТАР ЗА ЈАВНО ЗДРАВЈЕ  КУМАНОВО</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА СО МИКРОБИОЛОГИЈА, ОСТАНАТИ ДЕЈНОСТИ</Dejnosti>
+    <Adresa>11-ТИ ОКТОМВРИ ББ</Adresa>
+    <NaselenoMesto>КУМАНОВО</NaselenoMesto>
+    <Latitude>42.1373332</Latitude>
+    <Longitude>21.715306499999997</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-614/3</ArhivskiBroj>
+    <TipDogovorID>13</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Центри за јавно здравје)</TipNaDogovor>
+    <DanocenBroj>4017993127641</DanocenBroj>
+    <ShifraZU>17020803</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ЦЕНТАР ЗА ЈАВНО ЗДРАВЈЕ  КУМАНОВО</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА СО МИКРОБИОЛОГИЈА, ОСТАНАТИ ДЕЈНОСТИ</Dejnosti>
+    <Adresa>11-ТИ ОКТОМВРИ ББ</Adresa>
+    <NaselenoMesto>КУМАНОВО</NaselenoMesto>
+    <Latitude>42.1373332</Latitude>
+    <Longitude>21.715306499999997</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1037/3</ArhivskiBroj>
+    <TipDogovorID>13</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Центри за јавно здравје)</TipNaDogovor>
+    <DanocenBroj>4030993209865</DanocenBroj>
+    <ShifraZU>25048202</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ЦЕНТАР ЗА ЈАВНО ЗДРАВЈЕ СКОПЈЕ</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА СО МИКРОБИОЛОГИЈА, ОСТАНАТИ ДЕЈНОСТИ</Dejnosti>
+    <Adresa>УЛ.ТРЕТА МАКЕДОНСКА БРИГАДА БР. 18</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9832799</Latitude>
+    <Longitude>21.45174589999999</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1037/3</ArhivskiBroj>
+    <TipDogovorID>13</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита ЈЗУ (Центри за јавно здравје)</TipNaDogovor>
+    <DanocenBroj>4030993209865</DanocenBroj>
+    <ShifraZU>25048203</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ЦЕНТАР ЗА ЈАВНО ЗДРАВЈЕ СКОПЈЕ</NazivNaUstanova>
+    <Dejnosti>ЛАБОРАТОРИЈА СО МИКРОБИОЛОГИЈА, ОСТАНАТИ ДЕЈНОСТИ</Dejnosti>
+    <Adresa>УЛ.ТРЕТА МАКЕДОНСКА БРИГАДА БР. 18</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9832799</Latitude>
+    <Longitude>21.45174589999999</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+</Dogovori>

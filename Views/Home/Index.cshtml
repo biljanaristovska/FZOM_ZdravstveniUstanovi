@@ -1,0 +1,202 @@
+﻿@model FZOM_Apteki.Models.Dogovori
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@*Start*@
+
+
+
+<form>
+    
+    
+    <div data-role="content" class="divRezBaraj" style="display: none" data-transition="slide">
+        <ul class="listaRezBaraj" data-role="listview" data-inset="true">
+        </ul>
+    </div>
+
+    
+    
+    <div data-role="content" class="divPrebaruvanjeApteka" data-transition="slide">
+        <div class="divTxtVnesiIme">
+            
+            <img id="imgBrisi" width="27" title="Избриши" height="27" alt="" src="~/Content/Images/close.png" />
+        </div> 
+
+      
+    
+      
+        <div class="divListaGradovi">
+         
+         
+                     <a href="#" type="button" style="text-align: center" onclick="izberiDejnost()" class="aDejnost">
+                <span class="spanDejnost">Избери дејност</span> </a>
+                <div id="popupDejnost" class="ui-btn-up-a">
+                                
+                <div data-role="header" class="ui-corner-top ui-header ui-bar-a" role="banner">
+                    <a href="#" data-icon="delete" data-iconpos="notext" onclick="zatvoriPopDejnost()" class="ui-btn-right ui-btn ui-shadow ui-btn-corner-all ui-btn-icon-notext ui-btn-up-a"
+                       data-corners="true" data-shadow="true" data-iconshadow="true" data-wrapperels="span" 
+                       data-theme="a" title="Затвори"><span class="ui-btn-inner ui-btn-corner-all">
+                                                          <span class="ui-icon ui-icon-delete ui-icon-shadow"></span>
+                                                      </span></a><div class="ui-title"></div>
+                </div>
+
+
+                <div class="divDejnosti">
+                    <ul class="ulDejnosti ui-mini" style="width: 350px;position: relative;"  data-role="controlgroup" >
+                       
+                        <li><a type="button" href="#" onclick="Dejnost($(this).text())" class="liSiteDejnosti" display="none">Сите Дејности</a> </li>
+                        <li><a type="button" href="#" onclick="Dejnost($(this).text())" class="liOpshta">ПЗЗ - Општа Медицина</a> </li>
+                        <li><a type="button" href="#" onclick="Dejnost($(this).text())">ПЗЗ - Стоматологија</a> </li>
+                        <li><a type="button" href="#" onclick="Dejnost($(this).text())">ПЗЗ -  Гинеколог</a> </li>
+                        <li><a type="button" href="#" onclick="Dejnost($(this).text())">Аптеки</a> </li>
+                        <li><a type="button" href="#" onclick="Dejnost($(this).text())">Специјалистичко - консултативна  заштита</a> </li>
+                        <li><a type="button" href="#" onclick="Dejnost($(this).text())">Специјалистичко - консултативна  заштита <br> Стоматологија </br></a> </li>
+                        <li><a type="button" href="#" onclick="Dejnost($(this).text())">Лабораториски услуги (ЛУ1-1)</a> </li>
+                        <li><a type="button" href="#" onclick="Dejnost($(this).text())">Лабораториски услуги (ЛУ1-2)</a> </li>
+                        <li><a type="button" href="#" onclick="Dejnost($(this).text())">Биомедицинско потпомогнато оплодување (БПО)</a> </li>
+                        <li><a type="button" href="#" onclick="Dejnost($(this).text())">СКЗЗ-Здравствени домови (ЈЗУ)</a> </li>
+                        <li><a type="button" href="#" onclick="Dejnost($(this).text())">СКЗЗ-Центари за јавно здравје (ЈЗУ)</a> </li>
+                        <li><a type="button" href="#" onclick="Dejnost($(this).text())">СКЗЗ-Институти (ЈЗУ)</a> </li>
+                        <li><a type="button" href="#" onclick="Dejnost($(this).text())">СКЗЗ-Заводи (ЈЗУ)</a> </li>
+                        <li><a type="button" href="#" onclick="Dejnost($(this).text())">Општи болници (ЈЗУ)</a> </li>
+                        <li><a type="button" href="#" onclick="Dejnost($(this).text())">Клинички болници (ЈЗУ)</a> </li>
+                        <li><a type="button" href="#" onclick="Dejnost($(this).text())">Специјални болници (ЈЗУ)</a> </li>
+                        <li><a type="button" href="#" onclick="Dejnost($(this).text())">Универзитетски клиники (ЈЗУ)</a> </li>
+                        <li><a type="button" href="#" onclick="Dejnost($(this).text())">БЗЗ-Институти (ЈЗУ)</a> </li>
+                        <li><a type="button" href="#" onclick="Dejnost($(this).text())">БЗЗ-Заводи (ЈЗУ)</a> </li>
+                        <li><a type="button" href="#" onclick="Dejnost($(this).text())">БЗЗ-Кардиоваскуларна хирургија (ПЗУ)</a> </li>
+                        <li><a type="button" href="#" onclick="Dejnost($(this).text())">БЗЗ-Офталмологија (ПЗУ)</a> </li>
+                        <li><a type="button" href="#" onclick="Dejnost($(this).text())">БЗЗ-Природни лекувалишта (ПЗУ)</a> </li>
+                        <li><a type="button" href="#" onclick="Dejnost($(this).text())">Специјалистичко - консултативна  заштита <br> Дијализа </br></a> </li>
+                  
+                    </ul>
+                </div> 
+
+
+
+                </div>
+               
+        
+            <div id="popup" class="ui-btn-up-a">
+                <div data-role="header" class="ui-corner-top ui-header ui-bar-a" role="banner">
+                    <a href="#" data-icon="delete" data-iconpos="notext" onclick="zatvoriPop()" class="ui-btn-right ui-btn ui-shadow ui-btn-corner-all ui-btn-icon-notext ui-btn-up-a"
+                       data-corners="true" data-shadow="true" data-iconshadow="true" data-wrapperels="span" 
+                       data-theme="a" title="Затвори"><span class="ui-btn-inner ui-btn-corner-all">
+                                                          <span class="ui-icon ui-icon-delete ui-icon-shadow"></span>
+                                                      </span></a><div class="ui-title"></div>
+                </div>
+
+            </div>
+            <div class="divBtnPotvrdi">
+                <a href="#" type="button" style="text-align: center" class="btnBaraj" onclick="searchBasic()">Барај</a>
+            </div>
+        </div>
+    
+        <div class="divMaps rounded" style="display: none">
+
+
+
+        <div class="pocetnaMapaNaslov" data-role="collapsible" data-collapsed="false" data-theme="f">
+            <h3 id="h3MapPocetna" class="ui-btn ui-shadow ui-corner-all">Установи во ваша близина</h3>
+            <div id="mapaPocetna" class="map rounded"></div>
+        </div>
+    </div>
+
+    </div>
+    
+
+    
+ <input type="hidden" class="btnHidden" value=""/>
+
+</form>
+
+
+
+@section scripts {
+<script type="text/javascript">
+
+    //Ф-ја која се повикува кога корисникот кликне на Избери дејност. Му се појавува popup со листа од дејностите
+    function izberiDejnost() {
+        $('#popupDejnost').bPopup({
+            fadeSpeed: 'slow',
+            followSpeed: 1500
+            //position: [$(window).width / 2, 100] //x, y
+        });
+    }
+
+
+    //Ф-ја за затоврање на popup-от
+    function zatvoriPop() {
+        $('#popup').bPopup().close();
+    }
+
+    function zatvoriPopDejnost() {
+        $('#popupDejnost').bPopup().close();
+    }
+
+
+    
+    function getPharmaciesInRadiusBasic() {
+
+        var radius = 10000;
+        var dejnost = $('.spanDejnost').text();
+        console.log(dejnost);
+        for (var i = 0; i < pharmacies.length; i++) {
+            pharmacies[i].setMap(null);
+        }
+
+        pharmacies = null;
+        pharmacies = [];
+        $.ajax({
+            //url-кој метод на серверска страна ќе го повикаме(во случајот GettExistingPharmacyJson)
+            url: '@Url.Action("GettExistingPharmacyJson")',
+            //Kakoв вид на барање е get или post
+            type: "POST",
+            //Што очекуваме од серврска страна. Каков вид на податок да ни врати
+            contentType: 'application/json; charset=utf-8',
+            async: false,
+            //Податоци кои ги праќаме на сервреска страна
+            data: JSON.stringify({ dejnost: dejnost }),
+            //Ако барањето до сервреска страна било успешно каква акција презамеме со податоците  кои сме ги добиле
+            success: function (data) {
+
+                //Бројач за резулатите
+                var BROJAC = 0;
+                //Податок по податок земаме она што ни е потребно од податоците кои сме ги добиле и ги претставуваме во листа
+                $.each(data, function (index, element) {
+                    var lat = element.Latitude;
+                    var lng = element.Longitude;
+                   
+                    if (IsPharmacyInRadius(lat, lng, radius)) {
+
+                        createMark(lat, lng, element.NazivNaUstanova);
+                    }
+                });
+
+                setRadiusBasic();
+            }
+
+        });
+    }
+    
+    
+    function createMark(m_lat, m_long, name) {
+        //kreiraj tocka
+        blatlng = new google.maps.LatLng(m_lat, m_long);
+        //opcii za markerot
+        var marker = new google.maps.Marker({
+            position: blatlng,
+            title: name,
+            map: map,
+            info: name,
+            icon: 'Content/Images/pharmacy-building.png'
+        });
+
+        //dodadi go markerot vo globalnata niza
+        pharmacies.push(marker);
+    }
+
+
+</script>
+}

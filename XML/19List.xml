@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dogovori>
+  <Dogovor>
+    <ArhivskiBroj>09-825/3</ArhivskiBroj>
+    <TipDogovorID>21</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Заводи)</TipNaDogovor>
+    <DanocenBroj>4030007645598</DanocenBroj>
+    <ShifraZU>25096502</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ЗАВ.ЗА РЕХА.НА СЛУХ,ГОВОР И ГЛАС СК</NazivNaUstanova>
+    <Dejnosti>МЕДИЦИНСКА РЕХАБИЛИТАЦИЈА НА ЛИЦА СО РАСТРОЈСТВА ВО СЛУХОТ, ГОВОРОТ И ГЛАСОТ, ОСТАНАТИ ДЕЈНОСТИ</Dejnosti>
+    <Adresa>УЛ.БЕЛГРАДСКА БР.15</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.7092413</Latitude>
+    <Longitude>21.764524199999983</Longitude>
+    <Status>2</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-825/3</ArhivskiBroj>
+    <TipDogovorID>21</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Заводи)</TipNaDogovor>
+    <DanocenBroj>4030007645598</DanocenBroj>
+    <ShifraZU>25096501</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ЗАВ.ЗА РЕХА.НА СЛУХ,ГОВОР И ГЛАС СК</NazivNaUstanova>
+    <Dejnosti>МЕДИЦИНСКА РЕХАБИЛИТАЦИЈА НА ЛИЦА СО РАСТРОЈСТВА ВО СЛУХОТ, ГОВОРОТ И ГЛАСОТ, ОСТАНАТИ ДЕЈНОСТИ</Dejnosti>
+    <Adresa>УЛ.БЕЛГРАДСКА БР.15</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.7092413</Latitude>
+    <Longitude>21.764524199999983</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+</Dogovori>

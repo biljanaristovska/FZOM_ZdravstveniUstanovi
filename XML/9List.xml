@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dogovori>
+  <Dogovor>
+    <ArhivskiBroj>09-2465/4</ArhivskiBroj>
+    <TipDogovorID>11</TipDogovorID>
+    <TipNaDogovor>Биомедицинско потпомогнато оплодување (БПО)</TipNaDogovor>
+    <DanocenBroj>4002011524610</DanocenBroj>
+    <ShifraZU>2064401</ShifraZU>
+    <NazivNaUstanova>ПЗУ СПЕЦИЈАЛНА БОЛНИЦА ПО ГИНЕК. И АКУШЕРСТВО ПЛОДНОСТ</NazivNaUstanova>
+    <Dejnosti>БИОМЕДИЦИНСКО ПОТПОМОГНАТО ОПЛОДУВАЊЕ</Dejnosti>
+    <Adresa>УЛ. ЛАВЧАНСКИ ПАТ ББ</Adresa>
+    <NaselenoMesto>БИТОЛА</NaselenoMesto>
+    <Latitude>41.0211552</Latitude>
+    <Longitude>21.316221400000018</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1154/4</ArhivskiBroj>
+    <TipDogovorID>11</TipDogovorID>
+    <TipNaDogovor>Биомедицинско потпомогнато оплодување (БПО)</TipNaDogovor>
+    <DanocenBroj>4057010505786</DanocenBroj>
+    <ShifraZU>25120104</ShifraZU>
+    <NazivNaUstanova>ПЗУ АЏИБАДЕМ СИСТИНА - КЛИНИЧКА БОЛНИЦА</NazivNaUstanova>
+    <Dejnosti>БИОМЕДИЦИНСКО ПОТПОМОГНАТО ОПЛОДУВАЊЕ</Dejnosti>
+    <Adresa>УЛ.СКУПИ БР.5А</Adresa>
+    <NaselenoMesto>СКОПЈЕ - КАРПОШ</NaselenoMesto>
+    <Latitude>42.0148409</Latitude>
+    <Longitude>21.39468850000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1060/4</ArhivskiBroj>
+    <TipDogovorID>11</TipDogovorID>
+    <TipNaDogovor>Биомедицинско потпомогнато оплодување (БПО)</TipNaDogovor>
+    <DanocenBroj>4030005544077</DanocenBroj>
+    <ShifraZU>25105901</ShifraZU>
+    <NazivNaUstanova>ПЗУ   РЕ-МЕДИКА</NazivNaUstanova>
+    <Dejnosti>БИОМЕДИЦИНСКО ПОТПОМОГНАТО ОПЛОДУВАЊЕ</Dejnosti>
+    <Adresa>УЛ. 16 ТА МАКЕДОНСКА БРИГАДА БР.18</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ГАЗИ БАБА</NaselenoMesto>
+    <Latitude>42.0048776</Latitude>
+    <Longitude>21.460692300000005</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-796/4</ArhivskiBroj>
+    <TipDogovorID>11</TipDogovorID>
+    <TipNaDogovor>Биомедицинско потпомогнато оплодување (БПО)</TipNaDogovor>
+    <DanocenBroj>4029993105310</DanocenBroj>
+    <ShifraZU>30000705</ShifraZU>
+    <NazivNaUstanova>ПЗУ ПОЛИКЛИНИКА ДР ОРГАНЏИСКИ</NazivNaUstanova>
+    <Dejnosti>БИОМЕДИЦИНСКО ПОТПОМОГНАТО ОПЛОДУВАЊЕ</Dejnosti>
+    <Adresa>УЛ.ПИРИНСКА БР.104/а</Adresa>
+    <NaselenoMesto>ШТИП</NaselenoMesto>
+    <Latitude>41.7419593</Latitude>
+    <Longitude>22.195484599999986</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1061/4</ArhivskiBroj>
+    <TipDogovorID>11</TipDogovorID>
+    <TipNaDogovor>Биомедицинско потпомогнато оплодување (БПО)</TipNaDogovor>
+    <DanocenBroj>4030997317859</DanocenBroj>
+    <ShifraZU>25119801</ShifraZU>
+    <NazivNaUstanova>ПЗУ УЛТРАМЕДИКА</NazivNaUstanova>
+    <Dejnosti>БИОМЕДИЦИНСКО ПОТПОМОГНАТО ОПЛОДУВАЊЕ</Dejnosti>
+    <Adresa>УЛ.ИЛИНДЕНСКА БР.97/2</Adresa>
+    <NaselenoMesto>СКОПЈЕ - КАРПОШ</NaselenoMesto>
+    <Latitude>42.0069384</Latitude>
+    <Longitude>21.406433900000025</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1074/4</ArhivskiBroj>
+    <TipDogovorID>11</TipDogovorID>
+    <TipNaDogovor>Биомедицинско потпомогнато оплодување (БПО)</TipNaDogovor>
+    <DanocenBroj>4044009500970</DanocenBroj>
+    <ShifraZU>25120501</ShifraZU>
+    <NazivNaUstanova>ПЗУ СВЕТИ ЛАЗАР ХОСПИТАЛ</NazivNaUstanova>
+    <Dejnosti>БИОМЕДИЦИНСКО ПОТПОМОГНАТО ОПЛОДУВАЊЕ</Dejnosti>
+    <Adresa>УЛ.НОВОПРОЕКТИРАНА ББ</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЃОРЧЕ ПЕТРОВ</NaselenoMesto>
+    <Latitude>41.9973462</Latitude>
+    <Longitude>21.42799560000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+</Dogovori>

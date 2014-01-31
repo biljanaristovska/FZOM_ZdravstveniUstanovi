@@ -1,0 +1,2233 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dogovori>
+  <Dogovor>
+    <ArhivskiBroj>09-23990/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4012012508428</DanocenBroj>
+    <ShifraZU>12008600</ShifraZU>
+    <NazivNaUstanova>ПЗУ УЛТРАМЕД 2</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА</Dejnosti>
+    <Adresa>ДУШАН ЈОВЕСКИ 34</Adresa>
+    <NaselenoMesto>КИЧЕВО</NaselenoMesto>
+    <Latitude>41.5217229</Latitude>
+    <Longitude>20.957040699999993</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-23817/1</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4002006171432</DanocenBroj>
+    <ShifraZU>2065101</ShifraZU>
+    <NazivNaUstanova>ПЗУ Д-Р БОГОЕВСКИ </NazivNaUstanova>
+    <Dejnosti>НЕВРОЛОГИЈА</Dejnosti>
+    <Adresa>КОМПЛЕКС ШЕХЕРЗАДА ДТЦ/ЛОКАЛ-9И 10</Adresa>
+    <NaselenoMesto>БИТОЛА</NaselenoMesto>
+    <Latitude>41.0319444</Latitude>
+    <Longitude>21.334722199999987</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-501/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4028008504217</DanocenBroj>
+    <ShifraZU>28022603</ShifraZU>
+    <NazivNaUstanova>ПЗУ ИНТЕРМЕД-ХОСПИТАЛ</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА</Dejnosti>
+    <Adresa>УЛ. КУЗМАН ЈОСИФОВСКИ ПИТУ БР. 100</Adresa>
+    <NaselenoMesto>ТЕТОВО</NaselenoMesto>
+    <Latitude>42.0112154</Latitude>
+    <Longitude>20.967865899999993</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1076/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4030004521790</DanocenBroj>
+    <ShifraZU>25026104</ShifraZU>
+    <NazivNaUstanova>ПЗУ ПОЛИКЛИНИКА ТОСПАШ</NazivNaUstanova>
+    <Dejnosti>ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА</Dejnosti>
+    <Adresa>БУЛ. ЈАНЕ САНДАНСКИ БР.69 Б-3</Adresa>
+    <NaselenoMesto>СКОПЈЕ - КИСЕЛА ВОДА</NaselenoMesto>
+    <Latitude>41.9880216</Latitude>
+    <Longitude>21.452106500000014</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-923/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4030005577714</DanocenBroj>
+    <ShifraZU>25056602</ShifraZU>
+    <NazivNaUstanova>ПЗУ МЕРИДИАН МЕДИКАЛ</NazivNaUstanova>
+    <Dejnosti>ФИЗИКАЛНА МЕДИЦИНА</Dejnosti>
+    <Adresa>УЛ. СЛИВОВСКА БР. 6-А</Adresa>
+    <NaselenoMesto>СКОПЈЕ - КАРПОШ</NaselenoMesto>
+    <Latitude>42.0041568</Latitude>
+    <Longitude>21.37746900000002</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-426/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4027008504695</DanocenBroj>
+    <ShifraZU>27015201</ShifraZU>
+    <NazivNaUstanova>ПЗУ ФИЗИО-МЕДИКА</NazivNaUstanova>
+    <Dejnosti>ФИЗИКАЛНА ТЕРАПИЈА И РЕХАБИЛИТАЦИЈА</Dejnosti>
+    <Adresa>УЛ.5-ТИ НОЕМВРИ  БР.54</Adresa>
+    <NaselenoMesto>СТРУМИЦА</NaselenoMesto>
+    <Latitude>41.4312185</Latitude>
+    <Longitude>22.64063090000002</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-186/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4020999121328</DanocenBroj>
+    <ShifraZU>19007201</ShifraZU>
+    <NazivNaUstanova>ПЗУ Д-Р ЈОВАНКА КИЧЕЕЦ ШАПЕСКА</NazivNaUstanova>
+    <Dejnosti>ОТОРИНОЛАРИНГОЛОГИЈА</Dejnosti>
+    <Adresa>БУЛ. ТУРИСТИЧКА БР. 32 </Adresa>
+    <NaselenoMesto>ОХРИД</NaselenoMesto>
+    <Latitude>41.12162</Latitude>
+    <Longitude>20.819440999999983</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-743/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4017997118876</DanocenBroj>
+    <ShifraZU>17019602</ShifraZU>
+    <NazivNaUstanova>ПЗУ  ОТОДЕНТ</NazivNaUstanova>
+    <Dejnosti>ОТОРИНОЛАРИНГОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ. БРАНКО БОГДАНСКИ ГУЦМАН 51</Adresa>
+    <NaselenoMesto>КУМАНОВО</NaselenoMesto>
+    <Latitude>42.1224067</Latitude>
+    <Longitude>21.733075999999983</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-911/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4030006591028</DanocenBroj>
+    <ShifraZU>25056201</ShifraZU>
+    <NazivNaUstanova>ПЗУ Д-Р КАРДУЛА</NazivNaUstanova>
+    <Dejnosti>ФИЗИКАЛНА МЕДИЦИНА И РЕХАБИЛИТАЦИЈА</Dejnosti>
+    <Adresa>БУЛ.АСНОМ БР.18 Л.1</Adresa>
+    <NaselenoMesto>СКОПЈЕ - АЕРОДРОМ</NaselenoMesto>
+    <Latitude>41.9973462</Latitude>
+    <Longitude>21.42799560000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-817/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4006995102962</DanocenBroj>
+    <ShifraZU>6000502</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДР ХАЏИ НИКОЛОВ</NazivNaUstanova>
+    <Dejnosti>ДЕРМАТОВЕНЕРОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ ВАСО КАРАЈАНОВ БР 20</Adresa>
+    <NaselenoMesto>ГЕВГЕЛИЈА</NaselenoMesto>
+    <Latitude>41.15</Latitude>
+    <Longitude>22.50999999999999</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-993/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4030005530165</DanocenBroj>
+    <ShifraZU>25041602</ShifraZU>
+    <NazivNaUstanova>ПЗУ  ДЕРМАКОРЕКТ</NazivNaUstanova>
+    <Dejnosti>ДЕРМАТОВЕНЕРОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ АТИНСКА БР 1/3-1</Adresa>
+    <NaselenoMesto>СКОПЈЕ - КАРПОШ</NaselenoMesto>
+    <Latitude>41.9974977</Latitude>
+    <Longitude>21.406063200000062</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-931/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4030006611371</DanocenBroj>
+    <ShifraZU>25057901</ShifraZU>
+    <NazivNaUstanova>ПЗУ ЛАВИТА 2 СКОПЈЕ</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА</Dejnosti>
+    <Adresa>УЛ. ДРАЧЕВСКА ББ С. ДРАЧЕВО</Adresa>
+    <NaselenoMesto>ДРАЧЕВО</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-247/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4029998114317</DanocenBroj>
+    <ShifraZU>30001803</ShifraZU>
+    <NazivNaUstanova>ПЗУ ПРИМАРИУС ДР САМАРЏИСКИ</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА</Dejnosti>
+    <Adresa>УЛ. ПАРТИЗАНСКА ББ</Adresa>
+    <NaselenoMesto>ШТИП</NaselenoMesto>
+    <Latitude>43.1333333</Latitude>
+    <Longitude>133.1333333</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-351/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4013998107910</DanocenBroj>
+    <ShifraZU>13070902</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДР ШУПЕРЛИСКИ</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА</Dejnosti>
+    <Adresa>УЛ. РАДЕ КРАТОВЧЕ БР.2</Adresa>
+    <NaselenoMesto>КОЧАНИ</NaselenoMesto>
+    <Latitude>41.9240992</Latitude>
+    <Longitude>22.411473699999988</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-921/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4030005558396</DanocenBroj>
+    <ShifraZU>25058001</ShifraZU>
+    <NazivNaUstanova>ПЗУ ГАСТРОТОП</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА</Dejnosti>
+    <Adresa>БУЛ. КЛИМЕНТ ОХРИДСКИ БР. 66-2/3</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.99780190000001</Latitude>
+    <Longitude>21.42549280000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-726/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4017007163651</DanocenBroj>
+    <ShifraZU>17028701</ShifraZU>
+    <NazivNaUstanova>ПЗУ ШЕНДЕТИ 2</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА</Dejnosti>
+    <Adresa>УЛ КРИСТИЈАН Т. КАРПОШ БР 17</Adresa>
+    <NaselenoMesto>КУМАНОВО</NaselenoMesto>
+    <Latitude>42.1384195</Latitude>
+    <Longitude>21.73211570000001</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-297/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4011005123263</DanocenBroj>
+    <ShifraZU>11007101</ShifraZU>
+    <NazivNaUstanova>ПЗУ ИНТЕРМЕДИКУС</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА</Dejnosti>
+    <Adresa>РЕСАВСКА БР. 13 ЛОКАЛ БР. 3</Adresa>
+    <NaselenoMesto>КАВАДАРЦИ</NaselenoMesto>
+    <Latitude>41.4294549</Latitude>
+    <Longitude>22.007656399999973</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-296/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4011999113245</DanocenBroj>
+    <ShifraZU>11000703</ShifraZU>
+    <NazivNaUstanova>ПЗУ СИМБИМЕД</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА</Dejnosti>
+    <Adresa>УЛ.ЦАНО ПОП  РИСТОВ БР.36 </Adresa>
+    <NaselenoMesto>КАВАДАРЦИ</NaselenoMesto>
+    <Latitude>41.4352464</Latitude>
+    <Longitude>22.01353849999998</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-133/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4004994100858</DanocenBroj>
+    <ShifraZU>29001003</ShifraZU>
+    <NazivNaUstanova>ПЗУ  ТРАЈКОВИ</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА</Dejnosti>
+    <Adresa>УЛ. ЛАЗО ОСМАКОВ БР.9</Adresa>
+    <NaselenoMesto>ВЕЛЕС</NaselenoMesto>
+    <Latitude>41.7150073</Latitude>
+    <Longitude>21.77003149999996</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-132/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4004995102021</DanocenBroj>
+    <ShifraZU>29000204</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДР-ПАНЧЕ АРСОВ</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА</Dejnosti>
+    <Adresa>11-ТИ ОКТОМВРИ БР. 4</Adresa>
+    <NaselenoMesto>ВЕЛЕС</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-381/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4023007118370</DanocenBroj>
+    <ShifraZU>22000402</ShifraZU>
+    <NazivNaUstanova>ПЗУ АДОРА МЕДИКА</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА</Dejnosti>
+    <Adresa>УЛ.ЛЕНИНОВА БР.64</Adresa>
+    <NaselenoMesto>РАДОВИШ</NaselenoMesto>
+    <Latitude>41.6365014</Latitude>
+    <Longitude>22.463172900000018</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-723/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4017994108985</DanocenBroj>
+    <ShifraZU>17010403</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДР ГОРАН ДЕНКОВСКИ</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА</Dejnosti>
+    <Adresa>УЛ.ИЛИНДЕНСКА БР.5-А</Adresa>
+    <NaselenoMesto>КУМАНОВО</NaselenoMesto>
+    <Latitude>42.1339382</Latitude>
+    <Longitude>21.717562300000054</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-652/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>5007998109054</DanocenBroj>
+    <ShifraZU>7000303</ShifraZU>
+    <NazivNaUstanova>ПЗУ БЕНЕЛУ ИНТЕРНИСТИКА</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА</Dejnosti>
+    <Adresa>УЛ. ЛЕНИНГРАДСКА БР.14</Adresa>
+    <NaselenoMesto>ГОСТИВАР</NaselenoMesto>
+    <Latitude>41.7957021</Latitude>
+    <Longitude>20.906197900000052</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-427/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4027006151639</DanocenBroj>
+    <ShifraZU>27011901</ShifraZU>
+    <NazivNaUstanova>ПЗУ КАРДИОЛЕК</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА</Dejnosti>
+    <Adresa>ПАНЧЕ ПЕШЕВ БР. 25</Adresa>
+    <NaselenoMesto>СТРУМИЦА</NaselenoMesto>
+    <Latitude>41.439555</Latitude>
+    <Longitude>22.642728199999965</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-425/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4027002133148</DanocenBroj>
+    <ShifraZU>27001203</ShifraZU>
+    <NazivNaUstanova>ПЗУ НЕУРОМЕД П.О.</NazivNaUstanova>
+    <Dejnosti>ПСИХИЈАТРИЈА</Dejnosti>
+    <Adresa>УЛ.МАРШАЛ ТИТО БР.134</Adresa>
+    <NaselenoMesto>СТРУМИЦА</NaselenoMesto>
+    <Latitude>41.4277193</Latitude>
+    <Longitude>22.64561709999998</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-50/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4002993116391</DanocenBroj>
+    <ShifraZU>2011604</ShifraZU>
+    <NazivNaUstanova>ПЗУ  ПСИХОМЕДИКА</NazivNaUstanova>
+    <Dejnosti>ПСИХИЈАТРИЈА</Dejnosti>
+    <Adresa>УЛ ЃОРЃИ НАУМОВ БР 26</Adresa>
+    <NaselenoMesto>БИТОЛА</NaselenoMesto>
+    <Latitude>41.0271515</Latitude>
+    <Longitude>21.321564800000033</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-243/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4029999116410</DanocenBroj>
+    <ShifraZU>30001502</ShifraZU>
+    <NazivNaUstanova>ПЗУ Д-Р МИТАШЕВ</NazivNaUstanova>
+    <Dejnosti>ОТОРИНОЛАРИНГОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.СТРАШО ПИНЏУР БР.32</Adresa>
+    <NaselenoMesto>ШТИП</NaselenoMesto>
+    <Latitude>41.7369793</Latitude>
+    <Longitude>22.195756699999947</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-655/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4007007138961</DanocenBroj>
+    <ShifraZU>7012501</ShifraZU>
+    <NazivNaUstanova>ПЗУ ОТОМЕДИКА 2</NazivNaUstanova>
+    <Dejnosti>ОТОРИНОЛАРИНГОЛОГИЈА</Dejnosti>
+    <Adresa>ул. СЛОБОДАН ПЕПОСКИ БР: 44</Adresa>
+    <NaselenoMesto>ГОСТИВАР</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-739/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4017007162493</DanocenBroj>
+    <ShifraZU>17027701</ShifraZU>
+    <NazivNaUstanova>ПЗУ ОТОМЕДИКА Д-Р ЖАРКО</NazivNaUstanova>
+    <Dejnosti>ОТОРИНОЛАРИНГОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ. ОКТОМВРИСКА РЕВОЛУЦИЈА БР.1/2</Adresa>
+    <NaselenoMesto>КУМАНОВО</NaselenoMesto>
+    <Latitude>42.1338642</Latitude>
+    <Longitude>21.72809929999994</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1076/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4030004521790</DanocenBroj>
+    <ShifraZU>25026103</ShifraZU>
+    <NazivNaUstanova>ПЗУ ПОЛИКЛИНИКА ТОСПАШ</NazivNaUstanova>
+    <Dejnosti>ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА</Dejnosti>
+    <Adresa>БУЛ.ЈАНЕ САНДАНСКИ БР.69 Б-3</Adresa>
+    <NaselenoMesto>СКОПЈЕ - КИСЕЛА ВОДА</NaselenoMesto>
+    <Latitude>41.9880216</Latitude>
+    <Longitude>21.452106500000014</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-429/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4027995105225</DanocenBroj>
+    <ShifraZU>27011801</ShifraZU>
+    <NazivNaUstanova>ПЗУ ИРИС П.О. СТРУМИЦА</NazivNaUstanova>
+    <Dejnosti>ОФТАЛМОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.ДИМИТАР ВЛАХОВ БР.27</Adresa>
+    <NaselenoMesto>СТРУМИЦА</NaselenoMesto>
+    <Latitude>41.4337764</Latitude>
+    <Longitude>22.640327800000023</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-685/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4012010504786</DanocenBroj>
+    <ShifraZU>12007501</ShifraZU>
+    <NazivNaUstanova>ПЗУ ЕРА МЕДИКАЛ</NazivNaUstanova>
+    <Dejnosti>НЕВРОЛОГИЈА, ОФТАЛМОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.ВЕЛЕ ЗМЕЈКОСКИ БР.16</Adresa>
+    <NaselenoMesto>КИЧЕВО</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-349/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4013999109755</DanocenBroj>
+    <ShifraZU>13076801</ShifraZU>
+    <NazivNaUstanova>ПЗУ Д-Р ПЕТРОВА</NazivNaUstanova>
+    <Dejnosti>ОФТАЛМОЛОГИЈА</Dejnosti>
+    <Adresa>МАРШАЛ ТИТО БЛОК Б</Adresa>
+    <NaselenoMesto>КОЧАНИ</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-590/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4026999116357</DanocenBroj>
+    <ShifraZU>26005601</ShifraZU>
+    <NazivNaUstanova>ПЗУ  Д-Р МИЈЕВСКА ВИОЛЕТА</NazivNaUstanova>
+    <Dejnosti>ОФТАЛМОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ. РИСТО КРЛЕ БР. 7/2-2</Adresa>
+    <NaselenoMesto>СТРУГА</NaselenoMesto>
+    <Latitude>41.1811505</Latitude>
+    <Longitude>20.68449499999997</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-245/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4029003125427</DanocenBroj>
+    <ShifraZU>30008001</ShifraZU>
+    <NazivNaUstanova>ПЗУ ОКУЛУС А</NazivNaUstanova>
+    <Dejnosti>ОФТАЛМОЛОГИЈА</Dejnosti>
+    <Adresa>ПАРТИЗАНСКА ББ</Adresa>
+    <NaselenoMesto>ШТИП</NaselenoMesto>
+    <Latitude>43.1333333</Latitude>
+    <Longitude>133.1333333</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-242/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4029004129256</DanocenBroj>
+    <ShifraZU>30007901</ShifraZU>
+    <NazivNaUstanova>ПЗУ Д-Р САШКА</NazivNaUstanova>
+    <Dejnosti>ОФТАЛМОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ. БРАЌА МИЛАДИНОВИ БР. 6</Adresa>
+    <NaselenoMesto>ШТИП</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-919/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4030999364439</DanocenBroj>
+    <ShifraZU>25058201</ShifraZU>
+    <NazivNaUstanova>ПЗУ ЛЕНС</NazivNaUstanova>
+    <Dejnosti>ОФТАЛМОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.РАДУШКА БР. 5</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЃОРЧЕ ПЕТРОВ</NaselenoMesto>
+    <Latitude>42.00899039999999</Latitude>
+    <Longitude>21.359643300000016</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-925/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4030996187552</DanocenBroj>
+    <ShifraZU>25057101</ShifraZU>
+    <NazivNaUstanova>ПЗУ ОФТАЛМОМЕДИКА</NazivNaUstanova>
+    <Dejnosti>ОФТАЛМОЛОГИЈА</Dejnosti>
+    <Adresa>ВАСИЛ ЃОРГОВ БР. 26/6</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9928199</Latitude>
+    <Longitude>21.41717110000002</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-940/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4030002448875</DanocenBroj>
+    <ShifraZU>25056901</ShifraZU>
+    <NazivNaUstanova>ПЗУ ОКО</NazivNaUstanova>
+    <Dejnosti>ОФТАЛМОЛОГИЈА</Dejnosti>
+    <Adresa>ВИЧ БР. 28 КУЛА 16 ЛОК. 5</Adresa>
+    <NaselenoMesto>СКОПЈЕ - КАРПОШ</NaselenoMesto>
+    <Latitude>42.0076942</Latitude>
+    <Longitude>21.385037900000043</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-930/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4030005542325</DanocenBroj>
+    <ShifraZU>25057301</ShifraZU>
+    <NazivNaUstanova>ПЗУ ЗЕНИТ</NazivNaUstanova>
+    <Dejnosti>ОФТАЛМОЛОГИЈА</Dejnosti>
+    <Adresa>ЛОНДОНСКА ББ 13</Adresa>
+    <NaselenoMesto>СКОПЈЕ - КАРПОШ</NaselenoMesto>
+    <Latitude>42.0006281</Latitude>
+    <Longitude>21.391689799999995</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-187/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4020995103830</DanocenBroj>
+    <ShifraZU>19007301</ShifraZU>
+    <NazivNaUstanova>ПЗУ Д-Р АНЧЕ КИСЕЛИНОВА</NazivNaUstanova>
+    <Dejnosti>ОФТАЛМОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ. БУЛЕВАР ТУРИСТИЧКА БР. 43 </Adresa>
+    <NaselenoMesto>ОХРИД</NaselenoMesto>
+    <Latitude>41.1173125</Latitude>
+    <Longitude>20.80065430000002</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-188/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4020999138590</DanocenBroj>
+    <ShifraZU>19007501</ShifraZU>
+    <NazivNaUstanova>ПЗУ Д-Р ЛИДИЈА МАРКОСКА ЗАРИЧИН</NazivNaUstanova>
+    <Dejnosti>ОФТАЛМОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ ЈАНЕ САНДАНСКИ БР.161</Adresa>
+    <NaselenoMesto>ОХРИД</NaselenoMesto>
+    <Latitude>41.1132865</Latitude>
+    <Longitude>20.80978719999996</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-581/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4022996100772</DanocenBroj>
+    <ShifraZU>21000402</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДОНЕВСКА ДР. ПАЦА </NazivNaUstanova>
+    <Dejnosti>ПНЕУМОФИЗИОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.ЈАКИМ СТОЈКОВСКИ БР.20</Adresa>
+    <NaselenoMesto>ПРОБИШТИП</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-938/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4030006600124</DanocenBroj>
+    <ShifraZU>25057501</ShifraZU>
+    <NazivNaUstanova>ПЗУ ПСИХЕА </NazivNaUstanova>
+    <Dejnosti>ПСИХИЈАТРИЈА</Dejnosti>
+    <Adresa>УЛ ИЛИНДЕНСКА БР 42/2</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>42.0069384</Latitude>
+    <Longitude>21.406433900000025</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-502/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4028996103885</DanocenBroj>
+    <ShifraZU>28003301</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДР ЉУПЧО</NazivNaUstanova>
+    <Dejnosti>ОТОРИНОЛАРИНГОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ. 120 ББ БЛОК 56 Б3 ЛОКАЛ 1 И 8</Adresa>
+    <NaselenoMesto>ТЕТОВО</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-994/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4030996102522</DanocenBroj>
+    <ShifraZU>25021802</ShifraZU>
+    <NazivNaUstanova>ПЗУ АНГЕЛОВСКИ</NazivNaUstanova>
+    <Dejnosti>ФИЗИКАЛНА МЕДИЦИНА</Dejnosti>
+    <Adresa>УЛ ИВО РИБАР ЛОЛА БР 57</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9973462</Latitude>
+    <Longitude>21.42799560000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-920/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4030001405048</DanocenBroj>
+    <ShifraZU>25056701</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДР. С. СТОЈАНОВА</NazivNaUstanova>
+    <Dejnosti>ФИЗИКАЛНА МЕДИЦИНА</Dejnosti>
+    <Adresa>11 ОКТОМВРИ БР. 21-2/12</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9892736</Latitude>
+    <Longitude>21.440484500000025</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-928/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4030005560439</DanocenBroj>
+    <ShifraZU>25056401</ShifraZU>
+    <NazivNaUstanova>ПЗУ КАБИНЕТ ЗА ФИЗИКАЛНА ТЕРАПИЈА МЕДИКА НОВА</NazivNaUstanova>
+    <Dejnosti>ФИЗИКАЛНА МЕДИЦИНА И РЕХАБИЛИТАЦИЈА</Dejnosti>
+    <Adresa>ДИМИТРИЈА ЧУПОВСКИ 1А-4/3</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9946666</Latitude>
+    <Longitude>21.42999839999993</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-912/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4030005574570</DanocenBroj>
+    <ShifraZU>25055901</ShifraZU>
+    <NazivNaUstanova>ПЗУ БИМЕДИКА-Л</NazivNaUstanova>
+    <Dejnosti>ФИЗИКАЛНА МЕДИЦИНА И РЕХАБИЛИТАЦИЈА</Dejnosti>
+    <Adresa>БУЛ. АВНОЈ БР. 20/Б12</Adresa>
+    <NaselenoMesto>СКОПЈЕ - АЕРОДРОМ</NaselenoMesto>
+    <Latitude>41.9973462</Latitude>
+    <Longitude>21.42799560000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-741/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4017996113498</DanocenBroj>
+    <ShifraZU>17027001</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДР БАТО</NazivNaUstanova>
+    <Dejnosti>ФИЗИКАЛНА МЕДИЦИНА И РЕХАБИЛИТАЦИЈА</Dejnosti>
+    <Adresa>УЛ ОКТОМВРИСКА РЕВОЛУЦИЈА К-5 ББ</Adresa>
+    <NaselenoMesto>КУМАНОВО</NaselenoMesto>
+    <Latitude>42.1358333</Latitude>
+    <Longitude>21.71805560000007</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-944/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4030998342164</DanocenBroj>
+    <ShifraZU>25013402</ShifraZU>
+    <NazivNaUstanova>ПОЛИКЛИНИКА ДОЛОРЕС</NazivNaUstanova>
+    <Dejnosti>ФИЗИКАЛНА МЕДИЦИНА И РЕХАБИЛИТАЦИЈА</Dejnosti>
+    <Adresa>БОЖИДАР АЏИЈА БР. 10</Adresa>
+    <NaselenoMesto>СКОПЈЕ - КИСЕЛА ВОДА</NaselenoMesto>
+    <Latitude>41.9803187</Latitude>
+    <Longitude>21.43791699999997</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-924/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4030005547610</DanocenBroj>
+    <ShifraZU>25057601</ShifraZU>
+    <NazivNaUstanova>ПЗУ ФИЗИЈАТРИКА</NazivNaUstanova>
+    <Dejnosti>ФИЗИКАЛНА МЕДИЦИНА И РЕХАБИЛИТАЦИЈА</Dejnosti>
+    <Adresa>ЛЕНИНОВА БР. 73/1-1</Adresa>
+    <NaselenoMesto>СКОПЈЕ - КАРПОШ</NaselenoMesto>
+    <Latitude>42.0006154</Latitude>
+    <Longitude>21.424657199999956</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1052/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4030005574804</DanocenBroj>
+    <ShifraZU>25056101</ShifraZU>
+    <NazivNaUstanova>ПЗУ ЛАСЕРОПУНКТУРА СКОПЈЕ</NazivNaUstanova>
+    <Dejnosti>ФИЗИКАЛНА МЕДИЦИНА И РЕХАБИЛИТАЦИЈА</Dejnosti>
+    <Adresa>УЛ. ЛОНДОНСКА БР. 10 ЛАМЕЛА 3 ДЕЛ. ПР. 7 И 8</Adresa>
+    <NaselenoMesto>СКОПЈЕ - КАРПОШ</NaselenoMesto>
+    <Latitude>42.0005765</Latitude>
+    <Longitude>21.391892999999982</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-915/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4030002450349</DanocenBroj>
+    <ShifraZU>25057201</ShifraZU>
+    <NazivNaUstanova>ПЗУ ОПТИКО МЕДИКА</NazivNaUstanova>
+    <Dejnosti>ОФТАЛМОЛОГИЈА</Dejnosti>
+    <Adresa>НИКОЛА РУСИНСКИ  БР. 3А/1</Adresa>
+    <NaselenoMesto>СКОПЈЕ - КАРПОШ</NaselenoMesto>
+    <Latitude>42.0044428</Latitude>
+    <Longitude>21.396472000000017</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-11262/1</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4017012519758</DanocenBroj>
+    <ShifraZU>17036400</ShifraZU>
+    <NazivNaUstanova>ПЗУ Д-Р ГУЛИНАЦ БК СПЕЦ.ОРДИНАЦИЈА</NazivNaUstanova>
+    <Dejnosti>ДЕРМАТОВЕНЕРОЛОГИЈА</Dejnosti>
+    <Adresa>КИРИЛ И МЕТОДИ 54 КУМАНОВО</Adresa>
+    <NaselenoMesto>КУМАНОВО</NaselenoMesto>
+    <Latitude>42.1318276</Latitude>
+    <Longitude>21.720808199999965</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-181/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4020996104813</DanocenBroj>
+    <ShifraZU>19000603</ShifraZU>
+    <NazivNaUstanova>ПЗУ МЕДИ КОР</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА</Dejnosti>
+    <Adresa>УЛ. МАКЕДОНСКА БР. 2</Adresa>
+    <NaselenoMesto>СТРУГА</NaselenoMesto>
+    <Latitude>41.1778596</Latitude>
+    <Longitude>20.67365570000004</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-181/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4020996104813</DanocenBroj>
+    <ShifraZU>19000602</ShifraZU>
+    <NazivNaUstanova>ПЗУ МЕДИ КОР</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА</Dejnosti>
+    <Adresa>ТУРИСТИЧКА БР 32</Adresa>
+    <NaselenoMesto>ОХРИД</NaselenoMesto>
+    <Latitude>41.1173125</Latitude>
+    <Longitude>20.80065430000002</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-731/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4017009509806</DanocenBroj>
+    <ShifraZU>17033202</ShifraZU>
+    <NazivNaUstanova>ПЗУ ОРТОМЕД</NazivNaUstanova>
+    <Dejnosti>ОРТОПЕДИЈА</Dejnosti>
+    <Adresa>УЛ.11-ТИ ОКТОМВРИ БР.55</Adresa>
+    <NaselenoMesto>КУМАНОВО</NaselenoMesto>
+    <Latitude>42.1363713</Latitude>
+    <Longitude>21.710511099999962</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1117/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4030007635800</DanocenBroj>
+    <ShifraZU>25097116</ShifraZU>
+    <NazivNaUstanova>ПЗУ ПОЛИКЛИНИКА НЕУРОМЕДИКА</NazivNaUstanova>
+    <Dejnosti>ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, НЕВРОЛОГИЈА, ОПШТА ХИРУРГИЈА, ОРТОПЕДИЈА, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПСИХИЈАТРИЈА, ФИЗИЈАТРИЈА</Dejnosti>
+    <Adresa>УЛ. ПАРТИЗАНСКИ ОДРЕДИ БР.42</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>42.002753</Latitude>
+    <Longitude>21.398465299999998</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1117/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4030007635800</DanocenBroj>
+    <ShifraZU>25097115</ShifraZU>
+    <NazivNaUstanova>ПЗУ ПОЛИКЛИНИКА НЕУРОМЕДИКА</NazivNaUstanova>
+    <Dejnosti>ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, НЕВРОЛОГИЈА, ОПШТА ХИРУРГИЈА, ОРТОПЕДИЈА, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПСИХИЈАТРИЈА, ФИЗИЈАТРИЈА</Dejnosti>
+    <Adresa>УЛ. ПАРТИЗАНСКИ ОДРЕДИ БР.42</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>42.002753</Latitude>
+    <Longitude>21.398465299999998</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1117/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4030007635800</DanocenBroj>
+    <ShifraZU>25097118</ShifraZU>
+    <NazivNaUstanova>ПЗУ ПОЛИКЛИНИКА НЕУРОМЕДИКА</NazivNaUstanova>
+    <Dejnosti>ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, НЕВРОЛОГИЈА, ОПШТА ХИРУРГИЈА, ОРТОПЕДИЈА, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПСИХИЈАТРИЈА, ФИЗИЈАТРИЈА</Dejnosti>
+    <Adresa>УЛ. ПАРТИЗАНСКИ ОДРЕДИ БР.42</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>42.002753</Latitude>
+    <Longitude>21.398465299999998</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1117/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4030007635800</DanocenBroj>
+    <ShifraZU>25097117</ShifraZU>
+    <NazivNaUstanova>ПЗУ ПОЛИКЛИНИКА НЕУРОМЕДИКА</NazivNaUstanova>
+    <Dejnosti>ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, НЕВРОЛОГИЈА, ОПШТА ХИРУРГИЈА, ОРТОПЕДИЈА, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПСИХИЈАТРИЈА, ФИЗИЈАТРИЈА</Dejnosti>
+    <Adresa>УЛ. ПАРТИЗАНСКИ ОДРЕДИ БР.42</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>42.002753</Latitude>
+    <Longitude>21.398465299999998</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1117/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4030007635800</DanocenBroj>
+    <ShifraZU>25097102</ShifraZU>
+    <NazivNaUstanova>ПЗУ ПОЛИКЛИНИКА НЕУРОМЕДИКА</NazivNaUstanova>
+    <Dejnosti>ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, НЕВРОЛОГИЈА, ОПШТА ХИРУРГИЈА, ОРТОПЕДИЈА, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПСИХИЈАТРИЈА, ФИЗИЈАТРИЈА</Dejnosti>
+    <Adresa>УЛ.ВЛАЕ БР.87</Adresa>
+    <NaselenoMesto>СКОПЈЕ - КАРПОШ</NaselenoMesto>
+    <Latitude>42.0064924</Latitude>
+    <Longitude>21.377846099999942</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1117/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4030007635800</DanocenBroj>
+    <ShifraZU>25097113</ShifraZU>
+    <NazivNaUstanova>ПЗУ ПОЛИКЛИНИКА НЕУРОМЕДИКА</NazivNaUstanova>
+    <Dejnosti>ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, НЕВРОЛОГИЈА, ОПШТА ХИРУРГИЈА, ОРТОПЕДИЈА, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПСИХИЈАТРИЈА, ФИЗИЈАТРИЈА</Dejnosti>
+    <Adresa>УЛ.ВЛАЕ БР.87</Adresa>
+    <NaselenoMesto>СКОПЈЕ - КАРПОШ</NaselenoMesto>
+    <Latitude>42.0064924</Latitude>
+    <Longitude>21.377846099999942</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1117/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4030007635800</DanocenBroj>
+    <ShifraZU>25097111</ShifraZU>
+    <NazivNaUstanova>ПЗУ ПОЛИКЛИНИКА НЕУРОМЕДИКА</NazivNaUstanova>
+    <Dejnosti>ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, НЕВРОЛОГИЈА, ОПШТА ХИРУРГИЈА, ОРТОПЕДИЈА, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПСИХИЈАТРИЈА, ФИЗИЈАТРИЈА</Dejnosti>
+    <Adresa>УЛ.ВЛАЕ БР.87</Adresa>
+    <NaselenoMesto>СКОПЈЕ - КАРПОШ</NaselenoMesto>
+    <Latitude>42.0064924</Latitude>
+    <Longitude>21.377846099999942</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1117/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4030007635800</DanocenBroj>
+    <ShifraZU>25097108</ShifraZU>
+    <NazivNaUstanova>ПЗУ ПОЛИКЛИНИКА НЕУРОМЕДИКА</NazivNaUstanova>
+    <Dejnosti>ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, НЕВРОЛОГИЈА, ОПШТА ХИРУРГИЈА, ОРТОПЕДИЈА, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПСИХИЈАТРИЈА, ФИЗИЈАТРИЈА</Dejnosti>
+    <Adresa>УЛ.ВЛАЕ БР.87</Adresa>
+    <NaselenoMesto>СКОПЈЕ - КАРПОШ</NaselenoMesto>
+    <Latitude>42.0064924</Latitude>
+    <Longitude>21.377846099999942</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1117/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4030007635800</DanocenBroj>
+    <ShifraZU>25097104</ShifraZU>
+    <NazivNaUstanova>ПЗУ ПОЛИКЛИНИКА НЕУРОМЕДИКА</NazivNaUstanova>
+    <Dejnosti>ДЕРМАТОВЕНЕРОЛОГИЈА, ИНТЕРНА МЕДИЦИНА, НЕВРОЛОГИЈА, ОПШТА ХИРУРГИЈА, ОРТОПЕДИЈА, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПСИХИЈАТРИЈА, ФИЗИЈАТРИЈА</Dejnosti>
+    <Adresa>УЛ.ВЛАЕ БР.87</Adresa>
+    <NaselenoMesto>СКОПЈЕ - КАРПОШ</NaselenoMesto>
+    <Latitude>42.0064924</Latitude>
+    <Longitude>21.377846099999942</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-23709/1</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4019011503818</DanocenBroj>
+    <ShifraZU>18004501</ShifraZU>
+    <NazivNaUstanova>ПОЛИКЛИНИКА ЖАНА  НЕГОТИНО</NazivNaUstanova>
+    <Dejnosti>ОПШТА ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ.ГОЦЕ ДЕЛЧЕВ БР.1 НЕГОТИНО</Adresa>
+    <NaselenoMesto>НЕГОТИНО</NaselenoMesto>
+    <Latitude>41.4855387</Latitude>
+    <Longitude>22.08788389999995</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-380/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4023010503889</DanocenBroj>
+    <ShifraZU>22004301</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДИЈАГНОСТИЧКИ ЦЕНТАР ДР ПАВЛОВ</NazivNaUstanova>
+    <Dejnosti>ПСИХИЈАТРИЈА</Dejnosti>
+    <Adresa>УЛ. ПЛАЧКОВИЦА БР.63</Adresa>
+    <NaselenoMesto>РАДОВИШ</NaselenoMesto>
+    <Latitude>41.76666669999999</Latitude>
+    <Longitude>22.53333329999998</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-729/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4017007500186</DanocenBroj>
+    <ShifraZU>17030301</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДЕРМАМЕДИКА</NazivNaUstanova>
+    <Dejnosti>ДЕРМАТОВЕНЕРОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ. ИГО ТРИЧКОВИЌ БР.15</Adresa>
+    <NaselenoMesto>КУМАНОВО</NaselenoMesto>
+    <Latitude>42.1301749</Latitude>
+    <Longitude>21.72413830000005</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-328/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4005011502543</DanocenBroj>
+    <ShifraZU>5004401</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДР ПАНОВИ</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА</Dejnosti>
+    <Adresa>УЛ. ВАНЧО КИТАНОВ БР.3</Adresa>
+    <NaselenoMesto>ВИНИЦА</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-376/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4021010514152</DanocenBroj>
+    <ShifraZU>20061101</ShifraZU>
+    <NazivNaUstanova>ПЗУ МЕД-ИНТЕРНА</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА</Dejnosti>
+    <Adresa>УЛ. МЕНДЕ ЦРВЕНКОСКИ БР.14</Adresa>
+    <NaselenoMesto>ПРИЛЕП</NaselenoMesto>
+    <Latitude>41.35173</Latitude>
+    <Longitude>21.56214</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-989/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4030000397050</DanocenBroj>
+    <ShifraZU>25103002</ShifraZU>
+    <NazivNaUstanova>ПЗУ  ПОЛИКЛИНИКА ДР ПАВЛОВ</NazivNaUstanova>
+    <Dejnosti>ПСИХИЈАТРИЈА</Dejnosti>
+    <Adresa>УЛ. 11 ТИ ОКТОМВРИ БР. 24/5</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9907169</Latitude>
+    <Longitude>21.43514479999999</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-507/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4028010513509</DanocenBroj>
+    <ShifraZU>28027601</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДР ЉУБИША</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА</Dejnosti>
+    <Adresa>УЛ.ДИМО ГАВРОСКИ КАРА БР.21</Adresa>
+    <NaselenoMesto>ТЕТОВО</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-913/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4030009055372</DanocenBroj>
+    <ShifraZU>25118001</ShifraZU>
+    <NazivNaUstanova>ПЗУ Д-Р ГРАМОВ</NazivNaUstanova>
+    <Dejnosti>ПСИХИЈАТРИЈА</Dejnosti>
+    <Adresa>УЛ.МИХАИЛ ЧАКОВ БР.4/8 И 9</Adresa>
+    <NaselenoMesto>СКОПЈЕ - КИСЕЛА ВОДА</NaselenoMesto>
+    <Latitude>41.9803486</Latitude>
+    <Longitude>21.446495700000014</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-914/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4030994117468</DanocenBroj>
+    <ShifraZU>25058401</ShifraZU>
+    <NazivNaUstanova>ПЗУ ЛИМИНЕ</NazivNaUstanova>
+    <Dejnosti>ПСИХИЈАТРИЈА</Dejnosti>
+    <Adresa>11-ТИ ОКТОМВРИ БР.21/11</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9907169</Latitude>
+    <Longitude>21.43514479999999</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-350/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4013994102515</DanocenBroj>
+    <ShifraZU>13071202</ShifraZU>
+    <NazivNaUstanova>ПЗУ ЕХОМЕДИКА</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА</Dejnosti>
+    <Adresa>РОЗА ПЕТРОВА БР.97</Adresa>
+    <NaselenoMesto>КОЧАНИ</NaselenoMesto>
+    <Latitude>41.912006</Latitude>
+    <Longitude>22.4010677</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-180/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4020000125917</DanocenBroj>
+    <ShifraZU>19000302</ShifraZU>
+    <NazivNaUstanova>ПЗУ ЕНДОМЕДИКА</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА</Dejnosti>
+    <Adresa>7-МИ НОЕМВРИ  ББ.</Adresa>
+    <NaselenoMesto>ОХРИД</NaselenoMesto>
+    <Latitude>41.12162</Latitude>
+    <Longitude>20.819440999999983</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-184/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4020995108866</DanocenBroj>
+    <ShifraZU>19007701</ShifraZU>
+    <NazivNaUstanova>ПЗУ ПРИМ. Д-Р СНЕЖАНА СТРЕЗОСКА</NazivNaUstanova>
+    <Dejnosti>ПСИХИЈАТРИЈА</Dejnosti>
+    <Adresa>УЛ. ГАЛИЧИЦА БР. 80 А</Adresa>
+    <NaselenoMesto>ОХРИД</NaselenoMesto>
+    <Latitude>40.9641667</Latitude>
+    <Longitude>20.83277780000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-730/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4017996116721</DanocenBroj>
+    <ShifraZU>17026901</ShifraZU>
+    <NazivNaUstanova>ПЗУ  АНИМА</NazivNaUstanova>
+    <Dejnosti>ПСИХИЈАТРИЈА</Dejnosti>
+    <Adresa>МОША ПИЈАДЕ бр.234</Adresa>
+    <NaselenoMesto>КУМАНОВО</NaselenoMesto>
+    <Latitude>42.1358333</Latitude>
+    <Longitude>21.71805560000007</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-504/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4028994103926</DanocenBroj>
+    <ShifraZU>28002402</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДР ЧЕДО</NazivNaUstanova>
+    <Dejnosti>ПСИХИЈАТРИЈА</Dejnosti>
+    <Adresa>ФУШТАНСКА БР.5</Adresa>
+    <NaselenoMesto>ТЕТОВО</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-651/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4007993106312</DanocenBroj>
+    <ShifraZU>7002401</ShifraZU>
+    <NazivNaUstanova>ПЗУ АЛИХАЈДАР ГАШИ</NazivNaUstanova>
+    <Dejnosti>ОРТОПЕДИЈА</Dejnosti>
+    <Adresa>УЛ. СРЕТКО КРСТЕСКИ БР. 65-А</Adresa>
+    <NaselenoMesto>ГОСТИВАР</NaselenoMesto>
+    <Latitude>41.8020205</Latitude>
+    <Longitude>20.913294199999996</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-49/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4002995124960</DanocenBroj>
+    <ShifraZU>2025702</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДР ПЕТАР ТАЛЕВСКИ</NazivNaUstanova>
+    <Dejnosti>ПСИХИЈАТРИЈА</Dejnosti>
+    <Adresa>УЛ.ФУШТАНИ БР.12</Adresa>
+    <NaselenoMesto>БИТОЛА</NaselenoMesto>
+    <Latitude>41.0319444</Latitude>
+    <Longitude>21.334722199999987</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-295/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4011010506405</DanocenBroj>
+    <ShifraZU>11010901</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДОКТОР МЕРИ</NazivNaUstanova>
+    <Dejnosti>ОТОРИНОЛАРИНГОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.ЦАНО ПОП РИСТОВ БР.36</Adresa>
+    <NaselenoMesto>КАВАДАРЦИ</NaselenoMesto>
+    <Latitude>41.4352464</Latitude>
+    <Longitude>22.01353849999998</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1075/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4030008021210</DanocenBroj>
+    <ShifraZU>25114101</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДЕРМА ЕСТЕТИК</NazivNaUstanova>
+    <Dejnosti>ДЕРМАТОВЕНЕРОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ. ХРИСТО СМИРНЕНСКИ БР.47-5</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9971094</Latitude>
+    <Longitude>21.41478929999994</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-929/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4030000403815</DanocenBroj>
+    <ShifraZU>25020107</ShifraZU>
+    <NazivNaUstanova>ПЗУ МЕДИКА ПЛУС</NazivNaUstanova>
+    <Dejnosti>НЕВРОЛОГИЈА, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПСИХИЈАТРИЈА</Dejnosti>
+    <Adresa>УЛ.БОЈМИЈА БР.1 ЛОК.15</Adresa>
+    <NaselenoMesto>СКОПЈЕ - КИСЕЛА ВОДА</NaselenoMesto>
+    <Latitude>41.9897899</Latitude>
+    <Longitude>21.450151199999937</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-345/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4013007125932</DanocenBroj>
+    <ShifraZU>13078302</ShifraZU>
+    <NazivNaUstanova>ПЗУ Д-Р МИШО</NazivNaUstanova>
+    <Dejnosti>НЕВРОПСИХИЈАТРИЈА</Dejnosti>
+    <Adresa>УЛ.29 НОЕМВРИ БР.ББ</Adresa>
+    <NaselenoMesto>КОЧАНИ</NaselenoMesto>
+    <Latitude>41.9144331</Latitude>
+    <Longitude>22.424255000000016</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-346/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4013010505860</DanocenBroj>
+    <ShifraZU>13079201</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДР ЗОРАН СЛИШКОВИЌ</NazivNaUstanova>
+    <Dejnosti>ПСИХИЈАТРИЈА</Dejnosti>
+    <Adresa>УЛ. РОЗА ПЕТРОВА БР.101</Adresa>
+    <NaselenoMesto>КОЧАНИ</NaselenoMesto>
+    <Latitude>41.912006</Latitude>
+    <Longitude>22.4010677</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-244/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4029008501095</DanocenBroj>
+    <ShifraZU>30011201</ShifraZU>
+    <NazivNaUstanova>ПЗУ ПРИМ.Д-Р МИТЕ НИКОЛОВ</NazivNaUstanova>
+    <Dejnosti>ДЕРМАТОВЕНЕРОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.ПИРИНСКА БР.106/А</Adresa>
+    <NaselenoMesto>ШТИП</NaselenoMesto>
+    <Latitude>41.7419593</Latitude>
+    <Longitude>22.195484599999986</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-943/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4057010506278</DanocenBroj>
+    <ShifraZU>25123201</ShifraZU>
+    <NazivNaUstanova>ПЗУ Д-Р ГОРИЦА</NazivNaUstanova>
+    <Dejnosti>ДЕРМАТОВЕНЕРОЛОГИЈА</Dejnosti>
+    <Adresa>РУЗВЕЛТОВА 51/3-14</Adresa>
+    <NaselenoMesto>СКОПЈЕ - КАРПОШ</NaselenoMesto>
+    <Latitude>42.00022149999999</Latitude>
+    <Longitude>21.41314740000007</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-123/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4021009510380</DanocenBroj>
+    <ShifraZU>20061001</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДЕРМА ПРОТЕКТ</NazivNaUstanova>
+    <Dejnosti>ДЕРМАТОВЕНЕРОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ. ВОЈВОДИНСКА БР.85/1-1</Adresa>
+    <NaselenoMesto>ПРИЛЕП</NaselenoMesto>
+    <Latitude>41.3477152</Latitude>
+    <Longitude>21.538185699999985</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-183/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4020009508070</DanocenBroj>
+    <ShifraZU>19014301</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДАРОН ДИЈАГНОСТИКА</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА</Dejnosti>
+    <Adresa>УЛ.ТУРИСТИЧКА БР.73</Adresa>
+    <NaselenoMesto>ОХРИД</NaselenoMesto>
+    <Latitude>41.1173125</Latitude>
+    <Longitude>20.80065430000002</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-182/1</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4020009508517</DanocenBroj>
+    <ShifraZU>19014501</ShifraZU>
+    <NazivNaUstanova>ПЗУ КАРДИОЛАБ МАЏАРОВ МЦ</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА</Dejnosti>
+    <Adresa>УЛ. НИКОЛА КАРЕВ ББ</Adresa>
+    <NaselenoMesto>ОХРИД</NaselenoMesto>
+    <Latitude>41.12162</Latitude>
+    <Longitude>20.819440999999983</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-248/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4029010507068</DanocenBroj>
+    <ShifraZU>30011801</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДР ЗЛАТКО СТОЈМЕНОВ</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА</Dejnosti>
+    <Adresa>УЛ. ТРСТ ББ</Adresa>
+    <NaselenoMesto>ШТИП</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-906/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4032010506631</DanocenBroj>
+    <ShifraZU>25123001</ShifraZU>
+    <NazivNaUstanova>ПЗУ МЕДИКА ПЛУС ТРИ</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА</Dejnosti>
+    <Adresa>БОЈМИЈА БР.1-14</Adresa>
+    <NaselenoMesto>СКОПЈЕ - АЕРОДРОМ</NaselenoMesto>
+    <Latitude>41.9897899</Latitude>
+    <Longitude>21.450151199999937</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-687/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4012009504454</DanocenBroj>
+    <ShifraZU>12007202</ShifraZU>
+    <NazivNaUstanova>ПЗУ ИНТЕРМЕДИКАЛ</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА</Dejnosti>
+    <Adresa>УЛ. ЈАНКО МИХАЈЛОСКИ БР.40/А</Adresa>
+    <NaselenoMesto>КИЧЕВО</NaselenoMesto>
+    <Latitude>41.5149402</Latitude>
+    <Longitude>20.95785449999994</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-991/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4082010503222</DanocenBroj>
+    <ShifraZU>25118601</ShifraZU>
+    <NazivNaUstanova>ПЗУ ВАЛОН</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА</Dejnosti>
+    <Adresa>БУЛ.КРСТЕ МИСИРКОВ  БР.15/1</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЧАИР</NaselenoMesto>
+    <Latitude>41.9973462</Latitude>
+    <Longitude>21.42799560000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-134/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4004010505470</DanocenBroj>
+    <ShifraZU>29011501</ShifraZU>
+    <NazivNaUstanova>ПЗУ Д-Р КОЦИЌ </NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА</Dejnosti>
+    <Adresa>УЛ.МАРКСОВА БР.14-1/1</Adresa>
+    <NaselenoMesto>ВЕЛЕС</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-738/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4017009509180</DanocenBroj>
+    <ShifraZU>17033301</ShifraZU>
+    <NazivNaUstanova>ПЗУ МУЛТИМЕДИКА ДМ</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА</Dejnosti>
+    <Adresa>УЛ.ДОНЕ БОЖИНОВ БР.29</Adresa>
+    <NaselenoMesto>КУМАНОВО</NaselenoMesto>
+    <Latitude>42.1395452</Latitude>
+    <Longitude>21.71930550000002</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-501/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4028008504217</DanocenBroj>
+    <ShifraZU>28022602</ShifraZU>
+    <NazivNaUstanova>ПЗУ ИНТЕРМЕД-ХОСПИТАЛ</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА</Dejnosti>
+    <Adresa>УЛ.РАДЊАНСКА БР.8</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>42.0007978</Latitude>
+    <Longitude>21.41823499999998</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-566/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4002006175535</DanocenBroj>
+    <ShifraZU>2063001</ShifraZU>
+    <NazivNaUstanova>ПЗУ МАКСИДЕНТ ВРШКОВСКИ</NazivNaUstanova>
+    <Dejnosti>МАКСИЛОФАЦИЈАЛНА ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ.ПРИЛЕПСКА ББ /ПЕЛАГОНКА 1 </Adresa>
+    <NaselenoMesto>БИТОЛА</NaselenoMesto>
+    <Latitude>41.0319444</Latitude>
+    <Longitude>21.334722199999987</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1207/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4080011519600</DanocenBroj>
+    <ShifraZU>25124901</ShifraZU>
+    <NazivNaUstanova>ПЗУ АУДИОБМ - МЕДИКАЛ</NazivNaUstanova>
+    <Dejnosti>ОТОРИНОЛАРИНГОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ. НАРОДЕН ФРОНТ БР.29/3</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9940995</Latitude>
+    <Longitude>21.41745209999999</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-740/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4017008503979</DanocenBroj>
+    <ShifraZU>17031901</ShifraZU>
+    <NazivNaUstanova>ПЗУ  ОРЛ БИО-МЕДИКА</NazivNaUstanova>
+    <Dejnosti>ОТОРИНОЛАРИНГОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.СТРАШКО СИМОНОВ БР.23</Adresa>
+    <NaselenoMesto>КУМАНОВО</NaselenoMesto>
+    <Latitude>42.1303698</Latitude>
+    <Longitude>21.707956200000012</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-348/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4013000111480</DanocenBroj>
+    <ShifraZU>13076902</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДР ЗОРАН МАКСИМОВИЌ</NazivNaUstanova>
+    <Dejnosti>ОТОРИНОЛАРИНГОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.29 - ТИ НИЕМВРИ ББ</Adresa>
+    <NaselenoMesto>КОЧАНИ</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-294/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4011007500269</DanocenBroj>
+    <ShifraZU>11009301</ShifraZU>
+    <NazivNaUstanova>ПЗУ СВ.ПАНТЕЛЕЈМОН</NazivNaUstanova>
+    <Dejnosti>ОФТАЛМОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.ЦАНО ПОП РИСТОВ БР.61</Adresa>
+    <NaselenoMesto>КАВАДАРЦИ</NaselenoMesto>
+    <Latitude>41.4352464</Latitude>
+    <Longitude>22.01353849999998</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1115/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4030996187137</DanocenBroj>
+    <ShifraZU>25123601</ShifraZU>
+    <NazivNaUstanova>ПЗУ ОЧНА ОПТИКА Ц.О.</NazivNaUstanova>
+    <Dejnosti>ОФТАЛМОЛОГИЈА</Dejnosti>
+    <Adresa>МАРШАЛ ТИТО БР.56</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.2035918</Latitude>
+    <Longitude>22.578175500000043</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1115/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4030996187137</DanocenBroj>
+    <ShifraZU>25123602</ShifraZU>
+    <NazivNaUstanova>ПЗУ ОЧНА ОПТИКА Ц.О.</NazivNaUstanova>
+    <Dejnosti>ОФТАЛМОЛОГИЈА</Dejnosti>
+    <Adresa>ГТЦ ПРИЗЕМЈЕ ЛОКАЛ БР.133</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9973462</Latitude>
+    <Longitude>21.42799560000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-946/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4030008043478</DanocenBroj>
+    <ShifraZU>25106801</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДР ЗОРА МИТИЌ</NazivNaUstanova>
+    <Dejnosti>ПСИХИЈАТРИЈА</Dejnosti>
+    <Adresa>УЛ.КАРПОШЕВО ВОСТАНИЕ    БР . 4/3-1</Adresa>
+    <NaselenoMesto>СКОПЈЕ - КАРПОШ</NaselenoMesto>
+    <Latitude>42.0052643</Latitude>
+    <Longitude>21.397292900000025</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-945/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4080010518090</DanocenBroj>
+    <ShifraZU>25123101</ShifraZU>
+    <NazivNaUstanova>ПЗУ МЕНАДА МЕДИКАЛ</NazivNaUstanova>
+    <Dejnosti>ФИЗИКАЛНА МЕДИЦИНА И РЕХАБИЛИТАЦИЈА</Dejnosti>
+    <Adresa>ПИРИНСКА БР.48/18</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9997383</Latitude>
+    <Longitude>21.42401480000001</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-942/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4030007621630</DanocenBroj>
+    <ShifraZU>25103101</ShifraZU>
+    <NazivNaUstanova>ПЗУ ПОЛИКЛИНИКА-АКУС МЕДИКУС</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА, ОТОРИНОЛАРИНГОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.11 ОКТОМВРИ БР.86/3/1</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9892736</Latitude>
+    <Longitude>21.440484500000025</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-936/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4086009500436</DanocenBroj>
+    <ShifraZU>25115104</ShifraZU>
+    <NazivNaUstanova>ПЗУ ПОЛИКЛИНИКА ИНТЕРГИН ДВА</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА, ОТОРИНОЛАРИНГОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ. ШУТО ОРИЗАРИ БР.56</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ШУТО ОРИЗАРИ</NaselenoMesto>
+    <Latitude>42.0290416</Latitude>
+    <Longitude>21.409702700000025</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1114/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4030008038237</DanocenBroj>
+    <ShifraZU>25106101</ShifraZU>
+    <NazivNaUstanova>ПЗУ МУЛТИМЕДИКА ИНТЕРНА</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА</Dejnosti>
+    <Adresa>УЛ.МАКСИМ ГОРКИ БР.25</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9973462</Latitude>
+    <Longitude>21.42799560000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-937/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4030007637870</DanocenBroj>
+    <ShifraZU>25102901</ShifraZU>
+    <NazivNaUstanova>ПЗУ АТАНАСОВ КИРИЛ</NazivNaUstanova>
+    <Dejnosti>ДЕРМАТОВЕНЕРОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.ДИМИТАР ВЛАХОВ БР.4</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9962279</Latitude>
+    <Longitude>21.44396759999995</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1051/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4030006586431</DanocenBroj>
+    <ShifraZU>25118303</ShifraZU>
+    <NazivNaUstanova>ПЗУ ПРОМЕДИКА МЕДИКАЛ ЦЕНТАР</NazivNaUstanova>
+    <Dejnosti>ДЕРМАТОВЕНЕРОЛОГИЈА, ФИЗИКАЛНА МЕДИЦИНА И РЕХАБИЛИТАЦИЈА</Dejnosti>
+    <Adresa>УЛ.МИТО ХАЏИВАСИЛЕВ-ЈАСМИН БР.50 КАТ 2</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9932846</Latitude>
+    <Longitude>21.42614679999997</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-942/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4030007621630</DanocenBroj>
+    <ShifraZU>25103102</ShifraZU>
+    <NazivNaUstanova>ПЗУ ПОЛИКЛИНИКА-АКУС МЕДИКУС</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА, ОТОРИНОЛАРИНГОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.11 ОКТОМВРИ БР.86/3/1</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9892736</Latitude>
+    <Longitude>21.440484500000025</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-135/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4004009504613</DanocenBroj>
+    <ShifraZU>29011201</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДР ЛИЛЈАНА ПРЕНЏОВА</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА</Dejnosti>
+    <Adresa>УЛ.ПРВА КОМУНА БР.34</Adresa>
+    <NaselenoMesto>ВЕЛЕС</NaselenoMesto>
+    <Latitude>41.7165547</Latitude>
+    <Longitude>21.77045559999999</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-988/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4030994186109</DanocenBroj>
+    <ShifraZU>25016003</ShifraZU>
+    <NazivNaUstanova>ПЗУ ИНТЕРНА</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА</Dejnosti>
+    <Adresa>УЛ.СТРУМИЧКА БР.16/2-4</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЧАИР</NaselenoMesto>
+    <Latitude>42.017154</Latitude>
+    <Longitude>21.442488400000002</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-949/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4030008051977</DanocenBroj>
+    <ShifraZU>25118201</ShifraZU>
+    <NazivNaUstanova>ПЗУ ЈАНИТА</NazivNaUstanova>
+    <Dejnosti>ОПШТА ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ.МЕЧКИН КАМЕН БР.49</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЃОРЧЕ ПЕТРОВ</NaselenoMesto>
+    <Latitude>42.0074504</Latitude>
+    <Longitude>21.350129599999946</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-929/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4030000403815</DanocenBroj>
+    <ShifraZU>25020106</ShifraZU>
+    <NazivNaUstanova>ПЗУ МЕДИКА ПЛУС</NazivNaUstanova>
+    <Dejnosti>НЕВРОЛОГИЈА, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПСИХИЈАТРИЈА</Dejnosti>
+    <Adresa>УЛ.БОЈМИЈА БР.1 ЛОК.15</Adresa>
+    <NaselenoMesto>СКОПЈЕ - КИСЕЛА ВОДА</NaselenoMesto>
+    <Latitude>41.9897899</Latitude>
+    <Longitude>21.450151199999937</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-654/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4007009506712</DanocenBroj>
+    <ShifraZU>7016701</ShifraZU>
+    <NazivNaUstanova>ПЗУ Д-Р СОЊА</NazivNaUstanova>
+    <Dejnosti>ОФТАЛМОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.ПАВЛЕ АВРАМОВСКИ БР.40</Adresa>
+    <NaselenoMesto>ГОСТИВАР</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-929/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4030000403815</DanocenBroj>
+    <ShifraZU>25020105</ShifraZU>
+    <NazivNaUstanova>ПЗУ МЕДИКА ПЛУС</NazivNaUstanova>
+    <Dejnosti>НЕВРОЛОГИЈА, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПСИХИЈАТРИЈА</Dejnosti>
+    <Adresa>УЛ.БОЈМИЈА  БР.1 ЛОКАЛ 9,13,15 И 16</Adresa>
+    <NaselenoMesto>СКОПЈЕ - КИСЕЛА ВОДА</NaselenoMesto>
+    <Latitude>41.9897899</Latitude>
+    <Longitude>21.450151199999937</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-935/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4080009505200</DanocenBroj>
+    <ShifraZU>25117901</ShifraZU>
+    <NazivNaUstanova>ПЗУ ПРИМАТЕРАПИ</NazivNaUstanova>
+    <Dejnosti>ФИЗИКАЛНА МЕДИЦИНА И РЕХАБИЛИТАЦИЈА</Dejnosti>
+    <Adresa>УЛ.МАКСИМ ГОРКИ БР.8/3</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9973462</Latitude>
+    <Longitude>21.42799560000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1051/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4030006586431</DanocenBroj>
+    <ShifraZU>25118301</ShifraZU>
+    <NazivNaUstanova>ПЗУ ПРОМЕДИКА МЕДИКАЛ ЦЕНТАР</NazivNaUstanova>
+    <Dejnosti>ДЕРМАТОВЕНЕРОЛОГИЈА, ФИЗИКАЛНА МЕДИЦИНА И РЕХАБИЛИТАЦИЈА</Dejnosti>
+    <Adresa>УЛ.МИТО ХАЏИВАСИЛЕВ-ЈАСМИН БР.50 КАТ 2</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9932846</Latitude>
+    <Longitude>21.42614679999997</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-939/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4030007001216</DanocenBroj>
+    <ShifraZU>25102801</ShifraZU>
+    <NazivNaUstanova>ПЗУ МАК МЕДИКУС-В</NazivNaUstanova>
+    <Dejnosti>ФИЗИКАЛНА МЕДИЦИНА И РЕХАБИЛИТАЦИЈА</Dejnosti>
+    <Adresa>УЛ.ИВАН МИЛУТИНОВИЌ БР.19/1/1</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9973462</Latitude>
+    <Longitude>21.42799560000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-910/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4043010506048</DanocenBroj>
+    <ShifraZU>25121901</ShifraZU>
+    <NazivNaUstanova>ПЗУ НУР</NazivNaUstanova>
+    <Dejnosti>ФИЗИКАЛНА МЕДИЦИНА И РЕХАБИЛИТАЦИЈА</Dejnosti>
+    <Adresa>УЛ.АНТОН ПОПОВ БР.ББ</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ГАЗИ БАБА</NaselenoMesto>
+    <Latitude>41.985209</Latitude>
+    <Longitude>21.433835899999963</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-724/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4017009511916</DanocenBroj>
+    <ShifraZU>17033101</ShifraZU>
+    <NazivNaUstanova>ПЗУ ЕГО-МЕДИКА</NazivNaUstanova>
+    <Dejnosti>ПСИХИЈАТРИЈА</Dejnosti>
+    <Adresa>УЛ.ТИТОВА МИТРОВАЧКА БР.6/3</Adresa>
+    <NaselenoMesto>КУМАНОВО</NaselenoMesto>
+    <Latitude>42.1193812</Latitude>
+    <Longitude>21.73252070000001</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-909/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4030007623900</DanocenBroj>
+    <ShifraZU>25102701</ShifraZU>
+    <NazivNaUstanova>ПЗУ ЕНДОМЕД</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА</Dejnosti>
+    <Adresa>УЛ.11-ТИ ОКТОМВРИ БР.86/3-1</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9907169</Latitude>
+    <Longitude>21.43514479999999</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-47/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4002009511757</DanocenBroj>
+    <ShifraZU>2062901</ShifraZU>
+    <NazivNaUstanova>ПЗУ Д-Р ЛИТОВСКИ</NazivNaUstanova>
+    <Dejnosti>ДЕРМАТОВЕНЕРОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.КЛИМЕНТ ОХРИДСКИ ББ КОМП.ПЕЛАГОНКА 2 МЕЗ.ДУЌ.БР.1</Adresa>
+    <NaselenoMesto>БИТОЛА</NaselenoMesto>
+    <Latitude>41.0319444</Latitude>
+    <Longitude>21.334722199999987</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-948/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4030007009039</DanocenBroj>
+    <ShifraZU>25121501</ShifraZU>
+    <NazivNaUstanova>ПЗУ РЕС ХУМАНА-ЦЕНТАР ЗА УРОЛОГИЈА</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА</Dejnosti>
+    <Adresa>УЛ.МИЛЕ ПОП ЈОРДАНОВ БР.44</Adresa>
+    <NaselenoMesto>СКОПЈЕ - КАРПОШ</NaselenoMesto>
+    <Latitude>41.9957065</Latitude>
+    <Longitude>21.39860539999995</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-922/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4030008048534</DanocenBroj>
+    <ShifraZU>25110801</ShifraZU>
+    <NazivNaUstanova>ПЗУ Д-Р БИЉАНА И.БОЈАЏИЕВ</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА</Dejnosti>
+    <Adresa>УЛ.САМОИЛОВА БР.74</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>42.006205</Latitude>
+    <Longitude>21.433119199999965</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-736/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4017996102500</DanocenBroj>
+    <ShifraZU>17015205</ShifraZU>
+    <NazivNaUstanova>ПЗУ ЕРА-Ј</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА</Dejnosti>
+    <Adresa>УЛ.Д-Р РИБАР БР.2</Adresa>
+    <NaselenoMesto>КУМАНОВО</NaselenoMesto>
+    <Latitude>42.1358333</Latitude>
+    <Longitude>21.71805560000007</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-995/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4030008038326</DanocenBroj>
+    <ShifraZU>25110701</ShifraZU>
+    <NazivNaUstanova>ПЗУ ИНТЕР-ЕХО</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА</Dejnosti>
+    <Adresa>УЛ.ТОМЕ АРСОВСКИ БР.46</Adresa>
+    <NaselenoMesto>СКОПЈЕ - КИСЕЛА ВОДА</NaselenoMesto>
+    <Latitude>41.9833323</Latitude>
+    <Longitude>21.433679799999936</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-595/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4026008502840</DanocenBroj>
+    <ShifraZU>26009701</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДР ГОКО</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА</Dejnosti>
+    <Adresa>УЛ.КЕЈ 8 НОЕМВРИ БР.18</Adresa>
+    <NaselenoMesto>СТРУГА</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-653/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4007008504767</DanocenBroj>
+    <ShifraZU>7015201</ShifraZU>
+    <NazivNaUstanova>ПЗУ Д-Р НИКОЛА</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА</Dejnosti>
+    <Adresa>УЛ.БРАЌА БЛАЖЕСКИ БР.29</Adresa>
+    <NaselenoMesto>ГОСТИВАР</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-908/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4030008039012</DanocenBroj>
+    <ShifraZU>25114201</ShifraZU>
+    <NazivNaUstanova>ПЗУ ВАСИЛЕВА КАРДИО</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА</Dejnosti>
+    <Adresa>УЛ.ВАСИЛ ЃОРГОВ БР.24</Adresa>
+    <NaselenoMesto>СКОПЈЕ - КАРПОШ</NaselenoMesto>
+    <Latitude>41.9928199</Latitude>
+    <Longitude>21.41717110000002</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-685/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4012010504786</DanocenBroj>
+    <ShifraZU>12007502</ShifraZU>
+    <NazivNaUstanova>ПЗУ ЕРА МЕДИКАЛ</NazivNaUstanova>
+    <Dejnosti>НЕВРОЛОГИЈА, ОФТАЛМОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.ВЕЛЕ ЗМЕЈКОСКИ БР.16</Adresa>
+    <NaselenoMesto>КИЧЕВО</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-734/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4017008505718</DanocenBroj>
+    <ShifraZU>17032201</ShifraZU>
+    <NazivNaUstanova>ПЗУ ПОЛИКЛИНИКА ДР ЃОШЕ 2</NazivNaUstanova>
+    <Dejnosti>ОПШТА ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ. 3-ТА МАКЕДОНСКА УДАРНА БРИГАДА БР.172</Adresa>
+    <NaselenoMesto>КУМАНОВО</NaselenoMesto>
+    <Latitude>42.1358333</Latitude>
+    <Longitude>21.71805560000007</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-947/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4080010515759</DanocenBroj>
+    <ShifraZU>25122202</ShifraZU>
+    <NazivNaUstanova>ПЗУ ОРЛ-ЈАНЕВСКИ</NazivNaUstanova>
+    <Dejnosti>ОТОРИНОЛАРИНГОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ. ЏОН КЕНЕДИ БР 25/6-12</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЧАИР</NaselenoMesto>
+    <Latitude>42.0134036</Latitude>
+    <Longitude>21.438880599999948</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-742/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4017996108770</DanocenBroj>
+    <ShifraZU>17026802</ShifraZU>
+    <NazivNaUstanova>ПЗУ Д-Р ПЕТРУШЕВСКА</NazivNaUstanova>
+    <Dejnosti>ОФТАЛМОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ. 25-ТИ ФЕВРУАРИ БР.1-А</Adresa>
+    <NaselenoMesto>КУМАНОВО</NaselenoMesto>
+    <Latitude>42.1358333</Latitude>
+    <Longitude>21.71805560000007</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-505/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4030008048208</DanocenBroj>
+    <ShifraZU>28025501</ShifraZU>
+    <NazivNaUstanova>ПЗУ ВИЗУС ЕДИ</NazivNaUstanova>
+    <Dejnosti>ОФТАЛМОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.ИЛИНДЕНСКА БР.ББ ГТЦ./ЛОК.54 И ЛОК.55</Adresa>
+    <NaselenoMesto>ТЕТОВО</NaselenoMesto>
+    <Latitude>41.9963011</Latitude>
+    <Longitude>20.961119800000006</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-933/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4030008028843</DanocenBroj>
+    <ShifraZU>25110301</ShifraZU>
+    <NazivNaUstanova>ПЗУ ОФТАЛМО ЛОГИКА</NazivNaUstanova>
+    <Dejnosti>ОФТАЛМОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.БУЛ.ЈАНЕ САНДАНСКИ БР.64/1/1</Adresa>
+    <NaselenoMesto>СКОПЈЕ - АЕРОДРОМ</NaselenoMesto>
+    <Latitude>41.9880216</Latitude>
+    <Longitude>21.452106500000014</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-918/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4030996215548</DanocenBroj>
+    <ShifraZU>25057801</ShifraZU>
+    <NazivNaUstanova>ПЗУ АНИМА</NazivNaUstanova>
+    <Dejnosti>ПСИХИЈАТРИЈА</Dejnosti>
+    <Adresa> 11-ТИ ОКТОМВРИ БР. 16/5</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9907169</Latitude>
+    <Longitude>21.43514479999999</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-907/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4080009501272</DanocenBroj>
+    <ShifraZU>25117801</ShifraZU>
+    <NazivNaUstanova>ПЗУ ЕУМЕДИКА ПЛУС</NazivNaUstanova>
+    <Dejnosti>ПСИХИЈАТРИЈА</Dejnosti>
+    <Adresa>УЛ.ОРЦЕ НИКОЛОВ БР.145/4</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>42.00260979999999</Latitude>
+    <Longitude>21.41899319999993</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-12468/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4027011514502</DanocenBroj>
+    <ShifraZU>27017001</ShifraZU>
+    <NazivNaUstanova>ПЗУ ВИТА-МЕДИКА</NazivNaUstanova>
+    <Dejnosti>ПСИХИЈАТРИЈА</Dejnosti>
+    <Adresa>ВАНЧО КИТАНОВ БР.19</Adresa>
+    <NaselenoMesto>СТРУМИЦА</NaselenoMesto>
+    <Latitude>41.4401313</Latitude>
+    <Longitude>22.63535330000002</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-941/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4030008041459</DanocenBroj>
+    <ShifraZU>25110101</ShifraZU>
+    <NazivNaUstanova>ПЗУ ДР ЛИДИЈА АРСОВСКА</NazivNaUstanova>
+    <Dejnosti>ФИЗИКАЛНА МЕДИЦИНА И РЕХАБИЛИТАЦИЈА</Dejnosti>
+    <Adresa>УЛ.ТОМЕ АРСОВСКИ БР.49</Adresa>
+    <NaselenoMesto>СКОПЈЕ - КИСЕЛА ВОДА</NaselenoMesto>
+    <Latitude>41.9833323</Latitude>
+    <Longitude>21.433679799999936</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-185/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4020995112162</DanocenBroj>
+    <ShifraZU>19007402</ShifraZU>
+    <NazivNaUstanova>ПЗУ Д-Р КУВЕНЏИЕВ </NazivNaUstanova>
+    <Dejnosti>ФИЗИКАЛНА МЕДИЦИНА</Dejnosti>
+    <Adresa>УЛ.БОГОМИЛСКА ББ </Adresa>
+    <NaselenoMesto>ОХРИД</NaselenoMesto>
+    <Latitude>41.12162</Latitude>
+    <Longitude>20.819440999999983</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-916/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4030008043737</DanocenBroj>
+    <ShifraZU>25109401</ShifraZU>
+    <NazivNaUstanova>ПЗУ МЕА МЕДИКА</NazivNaUstanova>
+    <Dejnosti>ДЕРМАТОВЕНЕРОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.ОРЦЕ НИКОЛОВ БР.107</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>42.00260979999999</Latitude>
+    <Longitude>21.41899319999993</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-397/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4019008500867</DanocenBroj>
+    <ShifraZU>18004201</ShifraZU>
+    <NazivNaUstanova>ПЗУ СВ.АТАНАС</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА</Dejnosti>
+    <Adresa>УЛ.ВЕЉКО ВЛАХОВИЌ БР.13</Adresa>
+    <NaselenoMesto>НЕГОТИНО</NaselenoMesto>
+    <Latitude>41.480668</Latitude>
+    <Longitude>22.081830200000013</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1112/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4030006593810</DanocenBroj>
+    <ShifraZU>25109501</ShifraZU>
+    <NazivNaUstanova>ПЗУ ЗЕГИН ИНТЕР-МЕДИКА</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА</Dejnosti>
+    <Adresa>УЛ.ПАРТИЗАНСКИ ОДРЕДИ БР.25/1-1</Adresa>
+    <NaselenoMesto>СКОПЈЕ - КАРПОШ</NaselenoMesto>
+    <Latitude>42.002753</Latitude>
+    <Longitude>21.398465299999998</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-992/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4030000378560</DanocenBroj>
+    <ShifraZU>25056802</ShifraZU>
+    <NazivNaUstanova>ПЗУ ПРИМ Д-Р БЛАГОЈА СТОЈАНОВСКИ</NazivNaUstanova>
+    <Dejnosti>ОФТАЛМОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ. ДИМИТРИЈЕ ЧУПОВСКИ БР. 31/1-1</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.994931</Latitude>
+    <Longitude>21.429105800000002</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-929/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4030000403815</DanocenBroj>
+    <ShifraZU>25020103</ShifraZU>
+    <NazivNaUstanova>ПЗУ МЕДИКА ПЛУС</NazivNaUstanova>
+    <Dejnosti>НЕВРОЛОГИЈА, ОТОРИНОЛАРИНГОЛОГИЈА, ОФТАЛМОЛОГИЈА, ПСИХИЈАТРИЈА</Dejnosti>
+    <Adresa>УЛ.БОЈМИЈА БР.1 ЛОК.9,13,15,16</Adresa>
+    <NaselenoMesto>СКОПЈЕ - АЕРОДРОМ</NaselenoMesto>
+    <Latitude>41.9897899</Latitude>
+    <Longitude>21.450151199999937</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-8849/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4013011506762</DanocenBroj>
+    <ShifraZU>13079401</ShifraZU>
+    <NazivNaUstanova>ПЗУ НИРВАНА-ХИРУРГИЈА</NazivNaUstanova>
+    <Dejnosti>ОПШТА ХИРУРГИЈА</Dejnosti>
+    <Adresa>УЛ.1-ВИ МАЈ ББ</Adresa>
+    <NaselenoMesto>КОЧАНИ</NaselenoMesto>
+    <Status>0</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-932/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4030999372768</DanocenBroj>
+    <ShifraZU>25024801</ShifraZU>
+    <NazivNaUstanova>ПЗУ ЕВРОМЕДИКА</NazivNaUstanova>
+    <Dejnosti>ПСИХИЈАТРИЈА</Dejnosti>
+    <Adresa>УЛ.ВОДЊАНСКА БР.28 ВЛЕЗ1СТАН 1</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9921921</Latitude>
+    <Longitude>21.423597299999983</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-936/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4086009500436</DanocenBroj>
+    <ShifraZU>25115103</ShifraZU>
+    <NazivNaUstanova>ПЗУ ПОЛИКЛИНИКА ИНТЕРГИН ДВА</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА, ОТОРИНОЛАРИНГОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ.ВЕЉКО ВЛАХОВИЌ БР.16 А-2</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.994931</Latitude>
+    <Longitude>21.429105800000002</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-684/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4012009503156</DanocenBroj>
+    <ShifraZU>12006901</ShifraZU>
+    <NazivNaUstanova>ПЗУ Д-Р РАИМИ</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА</Dejnosti>
+    <Adresa>УЛ.ГОЦЕ ДЕЛЧЕВ БР.91/3ЗГР.СУШИЦА</Adresa>
+    <NaselenoMesto>КИЧЕВО</NaselenoMesto>
+    <Latitude>41.5160237</Latitude>
+    <Longitude>20.960214899999983</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1110/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4030000376060</DanocenBroj>
+    <ShifraZU>25011403</ShifraZU>
+    <NazivNaUstanova>ПЗУ КАРДИОМЕДИКА СРБИНОВСКИ</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА</Dejnosti>
+    <Adresa>УЛ.ПАРТИЗАНСКИ ОДРЕДИ БР.97/2</Adresa>
+    <NaselenoMesto>СКОПЈЕ - КАРПОШ</NaselenoMesto>
+    <Latitude>42.002753</Latitude>
+    <Longitude>21.398465299999998</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-917/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4032010507042</DanocenBroj>
+    <ShifraZU>25121601</ShifraZU>
+    <NazivNaUstanova>ПЗУ ВИВАМЕДИКА</NazivNaUstanova>
+    <Dejnosti>ФИЗИКАЛНА МЕДИЦИНА</Dejnosti>
+    <Adresa>УЛ.КУЗМАН ЈОСИФОВСКИ ПИТУ БР.15/2-2</Adresa>
+    <NaselenoMesto>СКОПЈЕ - АЕРОДРОМ</NaselenoMesto>
+    <Latitude>41.9941264</Latitude>
+    <Longitude>21.44101980000005</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-250/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4029007136237</DanocenBroj>
+    <ShifraZU>30010901</ShifraZU>
+    <NazivNaUstanova>ПЗУ ПРИМ.ДР АЦО НИКОЛОВ</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА</Dejnosti>
+    <Adresa>УЛ.СТОЈАН МИЛЕВСКИ БР.1</Adresa>
+    <NaselenoMesto>ШТИП</NaselenoMesto>
+    <Latitude>41.749538</Latitude>
+    <Longitude>22.19635889999995</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-382/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4023003113552</DanocenBroj>
+    <ShifraZU>22003601</ShifraZU>
+    <NazivNaUstanova>ПЗУ Д-Р БОЈАЏИЕВ</NazivNaUstanova>
+    <Dejnosti>ОРТОПЕДИЈА</Dejnosti>
+    <Adresa>УЛ.ЛЕНИНОВА БР.41</Adresa>
+    <NaselenoMesto>РАДОВИШ</NaselenoMesto>
+    <Latitude>41.6365014</Latitude>
+    <Longitude>22.463172900000018</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-927/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4030006597069</DanocenBroj>
+    <ShifraZU>25056001</ShifraZU>
+    <NazivNaUstanova>ПЗУ ОПТИКУС СКОПЈЕ</NazivNaUstanova>
+    <Dejnosti>ОФТАЛМОЛОГИЈА</Dejnosti>
+    <Adresa>УЛ. ЃОРЃИ ДИМИТРОВ БР. 6 </Adresa>
+    <NaselenoMesto>СКОПЈЕ - КИСЕЛА ВОДА</NaselenoMesto>
+    <Latitude>41.9732225</Latitude>
+    <Longitude>21.441601900000023</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1111/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4030996115845</DanocenBroj>
+    <ShifraZU>25022803</ShifraZU>
+    <NazivNaUstanova>ПЗУ НИНА МЕДИКАЛ</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА</Dejnosti>
+    <Adresa>УЛ.ИВО ЛОЛА РИБАР БР.57</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9973462</Latitude>
+    <Longitude>21.42799560000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-725/2</ArhivskiBroj>
+    <TipDogovorID>5</TipDogovorID>
+    <TipNaDogovor>Специјалистичко - консултативна здравствена заштита</TipNaDogovor>
+    <DanocenBroj>4017004150443</DanocenBroj>
+    <ShifraZU>17010702</ShifraZU>
+    <NazivNaUstanova>ПЗУ УНИМЕДИКА</NazivNaUstanova>
+    <Dejnosti>ИНТЕРНА МЕДИЦИНА</Dejnosti>
+    <Adresa>ТОДЕ ДУМБА ББ</Adresa>
+    <NaselenoMesto>КУМАНОВО</NaselenoMesto>
+    <Latitude>42.1358333</Latitude>
+    <Longitude>21.71805560000007</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+</Dogovori>

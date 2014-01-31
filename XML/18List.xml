@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dogovori>
+  <Dogovor>
+    <ArhivskiBroj>09-469/4</ArhivskiBroj>
+    <TipDogovorID>20</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Институти)</TipNaDogovor>
+    <DanocenBroj>4030005578966</DanocenBroj>
+    <ShifraZU>25055001</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ИНСТИТУТИ БЕЛОДРОБНИ ЗАБ. КАЈ ДЕЦАТА КОЗЛЕ</NazivNaUstanova>
+    <Dejnosti>БЕЛОДРОБНИ ЗАБОЛУВАЊА КАЈ ДЕЦА, РАДИО ДИЈАГНОСТИКА</Dejnosti>
+    <Adresa>УЛ. КОЗЛЕ  БР. ББ</Adresa>
+    <NaselenoMesto>СКОПЈЕ - КАРПОШ</NaselenoMesto>
+    <Latitude>41.3531177</Latitude>
+    <Longitude>21.53416070000003</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1059/4</ArhivskiBroj>
+    <TipDogovorID>20</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Институти)</TipNaDogovor>
+    <DanocenBroj>4030966235668</DanocenBroj>
+    <ShifraZU>25047201</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ИНСТ. БЕЛОДРОБНИ ЗАБОЛУВАЊА И ТУБЕРКУЛОЗА</NazivNaUstanova>
+    <Dejnosti>БЕЛОДРОБНИ ЗАБОЛУВАЊА И ТУБЕРКОЛОЗА, ОСТАНАТИ ДЕЈНОСТИ</Dejnosti>
+    <Adresa>УЛ ВОДЊАНСКА БР 17</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9921921</Latitude>
+    <Longitude>21.423597299999983</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+  <Dogovor>
+    <ArhivskiBroj>09-1059/4</ArhivskiBroj>
+    <TipDogovorID>20</TipDogovorID>
+    <TipNaDogovor>Болничка здравствена заштита ЈЗУ (Институти)</TipNaDogovor>
+    <DanocenBroj>4030966235668</DanocenBroj>
+    <ShifraZU>25047202</ShifraZU>
+    <NazivNaUstanova>ЈЗУ ИНСТ. БЕЛОДРОБНИ ЗАБОЛУВАЊА И ТУБЕРКУЛОЗА</NazivNaUstanova>
+    <Dejnosti>БЕЛОДРОБНИ ЗАБОЛУВАЊА И ТУБЕРКОЛОЗА, ОСТАНАТИ ДЕЈНОСТИ</Dejnosti>
+    <Adresa>УЛ ВОДЊАНСКА БР 17</Adresa>
+    <NaselenoMesto>СКОПЈЕ - ЦЕНТАР</NaselenoMesto>
+    <Latitude>41.9921921</Latitude>
+    <Longitude>21.423597299999983</Longitude>
+    <Status>1</Status>
+  </Dogovor>
+</Dogovori>
